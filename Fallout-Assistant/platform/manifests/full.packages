@@ -1,0 +1,14 @@
+build-essential
+cage
+cmake
+foot
+fonts-dejavu-core
+gdal-bin
+libgdal-dev
+libsqlite3-dev
+ninja-build
+plymouth
+poppler-utils
+seatd
+wvkbd
+

@@ -1,0 +1,48 @@
+{
+  "version": 6,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 21,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "dev",
+      "displayName": "Phase-A development build",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/dev",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "OFFGRID_BUILD_TESTS": "ON",
+        "WAYKEEPER_ENABLE_OLLAMA": "OFF"
+      }
+    },
+    {
+      "name": "prod",
+      "displayName": "Phase-A production build",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/prod",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "OFFGRID_BUILD_TESTS": "ON",
+        "WAYKEEPER_ENABLE_OLLAMA": "OFF"
+      }
+    }
+  ],
+  "buildPresets": [
+    { "name": "dev", "configurePreset": "dev" },
+    { "name": "prod", "configurePreset": "prod" }
+  ],
+  "testPresets": [
+    {
+      "name": "dev",
+      "configurePreset": "dev",
+      "output": { "outputOnFailure": true }
+    },
+    {
+      "name": "prod",
+      "configurePreset": "prod",
+      "output": { "outputOnFailure": true }
+    }
+  ]
+}

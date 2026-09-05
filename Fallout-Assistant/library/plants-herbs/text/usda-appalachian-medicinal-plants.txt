@@ -1,0 +1,4462 @@
+                                BY
+                                Arnold Krochmal
+                                Russell S. Walters
+                                Richard M. Doughty
+
+
+
+
+   A Guide to
+MEDICINAL PLANTS
+
+
+
+     U.S.D.A. FOREST SERVICE RESEARCH PAPER NE-138
+                            I969
+NORTHEASTERN FOREST EXPERIMENT STATION UPPER DARBY, PA.
+    FOREST SERVICE, U. S. DEPARTMENT OF AGRICULTURE
+                RICHARD D. LANE, DIRECTOR
+                                        THE AUTHORS
+ARNOLD KROCHMAL graduated from North Carolina
+State College in 1942; he received his master's degree in
+1951 and his Ph.D. in 1952 from Cornell University in
+economic botany, with a minor in plant physiology. As a
+Fulbright professor, he worked in Greece, and has also
+served in Afghanistan, Honduras, and the U.S. Virgin
+Islands. He also served as a consultant in Thailand, the
+Dominican Republic, British Virgin Islands, Jamaica, Mont-
+serrat, and Surinam. In 1966 he joined the Forest Service's
+Northeastern Forest Experiment Station as project leader
+and principal economic botanist in charge of the Station's
+timber related crops program, located at Berea, Kentucky.
+
+RUSSELL S. WALTERS graduated from Michigan State
+University in 1951; he received a master's degree in forest
+management, with a minor in range management, from
+Oregon State University in 1953. He began his Forest
+Service career in 1955 at Carbondale, Illinois. Later that
+same year, he became superintendent of the Vinton
+Furnace Experimental Forest in Ohio. In 1958, he was
+transferred to Athens. Ohio. where he s~ecializedin forest
+management and silvicultural researci for the Forest
+Service. He is now working with the timber related crops
+program at Berea, a position he took in 1964.
+
+RICHARD M. DOUGHTY earned his bachelor's and
+master's degrees in botany at the University of Pittsburgh.
+He has also done graduate work at Indiana University. In
+1951, he joined the staff of the University of Kentucky
+College of Pharmacy, as instructor in pharmacognosy, the
+science of drugs from natural sources. He is now chairman
+of the Materia Medica Department at this University.
+Professor Doughty also gives lectures on natural products,
+poisonous plants, herbs, and spices.
+      A Guide to
+
+
+
+
+                       FOREWORD
+
+ T     HE MEDICINAL or therapeutic uses of the plants
+       described in this guide are not to be construed in any
+way as a recommendation b y the authors or the U.S.
+Department of Agriculture. Some of the dried crude drugs,
+which must be modified considerably before commercial
+use, can be extremely poisonous when not used properly.
+Readers are cautioned against using these plant drugs for
+purposes of self-medication.
+
+   Besides descriptions of 126 medicinal plants of the
+Appalachian region, this pjuide includes a glossary of the
+terms used, a reference list of publications, and a listing of
+additional source material.
+                          CONTENTS
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . 1
+PLANT DESCRIPTIONS . . . . . . . . . . . . . . . . . . . 3
+  Identification . . . . . . . . . . . . . . . . . . . . . . . . . 3
+  Names . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+COLLECTING PLANTS . . . . . . . . . . . . . . . . . . . . 4
+  Timeof year . . . . . . . . . . . . . . . . . . . . . . . . . 4
+  Areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+PROCESSING . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+  Cleaning . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+  Drying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+   Packaging and storing . . . . . . . . . . . . . . . . . . . . 14
+COLLECTING POLLEN . . . . . . . . . . . . . . . . . . . . 15
+  Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+  Drying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+  Grass pollen . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+GLOSSARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+GUIDE TO THE PLANTS . . . . . . . . . . . . . . . . . . . 27
+INDEX OF COMMON PLANT NAMES . . . . . . . . . . 281
+                   INTRODUCTION
+
+D     ESPITE INCREASES in the production of synthetic drugs,
+      natural plant drug materials are still economically signi-
+ficant in the united States, and large quantities are harvested in
+the southern Appalachian region each year for medicinal
+purposes. A 1962 survey of 328,599,000 new prescriptions
+written in the U. S. showed that 25 percent were for drugs from
+natural plant products.
+   However, during the past 3 0 to 50 years, fewer and fewer
+people have been harvesting wild ~ l a n t sin Appalachia, which is
+the principal American source, mainly because of families
+emigrating t o more prosperous areas. Between 1950 and 1960,
+the southern Appalachian region lost through emigration more
+than a million people, nearly a fifth of the population. Increases
+in local blue-collar employment opportunities, a growing
+reluctance t o work in the fields and forests, scarcity of some
+plants because of over-collecting, and land-use changes have also
+reduced the natural plant harvests for drug materials.
+   To locate, collect, and prepare plants for market is time-
+consuming work. Some collectors do not know all the useful
+plant species and the best markets for them. This manual was
+prepared t o help collectors identify, collect, and handle plants,
+plant parts, and pollen.
+   Not all the plants listed are marketable at all times; so the
+collector would d o well t o write t o one o f the collecting houses
+listed (table 1) for prices and information about market
+demand. Buyers of such material are helpful in providing other
+useful information on collecting.
+                          Table 1.-Names and addresses of buying houses*
+                Names                                            Addresses
+
+                                PURCHASERS OF BOTANICALS
+
+Blue Ridge Drug Company                       P. 0. Box 234, West Jefferson, North Carolina 28694.
+Coeburn Produce Company                       Second and Grand Streets, Coeburn, Virginia 24230.
+C . R. Graybeal                               Roan Mountain, Tennessee 37687.
+F. C. Taylor Fur Company                      227 E. Market Street, Louisville, Kentucky 40202.
+Greer & Greer                                 Box 307, Princeton, West Virginia 24740.
+Greer Drug & Chemical Company                 P. 0. Box 800, Lenoir, North Carolina 28645.
+Nature's Herb Company                         281 Ellis Street, San Francisco, California 90025.
+Old Fashioned Herb Company                    581 N. Lake Avenue, San Francisco, California 90025.
+Smoky Mountain Drug Company                   935 Shelby Street, Box 2, Bristol, Tennessee 37620.
+Wilcox Drug Company                           P. 0. Box 391, Boone, North Carolina 28607.
+Wilcox Drug Company, Inc.                     Box 470, Pikeville, Kentucky 41501.
+
+                IMPORTERS THAT BUY, SELL, AND PROCESS BOTANICALS
+
+Hat haway Allied Products                     2024 Westgate Avenue, Los Angeles, California 90025.
+S. B. Penick & Company                        100 Church Street, New York, New York 10007.
+
+    VENDORS OF DRUG AND HERB SEED AND OTHER PROPAGATING MATERIALS
+
+Gardens of the Blue Ridge                     Ashford, North Carolina 28603.
+Harry E. Saier                                Dimondale, Michigan 48821.
+Indiana Botanic Gardens                       P. 0. Box 5, Hammond, Indiana 26325.
+  *These firms are mentioned for information only, and this mention should not be considered as an endorse-
+ment or recommendation by the U.S. Department of Agriculture or the Forest Service.
+            PLANT DESCRIPTIONS
+Identification
+   T o help the collector identify plants, brief descriptions are
+given in this guide. Some closely related plants, such as Lo belia
+(Indian tobacco), are difficult to identify before the seed
+capsules have developed; so as a further aid in identification,
+sketches or photos accompany every plant description.
+   A collector who wants to identify a plant known only by a
+common name should locate that name in the index and then
+refer back t o the descriptions and illustrations to identify the
+plant. If the same common name is applied t o more than one
+plant, this d l be shown by the page numbers next to the
+common name in the index.
+
+Names
+   plant names can be confusing. A plant may have many
+common names, and the same common name may be applied to
+several unrelated plants. We have tried to show as many
+common names as possible, listing first the preferred common
+name suggested by the Subcommittee on Standardization of
+Common and Botanical Names of Weeds. If this list did not
+include names for a plant, we used Standardized Plant Names.
+Other references used were Flora of West Virginia, Manual of
+Cultivated Plants, Flora o f the Northeastern United States, and
+State experiment station bulletins.
+   Scientific names are also given to simplify proper identifi-
+cation of plants. Although a number of common names may be
+in use for a given plant, only one scientific name is used.
+            COLLECTING PLANTS
+Time of Year
+   It is important to collect at the time of the year when the
+drug contents of the plants are at their peak.
+   Roots are collected either very early in the spring before
+growth has begun, or late in the fall. Herbs (the part of the
+plant above ground) are usually collected during the blooming
+fruiting period. Leaves are usually collected before blooming
+begins and can either be removed from the plant in the field, or
+the plants can be harvested and the leaves can be removed later
+at a collection area. Seeds and fruits are best harvested when
+ripe. Bark should be collected when it slips most easily, during
+the dormant season or in early spring.
+   The parts of each plant collected are shown in table 2.
+                                                         Table 2.-The parts of plants collected
+                              B    = Bark.                       FL     = Flowering top.              RR       = Roots, rhizome.
+                              BR   = Bark of root.               H      = Herb.                       SE       = Seeds.
+                              BU   = Buds.                       JL/S   = Juice or sap.               ST       = Stalk.
+                              EP   = Entire plant.                      = Leaves.                     T        = Twigs.
+                              F    = Fruit.
+                      -.
+                      Plant
+                                                                                            Part collected
+                                                     B      BR     BU      EP     F        FL     H      J/S
+                                                                                                          L    RR     SE   ST     T
+        1. Acerspicatum Lam.        ......               X . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        2. Achillea millefolium L.           . . . . . . . . . . . . . . . . . . . . . . .X . . . . . . . . . . . . . . . . . .
+        3. Acoruscahmus L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . X                             ......''.
+        4 . Adiantum capiflus-venerisL.              . . . . . . . . . . . . . . . . . . . . . . . . . .X . . X              .........
+        5 . Adiantum pidatum L.              . . . . . . . . . . . . . . . . . . . . . . .X . . . . . . . . . . . . . . . . . .
+        6. A e s ~ u l u s ~ ~ ~ o c a s t aL.n u m. . . X . . . . . . . . . . . X . . . . . . . . . . . . . . . . . . . . . . . .
+        7. Aletris farinosa L.        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .X . . . . . . . . .
+        8. A h u s serruhta (Ait.) Willd. . . . X . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        9 . Amaranthus hybridus L.               . . . . . . . . . . . . . . . . . . . . . .X . . . . . X . . . . . . . . . . . .
+      10. An elica atropurpurea L.               . . . . . . . . . . . . . . . . . . . . . .X        ........   X . . X . . . . . .
+             7
+      1 1 . Apectrumhyemale (Muhl.)Torr.                 . . . . . . . . . . . . . . . . . . . . . . . * . . .X . . . . . . . . *
+      12. Apocynumandrosaemifolium L. . . . . . . * . . . . . . . . . . . . . . . . . . . . .x . . . . . . . . '
+      13. ApocynumcannabinumL.                     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .x . . . . . . . . .
+      14. Aralia nudiculis L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x . . . . . . . . .
+      15. Aralia racemosa L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . * X . . . . . . . . .
+      16. ArctiumlappaL.              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .x . . x . . . . . .
+      17. Arctium minus (Hill) Bernh. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x . . X . . . . . .
+      18. Arisaema triphyllum (L) Schott               . . . . . . . . . . . . . . . . . . . . . . * . . . . .x . . . . ' . ' . '
+      19. Aristolochia serpentaria L.              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .x . . . . . . . . '
+      20. Asarumcanadense L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .x . . x . . . . . . . . .
+      2 1 . Asclepiassyriaca L .          . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .X . . X . . . . . . . . .
+      22. Asclepias tuberosa L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x              . .........
+LIJ   23. Baptisia tinctoria ( L . ) R. Br. . . . . . . X . . . . . . . . . . . . . . X . . . . . . . . X . . . . . * . . .
+                                                                                                                                   CONTINUED
+105. Soiknumcarolinense (L)         . . . . . . . . . . . . . . . . . . .x . . . . . . . . . . . . . . . . . . . . .
+106. Sorbus americana Marsh.        . . . .x . . . . . . . . . . . . . .x . . . . . . . . . . . . . . . . . . . . .
+107. Spigelia marilandica L.      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .x . .x . . . . . .
+108. Stelikria media (L) Cyril10      . . . . . . . . . . . . . . . . . . . . . . . .x . . . . . . . . . . . . . . .
+109. Stillingia sylvatica L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . X . . . . . .
+110. Tanacetum vulgare L.         . . . . . . . . . . . . . . . . . . . . . . .X . .X . . . . . . . . . . .X. . .
+111. Tephrosia virginiana (L) Pers.                                                  ........
+                                        . . . . . . . . . . . . . . , * . . . . . . .x                 X . . . . . .
+112. Tiarella cordifolia L.     . . . . . . . . . . . . . . . . . . . . . . . . . . .X . . . . . . . . X . . . . . .
+113. Trifolium pratense L.        . . . . . . . . . . . . . . . . . . . .X . .X . .X . . . . . . . . . . . . . . .
+114. Trilisa odoratis;sima (Walt.) Cass. . . . . . . . . . . . . . . . . . . . . . . . . . . . . X . . . . . . . . .
+115. T r i h m e r e c t u m L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .X. . . . . .
+116. Tsuga canadensis (L) Carr.       . . .X . . . . .x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+117. Ulmus rubra Muhl. . . . . . . . x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+118. Veratrum viride (Ait.)       . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .X . . .
+119. Verbascum thapsus L.         . . . . . . . . . . . . . . . . . . . .x . . . . . . . . . . . . . .x . . x . . .
+120. Verbena hastata L. . . . . . . . . . . . . . . . . . . . . . . . . . x . . . . . . . . X . . . . . . . . .
+121. Veronicastrum virginicum (L) Farw. . . . . . . . . . . . . . . . . . . . . . . . . . . . X . . . . . . . . .
+122. Viburnum nudum (L).          . . . . .x . .x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+123. Viburnum prunifolium L. . . . . x . . x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+124. Xanthorhiza simplicissima (Marsh.) . . . . . . . . . . . . . . . . . . . . . . . . . . . x . . . . . . . . .
+125. XanthoxylumamericanumMill.           . x . . . . . . . . . . .x . . . . . . . . . . . . . .x . . . . . . . . .
+126. Xanthoxylum cluva-herculis L. . . x . . . . . . . . . . . x . . . . . . . . . . . x . . . . . . . . . . . .
+   Only four plants are listed from which sap is collected.
+Lactuca scariola provides a milky juice; the plants are collected
+in summer for extracting the juice from the stems. The other
+three are trees. Liquidambar styraciflua (sweetgum) exudes
+balsam into natural pockets between the bark and the wood.
+Excrescences on the bark are cut for collecting the sap. Tsuga
+canadensis (hemlock) produces an exudate of resin, which
+occurs on the stem in reddish brown, opaque, or translucent
+pieces. Pinus palustris (longleaf pine) is a source of turpentine,
+pine oil, tar, pitch, and rosin.
+   Collectors are urged to leave enough plants growing in each
+locality to conserve the plant population for future years.
+
+
+Areas
+
+   The most likely areas where each plant may be found are
+listed. Time and effort can be saved by narrowing areas of
+search t o those habitats where the plant usually occurs.
+Residents of a region can often provide information about
+growing areas. Care should be taken to respect property rights
+of landowners, and permission should be obtained before
+entering private land. State and Federal laws regarding plant
+collecting should be checked for given localities.
+
+
+Tools
+
+   A wide range of tools-from a pocket knife to shovels of one
+type or another (fi. I)-can be used by the collector,
+depending on what plant parts are to be harvested. For
+example, a shovel or an asparagus knife would be needed t o
+harvest roots-plus a pair of shears t o cut the tops. Bark
+collectors need a sharp knife, the size depending on the
+thickness of the material t o be harvested.
+   As the collector gains experience, he will be able to
+determine exactly what tools are required for each kind of
+material. However, he will always want t o carry the minimum
+number needed. All tools should, of course, be kept oiled and
+sharp; and they should be cleaned after each use.
+      F igure 1 .-Harvesting implements: (1) hedge clippers,
+      (2) sheath knife, (3) pruning shears, (4) trowel, (5) aspara-
+      gus digger, (6) pick, and (7) shovel.
+
+
+
+                      PROCESSING
+Cleaning
+
+   Cleaning harvested plant materials is called garbling. It
+includes removal of stones, soil, and unwanted plants and plant
+parts. Roots and underground parts may have to be washed if
+soil clings t o them.
+
+
+Drying
+
+  Rapid drying is needed to preserve green color, t o reduce
+spoilage and molding, t o reduce or stop enzyme action that
+destroys drug constituents o f plants, and t o make the materials
+more compact for shipping. This is important because improper
+drying can result in reduced value, if not complete loss of the
+material collected.
+   Two methods are used to dry drug plants. The natural
+method is the simpler; it makes use of natural air temperature
+and air movement. The second method uses artificially heated
+and circulated air. Many different types of equipment are used.
+These range from simple and inexpensive tools for handling
+%mall quantities of a few kinds of plants to the large costly
+equipment needed for handling many kinds of plants in large
+lots.
+   Natural drying.-Natural drying uses the sun's heat plus shade
+and air movement. A porch or barn floor o r almost any shaded
+area with a dry floor will do. Shallow wire-bottomed trays are
+cheap t o make and can be used t o good advantage (fig. 2). Too
+much exposure to the sun can cause loss of green color, thus
+decreasing the value and marketability of certain materials.
+
+
+
+
+Figure 2.-Shallow wire-
+bottomed trays can be
+used for natural drying.
+
+
+
+
+  Artijkial drying.-A simple and inexpensive drying box can
+be built for less than $25, using a standard home-type,
+fan-driven space heater (fig. 3). This box takes up less floor
+space than the natural drying method, dries plants more
+quickly, and produces a more uniform product. Racks (fs.4)
+provide space for drying all types of plant materials.
+
+
+
+
+       Figure 3.-A drying box, showing heating unit and duct;
+       top shows sliding door used for air circulation.
+
+
+
+
+  Processing before drying.-Roots are usually sliced lengthwise
+or crosswise t o hasten drying and t o minimize spoilage and
+molding. (Ginseng roots are not sliced because their shape is
+important in meeting market demands.) Fleshy fruits, which are
+particularly apt to spoil, should be cut in halves or quarters and
+dried in a drying box. Bark can be cut into uniform pieces to
+hasten drying. Seeds should be spread in a fairly thin layer in
+aluminum or cardboard pie plates or similar available con-
+tainers.
+      Figure 4.-l nterior of an artificial drying box, showing
+      drying racks.
+
+
+
+
+Packaging and Storing
+
+  Clean burlap sacks, boxes, and paper sacks are all usable for
+packing dried plant material. Boxes should be dry and lined
+with clean paper. Collectors should avoid using plastic bags
+because a n y excess moisture present when the bags are shut
+may result in molding.
+  Plant material should be stored under sanitary conditions
+that minimize rodent and insect contamination. Clean, dry,
+ventilated storage areas are best for preserving quality, (fig. 5).
+        spikenard root.
+
+
+
+
+            COLLECTING POLLEN
+   Pollen is used by drug companies for making preparations to
+test for pollen allergies. Among the pollens most in demand are
+ragweeds, sages, magwort, sagebrush, elm, box elder, maple, ash,
+oak, cocklebur, pigweed, and Russian thistle.
+   Different kinds of pollen should not be mixed together
+because pollen buyers inspect shipments with a microscope, and
+any impure materials are rejected. Pollen should not be
+collected from plants that have been treated with pesticides.
+
+
+Methods
+
+   The day before pollen is to be collected, tie several blooming
+heads together with white string to mark the plants wanted and
+t o reduce loss from wind (fig. 6).
+
+                                                              15
+   Pollen can be harvested from a plant for several days, but
+when the pollen begins to turn dark another plant should be
+used.
+   Harvesting can begin on clear mornings, as soon as the dew is
+gone; and, depending o n the wind, harvesting can continue for
+about 2 hours. However, if the day is still, harvesting can
+continue longer.
+
+
+
+
+Figure 6.-One way to
+collect pollen: roll the
+heads of the flowers gently
+over a catching cloth,
+spreading the blooms with
+your fingers to release the
+pollen.
+
+
+
+Drying
+
+   Immediately after a day's harvesting is finished, the pollen
+should be spread out on clean, dry, brown wrapping paper (an
+opened grocery bag will do) in a warm, draft-free room. The
+pollen should be spread t o a depth of about 114 inch and left to
+air-dry for 4 days. Mold may occur on the pollen if it is dried
+less than 4 days, and moldy pollen will not be accepted by
+buyers.
+   When dry, the pollen should be strained through fresh nylon
+or organdy, and packed in clean, dry, screw-top jars or in clean,
+dry, strong plastic bags.
+Grass Pollen
+
+   Because pollen &om grasses such as timothy, Johnson and
+others is difficult to collect in the field, a special harvesting
+technique has been worked out. As they mature heads of plants
+are harvested in the field and brought t o a shed or protected
+areas. The stems are placed in a container of water and the
+pollen is collected on sheets of paper (Pi.7) placed next t o the
+container. The pollen is then cleaned through nylon or organdy
+and packed for shipment.
+
+
+
+
+Figure 7.-Grass pollen is
+collected on sheets of pa-
+per after mature heads of
+plants have been har-
+vested.
+                               REFERENCES
+Bailey, L. H.                                 Gosselin, Raymond.
+   1951. MANUAL OF CULTIVATED                    1962. T H E STATUS O F NATURAL PROD-
+  PLANTS. Revised ed., 1116 pp., illus.          lJCTS I N T H E AMERICAN             PHARMACEU-
+  Macmillan Co., New York.                       TICAL MARKET. Lloydia 24(4) : 241-
+Burn, Harold.                                    243.
+  1962. DRUGS, MEDICINE A N D MAN. Greer Drug and Chemical Corporation.
+  248 pp. Charles Scribner's Sons, New           Cn.d.1 INSTRUCTIONS             FOR COLLECTING
+  York.                                          A N D DRYING SHORT RAGWEED POLLEN.
+Claus, Edward P., and Varro E. Tyler, Jr.        13 pp. Lenoir, N. C.
+   1965. PHARMACOGNOSY.          Ed. 5, 572   Grieve, M.
+  pp., illus. Lea & Febiger, Philadelphia.       1959. A MODERN HERBAL. 888 pp.,
+Collingwood, G. H., and                          illus. ( 2 vols.) Hafner Publ. Co., New
+Warren D. Brush.                                 York.
+   1937. KNOWINGYOUR TREES. 109 pp.           Hardin, James W.
+  Amer. Forestry Assoc., Washington,             1961. ~ 0 1 ~ 0             PLANTS
+                                                                                  ~ 0O F~ ~ NORTH
+  D . C.                                         CAROLINA.        N. C. State Coll. Agr. Exp.
+Coon, Nelson.                                    Sta. Bull. 414, 128 pp.
+   1963. USING PLANTS FOR HEALING. Hardin, James W.
+  272 pp. Heartside Press, Inc., New             1964. NORTHCAROLINA                 DRUG PLANTS
+  York.                                          O F C O M M E R C I A L VALUE. N . C. State
+Curtin, L. S. M.                                 Coll. Agr. Exp. Sta. Bull. 418, 34 pp.
+  1947. HEALING     HERBS O F THE UPPER       liarding, A. R.
+  Rro GRANDE. 281 pp., illus. Lab.               1936. GINSENGA N D OTHER MEDICI-
+  Anthrop., Santa Fe, N . M.                     N A L PLANTS. 367 PP., illus. A. R.
+Darlington, William.                             Harding Publ., Ohio.
+  1859. AMERICAN     WEEDS A N D USEFUL      Hocking, George.
+  PLANTS. 460 pp., illus. A. 0 . Moore           1955. A DICTIONARY O F T E R M S OF
+  & Co., New York.                               P H A I ~ M A C O G N O S Y A N D OTHER DIVI-
+Edwards, Bertie.                                 SIONS O F ECONOMIC BOTANY. 484 pp.
+  Cn.d.1 METHODSOF COLLECTING,          DRY-     Charles C. Thomas Publ., Bannerstone
+  ING, CLEANING, A N D S E L L I N G POLLEN.     House, Ill.
+  Bull. 1. Lenoir, N. C.                     Imbesi, A.
+Fernald, Merritt Lyndon, and                     1964. INDEXP L A N T A R U h i QUET I N
+Alfred Charles Kinsey.                          OMNIUM            POPULORUM            PHARMACO-
+  1943. EDIBLEWILD PLANTS O F EAST-              P O L I S SUNT.771 pp. Adhuc Receptae,
+  E R N NORTH AMERICA.      452 PP., illus.      Messina. Sicily, Italy.
+  Cornwall Press. New York.                  Jacobs, Marion Lee, and
+Fernald, Merritt Lyndon.                     Henry M. Burlage.
+   1950. GRAY'SM A N U A L O F BOTANY.           1958. INDEXO F PLANTS OF NORTH
+  Ed. 8, 1632 pp., illus. American Book         CAROLINA          WITH R E P U T E D MEDICINAL
+  Co., New York.                                 USES.322 pp. Chapel Hill, N. C.
+Ford, Thomas R.                              Jaques, H . E.
+   1962. THE SOUTHERN       APPALACHIAN 1959. HOW TO K N O W T H E WEEDS.
+   REGION.308 pp. Univ. Ky. Press, Lex-         230 pp., illus. Wm. C. Brown CO.,
+   ington, Ky.                                  Dubuque, Iowa.
+Fowells, H . A.                              Kelsey, Harlen P., and
+   1965. SILVICSOF FOREST TREES 01:          William A. Dayton.
+                                                 1942. STANDARD~ZED               PLANT NAMES.
+  THE UNITEDSTATES.      U. S. Dep. Agr.
+                                                Ed. 2, 675 pp. J. Horace McFarland
+  Agr. Handb. 271, 762 pp., illus.
+                                                Co., Harrisburg, Pa.
+Gibbons, Euell.                              Kingsbury, John M.
+  1966. STALKINGTHE H E A L T H F U L            1964. POISONOUSP L A N T S O F THE
+  HERBS. 303 pp., illus. David McKay            UNITEDSTATESA N D CANADA.                  626 pp.
+  Co., New York.                                Prentice-Hall, Inc., Englewood Cliffs,
+Gleason, Henry A.                               N. J.
+  1952. T H E N E W BRITTONA N D BROWN Kreig. Margaret.
+  ILLUSTRATED FLORA OF THE NORTH-               1964. G R E E NMEDICINE.            462 pp., illus.
+  EASTERN UNITEDSTATESA N D ADJA-               Rand McNally & Co., Chicago.
+  CENT CANADA.1733 pp., illus. ( 3           Krochmal, Arnold.
+  vols.) N. Y. Botanical Garden, New            1968. ~ ~ E D I C I NP L      AAIN. T S I N APPA-
+  York.                                         LACHIA. Econ. Bot. 22(4) :332-337.
+Little, Elbert L., Jr.                        Steinmetz, E. F.
+   1953. CHECK LIST OF NATIVE AND                1957. CODESVEGETABILIS. 149 pp.
+  NATURALIZED TREES OF THE UNITED                Steinmetz Publ., Amsterdam, Nether-
+  STATES(INCLUDING        ALASKA).U. S.          lands.
+  Dep. Agr. Agr. Handb. 41, 472 pp.           Steinmetz, E. F.
+Massey, A. B.                                    1959. DRUG GUIDE 1959. 382 pp.
+   1942. MEDICINAL      PLANTS. Va. Poly-        Steinmetz Publ., Amsterdam, Nether-
+   tech. Inst. Bull. 30, 52 pp,. illus.          lands.
+Meyer, James F.                               Strausbaugh, P. D., and Earl. L. Core.
+   1960. THE HERBALIST. 304 pp., illus.          1952. FLORAOF WESTVIRGINIA        (Part
+   Rand McNally & Co., New York.                 I). W. Va. Univ. Bull. 52 (12) :1-273,
+Miller, James F.                                 illus.
+   {n.d.) WEEDIDENTIFICATION. 97 pp.,         Strausbaugh, P. D., and Earl L. Core.
+   illus. Univ. Ga. Coop. Ext, Serv.             1953. FLORAO F WESTVIRGINIA       (Part
+Osol, Arthur, and George Farrar.                 11). W. Va. Univ. Bull. 53 (12) :275-
+   1950. THE DISPENSATORY OF THE                 570, illus.
+   UNITEDSTATESOF AMERICA.Ed. 24,             Strausbaugh, P. D., and Earl L. Core.
+   2155 pp. (2 vols.) J. P. Lippincott           1958. FLORAOF WESTVIRGINIA        (Part
+   Co., Philadelphia.                           111). W . Va. Univ. Bull. 58 (12):571-
+Osol, Arthur, Robertson Pratt, and               860, illus.
+Mark D. Altschule.                            Strausbaugh, P. D., and Earl L. Core.
+    1967. THEUNITEDSTATESDISPENSA-               1964. FLORAOF WESTVIRGINIA        (Part
+   TORY. Ed. 26, I277 pp. J. P. Lippin-
+                                                IV). W . Va. Univ. Bull. 65 (3):861-
+   cott Co., Philadelphia.                       1075, illus.
+                                              Strausbaugh, P. D., and Earl L. Core.
+Quer, P. Font.                                   1964. FLORAOF WESTVIRGINIA         (In-
+    1962. PLANTASMEDICINALES. 1033              troductory Section). W . Va. Univ.
+   pp., illus. Editorial Labor, S. A., Bar-     Bull. 65 ( 3 ) :i-xxxi.
+    celona, Spain.                            Subcommittee on Standardization of
+Radford, A. W., H. E. Ahles, and              Common and Botanical Names of Weeds.
+C. R. Bell.                                      1966. WEEDS.14 (4):347-386.
+    1964. GUIDETO THE VASCULAR FLORA          Tehon, Leo R.
+    OF THE CAROLINAS.       383 pp. h i v .     1951. THE DRUG PLANTS OF ILLINOIS.
+    N. C. Bot. Dept., Raleigh.                  Ill. Nat. Hist., Surv. Cir. 44, 135 pp.,
+Sargent, C. R.                                  illus.
+   1965. MANUALOF THE TREES OF                Todd, R. G. (ed.).
+  NORTHAMERICA.         1367 pp., illus. (2     1967. EXTRA PHARMACOPEIA. 1804
+   vols.) Dover Publ., New York.                pp. Pharmaceutical Press. London.
+Shelton, Ferne.                               Williams, Louis 0.
+   1965. PIONEER    COMFORTS AND KITCH-         1960. DRUGAND CONDIMENT PLANTS.
+   EN REMEDIES. 24 pp. Hutcraft, High           U. S. Dep. Agr. Agr. Handb. 172, 37
+   Point, N. C.                                 pp., illus.
+
+
+
+                                              Serials
+Acta Phytotherapeutica.                       Bulletin of Miscellaneous Information.
+  1954-68. E. F. Steinmetz, Publ., Ams-         1896-1954. Roy. Bot. Gard., Kew,
+  terdam.                                       London.
+American Journal of Pharmacy.                 Bulletin of the Lloyd Library and
+  1825-68. Phila. Coll. Pharm. & Sci.,        Museum of Botany, Pharmacy, and
+  Philadelphia.                               Materia Medica.
+American Perfume and Essential Oil              1934-68. Cincinnati.
+Review.                                       Chemurgic Digest.
+  1906-68. New York.                            1942-68. Nat. Farm Chemurgic Coun-
+Ribilography of Forest and Forestry             cil. New York.
+Products.
+  1948-68. Food and Agr. Organ.,              Digest of Comments on the Pharmaco-
+  United Nations, Rome.                       poeia of the United States and on the
+Biologia (monthly supl. to Chronica           National Formulary.
+Botanica) .                                     1905-22. U. S. Public Health Serv.
+  1947-68. Waltham, Mass.                       Hygienic Lab. Bull., Washington, D.C.
+Drug and Cosmetic Industry.                 Farmacognosia.
+  1914-68. Pittsburgh, Mass., and New          1938-68. Instituto Jose Celestino
+  Y ork.                                      Mutis, de Farmacognosia, Madrid.
+Drug Topics.                                Fitotherapia.
+  1883-1968. New York.                         1929-68. Inverni & Della Beffa S.p.a.,
+                                               Milan.
+Drug Trade News.                            Lloydia.
+  1925-168. New York.                          1937-68. Lloyd Library, Cincinnati.
+Drug Treatises.                             Qualitas Plantarum et Materiae
+  1904-11. Lloyd Bros., Inc., Cincinnati.   Vegetabiles.
+                                               1953-68. W. Junk, publ.. The Hague.
+Economic Botany.                            Quarterly Journal of Crude Drug
+  1947-68. Bot. Gard., New York.            Research.
+Excerpta Botanica Sectio A.                    1961-68. E. F. Steinmetz, publ., Ams-
+  1959-68. Gustav Fischer, Stuttgart.         terdam.
+                         GLOSSARY
+             Botanical and Pharmacological Terms
+
+Acute. Sharp-pointed.
+Ague. Old word for fever, usually malaria.
+Allergenic. Produces allergy.
+Alterative. Changes a condition gadually.
+Ament. Catkin.
+Annual. A plant that completes its development from germination of the
+   seed through flowering and death in one growing season.
+Anodyne. Relieves or quiets pain.
+Antacid. Neutralizes excess acidity in the alimentary canal.
+~nthelrnintic. Capable of expelling or destroying intestinal worms.
+Antiasthmatic. Relaxes bronchial muscles and relieves labored breathing.
+Antidiarrheal. Counteracts diarrhea.
+~ n t i d o t e .Counteracts the action of a poison.
+Antiemetic. Lessens the tendency to vomit.
+~nti-infective.Prevents or inhibits infection.
+Anti-inflammatory. Reduces inflammation and swelling.
+Antinauseant. Stops or lessens the tendency to become nauseated.
+Antipruritic. Prevents or relieves itching (antipsoriatic).
+Antipyretic. Reduces fever.
+Antirheumatic. Reduces pain in the joints.
+Antiseptic. Checks or inhibits the growth of microorganisms.
+Antispasmodic. Reduces spasm or prevents convulsion.
+Antitussive. Relieves or prevents coughing.
+Aquatic. Growing in water.
+Aromatic. Agreeable, usually spicy, odor.
+Astringent. Causes the contraction of tissue.
+Axil. Angle between stem and leaf stalk.
+Axis. Main line of growth.
+Balsam. An aromatic substance produced in certain plants.
+Basal. Occurring a t the bottom.
+~iennial.A plant that requires 2 growing seasons t o complete its
+    development from germination of the seed through flowering and
+    death.
+Bract. Modified leaf, often below a flower petal.
+Branchlet. A small branch growing from a large branch or tree trunk.
+Bristly. Having short, stiff hairs.
+Bur. Prickly seed envelope such as that of burdock (Arctium).
+Buttressed. With projecting parts, usually refers t o trunk of trees such as
+    Cypress.
+Capsule. A closed container bearing seeds; also a dry fruit with more than
+    one part.
+Carcinogenic. Causing cancer.
+Cardio. Referring to heart action.
+Carminative. Used to relieve gas and colic.
+Catarrhal. Related to inflammation of the respiratory tract.
+Cathartic. Causes an evacuation of the bowel.
+Catkin. A scaly, drooping spike of flowers, such as that of willow.
+Caustic. Destroys tissue.
+central nervous depressant. Depresses central nervous system activity.
+Central nervous stimulant. Increases central nergous system activity.
+Cholagogue. Increases the flow o f bile.
+Clasping. Partly or wholly surrounding the stem.
+Cleft. With a space or division in the middle.
+clover-like. With leaves in three parts.
+Cluster. A number of similar flowers or fruits growing closely together.
+Composite. Refers t o a structure apparently simple but made up of several
+    distinct parts.
+compound. Two or more similar parts of a plant, especially fruits or
+    leaves, united together into one whole.
+Constituent. A component.
+Corm. An enlarged solid bulb-like stem, usually underground.
+Corolla. Usually petals.
+Corona. An appendage borne between corolla and stamens in some
+     flowers.
+Corrective. Used t o correct or make more pleasant the action of other
+    remedies, especially purgatives. (Now called flavoring.)
+Counterirritant. Causes irritation of the surface of an area with the object
+     of relieving a deep-seated congestion.
+Creeping. Spreading over the ground or other surface.
+Cumarin. A toxic white crystalline lactone found in many plants; used to
+     make perfume and soap.
+Cylindrical. Having the form of a cylinder.
+Cyme. Broad, flat flower cluster.
+Cytotoxic. Poisonous t o cells.
+ ~ e m u k e n t .Substance used t o protect or soothe the mucous membrane.
+Dental obtundant. Used to dull or soothe acute toothache.
+ Depurative. Removes impurities and waste materials and purifies the
+     blood.
+ Detachable. Removable.
+Diaphoretic. Used to increase perspiration.
+Digestant. Aids in the digestion of foods.
+Disinfectant. Destroys or inhibits the g o w t h of harmful microorganisms.
+Diuretic. Increases the volume of urine.
+Dormant. Resting or non-vegetative stage, usually during winter.
+Downy. Covered with soft hairs.
+Drab. Dull brown, or gray.
+Drupe. Fleshy seeded fruit with one seed enclosed in a stony cover; peach,
+    apricot.
+Dyspepsia. A disturbed digestive condition characterized by nausea, gas,
+    and heartburn.
+Ellipsoid. Solid with elliptical outline.
+Elliptical. Shaped like an elongated circle.
+Elongate. Stretched out.
+Emetic. An agent that causes vomiting.
+Emmenagogue. An agent that induces menstrual flow.
+Emmolient. Used externally t o soften the skin and protect it.
+Enzyme. Organic substance causing chemical changes without undergoing
+    any chance of its own.
+Excrescence. An outgrowth o r enlargement.
+Expectorant. An agent that causes expulsion of mucous from respiratory
+  tract.
+Exudate. Discharge in layers or flakes.
+Febrifuge. Reduces fever (antipyretic).
+Flatulence. Stomach discomfort caused by gas.
+Frond. Leaf of fern or palm.
+Fungicide. An agent that destroys fungi.
+Furrowed. Wrinkled, corrugated, gooved.
+Garbling. Process of sorting out and cleaning the usable parts of plants.
+Genera. Groups of related plants.
+Habitat. Particular location where plant usually grows.
+Hemostatic. An agent used to stop intern4 hemmorrhage.
+Herbaceous. Dying down annually at onset of winter.
+~ e r b .Leafy upper portion of plant, minus roots.
+Humus. Organic portion of the soil, usually dark colored.
+Husk. Outer covering of seed or fruits.
+Hypnotic. An agent that induces sleep without delirium.
+Incision. A sharp, narrow notch or separation, as in the margin of a leaf.
+Insecticide. An agent that kills insects.
+Intoxicant. An agent that produces mental confusion with subsequent loss
+    of muscular control.
+Irritant. Causes inflammation of, or stimulation to, the tissues.
+Lanceolate. Much longer than broad; lance-shaped.
+Lateral. Occurring on a side.
+Laxative. A cathartic that causes a more or less normal evacuation of the
+    bowel without griping or irritation.
+Leaflet. Part of a compound leaf.
+Leafstalk. Stem of a leaf.
+Linear. Going in a straight line.
+Lobe. Rounded part or segment of an organ, usually part of a leaf or
+    petal.
+Mucilaginous. Slimy.
+Narcotic. An agent that relieves distress and induces sleep.
+Nodding. Drooping.
+Node. The often swollen point on a stem at which a leaf is joined.
+Oblanceolate. Having the broadest part of a lanceolate body above the
+    middle.
+Oblong. Longer than broad.
+Opposite. Situated in pairs on an axis, each being separated from the
+    other by half the circumference of the axis.
+Opthalmiatric. Used in the treatment of eye diseases.
+Ovate. Resembling hen eggs split lengthwise.
+Palmate. Resembling a hand with fingers spread.
+Panicle. Loosely branched flower cluster, pyramidal shaped.
+Parasiticide. An agent that destroys animal or vegetable parasites.
+Pectoral. Usually an expectorant, used for diseases of the chest and lungs.
+Perennial. Continuing or lasting for several years.
+Petal. Usually colored part of a flower.
+Petiole. Leafstalk.
+Pod. A dry seed vessel or fruit.
+Pollen. Shed by male flowers, usually yellow dust; male reproductive
+    agent.
+Protective. Used locally to protect and soothe the skin and mucous
+   membranes.
+Pungent. A sharp sensation as to taste, smell, feeling.
+Purgative. Increases peristalsis (contraction of the bowel).
+~ustulant.Causes severe irritation of the skin, especially the sweat glands,
+   and results in pustule formation.
+Raceme. An elongated axis bearing flowers on short stalks.
+~eclinin~.   Bent down.
+~efrigerant.Allays thirst and gives a sensation of coolness t o the body.
+Resinous. Characteristic of resin, a solid to semi-solid yellowish brown
+   plant substance.
+Respiratory sedative. Used to allay coughs.
+Respiratory stimulant. Stimulates the respiratory centers.
+Rhizome. Underground stem.
+Rhombic. Having the form of an equilateral parallelogram.
+Rootstock. Rhizome.
+Rosette. Leaves orginating from a center point, or short intermode, often
+   close t o the ground.
+Ross. To remove coarse outer bark.
+~ubifacient. Causes reddening and mild irritation of the skin.
+Saprophyte. A plant living on dead or decaying plant material.
+Scale. Small leaves or bracts.
+Sedative. Used to quiet the individual.
+Serrate. Saw-toothed margin of a leaf.
+Sessile. Lacking a stalk, hence directly attached to a main stem or branch.
+Sheath. A long or tubular structure surrounding a stem.
+Sialagogue. Causes an increase in the flow of saliva.
+Simple leaf. A leaf that is not divided into leaflets even though lobed.
+Solitary. Borne alone.
+Somnifacient. Produces sleep without delirium; a soporific.
+Soporific. Tending t o cause sleep.
+Spike. Usually an axis bearing flowers without stalks.
+Spiny. Bearing sharp-pointed prickles or woody bodies.
+Stalk. Stem on which a leaf, flower, or other organ is attached.               '
+Stimulant (cerebral). An agent that stimulates the activity of the
+   cerebellum, especially the centers of reason, thought, etc.
+Stimulant (general). A substance which increases general functional
+   activity.
+Stomachic. Stimulates appetite and increases secretion of digestive juices.
+Strict. Straight and upright; few if any branches.
+Subtend. Below and close to, such as a bract below a petal.
+Sudorific. Increases perspiration.
+Taeniafuge. A tapeworm expellant.
+Taenicide. As agent that destroys tapeworms.
+Taproot. A main root growing down, with small lateral roots.
+Terminal. At the tip.
+Tonic. Stimulates the restoration of tone to the muscles.
+Toothed. Indented.
+Trifoliate. Having three leaflets.
+Tubular. Tube-shaped ;hollow cylinder.
+Tufted. Having small bunches of hair close together.
+Twining. Twisting and winding.
+UmbeL A flat-topped cluster of flowers arising from a common point.
+Urinary antiseptic. Retards the growth of microorganisms in the urinary
+   tract.
+Vasoconstrictor. Narrows the passageway of the blood vessel.
+Vermicide. An agent that destroys worms.
+Vesicant. Causes irritation to the skin, resulting in blisters.
+Viscous. Sticky and thick.
+Vulnerary. An agent that promotes healing of open wounds.
+Whorl. Three or more flowers or leaves at a node forming a circle.
+Winged. Having wings, such as the thin dry extensions on a maple seed.
+
+                       Meanings of Terms
+                      Used in Plant Names
+
+Acutiloba. Having sharp lobes.
+Alba. White.
+Albidum. Whitish.
+Ambrosioides. Fragrant, like ambrosia.
+Americanus. American.
+~ndrosaernifolium. Having leaves like those of Androsaemum.
+Aparine. Bedstraw.
+Arborescens. Tree-like.
+Atropurpurea. Very dark purple.
+Aureus. Gold.
+Balsamifera. Producing balsam.
+Benedictus. Blessed.
+Benzoin. A plant of the laurel family.
+ifl lo rum. Having two flowers.
+Calamus. Reed.
+Canadense. Of Canada.
+Capillus veneris. Hair-like.
+Cardiaca. Heart-like.
+Carolinense. Of Carolina.
+Cataria. Catnip.
+Cerifera. Wax-producing.
+Cinerea. Grayish.
+Clava-Herculis. Hercules club.
+Communis. In groups.
+Cordifolia. Heart-shaped.
+Crispus. Waved and twisted.
+Didyma. In pairs.
+Diphylla. Two-leaved.
+Erectum Erect.
+Farinosa. Covered with whitish mealy powder.
+Frondosa. Full of leaves.
+Glabra. Smooth.
+Hastata. Triangular halberd-shaped lobes.
+Hippocastanum. Horse-chestnut.
+Hybridus. Mixed or impure.
+Hydropiper. Water pepper.
+Hyemale. Of the winter evergreen.
+Incarnata. Fleshcolored.
+~nflata. Expanded.
+Lappa. Bur-like.
+~ateriflora. Having flowers o n the side.
+Lenta. Pliant, tough.
+Luteum. Yellow.
+Maculata. Spotted.
+Marilandica. Of Maryland.
+Medica. Middle.
+Millefolium. Very many leaved.
+Minus. Lesser or smaller.
+Nigra. Black.
+Nudicaulis. ~aked-stemmed.
+Nudum. Bare.
+Odoratissima. Very fragrant.
+Officinale. Used medically.
+Pdustris. Of swamps.
+Parviflorum. small-flowered.
+~ e d a t u m . Like a bird's foot.
+Peltatum. Shield-shaped.
+Peregrina. Traveling from a strange country.
+Perfoliatum. Having pierced leaves.
+ Piperita. Peppery.
+ Pratense. Of meadows.
+ Procumbens. Flat, prostrate.
+ ~runifolium. Plum-like leaves.
+ Pulegioides. Like Pennyroyal.
+ ~uinquefolium.Five-leaved.
+ Racemosa. Full of clusters.
+ Repens. Creeping.
+ Rubra. Red.
+ Scariola. Papery, scaly.
+ Sempervirens. Evergreen.
+ Serotina. Late-flowering.
+ Serpentaria.' Snake bite cure.
+ Serrulata. Finely serrated.
+ Simplicissima. Undivided.
+ Spicata. Bearing a spike.
+ Stramonium. Swelling.
+ Strobus. Overlapping scales; cone.
+                   . the forest, wild.
+ ~ ~ l v a t i c aOf
+ St yaciflua. Flowering gum.
+ Syriaca. Of Syria.
+ Thalictroides. Like meadow rue.
+ Thapsus. Of ancient Thapsus.
+ Tinctoria. Of dyes.
+ Triphyllum. Three-leaved.
+ Tuberosa. Having tubers.
+ Umbellata. Having flowers arranged in umbels.
+ Villosa. Shaggy, hairy.
+ Viride. Green.
+ Vulgare. Common.
+           GUIDE TO THE PLANTS
+   In the following pages you will find descriptions and
+illustrations-either drawings or photographs-of 126 medicinal
+plants that grow in the Appalachian region. Here you will find
+the names of the plants, a description that will help you
+identify the plant, information about when the plant flowers,
+where t o look for it, what part t o harvest, and what it has been
+used for.
+                     ACER SPZCATUM LAM.
+
+                               (ACERACEAE)
+
+COMMON NAMES: Mountain maple, goosefoot maple, low
+  maple, mountain maple bush, spiked maple.
+
+DESCRIPTION:* A tall shrub or small tree that grows t o 30
+  feet in height. Bark is drabcolored, flaky, or furrowed.
+  Young branchlets are downy near tips. Leaves are thin,
+  downy beneath, 3-lobed or sometimes 5-lobed, with coarse-
+  toothed margins. Flowers are small, greenish-yellow, and
+  generally in upright narrow spikes 3 t o 5% inches long. Fruit,
+  which is red or yellow, matures from July through October;
+  it is about % inch long at maturity.
+
+FLOWERING PERIOD: Late May t o early October.
+
+HABITAT: Cool woods.
+
+HARVEST: Bark.
+
+USES: The bark o f t h i s plant is used as an anthelmintic, tonic,
+  and opthalmiatric. In Colonial times the bark was used for a
+  rose-tan dye.
+
+    *See glossary (page 21) for definitions of terms used to describe the plants and
+their uses.
+ACER SPZCATUM L A M .
+
+     (ACERACEAE)
+ACHZLLEA MZLLEFOLIUM L.
+
+       (ASTERACEAE)
+ACORUS CALAMUS L.
+
+    (ARACEAE)
+       ADZANTUM CAPILLUS-VENERZS L a
+
+                    (POLYPODIACEAE)
+
+COMMON NAMES: Southern maidenhair, black maiden's hair
+  fern, lady's hair, maidenhair, venus' hair fern.
+
+DESCRIPTION: A perennial fern with fronds, or stems of
+  small leaflets, arranged alternately along a continuous stem.
+ The pale green leaflets are fanshaped with blunt lobes on
+  outer curved edge. Stems are deep red-brown t o shiny black.
+  Rhizomes are creeping.
+
+FLOWERING PERIOD: Non-flowering plant.
+
+HABITAT: Moist, shaded, and limy rocks or steep banks;
+  humus-rich woods.
+
+HARVEST: Roots and leaves.
+
+USES: According to existing sources, this plant has been used
+  for an expectorant, tonic, and astringent. In Europe a tea of
+  the herb is used to treat coughs, catarrh, and respiratory
+  infections as well as menstrual discomfort.
+ADZANTUM CAPILLUS-VENERZS L.
+
+        (POLYPODIACEAE)
+             ADIANTUM PEDATUM L.
+
+                    (POLYPODIACEAE)
+
+COMMON NAMES: American maidenhair, hair fern, maiden-
+  hair, maidenhair fern, rock fern, sweet fern.
+
+DESCRIPTION: A perennial fern with fronds, or stems of
+  small leaflets arranged alternately along a continuous stem.
+  The pale green leaflets are fanshaped with blunt lobes on
+  outer curved edge. Stems are deep red-brown to shiny black.
+  Rhizomes are creeping.
+
+FLOWERING PERIOD: Non-flowering plant.
+
+HABITAT: Moist, shaded, and limy rocks or steep banks;
+ humus-rich woods.
+
+HARVEST : Leaves.
+
+USES: This herb is used as a refrigerant, expectorant, and
+  tonic. A tea of this herb is used to treat coughs, nasal
+  congestion or catarrh, and hoarseness.
+ADZANTUM PEDATUM L.
+
+    (POLYPODIACEAE)
+AESCULUS HZPPOCASTANUM L.
+
+     ( H IPPOCASTANACEAE)
+                 4LETRZS FARZNOSA L.
+                         (LILIACEAE)
+
+COMMON NAMES: whitetube stargrass, ague grass, ague horn,
+  agueroot, aletris root , aloe, aloeroot, backache root , blazing
+  star, colicroot, crow corn, devil's bit, false unicorn root,
+  huskwood, huskwort, mealy starwort, rheumatism root,
+  stargrass; starwort, true unicorn root, unicorn's horns, uni-
+  corn plant, unicorn root, white colicroot.
+
+DESCRIPTION: A perennial with wide, grass-like leaves spread-
+  ing in a flat rosette around the base of a spike-like stem.
+  White to yellow tubular flowers are arranged along the stem.
+  Flowers have 6 lobes. Plant has a short thick root or rhizome.
+
+FLOWERING PERIOD: May t o July.
+
+HABITAT: Moist locations in woods and meadows.
+
+HARVEST: Rhizomes and roots in fall.
+
+USES: The rhizomes and roots are reported t o have therapeutic
+  use as a diuretic tonic and sedative. The plant is known as
+  colicroot because it has been used t o treat colic, and
+  ague-root because of its value in treating rheumatism, often
+  called ague in Colonial times. In Appalachia a mixture of
+  roots and brandy or whisky is drunk as a treatment for
+  rheumatism.
+ALETRIS FARINOSA L.
+
+     (LILIACEAE)
+       ALNUS SERRULATA (AIT.) WILLD.
+
+                      (CORY LACEAE)
+
+COMMON NAMES: Hazel alder, alder, American alder, black
+  alder, candle alder, common alder, green alder, notch-leaved
+  alder, red alder, smooth alder, speckled alder, swamp alder,
+  tag alder.
+
+DESCRIPTION: A shrub or small tree 4 to 25 feet in height
+  with smooth, brownishgray bark, which is strongly aromatic.
+  The finely sawtoothed leaves are somewhat leathery, 2 t o 4%
+  inches long, oval in shape, and broadest at the middle. Male
+  flowers are borne in drooping catkins, female flowers in
+  small, erect, oval cone-like catkins that turn hard and woody
+  and remain on the shrub throughout winter.
+
+FLOWERING PERIOD: February to May.
+
+HABITAT : Swamps, wet woods, stream margins, and moist
+ areas.
+
+HARVEST: Bark of stems in early spring or late fall.
+
+USES: The bark has been used as an alterative and the
+  powdered drug as an opthalmiatric. In Appalachia, the
+  chewed bark is used to treat wounds and ulcers. The bark has
+  also been used for brown dye.
+ALNUS SERRULATA (AIT.) WILLD.
+
+         (CORY LACEAE)
+           AMARANTHUS HYBRZDUS L.
+
+                   (AMARANTHACEAE)
+
+COMMON NAMES: Smooth pigweed, amaranth, careless, green
+  amaranth , green opened amaranth, hybrid amaranthus, love
+  lies bleeding, pigweed, prince's feather, red cockscomb,
+  slender pigweed, slim amaranth, spleen amaranth, wild beet.
+
+DESCRIPTION: An annual 1 to 6 feet in height, erect,
+  branched above. Leaves are alternate, petioled, 3 to 6 inches
+  long, dull green, rough, hairy, ovate or rhombic, with wavy
+  margins. Flowers are small, with greenish or red terminal
+  panicles. Taproot is long, fleshy, red or pink.
+
+FLOWERING PERIOD: June to October.
+
+HABITAT: Waste places, cultivated fields, and barn yards.
+
+HARVEST: Leaves and herb.
+USES: Because of its astringent quality, this plant has been
+  used in treating dysentery, ulcers, and hemmorrhage of the
+  bowel.
+AMARANTHUS HYBRZDUS L.
+
+    (AMARANTHACEAE)
+          ANGELICA ATROPURPUREA L.
+
+                      (UMBELLIFERAE)
+
+COMMON NAMES: Purplestem angelica, alexanders, American
+  angelica, angelica, archangel, Aunt Jerichos, bellyache root,
+  common angelica, dead nettle, great angelica, high angelica,
+  masterwort, masterwort aromatic.
+
+DESCRIPTION: A shrub that grows t o 7 feet in height. Stem is
+  purplish. Three saw-toothed leaves occur at the tip of each
+  leaf-stem. Leaves are alternate and compound; leaflets are
+  3-parted with serrate margins. White or greenish flowers
+  occur in terminal clusters at the end of stalk. Stalks and
+  clusters are arranged in a semicircle or umbel.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Mostly cultivated in gardens; in rich low grounds,
+ and near streams and swamps.
+
+HARVEST: Root in fall.
+
+USES: The drug contains volatile oil that is used as a flavoring
+  agent and in treating colic and flatulence. Some sources list it
+  as an expectorant. A confection prepared by sugaring the
+  boiled stems is considered a gourmet favorite. In Europe a
+  root infusion is used to treat dyspepsia and stomach diseases
+  and is considered diuretic and expectorant.
+ANGELICA ATROPURPUREA L.
+
+      (UMBELLIFERAE)
+    APLECTRUM HYEMALE ( M U H L . ) TORR.
+
+                       (ORCHI DACEAE)
+
+COMMON NAMES: Puttyroot, Adam-and-Eve-root .
+
+DESCRIPTION: A perennial orchid that grows from a series of
+  bulb-like roots attached by narrower roots. The plant has a
+  single, broad, elliptical pointed leaf at the base. Flower spike,
+  which arises from the root, has small leaflike structures
+  enclosing the stem. Flower is purplish toward its base and
+  brown toward its summit, with white lip.
+
+FLOWERING PERIOD: May to June.
+
+HABITAT: Moist shaded woods and in set soil of flood plains.
+
+HARVEST: Roots in fall.
+
+USES: Plant is reputed to have value in treating bronchial
+  ailments.
+APLECTRUM HYEMALE ( M U H L . ) TORR.
+
+           (ORCHIDACEAE)
+     APOCYNUM ANDROSAEMZFOLZUM L.
+
+                      (APOCYNACEAE)
+
+COMMON NAMES: Spreading dogbane, American ipecac,
+  bitter dogbane, bitter-root, black Indian hemp, catch fly,
+  colicroot, common dog's-bane, dogbane, fly trap, honey
+  bloom, Indian hemp, milk ipecac, milkweed, rheumatism
+  wood, wandering milkweed, western wallflower, wild ipecac.
+
+DESCRIPTION: A perennial that grows to 3 t o 6 feet in
+  height, and is widely spread from horizontal rootstock.
+  Leaves opposite, nearly sessile. Flowers large, oval, and
+  whitish. The pods are double, 4 to 6 inches long, and slender.
+  The plant produces a milky juice.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Open woods, roadside banks, meadows, thickets,
+ and stream banks.
+
+HARVEST: Roots and rhizomes in late fall.
+
+USES: This plant, which is extremely poisonous, is a cardioac-
+  tive drug. It has been used also as a tonic, diuretic, and
+  purgative.
+APOCYNUM ANDROSAEMZFOLZUM L.
+
+         (APOCYNACEAE)
+         APOCYNUM CANNABZNUM L.
+
+                      (APOCYNACEAE)
+
+COMMON NAMES: Hemp dogbane, American hemp, amyroot,
+  bitter-root, Bowman's root, Canadian hemp, choctaw root,
+  &abrous hemp, Indian hemp, Indian physic, milkweed,
+  rheumatism weed, silkweed, wild cotton.
+
+DESCRIPTION: This perennial is generally 3 t o 6 feet in
+  height, and is unbranched except near the top. It has large
+  elliptical, opposite leaves with short stalks. It produces
+  whitish-green flowers borne on terminal clusters, and a milky
+ juice. The pods are double, 4 to 6 inches long, and slender.
+  The seeds are tufted.
+
+FLOWERING PERIOD: May to J U ~ ~ .
+
+HABITAT: Dry waste places and forest borders.
+
+HARVEST: Roots and rhizomes in late fall.
+
+USES: This plant is a cardiotonic drug that is extremely
+  poisonous. It has been used as a diuretic, diaphoretic,
+  expectorant, and emetic. Because of its use by American
+  Indians in treating dropsy, it has been called dropsy weed.
+  Indians also used the tough fibrous bark to make fishing nets,
+  and some western Indians chewed dried bits of the latex. The
+  plant exhibits cytotoxicity but no antitumor activity.
+APOCYNUM CANNABZNUM L.
+
+      (APOCYNACEAE)
+               ARALZA NUDICAULZS L.
+
+                        (ARALIACEAE)
+
+COMMON NAMES: Wild sarsaparilla, American sarsaparilla,
+  American spikenard, false sarsaparilla, rabbit's foot, sarsa-
+  paril, sarsaparilla, sarsaparilla root, shotbush, small spikenard,
+  small spikeweed, spignet, spikenard, sweetroot, Virginian
+  sarsaparilla, wild licorice.
+
+DESCRIPTION: A short-stemmed perennial that grows to 1
+  foot in height. Flowers are small and greenish-yellow in 3
+  clusters of 12 to 30 flowers on the stalk. Plant produces
+  purplish-black berry-like fruits.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Deep mountain woodlands.
+
+HARVEST: Roots in late summer and fall.
+
+USES: The roots and rhizomes have been used as a diuretic,
+  diaphoretic, and cough remedy.
+ARALZA NUDZCAULZS L.
+
+     (ARALIACEAE)
+                ARALZA RACEMOSA L.
+
+                        (ARALIACEAE)
+
+COMMON NAMES: American spikenard, American sarsapa-
+  rilla, Indian root, life-of-man, old man's root, petty morrel,
+  pigeon weed, spignet, spikenard.
+
+DESCRIPTION: A perennial 1 to 9 feet in height, with a single
+  leaf stalk. Leaf is divided into 3 parts, each with five leaflets.
+  Flowering stalk is elongated, with small greenish-yellow
+  flowers in clusters. Produces a blackish or purplish berry.
+  Root is larger than the root on nudicaulis.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Bluffs, deep woods, and river banks.
+
+HARVEST: Roots in summer and fall.
+
+USES: Roots and rhizomes have been used to treat rheuma-
+  tism, syphilis, coughs, and shortness of breath. In Appalachia,
+  a tea made of roots is used for backache.
+ARALZA RACEMOSA L.
+
+    (ARALIACEAE)
+                  ARCTZUM LAPPA L.
+
+                      (ASTERACEAE)
+
+COMMON NAMES: Great burdock, beggar's but tons, burdock,
+  clotbur, lappa.
+
+DESCRIPTION: A biennial or perennial 3 to 8 feet in height,
+  with many flowered heads. Leaves are large, broad, and
+  rounded-like those on rhubarb. The tube-shaped flowers are
+  pale pink, deep purple, or white. Big brown, round, bristly
+  burrs are a common characteristic of the plant.
+
+FLOWERING PERIOD: July to October.
+
+HABITAT: Fields and roadsides.
+
+HARVEST: Root of plant's first year of growth; can be
+ harvested anytime.
+
+USES: The United States Dispensatory no longer lists this herb
+  as medicinally valuable, but in the past it was quite popular
+  for treating many ailments. In Spain and France it has been
+  used to purify the blood and to cure skin blemishes and
+  minor wounds. In 18th Century America it was prescribed as
+  a cure for gonorrhea and syphilis. In Appalachia, a tea of
+  roots or seeds is used to treat rheumatism and to purify the
+  blood.
+ARCTIUM LAPPA L.
+
+  (ASTERACEAE)
+         ARCTZUM MINUS ( H I L L ) BERNH.
+
+                        (ASTERACEAE)
+
+COMMON NAMES: Common burdock, burdock, clotbur,
+  cuckoo button, smaller burdock.
+
+DESCRIPTION: A biennial or perennial 3 to 8 feet in height,
+  with many flowered heads. Leaves are large, broad, and
+  rounded-like those on rhubarb. The tube-shaped flowers are
+  pale pink, deep purple, or white. Big, brown, round, bristly
+  burrs are a common characteristic.
+
+FLOWERING PERIOD: June to October.
+
+HABITAT: Fields and pastures.
+
+HARVEST: Roots in the fall of plant's first year of growth;
+ seeds the second year of growth.
+
+USES: Plant is a diaphoretic, diuretic, alterative, and depura-
+  tive. It is used externally in salves or as a wash for burns, skin
+  irritations, and minor wounds.
+ARCTZUM MINUS (HILL) BERNH.
+
+        (ASTERACEAE)
+    ARZSAEMA TRZPHYLLUM (Lo) SCHOTTo
+
+                         (ARACEAE)
+
+COMMON NAMES: Indian Jack-in-the-pulpit, bog onion,
+  cuckoo plant, dragon root, dragon turnip, Indian turnip,
+  Jack-in-the-pulpit, -lords and ladies, meadow turnip, memory
+  root, pepper turnip, priest's pintle, small Jack-in-the-pulpit,
+  starchwort, swamp turnip, thrice-leaved arum, wake robin,
+  wild turnip.
+
+DESCRIPTION: A perennial that has 2 stalks of 3 leaves each,
+  and grows another stalk topped with a green tubular pulpit,
+  which has a hood turned down over it that protects an inside
+  green or dark purple tube. The pulpit stalk has brilliant
+  crimson berries in dense clusters.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Rich damp woodlands and bogs.
+
+HARVEST: Corm in summer or fall.
+
+USES: The boiled corms of this plant were a mainst ay in the
+  diet of the American Indians. Because of the needle-like
+  calcium oxalate crystals, the raw corm is extremely irritating
+  and toxic. The plant has been used as an expectorant,
+  irritant, and diaphoretic.
+ARZSAEMA TRZPHYLLUM (L.) SCHOTT.
+
+           (ARACEAE)
+         ARZSTOLOCHZA SERPENTARZA L.
+
+                    (ARISTOLOCHIACEAE)
+
+COMMON NAMES: Virginia snakeroot, birthwort, Dutchmans-
+  pipe, pelican flower, sangrel, sangrel-root, serpentaria, serpen-
+  tary root, snakeroot, snakeweed, thick birthwort.
+
+DESCRIPTION: This perennial is 1 to 2 feet in height. It has
+  an erect stem and heart-shaped leaves that taper to a point at
+  the tip. Brownish pipe-like flowers grow from base of the
+  plant stem.
+
+FLOWERING PERIOD: May to June.
+
+HABITAT: Forests, woodlands, and stream banks.
+
+HARVEST: Rootstock and roots in fall.
+
+USES: Preparations from this herb have been used as aids in
+  dyspepsia, as antispasmodics, diaphoretics, and emmena-
+  gogues.
+A R Z S T O L O C H Z A S E R P E N T A R Z A L.
+
+           (ARISTOLOCHIACEAE)
+ASARUM CANADENSE L.
+
+  (ARISTOLOCHIACEAE)
+               ASCLEPZAS SYRZACA L.
+
+                     (ASCLEPIADACEAE)
+
+COMMON NAMES: Common milkweed, common silkweed,
+  co ttonweed, milkweed, silkweed, silky swallow-wort , wild
+  cotton.
+
+DESCRIPTION: A perennial that generally grows t o 4 t o 5 feet
+  in height. Leaves are broadly oval, opposite, or whorled,
+  pubescent beneath, and measure 4 to 8 inches long. Dull
+  greenish-purple flowers are clustered in a head.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Thickets, meadows, fields, orchards, and along
+  roadsides.
+
+HARVEST: Roots in fall.
+
+USES: Reputedly this plant is valuable as an expectorant,
+  antirheumatic, diaphoretic, and diuretic. It is also a source of
+  glucoside and alkaloid. In Appalachia it is used t o treat warts
+  and moles. The white juice of this plant is extremely
+  irritating to the eyes.
+ASCLEPZAS S Y R Z A C A L.
+
+    (ASCLEPIADACEAE)
+             ASCLEPIAS TUBEROSA L.
+
+                     (ASCLEPIADACEAE)
+
+COMMON NAMES: Butterfly milkweed, butterfly weed, Can-
+  ada root, chigger flower, fluxroot, Indian nosy, orange
+  apocynum, orange milkweed, orangeroot, orange swallow-
+  wort, pleurisy root, rubber root, silkweed, swallow-wort,
+  tuberous-rooted swallow-wort, tuber root, white root, wind
+  root, wind weed, wine tree.
+
+DESCRIPTION: A very leafy, slightly hairy perennial that
+  grows to 2 to 3 feet in height. Leaves are 2 t o 6 inches long,
+  narrow, alternate, and short petioled. Orange-yellow flowers
+  are in umbels. Fruit is a pod. Seeds have white silky hairs.
+
+FLOWERING PERIOD: May to August.
+
+HABITAT: Sandy, dry open soils, pastures, and roadsides.
+
+HARVEST: Roots in fall.
+
+USES: The plant has been used as an expectorant, diaphoretic,
+  and emetic, and to treat rheumatism. Indians of Appalachia
+  made a tea of the leaves to induce vomiting.
+ASCLEPZAS T U B E R O S A L.
+
+     (ASCLEPIADACEAE)
+        BAPTZSZA TZNCTORZA ( L . ) R. BR.
+
+                        (FABACEAE)
+
+COMMON NAMES : Wild indigo, clover bloom, dyer's baptisia,
+  false i n d i p , horsefly weed, indigo broom, indigo weed,
+  rattlebush, rattleweed, yellow broom, yellow wild indigo.
+
+DESCRIPTION: A perennial that grows 2 to 4 feet in height.
+  Stem is erect, and has alternate branches that contain several
+  whorls of 3 clover-like leaflets. Each branch has a whorl of 3
+  leaflets where it attaches to the stem. Leaves are nearly
+  sessile. Yellow flowers, which are arranged at the tops of the
+  highest branches, are '/z inch long, and form brown %-inch
+  cylindrical pods.
+
+FLOWERING PERIOD: April t o August.
+
+HABITAT: Mostly in dry open woods and clearings.
+
+HARVEST: Roots in fall, herb in summer.
+
+USES: Most authors agree that the herb has value as a
+  febrifuge, tonic, purgative, and antiseptic.
+BAPTZSZA TZNCTORZA ( L . ) R. BR.
+
+           (FABACEAE)
+               BERBERZS VULGARIS L.
+
+                     (BERBERIDACEAE)
+
+COMMON NAMES: European barberry, American barberry,
+  barberry, common barberry, dragon grape, guild tree, jaun-
+  dice barberry, jaundice berry, pepperidge bush, sow berry,
+  wood sour, yellow root.
+
+DESCRIPTION: A perennial shrub that grows t o 8 feet in
+  height. Leaves are small, ovate, grayish below; leaves on
+  young sprouts are spiny. Yellow flowers are in racemes 1 to 2
+  inches long. Fruit is oblong, scarlet to purple. Inner wood is
+  yellow. Bark is gray, having sharp spines at nodes.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Pastures, thickets, and fence rows.
+                                         #
+
+
+HARVEST: Root and stem, root bark, and fruit in fall.
+
+USES: The fruit is rich in Vitamin C and has been used in
+  treating certain vitamin deficiencies. The root bark, which is
+  astringent, has been used to treat diarrhea, dysentery, and
+ jaundice. In Europe, a root infusion is used to treat chronic
+  dyspepsia.
+BERBERIS V U L G A R I S L.
+
+    (BERBERIDACEAE)
+                   BETULA LENTA L.
+
+                       (CORY LACEAE)
+
+COMMON NAMES: Sweet birch, black birch, cherry birch,
+  mountain mahogany, river birch, spice birch.
+
+DESCRIPTION: A tree that grows to 80 feet in height. Bark is
+  dark reddish-brown, close-fissured into thick plates on old
+  trunks. Leaves are 2% to 5 inches long and 1% to 3 inches
+  wide (widest near the base); they are also finely toothed on
+  the edges, and rounded at the base. Bark and leaves are sweet
+  and aromatic. Tree bears both male and female flowers in
+  catkins or caterpillar-like spikes % inch long.
+
+FLOWERING PERIOD: April to mid-May.
+
+HABITAT: Rich woods and moist, well-drained to shallow
+ soils.
+
+HARVEST: Bark and twigs from May to late September.
+
+USES: The bark of this plant contains small quantities of
+  methyl salicylate and has a pleasant aromatic flavor similar to
+  wintergreen. The bark has been used as an astringent,
+  antiseptic, antipyretic, and antirheumatic. The sap may be
+  made into vinegar. Birch beer is also made from this tree.
+BETULA LENTA L.
+
+  (CORY LACEAE)
+       CAULOPHYLLUM THALZCTROZDES
+               (L.) MICHX.
+                     (BERBERIDACEAE)
+
+COMMON NAMES: Blue cohosh, blueberry cohosh, blueberry
+  root, blue ginseng, papoose root, squaw root, yellow ginseng.
+
+DESCRIPTION: A perennial that grows t o 3 feet in height. It
+  has an almost sessile leaf at top, and leaflets are either 2- or
+  %lobed. In spring, plant sends up a small, elongated axis of
+  yellowish-green flowers. Rootstock is knotty and matted.
+
+FLOWERING PERIOD: April to early June.
+
+HABITAT: Richly wooded mountains and hardwood glades.
+
+HARVEST: Rhizomes and roots in the fall.
+
+USES: This herb has been called papoose root or squaw root
+  because of its use by American Indians t o facilitate child-
+  birth. The rhizome has been used to treat chronic rheuma-
+  tism, bronchitis, and colic.
+CAULOPHYLLUM THALZCTROZDES
+        ( L . ) MICHX.
+       (BERBERIDACEAE)
+         CEANOTHUS AMERICANUS L.
+
+                       (RHAMNACEAE)
+
+COMMON NAMES: Jersey tea ceanothus, New Jersey tea, red
+  root, wild snowball.
+
+DESCRIPTION: A shrub that grows to 2 t o 3 feet in height. It
+  has straggling, downy, alternate, ovate, finely-toothed leaves
+  that are pale green below and dark green above. The plant
+  produces white flowers on long stalks at upper axils.
+
+FLOWERING PERIOD: May t o September.
+
+HABITAT: Upland deciduous forests, roadsides, dry open
+ woods, and rocky banks.
+
+HARVEST: Bark of root, root, and leaves.
+
+USES: The root is reportedly used as an astringent, stimulant,
+  antispasmodic, expectorant, and sedative. According to one
+  authority, the root is also used t o treat respiratory ailments.
+  In Europe it has been used t o reduce high blood pressure and
+  to treat enlarged spleen. The leaves are used for a tea.
+CEANOTHUS AMERICANUS L.
+
+       (RHAMNACEAE)
+     CHAMAELZRZUM LUTEUM (L.) GRAY
+
+                        (LI LIACEAE)
+
+COMMON NAMES : Fairywand, blazing star, devil's bit, false
+  unicorn, grub root, helonias, rattlesnake root, star root,
+  starwort.
+
+DESCRIPTION: A perennial that grows to 4 feet in height.
+  Plant produces a rosette of basal leaves from which a spike
+  rises. A few narrowly linear leaves may be found on the
+  spike. Male and female flowers are on different plants. The
+  male flowers are white and, when dried, yellowish; the female
+  flowers are greenish.
+
+FLOWERING PERIOD: April t o July.
+
+HABITAT: Bogs and wet places in woodlands, meadows, and
+ thickets.
+
+HARVEST: Rootstock in fall.
+
+USES: This herb *has been used as a diuretic, diaphoretic,
+  anthelmintic, purgative, and tonic.
+CHAMAELZRZUM LUTEUM (L.) GRAY
+
+           (LI LIACEAE)
+               CHELONE GLABRA L.
+
+                  (SCROPHULARIACEAE)
+
+COMMON NAMES: White turtlehead, balmony, bitter herb,
+  fishmouth, salt-rheum weed, shellflower, smooth snakehead,
+  snakehead, snakemouth, true snakehead, turtle bloom, turtle-
+  head.
+
+DESCRIPTION: A perennial that grows to 3 feet in height.
+  Leaves are opposite, narrow, and 2 t o 6% inches long.
+  Flowers are rose-white and about 1 inch long. A pale,
+  beard-like structure is found within the turtlehead flower
+  tube.
+
+FLOWERING PERIOD: August t o October.
+
+HABITAT : Low grounds, woodland, margins of streams, and
+ wet thickets.
+
+HARVEST: Herb at flowering time; leaves in spring.
+
+USES: The leaves have been used for reducing inflammation,
+  and as an anthelmintic and tonic.
+CHELONE GLABRA L.
+
+ (SCROPHULARIACEAE)
+     CHENOPODZUM AMBROSZOZDES L.
+
+                    (CHENOPODIACEAE)
+
+COMMON NAMES: Mexican tea, ambrosia, ambrosia-like che-
+  nopodium, American wormseed, goose foot, Jerusalem oak
+  seed, Jerusalem tea, jesuit tea, Spanish tea, stickweed,
+  stinking weed, wild wormseed, wormseed, wormseed goose-
+  foot.
+
+DESCRIPTION: An annual that grows to 3% feet in height.
+  Branches sprout profusely from the base. Leaves are alter-
+  nate, ovate to lanceolate in shape, and about 5 inches long.
+  Small, geenish flowers grow along small, leafless spikes in the
+  axils of the leaves.
+
+FLOWERING PERIOD: July to October.
+
+HABITAT: Waste places, cultivated pound, abandoned fields.
+
+HARVEST: Fruit in summer, entire plant or seed from August
+ to November.
+
+USES: Primary use is in the manufacturing of chenopodium
+  oil, which is used to treat intestinal worms, both in humans
+  and animals. The pollen is allergenic. In Mexico it is cooked
+  and eaten as a vermifuge, and in Europe it is used as an
+  infusion. In New Mexico, Spanish speaking people use a tea
+  made of the leaves to encourage milk flow and to relieve
+  post-delivery pains.
+CHENOPODZUM AMBROSZOZDES L.
+
+       (CHENOPODIACEAE)
+     CHIMAPHICA MACULATA (L.) PURSH.
+
+                        (PYROLACEAE)
+
+COMMON NAMES: Spotted wintergreen, dragon's tongue,
+  pepsissewa, ratsbane, rheumatism root, spotted pipsissewa,
+  wild arsenic, wintergreen.
+
+DESCRIPTION: An evergreen perennial that grows to 10
+  inches in height. Leaves are dark green, blunt-toothed, and
+  wedge-shaped. Flowers are about Y2 inch in size, flesh-
+  colored, with violet pollen sacs.
+
+FLOWERING PERIOD: May to June.
+
+HAB1TAT:Coniferous and hardwood forests.
+
+HARVEST : Leaves.
+
+USES: According to at least two authorities, this plant is used
+  as a diuretic, tonic, and astringent. It is used also, according
+  to other authorities, to treat skin eruptions, certain types of
+  cancer, acute rheumatism, and syphilis. Still other uses are as
+  an aromatic and alterative.
+CHIMAPHILA M A C U L A T A ( L . ) PURSH.
+
+             (PYROLACEAE)
+    CHZMAPHZLA UMBELLATA (L.) NUTT.
+
+                      (PYROLACEAE)
+
+COMMON NAMES: Common pipsissewa, bitter wintergreen,
+  fragrant wintergreen, ground holly, king's cure, love-in-
+  winter, noble pine, pine tulip, pipsissewa, prince's pine,
+  princess pine, pyrole, rheumatism weed, waxflower, winter-
+  green.
+
+DESCRIP'~ION: An evergreen perennial that grows to 10
+  inches in height. Leaves are dark green, blunt-toothed, and
+ wedge-shaped. Flowers are about ?4 inch in size, flesh-
+  colored, with violet pollen sacs.
+
+FLOWERING PERIOD: May to June.
+
+HABITAT: Coniferous and hardwood forests, and acid wood-
+ lands.
+
+HARVEST: Leaves and herbs in late summer or early fall.
+
+USES: The dried leaves are reportedly used as a diuretic,
+  astringent, tonic, and antirheumatic.
+CHZMAPHZLA UMBELLATA (Lo) NUTTo
+
+          (PY ROLACEAE)
+         CHZONANTHUS VZRGZNZCUS L.
+                         (OLEACEAE)
+
+COMMON NAMES: Fringe tree, American fringe tree, flower-
+  ing ash, graybeard tree, old man's beard, poison ash, shavings,
+  snowdrop tree, snowflowers, white fringe, white fringe tree.
+
+DESCRIPTION: A shrub or tree about 35 feet in height.
+  Leaves are opposite. Produces many white flowers on long
+  stems, in panicles. Berries are fleshy, globular, and purple.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Damp woods, thickets, bluffs, and dry woods.
+
+HARVEST: Root bark and fresh bark of trunks in the fall.
+
+USES: The bark is used as a tonic, diuretic, and astringent; it is
+  also used t o reduce fever. In Appalachia a liquid of boiled
+  root bark is applied t o skin irritations.
+CHZONANTHUS VZRGZNZCUS L.
+
+        (0LEACEAE)
+        CZMZCZFUGA AMERICANA MICHX.
+
+                     (RANUNCULACEAE)
+
+COMMON NAMES: American bugbane, bugbane, mountain
+  bugbane, mountain rattle-top, summer cohosh.
+
+DESCRIPTION: A perennial shrub that grows t o 3 t o 4 feet in
+  height. The plant resembles C. racemosa (L.) Nutt but is not
+  as tall; and it has shorter lateral spikes of small, white flowers
+  plus a terminal spike.
+
+FLOWERING PERIOD: July to September.
+
+HABITAT: Moist woods.
+
+HARVEST: Rhizomes and roots at end of growing season.
+
+USES: This plant is used as an antispasmodic in some areas.
+  (See C. racemosa.)
+CZMZCZF UGA AMERICANA MICHX.
+
+       (RANUNCULA-CEAE)
+      CZMZCZFUGA RACEMOSA (L.) NUTT.
+                    (RANUNCULACEAE)
+
+COMMON NAMES: Cohosh bugbane, battle weed, black co-
+  hosh, black snakeroo t, blueberry, blue ginseng, bugbane,
+  cohosh, columbine-leaved leontice, cordate rattle-top, false
+  cohosh, heart-leaved rattle-top, heart-leaved snakeroot,
+  meadow rue leontice, papoose root, rattle root, rattlesnake
+  root, rattle-top, rattleweed, richweed, squaw root, yellow
+  ginseng.
+
+DESCRIPTION: A perennial shrub that grows t o 8 feet in
+  height. Each of the leaf stems holds 2, 3, or 5 leaflets. The
+  plant is topped with a slender spike of small, white flowers.
+  The rhizome or root is knotted.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Rich, open woods.
+
+HARVEST: Rhizomes and roots in the fall.
+
+USES: The roots and rhizomes are considered valuable in
+  treating chronic rheumatism. The plant is also used as an
+  expectorant, astringent, emmenagogue, and bitter tonic. In
+  Appalachia, a tea made from the root is used to treat sore
+  throat .
+CZMZCZFUGA RAC :EMOSA ( L . ) NUTT.
+
+         (RANUN(ZU LACEAE)
+              CNZCUS BENEDZCTUS L.
+
+                       (ASTERACEAE)
+
+COMMON NAMES: Blessed thistle, bitter thistle, bitterweed,
+  blessed carduus, carduus, cursed thistle, holy thistle, our-
+  lady's thistle, spotted carduus, spotted thistle, St. Benedict's
+  thistle.
+
+DESCRIPTION: This annual grows t o about 2 feet in height.
+  Leaves are thistle-like, toothed, lobed, and spiny. Plant
+  produces many flowered yellow heads.
+
+FLOWERING PERIOD: April t o August.
+
+HABITAT: Roadsides and waste places.
+
+HARVEST: Herbs and tops in bloom; ripe seed.
+
+USES: The upper portion of this plant has been used to treat
+  worms; and it is also used in an emmenagogue, stimulant,
+  tonic, and emetic. Because it is hemostatic, the seed is also
+  useful as an emetic. In Europe, ground parts of the plant are
+  mixed with wine for use as an aperitif.
+CNZCUS BENEDZCTUS L.
+
+     (ASTERACEAE)
+         COLLINSONIA CANADENSIS L.
+
+                        (LAMIACEAE)
+
+COMMON NAMES: Citronella horse balm, broadleaf collin-
+  sonia, Canadian collinsonia, citronella, hard hack, heal-all,
+  horse balm, horseweed, knob grass, knobroot, ox balm,
+  richweed, stone root.
+
+DESCRIPTION: A perennial that grows to 3 feet in height.
+  Leaves are opposite, large, coarsely toothed, and roughly
+  ovate in shape. Strongly scented lemon-yellow flowers are
+  arranged vertically along opposite branches of the main stem.
+  Plant rises from a thick, woody rhizome.
+
+FLOWERING PERIOD: July to September.
+
+HABITAT: Rich, moist woods.
+
+HARVEST: Herb at flowering; root in fall.
+
+USES : Roots are used as a sedative and antispasmodic, diuretic,
+  astringent, and tonic.
+COLLZNSONZA CANADENSIS L.
+
+        (LAMIACEAE)
+COMPTONZA PEREGRZNA ( L . ) COULT.
+
+           (MYRICACEAE)
+              CORALLORHZZA ( C H A T . )
+
+                      (ORCHI DACEAE)
+
+COMMON NAMES : Coralroot, crawleyroo t , dragon's claws.
+
+DESCRIPTION: A perennial saprophytic orchid that has no
+  green foliage. Produces spike-like flowering stem, with
+  yellow,: brown, or purplish flowers arranged along the stem.
+  Rhizomes are coral-like, and clustered.
+
+FLOWERING PERIOD: July to September.
+
+HABITAT: Uplands, damp woods, thickets, swamps, conifer-
+ ous and deciduous woods.
+
+HARVEST : Root.
+
+USES: The plant is diaphoretic, and is used as a sedative.
+CORALLORHZZA ( C H A T . )
+
+     (ORCHIDACEAE)
+          CYPRZPEDZUM CALCEOLUS L.
+
+           var. PARVIFLORUM (SALISB.) FERN.
+
+                      (ORCHIDACEAE)
+
+COMMON NAMES : Yellow lady's slipper, American valerian,
+  ladyslipper, nerve root, small golden slipper, small moccasin
+  flower, :small yellow lady's slipper, yellow Indian shoe,
+  yellow moccasin.
+
+DESCRIPTION: An aromatic ~erennialthat grows to 4 to 28
+  inches in height. Ovate, alternate leaves grow from sheaths       .
+  around stem of plant. It has large, sac-like yellow "slippers".
+   lower petals range from greenish yellow to purplish brown.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Bogs and moist places.
+
+HARVEST: Roots in fall.
+
+USES: The plant is used as a sedative and in treating neuralgia.
+  In Appalachia, a root tea is used to treat nervous ailments
+  and headaches.
+CYPRZPEDZUM CALCEOLUS L.
+
+var. PARVIFLORUM (SALISB.) FERN.
+
+        (ORCHIDACEAE)
+             DATURA STRAMONZUM L.
+
+                       (SOLANACEAE)
+
+COMMON NAMES: Jimsonweed, apple of Peru, apple Peru,
+  devil's trumpet, Jamestown weed, jimsonweed datura, mad
+  apple, stink apple, stinkweed, stinkwort, stramonium, thorn
+  apple.
+
+DESCRIPTION: An ill-scented annual weed that grows 1 to 5
+  feet in height. Leaves are 4 to 6 inches long, broad, unevenly
+  and largely toothed. Flowers are long, tubular, pale blue in
+  leaf axils or stem forks. Plant produces large prickly capsules
+  as fruit.
+
+FLOWERING PERIOD: ~ u l yto October.
+
+HABITAT: Forest edge, fields, roadsides, and waste ground.
+
+HARVEST: Leaves and tops when plant is in flower; seeds
+ when mature.
+
+USES: This extremely poisonous plant is used as an antispas-
+  modic, antiasthmatic, and anodyne sedative. The dried leaves
+  are frequently mixed with saltpeter and burned in a
+  treatment for asthma. In Appalachia, a poultice made from
+  blossoms is used to treat wounds and to kill pain; also, dried
+  leaves are smoked in a pipe to relieve asthma. In the
+  Southwest, the plant is used by Zuni Indians as a halluco-
+  genic. In Europe, where the plant has been known for
+  centuries, it is used to treat pulmonary disease, nervous
+  afflictions, and nymphomania. And legend has it that the
+  Delphic Oracle inhaled smoke from burning Datura leaves to
+  induce visions.
+DATURA STRAMONZUM L.
+
+     (SOLANACEAE)
+               DZOSCOREA VZLLOSA L.
+
+                     (DIOSCOR EACEAE)
+
+COMMON NAMES: Atlantic yam, China root, colicroot, devil's
+  bones, dioscorea, rheumatism root, wild yam, yam.
+
+DESCRIPTION: A twining perennial vine that grows to 15 feet
+  in height. Bottom 3 leaves are sometimes whorled. Plant has
+  an alternate heart-shaped leaf base; and stems of tiny,
+  greenish flowers grow opposite some of the leaves. Produces
+  triangular capsules as fruit. Rootstock is slender, infrequently
+  branched.
+
+FLOWERING PERIOD: May to J U ~ ~ .
+
+HABITAT: Deciduous woods, thickets, swamps, and wet
+ woods. .
+
+HARVEST: Roots in fall.
+
+USES: This herb is used as an expectorant, emetic, antispas-
+  modic, and diaphoretic.
+DZOSCOREA VZLLOSA L.
+
+   (DIOSCOREACEAE)
+ECHZNACEA PURPUREA (L.) MOENCH
+
+          (FABACEAE)
+            ERYNGIUM AQUATICUM L.
+
+                        (APIACEAE)
+
+COMMON NAMES: Button snakeroot eryngo, button snake-
+  root, corn snakeroot, eryngo, feverweed, rattlesnake flag,
+  rattlesnake master, rattlesnake weed, water eryngo.
+
+DESCRIPTION: An erect, coarse-branched, ~erennial that
+  grows to % t o 5 feet in height. It has firm elongate-to-
+  lanceolate lower leaves; upper leaves are sessile. The plant
+  bears fruit from September t o November.
+
+FLOWERING PERIOD: Late July t o September.
+
+HABITAT: Fresh to brackish marshes, streams, ponds and
+ bogs, and wet pinelands.
+
+HARVEST : Rootstock in fall.
+
+USES: In large doses, infusions have been used as emetics. Also
+  used as a diaphoretic and expectorant.
+ERYNGZUM AQUATZCUM L.
+
+       (APIACEAE)
+     EUONYMUS ATROPURPUREUS JACQ.
+
+                     (CELASTRACEAE)
+
+COMMON NAMES: Eastern wahoo, American spindle tree,
+  arrow-wood, bitter ash, bleeding heart, burning bush, burst-
+  ing heart, Indian arrow-wood, pegwood, purple strawberry
+  bush, skewerwood, spindle tree, strawberry bush, wahoo.
+
+DESCRIPTION: A shrub or small tree that grows to 25 feet in
+  height. It has green 4sided branches and purplish flowers.
+  Produces seeds in prominent scarlet 4-lobed fruit.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Rich woods and thickets, stream banks, swamps,
+ and forests.
+
+HARVEST: Bark of root and stem any time of the year.
+
+USES: The bark is reported to be of value as a drastic
+  purgative.
+EUONYMUS ATROPURPUREUS JACQ.
+
+        (CELASTRACEAE)
+         EUPATORZUM PERFOLZATUM L.
+
+                       (ASTERACEAE)
+
+COMMON NAMES: Boneset, ague-weed, common boneset,
+  crosswort, feverwort, Indian sage, ' ~ o e ~ ~ e
+                                              sweating
+                                                    , plant,
+  sweating weed, teagel, thorough-stem, thoroughwax, thor-
+  oughwort , throughstem, vegetable antimony, wild Isaac, wild
+  sage.
+
+DESCRIPTION: A perennial that grows to 1 to 5 feet in
+  height. Heavy stems are lightly hairy. Leaves are opposite,
+  and grow completely together at the base. Produces flat
+  heads of white- or purple-tinged flowers.
+
+FLOWERING PERIOD: Late July to October.
+
+HABITAT: Swamps, marshes, low ground, alluvial woods,
+ damp areas, and pastures.
+
+HARVEST: Herb in spring, leaves and flowering tops in late
+ summer (Avoid coarse stems.)
+
+USES: This plant is used as a stimulant to promote digestion,
+  strengthen the viscera, and restore body tone. It is also
+  considered sudorific, alterative, antiseptic, cathartic, emetic,
+  febrifuge, diuretic, and astringent. In Appalachia, a tea made
+  of the leaves is used to treat coughs and consumption, and it
+  is used as a laxative.
+EUPATORIUM PERFOLIATUM L.
+
+       (ASTERACEAE)
+EUPATORZUM PURPUREUM L.
+
+       (ASTERACEAE)
+FRAGARZA VZRGZNZANA DUCHESNE.
+
+         (ROSACEAE)
+              FRAXZNUS AMERICANA L.
+
+                          (OLEACEAE)
+
+COMMON NAMES: White ash, American ash, American white
+  ash, ash, biltmore ash, biltmore white ash, cane ash, smallseed
+  white ash.
+
+DESCRIPTION: A tree that grows to 120 feet in height. Bark
+  is ashy gray and furrowed. Leaves are 8 t o 12 inches long,
+  with 5 to 9 (mostly 7) leaflets 3 to 5 inches long, rounded at
+  the base and about half as wide as they are long. The winged
+  seeds are from 1 to 3 inches long, narrow, flat, and
+  one-seeded; and they occur in clusters.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Rich upland to lowland woods, lower t o middle
+ slopes.
+
+HARVEST: Inner bark of trunk and roots, and stem in the
+ spring.
+
+USES: The bark of this plant is tonic, cathartic, diuretic, a
+  febrifuge, diaphoretic, astringent, antiarthritic, and alterative.
+  It has been prescribed for headache followed by fever, fever
+  sores of the lips, and constipation. In Appalachia, the chewed
+  bark is used as a poultice on sores, and a tea made from the
+  buds is used for snakebite.
+FRAXZNUS AMERICANA L.
+
+      (OLEACEAE)
+                GALIUM APARZNE L.
+
+                        (RUBIACEAE)
+
+COMMON NAMES: Catchweed bedstraw, bedstraw, catch-
+  weed, cheese rennet herb, chicus, clabbergrass, cleavers,
+  cleaver's herb, cleaves, cleverwort, goosegrass, goose's hare,
+  milksweet, poor robin, savoyan, scratchweed, spring cleavers,
+  turkey grass.
+
+DESCRIPTION: An annual that has a weak, reclining, bristly
+  4angled stem, with hairy joints. Leaves occur in whorls of 8.
+  Flowers are white in cymes. Fruit is very bristly.
+
+FLOWERING PERIOD: May to J U ~ ~ .
+
+HABITAT: Rich woods, thickets, seashores, waste ground, and
+ shady areas.
+
+HARVEST: Herb in May and June, during flowering.
+
+USES: The U. S. Dispensatory lists the plant as an anti-scorbu-
+  tic. The herb is also a diuretic, tonic, astringent, antispas-
+  modic; and it is used to treat inflammation of the kidneys
+  and bladder. The seeds are used as a coffee substitute in
+  Sweden; and the dried plant is used as a tea in some
+  countries.
+GALZUM APARZNE L.
+
+    (RUBIACEAE)
+          GAULTHERZA PROCUMBENS L.
+
+                        (ERICACEAE)
+
+COMMON NAMES: Checkerberry wintergreen, aromatic win-
+  tergreen, berried tea, boxberry, Canadian tea, checkerberry,
+  chequerberry, chidkerberry, clink, creeping wintergreen,
+  deerberry, dewberry, ground holly, ground ivy, grouse berry,
+  hillberry, ivory plum, mountain berry, mountain tea, moun-
+  tain teaberry, partridge berry, pigeonberry, red-berry tea, red
+  pollom, roxberry, spiceberry, spicy wintergreen, spring win-
+  tergreen, teaberry, three-leaved wintergreen, trailing gauthe-
+  ria, wax cluster, winterberry, wintergreen.
+
+DESCRIPTION: A low, creeping, aromatic, evergreen shrub,
+  with 2- to 6-inch branches. Leaves are shiny and waxy. Single
+  white, nodding flowers are in racemes in axils. Produces
+  bright red berries in fall and winter.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Sterile woods and clearings, dry wooded areas;
+ commonly found growing with rhododendron, mountain
+ laurel, and other members of the heath family.
+
+HARVEST: Herb and leaves in fall.
+
+USES: The plant is primarily a source of true wintergreen oil,
+  which is used as a flavor, counterirritant, astringent, and
+  carminative. Wintergreen oil is extremely toxic if consumed
+  internally.
+GAULTHERZA PROCUMBENS L.
+
+       (ERICACEAE)
+GELSEMZUM SEMPERVZRENS ( L . ) AIT.
+
+           (LOGANIACEAE)
+GENTZANA VZLLOSA L.
+
+   (GENTIANACEAE)
+            GERANIUM MACULATUM L.
+
+                      (GERAN IACEAE)
+
+COMMON NAMES: Spotted geranium, alum bloom, alumroot,
+  American kind, American tormentil, astringent root, choco-
+  late flower, common crane's bill, cranesbill, cranesbill gera-
+  nium, crowfoot, dove's foot, old maid's-nightcap, shameface,
+  spotted cranesbill, stork bill, tormentil, wild cranesbill, wild
+  geranium.
+
+DESCRIPTION: A perennial 1 to 2 feet in height, with a single
+  stem and thick rhizomes. Leaves are 3 to 6 inches across, and
+  deeply cleft. Produces 3 to 5 loose, rosy-purple to white
+  flowers, 1inch across.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Rich woods and meadows.
+
+HARVEST: Leaves and rhizomes in spring, just before plant
+  flowers, or in late summer.
+
+USES: The leaves have been used as a vulnerary. However, the
+  roots and rhizomes, which contain much tannin, are very
+  astringent, antiseptic, styptic, and diuretic; and they have
+  been used to treat diarrhea. In Appalachia, a tea made from
+  the whole plant is used to treat dysentery and sore throat.
+GERANIUM M A C U L A T U M L.
+
+       (GERANIACEAE)
+           HAMAMELZS VZRGZNZANA L.
+
+                    (HAMAMELIDACEAE)
+
+COMMON NAMES: Witch hazel, common witch hazel, hama-
+  melis, long boughs, pistachio, snapping hazel, snapping
+  hazel-nut, southern witch hazel, spotted alder, striped alder,
+  tobacco wood, white hazel, winterbloom, wood tobacco.
+
+DESCRIPTION: A crooked tree or shrub usually 8 to 15 feet
+  in height, with forking branches and smooth, brown bark.
+  The leaves are roundish to round-oval, 3 to 5 inches long,
+  thick, and borne on a short stalk. Yellow, thread-like flowers
+  appear in late fall or early winter after the leaves have fallen.
+  Fruits occur in clusters along the stem and mature the
+  following season, when they burst open and eject shiny black
+  seeds.
+
+FLOWERING PERIOD: September to November.
+
+HABITAT: Dry t o moist woods.
+
+HARVEST: Leaves, twigs, and bark in fall.
+
+USES: The twigs, leaves, and bark are used to prepare witch
+  hazel extract, which has been used in shaving lotions and to
+  treat bruises and sprains. The fresh leaves of the plant contain
+  high concentrations of tannin, which makes them very
+  astringent.
+HAMAMELIS VIRGZNIANA L.
+
+    (HAMAMELIDACEAE)
+      HEDEOMA PULEGIOIDES (L.) PERS.
+
+                       (LAMI ACEAE)
+
+COMMON NAMES: American pennyroyal, American fdse-
+  pennyroyal, mock pennyroyal, pennyroyal, pennyroyal of
+  America, pudding grass, squaw mint, stinking balm, thick-
+  weed, tickweed.
+
+DESCRIPTION: A branched annual that grows to 18 inches in
+  height. Leaves are erect, hairy, small, and ovate, with the
+  broad end at the base. Produces clusters of aromatic, tiny,
+  bluish flowers about 114 inch long.
+
+FLOWERING PERIOD: July to ~ e ~ t e m b e r .
+
+HABITAT: Dry soils, woodlands, pastures, and meadows.
+
+HARVEST: Leaves, flowering tops and small stems in full
+ bloom; plants just before flowering
+
+USES: This herb is used as an antispasmodic, rubifacient, and
+  stimulant. A tea is used in Appalachia for treating pneu-
+  monia.
+HEDEOMA PULEGZOZDES (L.) PERS.
+
+          (LAMIACEAE)
+            HEPATICA ACUTZLOBA DC.
+
+                     (RANUNCULACEAE)
+
+COMMON NAMES: Sharplobe hepatica, heart liverleaf, hepat-
+  ica, liverleaf, liverwort, noble liverwort, sharplobed liverleaf.
+
+DESCRIPTION: A perennial that grows to 9 inches in height.
+  Liver-shaped leaves have 3 to 5 lobes, and each leaf stalk has
+  one leaf. Produces a single white to purplish flower in spring.
+
+FLOWERING PERIOD: March to A ~ r i l .I
+
+
+
+
+HABITAT : Rich calcareous woods.
+
+HARVEST : Leaves in the spring.
+
+USES: This herb has been used as a tonic, mild astringent, and
+  diuretic.
+HEPATICA ACUTZLOBA DC.
+
+    (RANUNCU LACEAE)
+         HYDRANGEA ARBORESCENS L.
+
+                     (SAX1FRAGACEAE)
+
+COMMON NAMES: Smooth hydrangea, sevenbark, wild hy-
+  drangea.
+
+DESCRIPTION: A perennial shrub that grows to 10 feet in
+  height, with stems rising from base of the plant. It has large,
+  opposite, ovate leaves, and produces white or greenish
+  flowers at top of branches. Many varieties are recognized.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Rich woods, calcareous rocky slopes, banks of
+  streams.
+
+HARVEST: Root in the fall.
+
+USES: The roots and rhizomes have been used as diuretics,
+  cathartics, and tonics. Some authorities say that the drug has
+  value in preventing kidney stones.
+HYDRANGEA ARBORESCENS L.
+
+      (SAXI FRAGACEAE)
+           HYDRASTZS CANADENSZS L.
+
+                    (RANUNCULACEAE)
+
+COMMON NAMES: Goldenseal, eyebalm, eyebright, eyeroot,
+  goldenroot, ground raspberry, hydrastis, Indiana dye, Indian
+  paint, Indian plant, Indian turmeric, jaundice root , Ohio
+  curcuma, orange root, tumeric, wild turmeric, yellow eye-
+  wright, yellow paintroot, yellow puccoon, yellowroot, y el-
+  lowwort.
+
+DESCRIPTION: A perennial that grows to 1 foot in height. It
+  has 1 stem with two 5- to 7-lobed leaves near the apex, which
+  is topped with 1 geenish-white flower. Several single leaf
+  stocks topped with flowers that have no petals rise from the
+  roots. Fruit looks like a raspberry but is inedible.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Rich woods.
+
+HARVEST : Rootstock in fall; leaves or tops in late summer or
+  fall, after seeds ripen.
+
+USES: The pulverized rhizomes and roots have been used a
+  long time to treat mouth ulcers, and as a hemostatic. This
+  preparation has also been used as a diuretic in catarrhal
+  conditions, and as an astringent for treating certain eye
+  conditions. In Appalachia, a root tea is used as a tonic.
+HYDRASTZS CANADENSZS L.
+
+    (RANUNCULACEAE)
+       JEFFERSONZA DZPHYLLA ( L . ) PERS.
+
+                    (BERBERIDACEAE)
+
+COMMON NAMES: American twinleaf, ground squirrel pea,
+  helmet pod, rheumatism root, twinleaf, yellow root.
+
+DESCRIPTION: An erect shrub that grows to 2 feet. Stdk is
+  topped by 2 identical, opposite, half-ovate leaf segments.
+  Flowers are white, 1 inch across. Fruit is a large capsule.
+
+FLOWERING PERIOD: March to April.
+
+HABITAT: Rich, damp, shaded woods.
+
+HARVEST : Root in fall.
+
+USES: The rhizomes and roots have been used t o treat chronic
+  rheumatism, dropsy, spasms, and as a gargle. In small doses,
+  the drug is an expectorant; in large doses it is an emetic. It
+  also has been considered a diuretic, alterative, and antispas-
+  modic.
+JEFFERSONIA DZPHYLLA ( L . ) PERS.
+
+         (BERBERIDACEAE)
+                JUGLANS CZNEREA L.
+
+                     (JUGLANDACEAE)
+
+COMMON NAMES: Butternut, fdnut , lemonnut, oilnut, white
+  walnut.
+
+DESCRIPTION: A tree usually 40 to 60 feet in height, with
+  light gray bark divided into broad, flat ridges by moderately
+  deep furrows. Leaves are compound with 11 t o 17 leaflets
+  arranged opposite each other, from 2 to 3 inches long, and
+  with very short stems. Elliptical pointed fruit is 1% to 2%
+  inches long and occurs in cluster; of 2 to 5 or singly. The
+  strong smelling, sticky husk is covered with hairs and
+  contains an edible nut that has a hard, thick, deeply furrowed
+  shell.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Rich woods and along rivers on well drained soils.
+
+HARVEST: Inner bark of root any time of year; leaves and
+ nuts in the fall.
+
+USES: The bark has been used as a rubifacient and cathartic.
+  Oil extracted from the fruit is reportedly valuable in treating
+  tape worms and fungus infections. In Appalachia, a tea made
+  from the bark is used as a laxative.
+JUGLANS CZNEREA L.
+
+   (JUG LANDACEAE)
+                  JUGLANS NZGRA L.
+
+                     (JUGLANDACEAE)
+
+COMMON NAMES : Black walnut, American walnut, eastern
+  black walnut, walnut.
+
+DESCRIPTION: A valuable tree that often grows to more than
+  120 feet in height, with almost black bark divided into rough
+  ridges by deep, narrow furrows. Leaflets are alternate,
+  commonly 1 2 to 23 per stem, finely toothed, and 3 t o 3%
+  inches long. The fruit occurs singly or in clusters of 2 or 3,
+  and has a thick, somewhat fleshy, aromatic husk; the fruit is
+  roundish, about 1% to 2 inches in diameter, edible, and has a
+  hard, rough, deeply furrowed shell.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Rich woods and limestone soils.
+
+HARVEST: Inner bark of root; leaves and nuts in fdl.
+
+USES: The root bark is cathartic. A leaf infusion is used as an
+  astringent and against bedbugs.
+JUGLANS NZGRA L.
+
+ (JUG LANDACEAE)
+              JUNIPERUS COMMUNZS L.
+                          (PI NACEAE)
+
+COMMON NAMES: Common juniper, dwarf juniper, gorst,
+  ground juniper, hackmatack, horse savin, juniper, juniper
+  bush, prostrate juniper.
+
+DESCRIPTION: A small evergreen shrub or tree 1 2 to 30 feet
+  in height, low and spreading or upright. The bark of trunk is
+  shreddy and reddish brown. Needles are straight, sharp-
+  pointed, ridged, and nearly at right angles to branchlets. Dark
+  purple fruit is round, fleshy, berry-like, and about f/a inch in
+  diameter.
+
+FLOWERING PERIOD: March.
+
+HABITAT: Dry soil.
+
+HARVEST: Fruit in fall and winter.
+
+USES: The fruit is used commercially in flavoring gin, and has
+  value as a diuretic and urinary antiseptic. In Europe, it is used
+  to treat arteriosclerosis.
+JUNZPERUS COMMUNZS L.
+
+      (PINACEAE)
+            JUNZPERUS VZRGZNZANA L.
+
+                        (PI NACEAE)
+
+COMMON NAMES : Eastern redcedar, Carolina cedar, cedar,
+  cedar apple, evergreen, juniper, pencil cedar, red cedar, red
+  juniper, red savin, savin, Virginia cedar.
+
+DESCRIPTION: A small erect evergreen tree 20 to 50 feet in
+  height. Trunk is lobed, buttressed, and has thin, red-tinged,
+  fibrous, peeling bark. Foliage has needle and scale form.
+  Produces smooth, round, berry-like bluish fruit with 1 or 2
+  seeds.
+
+FLOWERING PERIOD: February to March.
+
+HABITAT: Pasture land; dry, rarely wet, open woods; or
+ calcareous rocky slopes and barrens.
+
+HARVEST: Leaves and mature fruits.
+
+USES: The leaves have been used as a stimulant, emmenagogue,
+  and taeniafuge. In Appalachia, a mixture of nuts, leaves, and
+  twigs is boiled and inhaled as a treatment for bronchitis. In
+  New Mexico, some Spanish-speaking people use a boiled
+  mixture of bark and water to treat skin rash.
+JUNIPERUS VIRGINZANA L.
+
+       (PI NACEAE)
+               LACTUCA SCARZOLA L.
+
+                       (ASTERACEAE)
+
+COMMON NAMES: Prickly lettuce, compass plant, wild let-
+  tuce, wild opium.
+
+DESCRIPTION: An annual or perennial that grows to 2 feet in
+  height. Flowers are yellow, but purple or bluish when dried.
+  Stem has a few prickles. Leaves are cleft, with lobes arranged
+  on either side of a common axis.
+
+FLOWERING PERIOD: June to October.
+
+HABITAT: Cultivated fields, waste or disturbed areas, dry soil,
+ and gardens.
+
+HARVEST: Leaves in summer or fall; milky juice of the stem
+ in summer.
+
+USES: The milky juice of this plant is extremely irritating to
+  the eyes. The whole herb has been used as a diuretic,
+  antispasmodic, and emollient.
+LACTUCA SCARZOLA L.
+
+    (ASTERACEAE)
+              LEONURUS CARDZACA L.
+
+                        (LAM1ACEAE)
+
+COMMON NAMES: Motherwort, common motherwort, lion's
+  ear, lion's tail, lion's tart, throwwort.
+
+DESCRIPTION: A perennial that grows to 3 to 6 feet in
+  height. Stems are stout, with 2- to 5-inch long petioled leaves.
+  The palmately lobed leaves have sharp teeth. Flowers are
+  white to pink, and very hairy.
+
+FLOWERING PERIOD: May to August.
+
+HABITAT: Waste places, roadsides, gardens, and pastures.
+
+HARVEST: Herb at flowering time.
+
+USES: The herb is used as a stimulant and emmenagogue. In
+  Europe it has been used to treat heart palpitations and
+  asthma.
+LEONURUS CARDZACA L.
+
+     (LAMIACEAE)
+         LZNDERA BENZOIN (L.) BLUME
+
+                        (LAURACEAE)
+
+COMMON NAMES: Common spicebush, auspice bush, Benja-
+  min bush, feverbush, spiceberry, spicebush, wild allspice.
+
+DESCRIPTION: A deciduous shrub that grows to more than,
+  15 feet in height. Leaves are 3 to 5 inches long, alternate,
+  elliptical, aromatic, with smooth margins. Produces greenish-
+  -yellow flowers in dense clusters and long, bright red berries.
+
+FLOWERING PERIOD: March to May.
+
+HABITAT: Damp woods and brooksides.
+
+HARVEST: Bark and twigs.
+
+USES: The aromatic bark is used to treat dysentery, coughs,
+  and colds; and it is used as a vermifuge.
+LZNDERA BENZOIN (L.) BLUME
+
+        (LAURACEAE)
+LZQUZDAMBAR STYRACZFLUA L.
+
+      (HAMAMELIDACEAE)
+                 LOBELZA ZNFLATA L.
+
+                    (CAMPANULACEAE)
+
+COMMON NAMES: Indian tobacco, asthma weed, bladder
+  pod, bladder-podded lobelia, emetic herb, emetic weed,
+  eyebright, field lobelia, gagroot, Indian Tobacco lobelia,
+  lobelia, obelia, pukeweed, tobacco lobelia, vomitwort, wild
+  tobacco.
+
+DESCRIPTION: A branching annual that grows to 3 feet in
+  height. Leaves are 1 to 3 inches long. Produces small,
+  violet-pinkish-white flowers situated in axils of alternate
+  leaves, the bottom of which greatly inflate in fruiting stage.
+
+FLOWERING PERIOD: ~ u l y
+                        to September.
+
+HABITAT: Weedy fields, roadsides, woods, and in partial
+ shade.
+
+HARVEST: Herb when in flower and forming seeds.
+
+USES: The herb yields lobeline sulfate, which is used in
+  anti-tobacco therapy. It is also used as a stimulant, antiasth-
+  matic, and expectorant in cases of bronchitis.
+LOBELZA ZNFLATA L.
+
+ (CAMPANU LACEAE)
+              LYCOPUS VZRGZNZCUS L.
+
+                        (LAMI ACEAE)
+
+COMMON NAMES: Virginia bugleweed, bugleweed, buglewort,
+  carpenter's herb, gypsyweed, gypsywort, horehound, Paul's
+  bet ony , purple archangel, sweet bugleweed, water bugle,
+  water horehound, wolf foot, wood betony.
+
+DESCRIPTION: A shrub with a 4-angled stem. Dark green or
+  purple-tinged leaves are somewhat ovate, coarsely toothed,
+ and narrowed at each end. Whorls of tubular flowers are
+ borne in the leaf axils.
+
+FLOWERING PERIOD: July to October.
+
+HABITAT: Rich, moist soil, in fields or forests.
+
+HARVEST: Herb during flowering time.
+
+USES: This herb is used as an astringent and sedative, and
+  reportedly it has many other drug uses.
+LYCOPUS VZRGZNZCUS L.
+      (LAMIACEAE)
+             MARRUBZUM VULGARE I,.
+
+                       (LAMIACEAE)
+
+COMMON NAMES: White horehound, common hoarhound,
+  common horehound, hoarhound, horehound, houndsbane,
+  marrhue, marrub, marrubium, marvel, white hoarhound.
+
+DESCRIPTION: A shrub that grows to 3 feet in height. Plant
+  branches from base. Produces 2-inch, bitter, aromatic,
+  round-ovate leaves that are whitish above and gray woolly
+  below.
+
+FLOWERING PERIOD: May to September.
+
+HABITAT : Waste places, pastures, and old fields.
+
+HARVEST: Leaves and small stems in May before blooming
+
+USES: This plant is used in many pulmonary ailments as an
+  expectorant, tonic, and emmenagogue. In Appalachia, the
+  leaves are used to make a cough syrup. In Europe, it is
+  considered a febrifuge and has been used t o treat menstrual
+  pain.
+MARRUBZUM VULGARE L.
+
+     (LAMIACEAE)
+          MENISPERMUM CANADENSE L.
+
+                     (MENISPERMACEAE)
+
+COMMON NAMES: Common moonseed, Canada moonseed,
+  maple vine, moonseed, Texas sarsaparilla, vine maple, m ell ow
+  parilla, yellow sarsaparilla.
+
+DESCRIPTION: A woody, twining perennial vine that grows
+  from a thick root. Leaves are wide with 3 t o 7 angles or lobes
+  around the outside margin. Produces bunches of white or
+  geenish flowers and small black gape-like berries.
+
+FLOWERING PERIOD: June to August.
+
+HABITAT: Thickets and light woodlands where there is rich
+ soil; alluvial soils, rocky ravines, fence rows, and cool regions.
+
+HARVEST: Rhizomes and roots during fall.
+
+USES: The root has been used as a diuretic and a stomachic.
+  Some also claim it has value in arthritic conditions and blood
+  disorders.
+MENZSPERMUM C A N A D E N S E L.
+
+       ( M E N ISPERMACEAE)
+                MENTHA PZPERZTA L.
+
+                       (LAMIACEAE)
+
+COMMON NAMES: Peppermint, brandy mint, lamb mint,
+  lamrnint.
+
+DESCRIPTION: A perennial that grows to 3 feet in height. It
+  has a pungent mint smell, and dark green, serrated leaves.
+  Produces purplish flowers in spike-like groups in axils and
+  terminally.
+
+FLOWERING PERIOD: Late June to October.
+
+HABITAT: Brook banks, wet meadows, and other damp
+  places.
+
+HARVEST: Herb during early flowering time.
+
+USES: The herb is a source of the volatile oil of peppermint.
+  Cultivated plants are grown for this product, mostly in the
+  Pacific Northwest coast area. In Appalachia, the herb has
+  been used generally as a flavoring agent and in treating colic
+  and indigestion. In Europe, it is considered a carminative and
+  is believed to increase bile secretion.
+M E N T H A PZPERZTA L.
+
+     (LAMIACEAE)
+                MENTHA SPZCATA L.
+
+                        (LAMIACEAE)
+
+COMMON NAMES: Spearmint, brown mint, common mint,
+  garden mint, lady's mint, sage of Bethlehem, Scotch mint,
+  Scotch spearmint.
+
+DESCRIPTION: A perennial that grows to 3 feet in height. It
+  looks like other mints but is different in odor and taste from
+  the others. It is less pungent than M. piperita, and not as
+ cooling as peppermint. Leaves are oblong, lanceolate,
+  toothed, and about 2 inches long. Flowers are in long spikes
+ in the upper axils and terminally.
+
+FLOWERING PERIOD: June to October.
+
+HABITAT: Wet places near settlements.
+
+HARVEST: Flowering top and leaves.
+
+USES: The herb is of value as a flavoring agent, carminative,
+  antiemetic, refrigerant; and it is used t o treat colic.
+MENTHA SPZCATA L.
+
+    (LAMIACEAE)
+               MITCHELLA REPENS L.
+
+                       (RUBIACEAE)
+
+COMMON NAMES: Partridgeberry, checkerberry, creep-
+ chequer berry, deer berry, hive vine, one berry, running box,
+  squawberry, squaw vine, twinberry, two-eyed berry, two-
+ eyed chequer berry, winter clover.
+
+DESCRIPTION: This creeping, perennial vine is distinguished
+  by small roundish evergreen leaves that are shiny above and
+  frequently have white lines. Produces scented white flowers
+  tinged with purple, and scarlet, 2-eyed berries.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Damp, moist, deciduous woods; often found asso-
+ ciated with hemlock and rhododendron.
+
+HARVEST: Herb in fall.
+
+USES: This plant has been used frequently in ornamental
+  terraria. The bright, orange-red berry and dark green leaves
+  are very attractive. Therapeutically, the plant has been
+  described as astringent, diuretic, and topic.
+MZTCHELLA REPENS L.
+
+     (RUBIACEAE)
+               MONARDA DZDYMA L.
+
+                         (LAB IATAE)
+
+COMMON NAMES: Oswego beebalm, American bee balm, bee
+  balm, bergamot, horsemint, Indian's plume, low balm,
+  mountain balm, mountain mint, Oswego tea, red balm, rose
+  balm, scarlet balm.
+
+DESCRIPTION: Stems sharply four-angled, t o about 4 feet in
+  height, aromatic, simple branches to 6 inches long; leaves
+  ovate to lance-like, toothed, rounded at base, petioled, hairy,
+  serrate, 5 to 6 inches long; bright crimson flowers to 2 inches
+  long in large terminal clusters at top of plant; perennial.
+
+FLOWERING PERIOD: July t o September.
+
+HABITAT: Rich woods, thickets, bottomlands, and stream
+ banks.
+
+HARVEST: Herb when flowering.
+
+USES: This herb is described as being a rubefacient, stimulant
+  and carminative. The U. S. Dispensatory lists it as being
+  anthelmintic. This plant is a commercial source of the drug
+  Thymol, which is of value as an antiseptic and flavor.
+MONARDA DZDYMA L.
+
+    (LAB IATAE)
+                MYRZCA CERZFERA L.
+
+                      (MYRICACEAE)
+
+COMMON NAMES: Southern wax myrtle, American vegetable
+  tallow, American vegetable wax, bayberry, bayberry tallow,
+  bayberry waxtree, bearing myrica, candleberry, candleberry
+  myrtle, myrtle, southern bayberry, tallow shrub, waxberry,
+  wax myrtle.
+
+DESCRIFTION: A perennial shrub or small tree that grows to
+  35 feet in height, with waxy rough branchlets. The narrow
+  evergreen leaves taper at both ends. Flowers are in form of
+  short scaly catkins. Produces grayish berries.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Poor, dry areas particularly; pine barrens and low
+ woods.
+
+HARVEST: Root bark in fall; roots are gently heated and bark
+ stripped.
+
+USES:. The fruit is the main source of wax used in making
+  candles. The root bark is astringent and emetic.
+MYRZCA CERZFERA L.
+
+   (MYRICACEAE)
+      NASTURTIUM OFFZCZNALE, R. BR.*
+
+                         (6RASSICACEAE)
+
+COMMON NAMES: Watercress, nasturtium, true watercress.
+
+DESCRIPTION: A floating perennial. The large stems are
+  freely rooting, thick, and hollow. Leaves are alternate and
+  pinnately divided. Leaflets are entire.
+
+FLOWERING PERIOD: April to October.
+
+HABITAT: In thick beds in cold, flowing water of ditches,
+ small rills, slow streams, brooks, and ponds.
+
+HARVEST: Herb, at any time.
+
+USES: This floating herb is widely used as a fresh edible green.
+  The leaves are very rich in vitamins A and C . Spanish-
+  speaking people in New Mexico eat the plant as a treatment
+  for kidney and heart trouble, and use it crushed in cold water
+  as a treatment for tuberculosis. In Europe it is used to
+  increase urine flow and to combat rheumatism and bronchi-
+  tis. Pregnant women are warned not to use it because it may
+  cause abortion.
+
+  *Synonym-Radicda nasturtiumaquaticum ( L ) Britten & Rendle.
+NASTURTIUM OFFZCZNALE, R. BR.*
+
+        (BRASSICACEAE)
+                NEPETA CATARZA L.
+
+                        (LAMIACEAE)
+
+COMMON NAMES: Catnip, catmint, catnep, catrup, catwort,
+  field balm, nip.
+
+DESCRIPTION: An erect perennial that grows to 3 feet in
+  height. Stem is whitish and downy. Leaves are heart-shaped,
+  opposite, with long petioles, coarsely toothed, and about 2 to
+  3 inches long. The tubular flowers are % to 95 inch long,
+  whitish with purple dots, and crowded toward the tips of the
+  stems in dense spikes.
+
+FLOWERING PERIOD: June to September.
+
+HABITAT: Dooryards, roadsides, and waste places.
+
+HARVEST: ~ e a f ~
+              flowering tops; herb when in full flower.
+
+USES: As a therapeutic agent, it is used as an aromatic,
+  stimulant, and carminative, particularly for infants. It has
+  been used in cough remedies, and as an emmenagogue and
+  refrigerant. The stimulating action of this plant upon cats is
+  well known. In Appalachia, a tea made from the plant is used
+  for treating colds, nervous conditions, stomach ailments, and
+  hives; dried leaves and stalks are smoked for catarrh. In
+  Europe it is used to bring on delayed menstruation.
+NEPETA CATARZA L.
+
+    (LAM IACEAE)
+            PANAX QUINQUEFOLZUM L.
+
+                         (ARALIACEAE)
+
+COMMON NAMES : American ginseng, dwarf groundnut, five
+  fingers, garantogen, garentoquere, gensang, ginseng, granto-
+  gen, jinshard, man's health, manroot, ninsin, redberry, sang,
+  tartar root.
+
+DESCRIPTION: A perennial about 6 to 8 inches long, with 2
+  to 4 leaves that are divided into 5 leaflets arranged ~ a l m a t e l ~
+  at the end of each leaf stalk. The small terminal stalk
+  produces inconspicuous flowers and red berries. Roots are
+  large and aromatic.
+
+FLOWERING PERIOD: August.
+
+HABITAT: Rich and cool woods.
+
+HARVEST: Roots at 3 to 5 years, in the fall.
+
+USES: The therapeutic value of this plant has never been
+  established in this country, yet this is one of the most
+  valuable woodland crops in Appalachia. The cleaned dried
+  roots are used in the Orient as a cure-all. Because ginseng
+  roots branch t o resemble the human body, they are revered
+  and used as a medication for any ill. In China, the roots are
+  used in the preparations of love pations and talismans. The
+  largest amount harvested in Appalachia is shipped to Hong
+  Kong, Singapore, and other areas where there are large
+  Chinese colonies. Soviet Union scientists claim to have
+  isolated various compounds that have therapeutic value. In
+  Appalachia, a tea made of the root is used as a tonic and
+  aphrodisiac.
+PANAX QUZNQUEFOLZUM L.
+
+      (ARALIACEAE)
+           PASSZFLORA ZNCARNATA L.
+
+                    (PASS1FLORACEAE)
+
+COMMON NAMES: Maypop passionflower, apricot vine, may-
+  pop, maypop herb, passionflower, passion vine.
+
+DESCRIETION: A vine that grows to 25 feet in height. Leaves
+  are alternate, composed of 3-or rarely 5-finely toothed oval
+  lobes. Flowers are large, fleshcolored, 2 inches across, with
+  pink or purple corona. The fruit, which is 2 to 3 inches long,
+  is smooth, yellow, and ovate.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Thickets, fence lines, edge of woods, and waste-
+ lands.
+
+HARVEST: Herbs, leaves, roots, flowering tops, and fruit
+ during summer.
+
+USES: This plant has been used as an antispasmodic, sedative,
+  and a treatment for neuralgia and epilepsy. Also, the drug has
+  been used to reduce blood pressure and to increase the rate
+  of respiration. It is also reputed to be an aphrodisiac,
+  particularly for elderly men. In Bermuda, the vine is used as a
+  perfume base.
+PASSZFLORA ZNCARNATA L.
+
+     (PASS1F LORACEAE)
+          PHYTOLACCA AMERICANA L.
+
+                    (PHYTOLACCACEAE)
+
+COMMON NAMES: Pokeweed, American nightshade, cancer
+  jalap, cancerroot, chongras, coakum, cocum, cokan, common
+  pokeberry, crowberry, garget, in kberry , jalap, pigeonberry,
+  pocan, pocan bush, poke, pokeberry, pokeroot, red-ink plant,
+  red wood, scoke, skoke, Virginia poke.
+
+DESCRIPTION: A perennial that grows to 9 feet in height. It
+  has a thick, hollow, red stem, and an unpleasant smell. Leaves
+  are ovate, entire, long, and petioled. Flowers are white to
+  pinkish in terminal racemes. Produces spikes or racemes of
+  dark purple berries.
+
+FLOWERING PERIOD: July t o September.
+
+HABITAT: Rich, low ground, old fields, and recently cleared
+ areas and roadsides.
+
+HARVEST: Root in fall; ripe berries.
+
+USES: Young shoots, when properly prepared in spring, are
+  edible. Consumption of the plant is dangerous because it
+  becomes poisonous as it matures. Medically it is a slow
+  emetic and a purgative, with some narcotic properties. The
+  dried root is reported valuable in treating hemorrhoids. In
+  Appalachia, pokeberry wine is thought to help alleviate
+  rheumatism; and in some areas dried fruits are used as a
+  poultice on sores.
+PHYTOLACCA AMERICANA L.
+
+     (PHYTOLACCACEAE)
+               PZNUS PALUSTRZS MILL.
+
+                          (PINACEAE)
+
+COMMON NAMES : ~ o n g l e a f pine, fat pine, Georgia pine,
+  hard pine, heart pine, longleaf yellow pine, longstraw pine,
+  pitch pine, rosemary pine, southern pine, southern yellow
+  pine, turpentine pine, yellow pine.
+
+DESCRIPTION: A large evergreen tree that grows to 80 t o 120
+  feet in height, with coarse, scaly bark. Needles are a
+  distinctive characteristic; they are about 8 to 1 8 inches long,
+  and in groups of 3. Cones are 6 to 10 inches long, and
+  somewhat cylindrical. Young form of tree is columnar,
+  unbranched, and has very leafy trunk.
+
+FLOWERING PERIOD: March to April.
+
+HABITAT: Sandy soil.
+
+HARVEST: Sap in early April, and gum about last of April or
+  first of May.
+
+USES: This pine in southern Appalachia is a valuable source of
+  turpentine, pine oil, tar, pitch, and rosin. The uses of
+  turpentine oil as a rubefacient are well known. Rosin is
+  widely used by athletes to protect their hands, and by
+  violinists to prevent the bow from slipping and to produce
+  better vibration. Pine tar from this source is used therapeuti-
+  cally for the same purpose as white pine tar. Pitch is of great
+  value to the naval stores industry.
+PZNUS PALUSTRZS MILL.
+
+      (PINACEAE)
+                  PZNUS STROBUS L.
+
+                        (PI NACEAE)
+
+COMMON NAMES: Eastern white pine, American deal pine,
+  American white pine, New England pine, northern pine,
+  northern white pine, soft deal-pine, soft pine, spruce pine,
+  weymouth pine, white pine.
+
+DESCRIPTION: An evergreen tree that sometimes grows t o
+  200 feet in height. The soft bluish needles, which are 3 to 5
+  inches long and found in groups of 5, distinguish it from
+  other pines. The cones are 4 to 8 inches long, thin,
+  cigar-shaped, and often curved.
+
+FLOWERING PERIOD: April to June.
+
+HABITAT: Woods, old fields.
+
+HARVEST: Inner bark, rossed or natural.
+
+USES: The bark is used as an astringent and expectorant; the
+  wood has been used to produce white pine tar, which has
+  value as an antiseptic, expectorant, and protective.
+PZNUS S T R O B U S L.
+
+     ( P I NACEAE)
+                  PLANTAGO L.            SPP.
+
+                    (PLANTAGINACEAE)
+
+COMMON NAMES: Plantain, black psyllium, blond psyllium,
+  fleaseed, French ~sylliurn,Indian plant ago, plantago, psyl-
+  lium, psyllium seed, ribgrass, ribwort, Spanish psyllium.
+
+DESCRIPTION: A low, weedy perennial, with broadly ellipti-
+  cal to linear, prominently ribbed leaves. Flowers grow tightly
+  at apex on erect spikes.
+
+FLOWERING PERIOD: March to October.
+
+HABITAT: Roadsides, dooryards, lawns, poor soils, fields, and
+ woods.
+
+HARVEST: Seeds and leaves.
+
+USES: The seeds are valuable as a bulk laxative. Soaking the
+  seed in water causes it to exude a clear sticky gum, which has
+  been used in manufacturing lotions and hair-wave sets. Some
+  authorities report that the leaves are used as a vulnerary. In
+  Appalachia, wet leaves of the plant are used as a poultice for
+  snakebite and wounds; crushed fresh leaves are rubbed on
+  wounds and skin eruptions, and are used for treating rectal
+  itch. In Appalachia the leaves are used to make a tonic tea.
+PLANTAGO L.    SPP.
+
+ (PLANTAGI NACEAE)
+          P O D O P H Y L L U M PELTATUM L.
+
+                     (BERBERIDACEAE)
+
+COMMON NAMES: Common mayapple, devil's apple, duck's
+  foot, ground lemon, hog apple, Indian apple, mandrake,
+  mayapple, podophyllum, racoonberry, umbrella plant, vege-
+  table calomel, vegetable mercury, wild jalap, wild lemon, wild
+  mandrake, yellowberry.
+
+DESCRIPTION: An erect perennial that grows to about 1 to
+  1%feet in height. Two umbrella-like, palmately lobed leaves
+  grow at the top of each plant, rarely 3. The plant produces a
+  white flower in fork of leaves, and ovate yellow fruit.
+
+FLOWERING PERIOD: March to May.
+
+HABITAT: Deciduous forests in mountain areas, rich woods,
+ thickets, and pastures; prefers shade.
+
+HARVEST: Rootstock in fall and sometimes in spring before
+ leaves appear.
+
+USES: Improper use of this plant could be very dangerous. The
+  roots and rhizomes are used as a purgative. A resin from the
+  plant, called padophyllin, has been used to treat venereal
+  warts. The resin is extremely allergenic; it exhibits anti-tumor
+  activity. In Appalachia, a tea of bark and roots is used to
+  treat constipation.
+PODOPHYLLUM PELTATUM L.
+
+     (BERBER IDACEAE)
+                POLYGALA SENEGA L.
+
+                     (POLYGALACEAE)
+
+COMMON NAMES : Seneca-snakeroot polygala, milkwort,
+  mountain flax, rattlesnake root, senecaroot, Seneca snake-
+  root, senega root, senega snakeroot, seneka snakeroot.
+
+DESCRIPTION: A perennial that grows to 2 feet in height.
+  Several stems arise from crown, and have numerous alternate
+  linear-shaped leaves. Dense spikes of white or pinkish flowers
+  tinged with green terminate the stem. Produces seeds in
+  capsules.
+
+FLOWERING PERIOD: April to July.
+
+HABITAT: Dry woods on limestone, rocky soils, and higher
+ altitudes.
+
+HARVEST: Root in autumn. (Knotty crown must be removed
+ fwst .)
+
+USES: The plant is reportedly used as an emetic, purgative,
+  diuretic, expectorant, and tonic.
+POLYGALA SENEGA L.
+
+   (POLYGALACEAE)
+  POLYGONATUM BZFLORUM (WALT.) ELL.
+
+                         (LI LIACEAE)
+
+COMMON NAMES : Small solomonseal, conquer-John, dwarf
+  solomon's seal, hairy solomon's seal, sealwort, solomon's seal.
+                                   ,
+DESCRIPTION: A perennial that grows to 3 feet in height. It
+  can be distinguished from Smilacina racemosa by the 1 to 4
+  flowers that hang from the axils of the leaves, which are
+  about 4 inches long, 2 inches wide, and hairy below. Berries
+  are globular, black or blue.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Dry to moist, sandy, loamy areas, or in rocky
+ woods.
+
+HARVEST: Root in f d .
+
+USES: Roots and rhizomes are mildly astringent, diuretic,
+  emetic, and tonic.
+POLYGONATUM BZFLORUM (WALT.) ELL.
+
+            (LI LIACEAE)
+          P O L Y G O N U M HYDROPIPER L.
+
+                     (POLYGONACEAE)
+
+COMMON NAMES: Marshpepper smartweed, arsmart, biting
+  knotweed, biting parsicaria, biting tongue, common smart-
+  weed, doorweed, lakeweed, pepperplant, red knees, red
+  shanks, red sharks, sickleweed, smartweed, water pepper,
+  water smartweed.
+
+DESCRIPTION: An annual that grows t o 1t o 2 feet in height.
+  It is erect and branched at base. Stems are reddish; and leaves
+  are narrowly lanceolate and alternate, with smooth margins 1
+  t o 4 inches long. Produces numerous small greenish flowers
+  that are formed close together on the ends of nodding
+  terminal spikes.
+
+FLOWERING PERIOD: July t o October.
+
+HABITAT: Damp soil.
+
+HARVEST: Herb.
+
+USES: The herb is a diuretic and has been used in certain
+  uterine disorders. In Europe it is used as a hemostatic drug to
+  control internal and hemorrhoidal bleeding.
+POLYGONUM HYDROPZPER L.
+     (POLYGONACEAE)
+             POPULUS BALSAMIFERA L.
+
+                        (SALICACEAE)
+
+COMMON NAMES: Balsam poplar, balm buds, balm of Gilead,
+  Carolina poplar, cottonwood, hackmatack, poplar balsam,
+  tacamahac poplar, tackamahac.
+
+DESCR~PTION: A tree that may reach 100 feet in height;
+  sometimes the trunk is 6 feet in diameter. The broad, pointed
+  leaves are 3 t o 6 inches long and 2 t o 4 inches wide; they are
+  rounded or slightly heartshaped at the base, finely toothed,
+  shiny dark green above, pale green often with rusty brown
+  patches below. The buds and twigs are brownish red, and the
+  large buds are very resinous and fragrant.
+
+FLOWERING PERIOD: March t o April.
+
+HABITAT: River       banks,   swamps, wastelands,      and   river
+ bottoms.
+
+HARVEST: Winter buds in February and March before
+  opening.
+
+USES: A tincture of the bark has reportedly been used t o treat
+  infections of the chest, kidneys, stomach, and for rheuma-
+  tism, gout, and scurvy. The buds have been used as a
+  vulnerary and pectoral. In Europe the fresh flowers are
+  steeped in cold water, then strained and drunk t o purify the
+  blood.
+POPULUS BALSAMIFERA L.
+
+      (SALICACEAE)
+             PRUNELLA VULGARIS L.
+
+                       (LAMIACEAE)
+
+COMMON NAMES: Healall, blue curls, brownwort, carpen-
+  ter's herb, carpenterweed, common selfheal, dragonhead,
+  hookweed, self-heal, sickleweed, sicklewort.
+
+DESCRIP'~ION: A perennial that grows t o 2 feet in height.
+ Usually the plant is much tufted, and sometimes it is
+ horizontal. Leaves are round and bract-like. Violet purple
+ blooms, about 112 inch long, are found in the a d s of the
+ leaves, in a close spike or head.
+
+FLOWERING PERIOD: April to October.
+
+HABITAT: Roadsides, lawns, fields, pastures, wastelands, and
+  grasslands.
+
+HARVEST: Herb from May t o September, at flowering time.
+
+USES: The herb is used as an aromatic and carminative. It has
+  been used also as a gargle, and in treating hemorrhage and
+  diarrhea.
+PRUNELLA VULGARZS L.
+
+     (LAMIACEAE)
+PRUNUS SEROTZNA EHRH.
+      (ROSACEAE)
+                   QUERCUS ALBA L.
+
+                     -   (FAGACEAE)
+
+COMMON NAMES: White oak, common white oak, fork-leaf
+  white oak, ridge white oak, stave oak, stone oak, tanner's
+  oak.
+
+DESCRIPTION: A tree that is usually 60 t o 80 feet in height,
+  but sometimes reaches 150 feet. The bark is a light ashy gray,
+  variable in appearance-horn loosely attached plates on
+  young trees t o narrow, rounded ridges with deep fissures on
+  old trees. T h e smooth thin leaves, which are 5 t o 9 inches
+  long, have short stems and are usually divided into 7 to 9
+  smooth, rounded lobes.
+
+FLOWERING PERIOD: March t o May.
+
+HABITAT: Widely distributed in hardwood forests of the
+ eastern United States.
+
+HARVEST: Inner bark, at any time; bark &om older trees
+ should be collected in spring.
+
+USES: The pollen is reportedly allergenic. Because the bark
+  contains tannins, it is used as an astringent and antiseptic. In
+  Appalachia, a bark tea is used to treat burns and sore mouth.
+  A chartreuse dye is obtained from the bark.
+QUERCUS ALBA L.
+
+   (FAGACEAE)
+                   RHUS GLABRA L.
+
+                    (ANAC.ARDIACEAE)
+
+COMMON NAMES: Smooth sumach, common sumac, Pennsyl-
+  vania sumach, scarlet sumac, shernoke, sumac, upland
+  sumach, vinegar tree.
+
+DESCRIPTION: A shrub or small tree that grows to about 15
+  feet in height. Leaves are 1 to 3 feet long, with 11 t o 31
+  leaflets; each leaflet is 2 to 4 inches long and about 1 t o 2
+  inches wide, pointed and sharp-toothed. Twigs are smooth.
+  Produces greenish yellow flowers in clumps at branch ends,
+  and roundish, flattened, bright red fruits or berries that are
+  hairy and sticky.
+
+FLOWERING PERIOD: May t o JU~Y.
+
+HABITAT: Old fields, power line cuts, roadsides, meadows,
+ and pastures.
+
+HARVEST: Bark of stem and roots, ripe fruit, and leaves..
+
+USES: The dried ripe fruit of sumac is valuable as a source of
+  tannic acid. Preparations of these h i t s are effective as
+  astringents, antidiuretics, and tonics. In Appalachia, leaves
+  are smoked to treat asthma. The sterns produce a         dye.
+RHUS GLABRA L.
+
+(ANACARDIACEAE)
+                  RUMEX CRZSPUS L.
+
+                     (POLYGONACEAE)
+
+COMMON NAMES: Curly dock, bitter dock, curled dock,
+  dock, garden patience, narrow dock, sour dock, yellow dock.
+
+DESCRIPTION: A perennial that grows to 5 feet in height.
+  Leaves' are 6 t o 12 inches long, linear, and curly-edged.
+  Produces yellow to green flowers in panicles, and dense
+  spikes of winged triangular seeds.
+
+FLOWERING PERIOD: April to August.
+
+HABITAT: Pastures, fields, and waste lands.
+
+HARVEST: Roots, in late summer and fall.
+
+USES: The roots of this plant are reportedly valuable as an
+  astringent and mild laxative. In Appalachia, the root is placed
+  in vinegar and the wash is used to treat ringworm; the leaves
+  are used in a poultice to treat hives. The Indians used the
+  root for a yellow dye.
+RUMEX CRZSPUS L.
+
+ (POLYGONACEAE)
+                     SALZX ALBA L.
+
+                       (SALICACEAE)
+
+COMMON NAMES: White willow, European white willow.
+
+DESCRIPTION: A tree that grows to 80 feet in height, with
+  spreading and drooping branches. Branchlets are often silky
+  white when young; later they turn olive-brown. Leaves are 1
+  112 to 4 inches long, very narrow, sharp-pointed, very finely
+  toothed, shiny green above and silky white below. Flowers
+  occur in catkins.
+
+FLOWERING PERIOD: April t o May.
+
+HABITAT: Stream banks, roadsides, and shaded moist areas.
+
+HARVEST: Bark during flowering time; buds in spring.
+
+USES: The therapeutic value of white willow buds is similar to
+  that of Populus species. The bark is reportedly an expecto-
+  rant, hemostatic, astringent, and tonic. In Appalachia, leaves
+  and bark of different willows are used in a tea t o break up
+  fever.
+SALZX ALBA L.
+
+ (SALICACEAE)
+                SALZX NZGRA MARSH.
+
+                       (SALICACEAE)
+
+COMMON NAMES: Black willow, pussy willow, swamp
+  willow, willow.
+
+DESCRIPTION: A tree that often grows t o 40 feet in height,
+  but may reach 100 to 120 feet. Leaves are very narrow, 3 to
+  6 inches long and up t o 314 inch wide, sharp-pointed, finely
+  toothed, short-stemmed. Twigs are slender, reddish brown,
+  and usually brittle. Produces male and female flowers in
+  separate catkins; male catkins are 1 t o 2 inches long and the
+  female 1 112 t o 3 inches long.
+
+FLOWERING PERIOD: April t o June.
+
+HABITAT: Banks of streams, lake shores, and in rich, low
+ woods.
+
+HARVEST: Strip bark with buds from 2- or 3-year-old
+ branches in spring.
+
+USES: The buds and bark are used for the same purposes as
+  those of S. alba.
+SALZX NZGRA MARSH.
+
+    (SALICACEAE)
+               SALVZA OFFZCZNALZS L.
+
+
+
+COMMON NAMES: Garden sage, meadow sage, sage, scarlet
+  sage, true sage.
+
+DESCRIPTION: A fuzzy perennial that grows to 2 112 feet in
+  height. Leaves are lanceolat e t o narrowly elliptic, with
+  rounded teeth, narrowing at base t o long petioles. Flowers
+  are in whorls of 4 to 8 in terminal spikes, blue or white.
+
+FLOWERING PERIOD: July 'to September.
+
+HABITAT: Dumps, waste lands, and gardens.
+
+HARVEST: Herb at flowering time ;leaves.
+
+USES: Sage reportedly has many therapeutic uses. The drug is
+  an astringent and carminative. In Appalachia, it was thought
+  t o serve as a laxative and a gargle; and it was used to treat
+  baldness, loose teeth, and gas. European research suggests
+  estrogen is present but has not been isolated. It has been used
+  t o help achieve regularity of menstrual period. However, its
+  major use is for culinary purposes.
+SALVZA OFFZCZNALZS L.
+
+     (LAMIACEAE)
+         SANGUZNARZA CANADENSZS L.
+
+                      (PAPAVERACEAE)
+
+COMMON NAMES: Bloodroot, coonroot, pauson, puccoon,
+  puccoon root, red Indian paint, red puccoon, redroot,
+  snakebite, sweet slumber, tetterwort, turmeric, white puc-
+  coon.
+
+DESCRIPTION: A perennial that grows t o 6 to 14 inches in
+  height, with a solitary leaf-stem. Leaves are palmately lobed
+  around outer edge. In early sping, produces white flowers 1
+  t o 2 inches in width. A distinctive characteristic of this plant
+  is the red juice produced by the root.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Deep, cool, moist, deciduous woodland slopes; rich
+ woods.
+
+HARVEST: Rootstock a t time of flowering, in late summer or
+ early fall.
+
+USES: This plant is extremely poisonous. It is a source of
+  morphine, and improper use should be avoided. The drug is
+  an emetic, laxative, and emmenagogue; and because of its
+  expectorant qualities, it has been used t o treat chronic
+  bronchitis. The plant is used both as a pain reliever and a
+  sedative. When combined with oak bark, the roots give a red
+  dye. In Appalachia, a piece of bloodroot is sometimes carried
+  as a charm t o ward off evil spirits.
+SANGUZNARZA CANADENSZS L.
+
+      (PAPAVERACEAE)
+      SASSAFRAS ALBZDUM (NUTT.)NEES
+
+                         (LAURACEAE)
+
+COMMON NAMES: Sassafras, ague tree, cinnamon wood,
+  common sassafras, red sassafras, saxifras, smelling stick,
+  white sassafras.
+
+DESCRPTION: A tree that grows to 40 feet in height. Twigs
+  are green and produce leaves of 3 different shapes: 3-lobed,
+  2-lobed or mitten-shap;d, and unlobed. All parts of the tree
+ have a spicy aroma. Fragrant, yellowish-green flowers are
+ borne in clusters. Mde and female flowers are usually borne
+  on different trees. In September the female flowers develop
+  into dark blue h e e d e d berries, about pea size, that are borne
+  on a thick red stalk.
+
+FLOWERING PERIOD: March t o April.
+
+HABITAT: Along fence rows; in open woods and abandoned
+  fields, and on dry ridges.
+
+HARVEST: Root bark in spring and autumn; entire root in
+ fall.
+
+USES: The root bark can be used t o prepare a tea. Root
+  material can be distilled t o make sassafras oil, which is used
+  mainly as a flavoring agent in beverages, confectionery tooth
+  paste, and the like. The tea has been used as a diaphoretic,
+  stimulant, diuretic, and carminative; and it is used in
+  Appalachia to treat bronchitis. The bark is reportedly used
+  also as an insect repellent. Colonial Americans were advised
+  to chew the bark of this tree to break the tobacco habit.
+  Sassafras leaves have been used as a dye t o make a soft yellow
+  tan. And some research suggests that, under certain condi-
+  tions, the leaves may be carcinogenic.
+SASSAFRAS ALBZDUM (NUTT.) NEES
+
+          (LAURACEAE)
+       SCROPHULARlA MARZLANDZCA L.
+
+                  (SCROPHULARIACEAE)
+
+COMMON NAMES : Maryland figwort, brownwort, bullwort,
+  Carpenter's square, figwort, great pilewort, heal-all, Holme's
+  weed, kernelwort, knotted root, murrian grass, pilewort,
+  scrofula plant, square stalk, stinking Christopher.
+
+DESCRIPTION: A perennial that grows to 9 feet in height,
+  with 4angled stems. Leaves are opposite, thin, 3 to 12 inches
+ )long, with toothed margins, ovate or rounded and broad at
+  base, tapering t o a point at tip. The small reddish-brown
+  flowers are loosely arranged on irregular thin branches at the
+  top of the plant.
+
+FLOWERING PERIOD: June to October.
+
+HABITAT: Rich woods and thickets, open woodlands, fallow
+  fields, and roadsides.
+
+HARVEST: Leaves, roots, and herb at flowering time.
+
+USES: The herb is used as a tonic, diuretic, diaphoretic, and in
+  reducing hemorrhoids.
+             SCUTELLARZA LATERZFLORA L.
+
+                            (LAMIACEAE)
+
+    COMMON NAMES: Sideflowering skullcap, American skullcap,
+      blue pimernel, blue skullcap, helmet flower, hooded willow
+      herb, hoodwort, maddog, mad-dog skullcap, mad-dog weed,
+      rnadweed, skullcap.
+
+    DESCRIPTION: An erect widely-branched perennial that
+     grows to 30 inches in heibht. The stem is slender and Csided.
+      Leaves are thin, 1 t o 4 inches long, ovate, pointed, coarsely
+      serrated, and opposite. The flowers are blue, %lipped, and
+      arranged along spikes in each of the upper leaf ax&.
+
+    FLOWERING PERIOD: July t o October.
+
+    HABITAT: Alluvial thickets, meadows, swampy woods, moist
+_    areas, and shaded areas.
+
+    HARVEST: Herb in early summer.
+
+    USES: The plant has been used for treating hydrophobia, but
+      without much success. It is reputed to be a nervine, tonic,
+      diuretic, and antispasmodic.
+SCUTELLARZA LATERIFLORA L.
+
+        (LAMIACEAE)
+                SENECZO AUREUS L.
+
+                       (ASTERACEAE)
+
+COMMON NAMES: Golden ragwort, butterweed, cocashweed,
+  coughweed, false valerian, female replator, golden g o undsel,
+  golden senecio, groundsel, liferoot, ragwort, squawweed,
+  swamp squawweed, uncum, waxweed, wild valerian.
+
+DESCRIPTION: A perennial that grows t o 1 t o 2 112 feet in
+  height, with 1 to several erect flowering stems. The slender
+  basal leaves are heart-shaped and long petioled (to 6 inches);
+  the rest of the stem leaves are variously cleft, with lobes
+  arranged on either side of the main mid-vein of the leaf. The
+  spring-blooming composite flowers are yellow. The roots are
+  characterized by horizontal creeping.
+
+FLOWERING PERIOD: March t o June.
+
+HABITAT: Rich calcareous woods and bottoms, upland
+ swamps, and humid areas.
+
+HARVEST: Root; herb in May when flowering; entire plant
+ before flowering.
+
+USES: As the common name, "coughweed", would indicate,
+  the herb is an expectorant and pectoral. In addition t o these
+  qualities, it is listed as an emmenagogue and vulnerary.
+SENECIO AUREUS L.
+
+   (ASTERACEAE)
+           SOLANUM CAROLZNENSE L.
+
+                      (SOLANACEAE)
+
+COMMON NAMES: Horse nettle, apple of Sodom, ball nettle,
+  bull nettle, Carolina horse nettle, nightshade, sand brier,
+             .
+  tread-softly
+
+DESCRIPTION: A prickly erect perennial that grows t o 3 feet
+  in height. Leaves are shallowly lobed pinnately, broad, with
+  yellow thorns on veins beneath. Flowers are pale violet to
+  white. Fruit is a yellow berry.
+
+FLOWERING PERIOD: May to September.
+
+HABITAT: Sandy openings, dry fields, waste lands, and road-
+ sides.
+
+HARVEST: Berries, leaves, and rootstock in the fall.
+
+USES: This plant is extremely poisonous. The berries, when
+  properly prepared, have been used as diuretics, antispas-.
+  modics, anodynes; and according t o the U. S. Dispensatory,
+  they have also been used in a treatment for epilepsy.
+SOLANUM CAROLZNENSE L.
+
+      (SOLANACEAE)
+          SORBUS AMERICANA* MARSH.
+
+                            (ROSACEAE)
+
+COMMON NAMES: American mo untainash, American rowan
+  tree, American service tree, dogberry, Indian mozemize,
+  life-of-man, masse-rnisse, missy-massy, missey-moosey, moun-
+  tain ash, mountain sumach, quick beam, round tree, round-
+  wood, wild ashe, wine tree, witchwood.
+
+DESCRIPTION: A shrub or small tree that grows t o 30 feet in
+  height. Bark is smooth and light gray. Compound leaves
+  consist of 11 t o 17 narrow, pointed, toothed leaflets about 1
+ 114 t o 4 inches long. White flowers appear in dense, round, or
+  flatish clusters about 3 t o 6 inches across. Large, dense,
+  showy clusters of bright red berries about the size of peas
+  appear in late fall.
+
+FLOWERING PERIOD: June t o July.
+
+HABITAT: Evergreen forests and waste areas.
+
+HARVEST: Bark and fruit.
+
+USES: The berries have been used t o treat scurvy and as a
+  vemifuge. Bark preparations have been used for biliousness.
+
+  *Synonym = Pyrus americana (Marsh) D.C.
+SORBUS AMERICANA* MARSH.
+
+        (ROSACEAE)
+            SPZGELZA MARZLANDZCA L.
+
+                      (LOGANIACEAE)
+
+COMMON NAMES: Pinkroot spigelia, American wormroot,
+  Carolina pink, Carolina pinkroot, Indian pink, Maryland
+  pinkroot, perennial wormgrass, pinkroot, snakeroot, star
+  bloom, unstilla, wormgrass.
+
+DESCRIPTION: A perennial that grows to 1 to 2 feet in
+  height. Leaves are opposite, without a petiole, lanceolate t o
+  broadly oval. Flowers are funnel-like, red on.. the outside,
+  yellow on the inside, arranged on one side of a single spike.
+  The funnel forms five lobes at the open end.
+
+FLOWERING PERIOD: May to June.
+
+HABITAT: Rich woods.
+
+HARVEST: Rootstock after flowering in early fall.
+
+USES: The root is used as a vermifuge, anthelmintic, and
+  cathartic. Some authorities say it is also a narcotic. In
+  Appalachia, a tea made from the leaves is used to aid
+  digestion.
+SPZGELZA MARZLANDZCA L.
+
+      (LOGANIACEAE)
+        STELLARIA M E D I A (L.) CYRILLO
+
+                  (CARYOPHYLLACEAE)
+
+COMMON NAMES: Chickweed, adder's mouth, common
+  chickweed, satin flower, starwort, stitchwort, tongue grass,
+  white bird's eye.
+
+DESCRIPTION: An annual that grows to 12 inches in height.
+  The plant is weak, with matted t o upright trailing stems.
+  Lower and median leaves are ovate; upper leaves are sessile
+  and highly variable. Solitary flowers have 4 to 5 star-shaped
+  white petals that are 2-cleft.
+
+FLOWERING PERIOD: January to March.
+
+HABITAT: Found in dooryards, cultivated ground, waste land,
+ damp woods, thickets, and gardens.
+
+HARVEST: Herb.
+
+USES: The herb is classed as a refrigerant, demulcent, and
+  expectorant.
+STELLARIA MEDIA (L.) CYRILLO
+
+      (CARYOPHY LLACEAE)
+            STZLLZNGZA SYLVATZCA L.
+
+                    (EUPHORBIACEAE)
+
+COMMON NAMES: Q ~ e e n s d e l i ~ h t ,cock-up-hat, cocyshat ,
+  rnarcony, nettle potato, queen's delight stillingia, queen's
+  root, silver leaf, stillingia, yaw root.
+
+DESCRIPTION: A ~erennialthat grows t o 3 feet in height. It is
+  a milky-juiced plant with fleshy, crowded, leathery, stemless
+  leaves that vary in shape: some are round, others sharply
+  sawtoothed. Flowers are yellow.
+
+FLOWERING PERIOD: May to J U ~ ~ .
+
+HABITAT: Sandy, dry soil, pine barrens, old fields, and forest
+ openings.
+
+HARVEST: Rootstock in August or September.
+
+USES: The root has been classed as emetic, cathartic, and
+  diuretic.
+STZLLZNGZA SYLVATZCA L.
+
+     (EUPHORBIACEAE)
+TANACETUM VULGARE L.
+
+     (ASTERACEAE)
+      TEPHROSZA VZRGZNZANA ( L . ) PERS.
+
+                        (FABACEAE)
+
+COMMON NAMES: Virginia tephrosia, catgut, devil's shoe
+  strings, goat's rue, hoary pea, rabbit pea, turkey pea.
+
+DESCRIPTION: A perennial that grows t o 2 feet in height.
+  Stem is erect, simple, and leafy to the top, with narrowly
+  elliptic leaflets arranged compoundly on either side of main
+  stem, which is hairy. Flowers are large and densely cluttered
+  on a terminal spike; they are yellowish white marked with
+  purple. The podlike fruits are heavy and hairy, about 2 inches
+  long.
+
+FLOWERING PERIOD: Mid-May to August.
+
+HABITAT: Dry, sandy woods and openings.
+
+HARVEST: Herb in summer; roots in fall.
+
+USES: The root of this plant is used as an insecticide and,
+  according t o the U. S. Dispensatory, as a vermifuge.
+TEPHROSZA VZRGZNZANA ( L . ) PERS.
+
+            (FABACEAE)
+             TIARELLA CORDZFOLZA L.
+
+                     (SAX! F RAGACEAE)
+
+COMMON NAMES: Allegheny foamflower, coalwort, cool-
+  wort, false bitterwort, false miterwort, foam flower, gem
+  fruit.
+
+DESCRIPTION: A perennial that grows t o 1 foot in height.
+  The heart-shaped leaves are broad, shallowly lobed, toothed,
+  4 inches across. Flower petals are lanceolate, white or
+  pinkish, and arranged on a spike-like stem.
+
+FLOWERING PERIOD: A p d to July.
+
+HABITAT: Rich woodlands and uplands.
+
+HARVEST: Herb during flowering; root in fall.
+
+USES: This herb is reputed to be useful as a tonic and diuretic.
+  The root is classed as a diuretic and pectoral.
+TIARELLA CORDZFOLZA L.
+
+    (SAXIFRAGACEAE)
+              TRZFOLZUM PRATENSE L.
+
+                         (FABACEAE)
+
+COMMON NAMES : Red clover, broadleaved clover, cleaver
+  grass, common clover, common red clover, cow clover,
+  meadow clover, purple clover, sweet clover.
+
+DESCRIPTION: A biennial or perennial legume, with long-
+  petioled, tri-foliolate leaves, each with 3 oval-shaped leaflets.
+  The gobular to ovate flower heads are dense and roseate
+  colored.
+
+FLOWERING PERIOD: May to September.
+
+HABITAT: Roadsides, clearings, turf, fields, and meadows.
+
+HARVEST: Flowers and herb.
+
+USES: The flowers of this plant are therapeutically used as an
+  antispasmodic, expectorant, sedative, and vulnerar~.The U.
+  S. Dispensatory reports that the flowers have been used in
+  some anti-asthma cigarettes. In central Europe, clover has
+  been used to regulate digestive functions, t o improve the
+  appetite, and to treat liver ailments.
+TRZFOLZUM PRATENSE L.
+
+      (FABACEAE)
+    TRZLZSA ODORATZSSZMA (WALT.) CASS
+
+                        (ASTERACEAE)
+
+COMMON NAMES : Vanilla trilisa, deerstongue, dogt ongue,
+  vanilla leaf, vanilla plant .
+
+DESCRIPTION: An erect, stout perennial that grows to 2 to 3
+  feet in height. ~ a s a leaves are large, smooth, spatula-like,
+  with st em-clasping leaves diminishing as they ascend the
+  stem. Leaves are alternate, and up to 10 inches long. Foliage
+  is vanilla-scented. Flowers are in flat-topped purplish clusters.
+
+FLOWERING PERIOD: July t o September.
+
+HABITAT: Open, low pine forests of the Southeast, damp
+  fields, and barrens.
+
+HARVEST: Leaves in early summer to fall.
+
+USES: The herb has no reported drug use. However, it is used
+  as a blend with tobacco, and because it is high in coumarin it
+  has been used t o flavor medicinal compounds.
+TRZLZSA ODORATZSSZMA (WALT.) CASS
+
+           (ASTERACEAE)
+               TRILLIUM ERECTUM L.
+
+                         (LI LIACEAE)
+
+COMMON NAMES: Purple trillium, bath flower, bathwort,
+  bethroot, bettroot, birthroot, birthwort, bumblebee root,
+  daffy down-dilly , dishcloth, ground lily, illscented trillium,
+  illscented wakerobin, Indian balm, Indian shamrock, lamb's
+  quarters, nosebleed, orange blossum, purple wakerobin,
+  rattlesnake root, red Benjamin, red trillium, red wakerobin,
+  squaw flower, squaw root, stinking Benjamin, three-leaved
+  nightshade, trillium, true love, wakerobin, wood lily.
+
+DESCRIPTION: A perennial that grows to 1 t o 2 foot in
+  height. It has a single stout stem with a whorl of 3 broad
+  leaves at the top, and a single brown or greenish purple
+  ill-scented flower growing from the center of the whorl of
+  leaves.
+
+FLOWERING PERIOD: Aprd to early June.
+
+HABITAT: Rich, damp, shady woods.
+
+HARVEST: Root in late summer or fall.
+
+USES: The plant has been used as an antispasmodic, emmena-
+  gogue, emetic, expectorant, and uterine astringent. The
+  Indians of Appalachia cooked pieces of the root in food as an
+  aphrodisiac.
+TRILLIUM ERECTUM L.
+
+     (LILIACEAE)
+        TSUGA CANADENSZS (L.) CARR.
+
+                         (PI NACEAE)
+
+COMMON NAMES: Eastern hemlock, Canada hemlock, hem-
+  lock, hemlock fir, hemlock spruce, hemlock spruce pine,
+  spruce pine, tan-bark tree, weeping spruce.
+
+DESCRIPTION: An evergreen tree, usually 60 to 70 feet in
+  height. Leaves are 113- t o 213-inch long, needle-like, flat-
+  tened, tapering from base t o tip, bright green above, light
+  silvery green with 2 white streaks below. Cones are small, 112
+  t o 314 inch long. Bark is dark reddish-brown, and deeply
+  furrowed.
+
+FLOWERING PERIOD: April t o early June.
+
+HABITAT: Hilly, mountainous, rocky woods, upland loams,
+  moist benches, and swamp borders.
+
+HARVEST: Bark and resin, which is collected by cutting the
+  trunk of the tree.
+
+USES: The bark has been used primarily because of its tannin
+  content, which makes it a strong astringent. Resin is used as a
+  mild rubefacient and veterinary liniment.
+TSUGA CANADENSIS ( L . ) CARR.
+
+          ( P I NACEAE)
+               ULMUS RUBRA MUHL.
+
+
+
+COMMON NAMES: Slippery elm, American tree, elm, gray
+  elm, Indian elm, moose elm, red elm, rock elm, soft elm,
+  sweet elm, tawny elm.
+
+DESCRIPTION: A tree 60 t o 70 feet in height, with dark green
+  leaves 5 t o 7 inches long, 2 t o 3 inches wide, nearly
+  oval-shaped, rough above and hairy beneath. Twigs are rough
+  and ashy gray in color. Buds are dark colored and hairy. Buds
+  a t branch ends usually have orange tips. Inner bark is
+  mucilaginous with a somewhat aromatic flavor.
+
+FLOWERING PERIOD: Late February t o early May.
+
+HABITAT: Rich soil, often calcareous, stream banks, river
+  terraces, bottom lands; also on dry and poor sites.
+
+HARVEST: Inner bark.
+
+USES: Upon soaking in warm water, the inner bark of this tree
+  produces a mucilage that can be used as a protective,
+                                                 .
+  demulcent, emmolient , laxative, and vulnerary The pollen 'is
+  allergenic. In Appalachia, a tea made from the bark is used as
+  a laxative.
+ULMUS RUBRA MUHL.
+
+    (ULMACEAE)
+              VERATRUM VZRZDE AIT.
+
+                         (LI LIACEAE)
+
+COMMON NAMES: White hellebore, American falsehellebore,
+  American hellebore, American white hellebore, bearcorn,
+  big-bane, common swamp hellebore, devil's-bite, false helle-
+  bore, green hellebore, Indian poke, itchweed, pokeroot,
+  swamp hellebore.
+
+DESCRIPTION: A perennial that is coarse, erect, 2 t o 8 feet in
+  height. Stems are leafy, unbranched, and grow &om short,
+  thick rootstock to 1 foot long. Leaves are alternate, broadly
+  ovate t o elliptical, entire, with parallel veining. Flowers are
+  greenish-white t o purple, inconspicuous, and in pyramidal
+  panicles 2 feet long.
+
+FLOWERING PERIOD: May to July.
+
+HABITAT: Swamps and low ground, meadows, and banks of
+ streams.
+
+HARVEST: Roots in fall after leaves have died.
+
+USES: This plant is very poisonous. Its dried roots and
+  rhizomes, when properly prepared, are a strong cardiac
+  stimulant drug. It is emetic, diaphoretic, sedative, and
+  analgesic.
+VERATRUM VZRZDE AIT.
+
+     (LI LIACEAE)
+              VERBASCUM THAPSUS L.
+
+                   (SCROPHULARIACEAE)
+
+COMMON NAMES: Common mullein, Aaron's rod, Adam's
+  flannel, blanket leaf, bullock's lungwort, candlewick, cow's        ,
+  lungwort, feltwort, flannel leaf, flannel mullein, flannel plant,
+  great mullein, hare's beard, hedge taper, ice leaf, Indian
+  tobacco, Jacob's staff, Jupiter's staff, lady's foxglove, mul-
+  lein, mullein dock, old man's flannel, Peter's staff, shepherd's
+  club, torch-wort ,velvet dock, velvet plant.
+
+DESCRIPTION: A tall, weedy, unbranched, biennial that
+                                    a
+
+
+
+
+  grows to 7 feet in height. It is hairy and soft. Leaves are
+  widely oblanceolate and oblong 2 t o 12 inches long. Flowers
+  are yellow, densely arranged along a terminal club-like spike.
+
+FLOWERING PERIOD: Late June t o September.
+
+HABITAT: ~ i e l d s ,rocky or gavefly banks, waste lands, road-
+ sides, embankments, pastures, and meadows.
+
+HARVEST: Leaves, and flowers, when fully open.
+
+USES: The leaves and flowers are classed as astringent, antitus-
+  sive, respiratory sedative, antifungal, and anodyne. A tea
+  made &om the leaves is used in Appalachia for colds. The
+  Greeks and Romans dipped dried stalks in wax and used
+  them as candles. The Spanish people of New Mexico smoked
+  the dried leaves, wrapped in corn husks, as a treatment for
+  asthma.
+VERBASCUM THAPSUS L.
+
+  (SCROPHULARIACEAE)
+               VERBENA HASTATA L.
+
+                      (VE RBENACEAE)
+
+COMMON NAMES: Blue vervain, blue verbena, ironweed,
+  simpler's joy, verbain, wild hyssop.
+
+DESCRIPTION: A perennial that grows t o 4 feet in height,
+  branched above. Leaves are serrated and-3-lobed with 2 sharp
+  lobes arising fiom the base. Produces blue or blue-violet
+  flowers on numerous narrow terminal spikes.
+
+FLOWERING PERIOD: July t o September.
+
+HABITAT: Swales, damp thickets, shores, moist fields, mead-
+ ows, and waste areas.
+
+HARVEST: Herb and root.
+
+USES: This herb reportedly has been used as an astringent,
+  antipyretic, vulnerary, antirheumatic, tonic, and expectorant.
+VERBENA HASTATA L.
+
+   (VERBENACEAE).
+ VERONZCASTRUM VZRGZNICUM (L.) F ~ R W .
+
+                  (SCROPHULARIACEAE)
+
+COMMON NAMES: Culver's physic, Beaumont root, black-
+  root, bowman's root, culver's root, physic root, tall speed-
+  well, whorlywort.
+
+DESCRIPTION: An erect, unbranched, smooth perennial that
+  grows to 7 feet in height. Leaves are narrowly lanceolate and
+  in whorls of 3 to 9 around the stem joints. Flowers are white
+  to bluish, and crowded in several dense spikes on top of
+  plant.
+
+FLOWERING PERIOD: June to September.
+
+HABITAT: Rich woods, thickets, moist meadows, and prairies.
+
+HARVEST: Rhizomes and roots.
+
+USES: The rhizome is reputed t o be a laxative, emetic,
+  cholagogue, and tonic.
+VERONZCASTRUM VZRGZNZCUM ( L . ) FARW.
+
+          (SCROPHULARIACEAE)
+VIBURNUM NUDUM L.
+
+  (CAPRI FOLIACEAE)
+           VIBURNUM PRUNZFOLZUM L.
+
+
+
+COMMON NAMES: Black haw, blackhaw viburnum, cramp
+  bark, sheepberry, shonny, sloe, sloe-leaved viburnum, stag-
+  bush, sweethaw.
+
+DESCRIPTION: A perennial shrub or small tree, 10 to 20 feet
+  in height, with spreading branches. The dullcolored leaves
+  are broadly ovate, opposite, and petioled, with finely serrated
+  margins. Produces white flowers and dullish black oval fruit.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Thickets, borders of woods, and shores.
+
+HARVEST: Bark of root or stem in the fall.
+
+USES: This plant has the same qualities as V. nudum. In
+  Appalachia, a root tea is used as a tonic.
+V I B U R N U M PRUNZFOLZUM L.
+
+      (CAPRI FOLIACEAE)
+  XANTHORHZZA SZMPLZCZSSZMA MARSH.
+
+                   (RANUNCULACEAE)
+
+COMMON NAMES: Yellow root, shrub yellowroot.
+
+DESCRIPTION: A perennial low shrub that grows to 1 112 feet
+  in height, with bright yellow wood. It bears a cluster of
+  compound leaves, each with 5 lanceolate to broadly ovate,
+  toothed, incised, or parted leaflets. Produces small brown-
+  purple flowers on thin spikes.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Damp woods, thickets, and stream banks.
+
+HARVEST: Roots in fall.
+
+USES: The roots are reputed to be valuable for making a bitter
+  tonic and as a treatment for dyspepsia.
+XANTHORHZZA SZMPLZCZSSZMA MARSH.
+         (RANUNCULACEAE)
+    XANTHOXYLUM AMERZCANUM MILL.
+                       :   (RUTACEAE)
+
+COMMON NAMES: Pric klyash, American pricklyash, common
+  pricklyash, northern pricklyash, pellitory bark, toothache
+  bush, toothache tree, yellow wood.
+
+DESCRIPTION: A shrub or small tree 5 t o 10 feet in height.
+  Leaves are alternate and compound, with 5 to 11 leaflets.
+  Stems and petioles are often prickly. Flowers are greenish-
+  white, small, and inconspicuous. Fruit is a reddish, globular
+  to elliptic,aromatic capsule.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Rich woods and river banks.
+
+HARVEST: Bark of stem in spring and fall, and fruit when
+ ripe.
+
+USES: Preparations made &om the bark of this tree are
+  reportedly used as a sudorific or diaphoretic, tonic, and
+  antispasmodic. The fruit has some flavoring qualities also.
+X A N T H O X Y L U M AMERZCANUM MILL.
+
+             (R UTACEAE)
+     XANTIHOXYLUM CLAVA-HERCULZS L.
+
+                       (RUTACEAE)
+
+COMMON NAMES: ~ercu1es'-club prickly ash, Herculesclub,
+  pepper wood, pricklyash, shrubby pricklyash, southern prick-
+  lyash, toothache tree, wild orange.
+
+DESCRIPTION: A shrub or small tree 5 to 10 feet in height.
+  Leaves are alternate, compound with 5 t o 11 leaflets. Stems
+  and petioles are often prickly. Flowers are greenish-white,
+  small, and inconspicuous. Fruit is a reddish, &obular t o
+  elliptic aromatic capsule, with sharp prickles.
+
+FLOWERING PERIOD: April to May.
+
+HABITAT: Sand h a s , dry woods, and thickets.
+
+HARVEST: Bark collected in spring and f d when ripe.
+
+USES: This plant has been used as a sudorific and diaphoretic.
+INDEX OF COMMON PLANT NAMES
+Aaron's rod                 American spindle tree
+Adam-and-Eve root           American storax
+Adam's flannel              American sweetgum
+Adder's mouth               American tormentil
+Ague grass                  American tree
+Ague horn                   American twinleaf
+Agueroot                    American valerian
+Ague tree                   American vegetable tallow
+Ague-weed                   American vegetable wax
+Alder                       American walnut
+Aletris root                American wormroot
+Alexanders                  American wormseed
+Allegan y foam flower       American white i s h
+Allspice bush               American white hellebore
+Aloe                        American white pine
+Aloeroot                    Amyroot
+Alum bloom                  Angelica
+Alumraot                    Apple of Peru
+Amaranth                    Apple of Sodom
+Ambrosia                    Apple Peru
+Ambrosia-like chenopodium   Apricot vine
+American alder              Archangel
+American angelica           Aroma& wintergreen
+American ash                Arrow-wood
+American barberry           Arsmart
+American bee balm           Ash
+American bugbane            ~sthma  weed
+American deal pine          Astringent root
+American falsehellebore     Atlantic yam
+American falsepennyroyal    Aunt Jerichos
+American fringe tree
+American ginseng            Backache root
+American hellebore          Ball nettle
+American hemp               Balrrl buds
+American ipecac             Balm of Gilead
+American kind               Balmony
+American maidenhair         Balsam poplar
+American mountainash        Barberry
+American nightshade         Bath flower
+American pennyroyal         Bathwort
+American pricklyash         Battlc weed
+American rowan tree         Bayberry
+American sarsaparilla       Bayberry tallow
+American service tree       Bayberry wax tree
+American skullcap           Bearcorn
+American spikenard          Bearing myrica
+Dragon grape             Fluxroot                         70
+Dragonhead               Fly tra                          50
+Dragon root              Foam Rower                      250
+Dragon's claws           Fork-leaf white oak             212
+Dragon's tongue          Fragrant wintergreen             90
+Dragon turnip            French psyllium                 196
+Drug sweetflag           Fringe tree                      92
+Duck's foot
+Dutchmanspi e            Gagroot                        164
+~warf  grounBnut         Garantogen                     186
+Dwarf juniper            Garden mint                    174
+Dwarf solomon's seal     Garden patience                2 18
+Dyer's baptisia          Garden sage                    224
+                         Garentoquere                   186
+Eastern black walnut     Garget                         190
+Eastern hemlock          Gelsemium                      130
+Eastern redcedar         Gem fruit                      250
+Eastern wahoo            Gensang                        186
+Eastern white pine       Georgia pine                   192
+Elm                      Ginger plant                   246
+Emetic herb              Ginseng                        186
+Emetic weed              Glabrous hemp                    52
+English cost             Goat's rue                     248
+Ery ngo                  Golden buttons                 2 46
+European barberry        Golden groundsel               234
+European white willow    Golden ragwort                 234
+Evening trumpet flower   Goldenroot                     144
+Evergreen                Goldenseal                     144
+Eyebalm                  Golden senecio                 234
+Eyebrigh t               Goose foot                       86
+Eyeroot                  Goosefoot maple                  28
+                         Goosegrass                     126
+Fairywand                Goose's hare                   126
+False bitterwort         Gordoloba                        30
+False cohosh             Gorst                          15 2
+False colt's foot        Grantogen                      186
+False hellebore          Gravelroot                     120
+False indigo             Graybeard tree                   92
+False jasmine            Gray elm                       260
+False jessamine          Great angelica                   46
+False miterwort          Great burdock                    58
+False sarsaparilla       Great mullein                  264
+False unicorn            Great pilewort                 230
+False unicorn root       Green alder                      42
+False valerian           Green amaranth                   44
+Fat pine                 Green arrow                      30
+Feltwort                 Green hellebore                262
+Female regulator         Green opened amaranth            44
+Fern bush                Green-stemmed joe-pyeweed      120
+Ferngale                 Ground holly                90,128
+Ferngate                 Ground ivy                     128
+Feverbush                Ground juniper                 152
+Feverweed                Ground lemon                   198
+Feverwort                Ground lily                    256
+Field balm               Ground raspberry               144
+Field lobelia            Groundsel                      234
+Figwort                  Ground squirrel pea            146
+Filnut                   Grouse berry                   128
+Fishmouth                Grub root                        82
+Five fingers             Guild tree                       74
+Flagroo t                Gypsyweed                      166
+Flannel leaf             G y psywort                    166
+Flannel mullein
+Flannel plant            Hackmatac k                 152, 206
+Fleaseed                 Hair fern                         36
+Flowering ash            Hairy solomon's seal             202
+Lion's ear              Mountain berry
+Lion's tail             Mountain black cherry
+Lion's tart             Mountain bugbane
+Liquid storax           Mountain flax
+Liverleaf               Mountain mahogany
+Liverwort               Mountain maple
+Lobelia                 Mountain maple bush
+Long boughs             Mountain mint
+Longleaf pine           Mountain rattle top
+Longleaf yellow pine    Mountain sumac
+Longstraw pine          Mountain tea
+Lords and ladies        Mountain teaberry
+Love-in-winter          Mullein
+Love lies bleeding      Mullein dock
+Low balm                Murrian grass
+Low maple               Myrtle
+                        Myrtle flag
+Mad apple
+Mad dog                 Narrow dock
+Mad-dog skullcap        Nasturtium
+Mad-dog weed            Nerve root
+Madweed                 Nettle potato
+Maidenhair              New England pine
+Maidenhair fern         New Jersey tea
+Mandrake                Niggerweed
+Man's health            Nightshade
+Manroo t                Ninsin
+Maple vine              Nip
+Marcony                 Noble liverwort
+Marrhue                 Noble pine
+Marrub                  Northern pine
+Marrubium               Northern pricklyash
+Marsh gentian           Northern white pine
+Marsh milkweed          Nosebleed
+Marshpepper smartweed   Notch-leaved alder
+Maryland figwort
+Maryland pinkroot       Obelia
+Marvel                  Ohio curcuma
+Masse-misse             Oilnut
+Masterwort              Old maid's-nightcap
+Masterwort aromatic     Old man's beard
+Mayapple                Old man's flannel
+Maypop                  Old man's pepper
+Maypop herb             Old man's root
+May pop passionflower   One berry
+Meadow clover           Orange apocynum
+Meadow fern             Orange blossum
+Meadow-rue leontice     Orange milkweed
+Meadow sage             Orange root
+Meadow turnip           Orange swallow-wort
+Mealy starwort          Oswego beebalm
+Memory root             Oswego tea
+Mexican tea             Our-lady 's-thistle
+Mil foil                Ox balm
+Milk ipecac
+Milksweet               Papoose root
+Milkweed                Parsley fern
+Milkwort                Partridgeberry
+Missy-massy             Passionflower
+Missey-mossey           Passion vine
+Mock pennyroyal         Paul's betony
+Moonseed                Pauson
+Moose elm               Pegwood
+Motherwort              Pelican flower
+Mountain ash            Pellitory bark
+Mountain balm           Pencil cedar
+Pennsylvania sumach      Queen-o f-the-meadow
+Pennyroyal               Queensdelight
+Pennyroyal of America    Queen's delight stillingia
+Pepperidge bush          Queen's root
+Peppermint               Quick beam
+Pepper plant             Quillwort
+Pepper turni
+Pepper w o o J           Rabbit's foot
+Pepsissewa               Rabbit pea
+Perennial wormgrass      Racoonberry
+Peter's staff            Ragwort
+Petty morrel             Raspberry
+Physic root              Ratsbane
+Pigeonberry              Rattle bush
+Pigeon weed              Rattle-root
+Pig weed                 Rattlesnake flag
+Pilewort                 Rattlesnake master
+Pine root                Rattlesnake root             82,
+Pine tulip               Rattlesnake weed
+Pinkroot                 Rattletop
+Pinkroot spigelia        Rattleweed
+Pipsissewa               Red alder
+Pistachio                Red balm
+Pitch pine               Red Benjamin
+Plantago                 Redberry
+Plantain                 Red-berry tea
+Pleurisy root            Red cedar
+Pocan                    Red clover
+Pocan bush               Red cockscomb
+Podophyllum              Red elm
+Poison ash               Redgum
+Poke                     Red Indian paint
+Pokeberry                Red-ink plant
+Pokeroot                 Red juniper
+Pokeweed                 Red knees
+Poor robin               Red pollom
+Poplar balsam            Red puccoon
+Possumhaw                Red root
+Possumhaw viburnum       Red sassafras
+Prickly lettuce          Red savin
+Pricklyash               Red shanks
+Priest's pintle          Red sharks
+Prince's feather         Red sunflower
+Prince's pine            Red trillium
+Princess pine            Red wakerobin
+Prostrate juniper        Red wood
+Psyllium                 Reed acorus
+Psyllium seed            Rheumatism root          40,
+Puccoon                  Rheumatism weed
+Puccoon root             Rheumatism wood
+Pudding grass            Ribgrass
+Pukeweed                 Ribwort
+Purple archangel         Richweed
+Purple boneset           Ridge white oak
+Purple clover            River birch
+Purple coneflower        Rock elm
+Purple echinacea         Rock fern
+Purplestem angelica      Rose balm
+Purple strawberry bush   Rosemary pine
+Purple thoroughwort      Round tree
+Purple trillium          Roundwood
+Purple wakerobin         Roxberry
+Pussy willow             Rubber root
+Puttyroot                Rum cherry
+Pyrole                   Running box
+Spotted pipsissewa       Sweet grass
+Spotted thistle          Sweet gum
+Spotted wintergreen      Sweet haw
+Spreading dogbane        Sweet J oe-pyeweed
+Spring cleavers          Sweet Myrtle
+Spring wintergreen       Sweetroot
+Spruce pine              Sweet rush
+Square stalk             Sweet sedge
+Squawberry               Sweet segg
+Squaw flower             Sweet slumber
+Squaw mint
+Squaw root               Tacamahac poplar                  206
+Squaw vine               Tackamahac                        206
+Squawweed                Tag alder                           42
+S tagbush                Tall boneset                      120
+Star bloom               Tallow shrub                      180
+S tarchwort              Tall speedwe11                    268
+Star grass               Tan-bark tree                     258
+Star leaf gum            Tanner's oak                      212
+Star root                Tansy                             246
+S tarwort                Tartar root                       186
+Stave oak                Tawny elm                         260
+St. Benedict's thistle   Teaberry                          128
+Stic kweed               Teagel                            118
+S tillingia              Tetterwort                        226
+Stink apple              Texas sarsaparilla                170
+Stinking balm            Thick birthwort                     64
+Stinking Benjamin        Thic kweed                        138
+Stinking Christopher     Thorn apple                       lo8
+Stinking weed            Thorough-stem                     118
+Stinkweed                Thoroughwax                       118
+Stinkwort                Thoroughwort                      118
+Stitchwort               Thousand-leaf                       30
+Stone oak                Thousand-leaved clover              30
+Stone root               Thousand-seal                       30
+Storax tree              Three-leaved nightshade           256
+Stork bill               Three-leaved wintergreen          128
+S tramonium              Thrice-leaved arum                  62
+Strawberry               Throughstem                       118
+Strawberry bush          Throwwort                         158
+S traw-colored gentian   Tickweed                          138
+Striped alder            Tobacco lobelia                   164
+Striped gentian          Tobacco wood                      136
+Styrax                   Tongue grass                      242
+Sumac                    Toothache bush                    276
+Summer cohosh            Toothache tree               276, 278
+Swallow wort             Torchwort                         264
+Swamp alder              Tormen ti!                        134
+Swamp haw                Trailing gaultheria               128
+Swamp hellebore          Tread-softl y                     236
+Swamp squawweed          Trillium                          256
+Swamp turnip             True love                         2 56
+Swamp willow             True sage                         224
+Sweating plant           True snakehead                      84
+Sweating weed            True watercress                   182
+Sweet birch              True unicorn root                   40
+Sweet bugleweed          Trumpet weed                      120
+Sweet bush               Tuberous-rooted swallow-wort        70
+Sweet cane               Tuber root                          70
+Sweet cinnamon           Tumeric                           144
+Sweet clover             Turkey grass                      126
+Sweet elm                Turkey pea                        2 48
+Sweet fern               Turtneric                         2 26
+Sweet ferry              Turpentine pine                   192
+Sweet flag               Turtle bloom                        84
+Sweet flagroot           Turtlehead                          84
+Yellow dock             Yellow parilla                            170
+Yellow eye-wright       Yellow pine                               192
+Yellow ginseng          Yellow puccoon                            144
+Yellow Indian shoe      Yellow sarsaparilla                       170
+Yellow jasmine root     Yellowroot            74, 1 4 4 , 1 4 6 , 2 7 4
+Yellow jessamine        Yellow wild indigo                          72
+Yellow lady's slipper   Yellow wood                               276
+Yellow moccasin         Yellowwort                                144
+Yellow paintroot
+                 ACKNOWLEDGMENTS
+   Special acknowledgment is d u e t o Leo Harvey and
+Lawrence Harvey, respectively chairman of the board a n d
+president of t h e Harvey Aluminum Company, for providing
+some o f the equipment a n d supplies used in this research,
+and for their interest in a n d encouragement o f this work.
+
+   T h e botanical descriptions were reviewed by Dr. Joseph
+Arditti, Department of Organismic Biology, University of
+California, Irvine; a n d Dr. Howard Pfeiffer, Curator of t h e
+Herbarium, University of Connecticut, Storrs. Dr. George
+Hocking, School o f Pharmacy o f Auburn University,
+reviewed t h e use sections a n d also made helpful suggestions.
+
+   Dr. Earl L. Core, West Virginia State University; Dr.
+James Hardin, North Carolina State University; Miss Mary
+Ruth Chiles, Great S m o k y Mountain National Park, U. S.
+Department of t h e Interior; Paul Camplin, Frankfort,
+Kentucky; a n d Edward H. Seanlon & Associates, Inc.,
+Olmstead Falls, Ohio, generously provided illustrations used
+in this manual. T h e American Museum of Natural History
+and the Field Museum of Natural History also made their
+plant photographs available.
+
+   Mrs. Marion Sheehan, Gainesville, Florida, created most
+o f t h e line drawings used in this paper. Mrs. Juanita
+Huguely, project clerk i n t h e timber related crops project,
+gave valuable assistance in the preparation of this manual.
+Miss Karyl Magee, forestry aid o n t h e project, also assisted;
+and Clyde M. Morris, forestry research technician at Berea,
+built the drying box.
+THE FOREST SERVICE of the U. S. Depart-
+ment of Agriculture is dedicated to the principle of
+multiple use management of the Nation's forest re+
+sources for sustained yields of wood, water, forage,
+wildlife, and recreation. Through forestry research,
+cooperation with the States and private forest
+owners, and management of the National Forests
+and National Grasslands, it strives- as directed
+by Congress - to provide increasingly greater
+service to a growing Nation.
+

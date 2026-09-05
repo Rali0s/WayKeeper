@@ -1,0 +1,1552 @@
+2024
+Cornell Integrated Crop and
+Pest Management Guidelines for
+Commercial Vegetable Production
+
+
+
+
+These guidelines are not a substitute for pesticide labeling. Always read and understand the product label
+before using any pesticide.
+        2024 Cornell Integrated Crop and Pest Management Guidelines
+                     for Commercial Vegetable Production
+Authors
+     Stephen Reiners (Horticulture – Geneva; Editor; cultivar selection and fertility)
+     Elizabeth Bihn (Food Science – Geneva; produce safety)
+     Paul D. Curtis (Natural Resources – Ithaca; wildlife management)
+     Michael Helms (Cornell Cooperative Extension Pesticide Safety Education Program (CCE-PSEP) – Ithaca; pesticide
+     information)
+     Margaret T. McGrath (Retired. Plant Pathology – Long Island Horticultural Research and Extension Center, Riverhead;
+          disease management)
+     Brian A. Nault (Entomology – Geneva; insect pest management)
+     Abby Seaman (NYS IPM Program – Geneva; integrated pest management)
+     Lynn Sosnoskie (Horticulture – Geneva; weed management)
+
+
+Special Appreciation
+     Special appreciation is extended to the following for their contributions to this publication: George S. Abawi, Robin
+     Bellinder, Helene R. Dillard, Donald E. Halseth, Michael P. Hoffmann, Andrew J. Landers, Curt Petzoldt, Anu
+     Rangarajan, Anthony M. Shelton, Christine D. Smart, and Thomas A. Zitter.
+
+
+
+
+   Abbreviations and Symbols Used in This Publication
+   A .......... acre                                F ........... flowable                            S ...........soluble
+   AI ........ active ingredient                    G .......... granular                             SP .........soluble powder
+   D .......... dust                                L ........... liquid                              ULV .....ultra-low volume
+   DF ........ dry flowable                         LFR ...... liquid fertilizer ready                W ..........wettable
+   DG ....... dispersible granule                   MOA .... mode of action                           WDG ....water-dispersible granules
+   DTH ..... days to harvest                        OLP ...... other labeled product                  WP ........wettable powder
+   E .......... emulsion, emulsifiable              P ........... pellets                             WSP .....water soluble packet
+   EC ........ emulsifiable concentrate             PHI ....... pre-harvest interval
+   EIQ ...... environmental impact quotient         REI ....... restricted-entry interval
+
+   * ........ Restricted-use pesticide; may be purchased and used only by certified applicators
+   † ....... Not for use in Nassau and Suffolk Counties
+
+
+
+
+Every effort has been made to provide correct, complete, and up-to-date pest management information for New York State at the time this
+publication was released for printing (October 2023). Changes in pesticide registrations, regulations, and guidelines occurring after
+publication are available in county Cornell Cooperative Extension offices or from the Cornell Cooperative Extension Pesticide Safety
+Education Program (CCE-PSEP) (psep.cce.cornell.edu).
+
+Trade names used herein are for convenience only. No endorsement of products in intended, nor is criticism of unnamed products implied.
+
+These guidelines are not a substitute for pesticide labeling. Always read the product label before applying any pesticide.
+
+The guidelines in this bulletin reflect the current (and past) authors’ best effort to interpret a complex body of scientific research, and to
+translate this into practical management options. Following the guidance provided in this bulletin does not assure compliance with any
+applicable law, rule, regulation or standard, or the achievement of particular discharge levels from agricultural land.
+
+Cover photo: Irrigation in Eden Valley, NY (Erie County). (Photo by: Elizabeth Buck, Cornell Vegetable Program)
+                                                                                                                                                        TABLE OF CONTENTS i
+
+
+
+Chapter 1 – Integrated Crop and Pest Management ...............1                                   Chapter 9 – Transplant Production (continued)
+ 1.1 Background ..........................................................................1         9.3 Plant Containers .................................................................68
+ 1.2 Practicing IPM......................................................................1          9.4 Transplanting......................................................................68
+ 1.3 IPM Components..................................................................1              9.5 Planting Dates ....................................................................68
+ 1.4 IPM Tactics ..........................................................................2        9.6 Disease Management..........................................................68
+Chapter 2 – Disease Management ..............................................3                     Chapter 10 – Postharvest Handling .........................................70
+ 2.1 General Principles ................................................................3           10.1 Background ......................................................................70
+ 2.2 Diagnosis of Disease ............................................................3             10.2 Harvest Considerations.....................................................70
+ 2.3 Disease Management Tactics ...............................................3                    10.3 Clean Surfaces and Containers .........................................70
+Chapter 3 – Insect Management ..............................................17                      10.4 Washing and Chlorination ................................................70
+ 3.1 General Principles ..............................................................17            10.5 Cooling .............................................................................71
+ 3.2 Management Options .........................................................17                 10.6 Chilling Injury ..................................................................71
+ 3.3 Managing Resistance..........................................................19               Chapter 11 – Organic Vegetable Production ..........................72
+Chapter 4 – Weed Management ...............................................22                       11.1 Organic Certification ........................................................72
+ 4.1 General Principles ..............................................................22            11.2 Organic Farm Plan ...........................................................72
+ 4.2 Management Options .........................................................23                 11.3 Soil Health ........................................................................72
+ 4.3 Managing Herbicide Resistance and Persistence................26                                11.4 Cover Crops .....................................................................72
+Chapter 5 – Wildlife Damage Management ............................30                               11.5 Field Selection ..................................................................74
+ 5.1 Deer ....................................................................................30    11.6 Weed Management ...........................................................75
+ 5.2 Woodchucks .......................................................................30           11.7 Crop & Soil Nutrient Management ..................................76
+ 5.3 Rabbits ...............................................................................31      11.8 Using Organic Pesticides..................................................79
+ 5.4 Raccoons ............................................................................31       Chapter 12 – Asparagus............................................................81
+ 5.5 Birds ...................................................................................32    12.1 Recommended Varieties...................................................81
+Chapter 6 – Pesticide Information and Use ............................34                            12.2 Planting Methods..............................................................81
+ 6.1 Pesticide Classification and Certification ...........................34                       12.3 Fertility .............................................................................81
+ 6.2 Use Pesticides Properly ......................................................34               12.4 Harvesting ........................................................................81
+ 6.3 Pollinator Protection ...........................................................35            12.5 Disease Management........................................................82
+ 6.4 New York State Pesticide Use Restrictions ........................35                           12.6 Insect Management...........................................................83
+ 6.5 Verifying Pesticide Registration.........................................36                    12.7 Weed Management ...........................................................84
+ 6.6 Check Label for Site and Pest ............................................36                   12.8 References ........................................................................89
+ 6.7 Pesticide Recordkeeping/Reporting ...................................36                       Chapter 13 – Beans – Dry, Snap, and Lima ............................90
+ 6.8 EPA Worker Protection Standard (WPS) for                                                       13.1 Varieties ...........................................................................90
+     Agricultural Pesticides .......................................................37              13.2 Planting Methods..............................................................90
+ 6.9 Reduced-risk Pesticides, Minimum-risk Pesticides, and                                          13.3 Fertility .............................................................................90
+     Biopesticides ......................................................................37         13.4 Harvesting ........................................................................90
+ 6.10 FIFRA 2(ee) Recommendations .......................................38                         13.5 Disease Management........................................................91
+ 6.11 Protecting Our Environment.............................................38                     13.6 Insect Management.........................................................102
+ 6.12 Proper Pesticide Use.........................................................39               13.7 Weed Management .........................................................111
+ 6.13 Spray Equipment Distance Learning ................................50                         Chapter 14 – Beets...................................................................120
+ 6.14 Pesticide Storage ..............................................................50            14.1 Varieties .........................................................................120
+Chapter 7 – General Culture ....................................................51                  14.2 Planting Methods............................................................120
+ 7.1 Mulches ..............................................................................51       14.3 Fertility ...........................................................................120
+ 7.2 Season Extension................................................................52             14.4 Harvesting ......................................................................120
+ 7.3 Rye Strip Windbreaks ........................................................53                14.5 Disease Management......................................................121
+ 7.4 Raised Bed Systems ...........................................................53               14.6 Insect Management.........................................................124
+ 7.5 Irrigation.............................................................................54      14.7 Weed Management .........................................................125
+ 7.6 Food Safety ........................................................................56        Chapter 15 – Cabbage, Broccoli, Cauliflower, Brussels
+Chapter 8 – Soil Management ..................................................57                   Sprouts .....................................................................................130
+ 8.1 Soils and Fertility ...............................................................57          15.1 Varieties .........................................................................130
+ 8.2 Field and Soil Evaluation ...................................................57                15.2 Planting Methods............................................................130
+ 8.3 Crop Rotation .....................................................................57          15.3 Fertility ...........................................................................130
+ 8.4 Cover Crops .......................................................................57          15.4 Harvesting ......................................................................131
+ 8.5 Reduced Tillage..................................................................59            15.5 Disease Management......................................................132
+ 8.6 Manure ...............................................................................60       15.6 Insect Management.........................................................142
+ 8.7 Sewage Sludges ..................................................................61            15.7 Weed Management .........................................................157
+ 8.8 Soil Testing ........................................................................61        15.8 References ......................................................................162
+ 8.9 Soil pH ...............................................................................62     Chapter 16 – Carrots ..............................................................163
+ 8.10 Fertilizers..........................................................................63       16.1 Varieties .........................................................................163
+Chapter 9 – Transplant Production .........................................67                       16.2 Planting Methods............................................................163
+ 9.1 Cultural Practices ...............................................................67           16.3 Fertility ...........................................................................163
+ 9.2 Growing Media ..................................................................67             16.4 Harvesting ......................................................................163
+
+
+       2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+ii        TABLE OF CONTENTS
+
+
+
+Chapter 16 – Carrots (continued)                                                                 Chapter 23 – Potatoes .............................................................314
+ 16.5 Disease Management......................................................164                 23.1 Recommended Varieties.................................................314
+ 16.6 Insect Management.........................................................171               23.2 Planting Methods............................................................314
+ 16.7 Weed Management .........................................................174                23.3 Fertility ...........................................................................315
+ 16.8 References ......................................................................178        23.4 Harvesting ......................................................................315
+Chapter 17 – Cucurbits – Cucumber, Melon, Pumpkin,                                                23.5 Disease Management......................................................318
+Squash, and Watermelon ........................................................179                23.6 Insect Management.........................................................340
+ 17.1 Varieties .........................................................................179      23.7 Weed Management .........................................................356
+ 17.2 Planting Methods............................................................179            Chapter 24 – Spinach ..............................................................361
+ 17.3 Fertility ...........................................................................179    24.1 Varieties .........................................................................361
+ 17.4 Harvesting ......................................................................179        24.2 Planting Methods............................................................361
+ 17.5 Disease Management......................................................181                 24.3 Fertility ...........................................................................361
+ 17.6 Insect Management.........................................................208               24.4 Harvesting ......................................................................361
+ 17.7 Weed Management .........................................................218                24.5 Disease Management......................................................361
+ 17.8 References ......................................................................224        24.6 Insect Management.........................................................367
+Chapter 18 – Eggplant ............................................................225             24.7 Weed Management .........................................................370
+ 18.1 Varieties .........................................................................225      24.8 References ......................................................................373
+ 18.2 Planting Methods............................................................225            Chapter 25 – Sweet Corn ........................................................374
+ 18.3 Fertility ...........................................................................225    25.1 Recommended Varieties.................................................374
+ 18.4 Harvesting ......................................................................225        25.2 Planting Methods............................................................374
+ 18.5 Disease Management......................................................226                 25.3 Fertility ...........................................................................374
+ 18.6 Insect Management.........................................................229               25.4 Harvesting ......................................................................375
+ 18.7 Weed Management .........................................................234                25.5 Disease Management......................................................375
+Chapter 19 – Lettuce and Endive...........................................237                     25.6 Insect Management.........................................................381
+ 19.1 Varieties .........................................................................237      25.7 Weed Management .........................................................395
+ 19.2 Planting Methods............................................................237             25.8 References ......................................................................403
+ 19.3 Fertility ...........................................................................237   Chapter 26 – Tomatoes - Field ...............................................405
+ 19.4 Harvesting ......................................................................237        26.1 Varieties .........................................................................405
+ 19.5 Disease Management......................................................238                 26.2 Planting Methods............................................................405
+ 19.6 Insect Management.........................................................247               26.3 Fertility ...........................................................................405
+ 19.7 Weed Management .........................................................253                26.4 Harvesting ......................................................................406
+ 19.8 References ......................................................................255        26.5 Disease Management......................................................406
+Chapter 20 – Onions ...............................................................256            26.6 Insect Management.........................................................428
+ 20.1 Varieties .........................................................................256      26.7 Weed Management .........................................................439
+ 20.2 Planting Methods............................................................256             26.8 References ......................................................................443
+ 20.3 Fertility ...........................................................................256   Chapter 27 – Turnips and Radishes ......................................444
+ 20.4 Harvesting ......................................................................256        27.1 Recommended Varieties.................................................444
+ 20.5 Disease Management......................................................257                 27.2 Planting Methods............................................................444
+ 20.6 Insect Management.........................................................271               27.3 Fertility ...........................................................................444
+ 20.7 Weed Management .........................................................278                27.4 Harvesting ......................................................................444
+ 20.8 References ......................................................................283        27.5 Disease Management......................................................444
+Chapter 21 – Peas ....................................................................285         27.6 Insect Management.........................................................444
+ 21.1 Varieties .........................................................................285      27.7 Weed Management .........................................................447
+ 21.2 Planting Methods............................................................285            Appendix ..................................................................................449
+ 21.3 Fertility ...........................................................................285
+ 21.4 Harvesting ......................................................................285
+ 21.5 Disease Management......................................................285
+ 21.6 Insect Management.........................................................288
+ 21.7 Weed Management .........................................................289
+ 21.8 References ......................................................................295
+Chapter 22 – Peppers ..............................................................296
+ 22.1 Varieties .........................................................................296
+ 22.2 Planting Methods............................................................296
+ 22.3 Fertility ...........................................................................296
+ 22.4 Harvesting ......................................................................297
+ 22.5 Disease Management......................................................297
+ 22.6 Insect Management.........................................................304
+ 22.7 Weed Management .........................................................309
+ 22.8 References ......................................................................313
+
+
+
+
+       2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                 CHAPTER 1 – INTEGRATED CROP AND PEST MANAGEMENT 1
+
+
+
+
+        Chapter 1 – Integrated Crop and Pest Management
+1.1 Background                                                    biology and ecology of the pest(s) attacking the crop and
+                                                                  the factors that can influence pest infestations. An
+Cornell University and Cornell Cooperative Extension
+                                                                  understanding of the influence of factors such as weather
+actively promote the use of Integrated Crop and Pest
+                                                                  and natural enemies on pest abundance will aid the choice
+Management by New York farmers in order to address
+                                                                  of management tactics. IPM programs stress suppression of
+agricultural concerns. In many areas of New York State,
+                                                                  insect and disease populations to levels that do not cause
+there are horticultural, economic, social, and political
+                                                                  economic damage, rather than total eradication of a pest. In
+pressures to reduce environmental impacts of and pesticide
+                                                                  the case of insect pests, it is important to have at least some
+use in crop production. Public concerns with nutrient and
+                                                                  pests present to ensure that natural enemies will remain in
+sediment movement into ground and surface water and
+                                                                  the crop to suppress subsequent infestations.
+pressure against pesticide applications are growing. In other
+regions, agricultural producers are being asked to submit
+nutrient and soil management plans to address the offsite         1.3 IPM Components
+impacts of their practices. In addition, the development of
+pesticide resistance in key pests; registration of fewer and      1.3.1 Monitoring (Scouting)
+more expensive new chemicals for pest control; loss of            Scouting includes detecting, identifying, and determining
+existing products; and increased competition from other           the level of pest populations on a timely basis. Insect traps
+regions continue to push New York agriculture to look for         can often be used to detect pests and identify times when
+nonchemical alternatives.                                         scouting should be intensified or control measures should
+                                                                  be taken. Scientifically based, accurate, and efficient
+Integrated Crop and Pest Management requires a                    monitoring methods are available for many pests on
+combination of long and short term production strategies to       vegetable crops in New York. Brief descriptions of the
+maximize net profit while minimizing risks of undesirable         techniques are given in this manual.
+environmental impacts of practices. Some of these practices
+include site selection, crop specific production strategies,
+nutrient management, and cover cropping. IPM is a pest            1.3.2 Forecasting
+control strategy that promotes the use of a variety of tactics    Weather data and other information help predict when
+including pest resistant cultivars and biological, cultural,      specific pests will most likely occur. Weather-based pest
+and physical controls. Pesticides are a control tactic            forecast models for diseases and insects of many crops have
+employed in IPM, but they are only used when needed.              been developed in New York. This manual indicates which
+Pesticide use is thus minimized without jeopardizing crop         pests have such models available. Forecasts are available
+quality or yield. Applying multiple control tactics               through the Network for Environment and Weather
+minimizes the chance that pests will adapt to any one tactic      Applications (NEWA) on a daily basis.
+and allows farmers to choose the most environmentally
+sound, efficacious, and economically efficient pest               Access to a computer network to obtain weather, regional
+management program for their situation.                           insect, and disease forecasts, is useful but not essential. The
+                                                                  Northeast Weather Association provides automated local
+This manual provides information and references which             weather information and the results of pest forecasts on a
+will allow New York vegetable growers to practice IPM for         daily basis. Information on the potential for pest outbreaks
+many of their crops. While information for the proper use         can sometimes also be obtained from local Cooperative
+of pesticides is included in the manual, a variety of other       Extension programs, newsletters, and regional crop
+information is included that can help growers reduce              advisors.
+reliance on pesticides and take advantage of alternatives to
+pesticides which may be less expensive, less
+environmentally harmful, and more acceptable to the non-          1.3.3 Thresholds
+farming community.                                                Use thresholds to determine when pest populations have
+                                                                  reached a level that could cause economic damage.
+Visit the New York State Integrated Pest Management               Thresholds have been scientifically determined by Cornell
+Program (https://cals.cornell.edu/new-york-state-integrated-      researchers. Following the thresholds indicated in this
+pest-management) and Northeastern IPM Center                      manual has reduced pesticide use by ten to 50 percent,
+(https://www.northeastipm.org) for more information.              saving significant money for growers.
+
+1.2 Practicing IPM                                                1.3.4 Management Tactics
+In an IPM program, it is important to accurately identify the     Appropriate management tactics to control pests include
+pests (vertebrates, diseases, insects, and weeds) and assess      cultural, biological, and physical controls, as well as some
+pest abundance. It is important to have knowledge of the          of the simple and relatively inexpensive pesticide
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                    CHAPTER 2 – DISEASE MANAGEMENT              3
+
+
+
+
+                           Chapter 2 – Disease Management
+2.1 General Principles                                           imbalances, damage caused by mites and insects, and
+                                                                 pesticide injury). Growers who have a reasonably good
+For a disease to develop in a vegetable crop, there are three
+                                                                 understanding of plant diseases, their symptoms, and the
+critical factors that must occur together: a susceptible host
+                                                                 infectious and noninfectious disorders that can affect a
+plant, a virulent pathogenic organism, and environmental
+                                                                 particular crop, are more likely to make the correct disease
+conditions favorable for the pathogen to survive, enter
+                                                                 control decisions. Numerous fact sheets and bulletins with
+(infect) the plant, and thrive. This is referred to as the
+                                                                 full-color illustrations have been developed by Cornell
+disease triangle. Additonal important factors are an
+                                                                 faculty to assist growers in making accurate disease
+effective method for distributing the pathogen and time for
+                                                                 diagnoses. (See references in each disease section). In
+the disease to develop and become severe enough to impact
+                                                                 addition, samples can be sent to the Plant Disease
+yield. The choice of appropriate management practices for a
+                                                                 Diagnostic Clinic in Ithaca (607-255-7850).
+particular disease must be based on accurate knowledge of
+the pathogen causing the disease; its life cycle; time of
+infection; the part of the plant involved; the method of         2.3 Disease Management Tactics
+pathogen distribution; past, present, and future
+environmental conditions; and certain economic                   2.3.1 Crop Rotation and Tillage
+considerations. Effective management practices include:          Rotating, which is planting fields to different crops each
+resistant varieties; pathogen-free seed that was tested          year, cannot be overemphasized as one of the most
+(certified) or grown in disease-free areas; treatment of seed    important and easily implemented disease control
+with heat or chemicals; long rotations; sterilization of soil    strategies. This practice avoids buildup of plant pathogens
+with steam or chemicals; control of insect vectors and weed      that can survive in the soil. Not all pathogens are able to.
+hosts; and proper timing and application of organic and/or       Generally, the longer the rotation, the less likely that an
+conventional fungicides and nematicides which entails            early-season disease outbreak will occur. Knowledge about
+weekly checking plants for disease symptoms and                  the target pathogen is important for achieving success with
+monitoring weather conditions.                                   rotation, in particular how long the pathogen can survive in
+                                                                 soil, what plants it can infect, and what are other potential
+Effective management of vegetable diseases starts with           sources of the pathogen.
+preventing disease onset when feasible. Next focus is on
+slowing development of diseases that occur. Procedures that      Pathogens that can overwinter successfully only in
+can be done to prevent disease outbreaks or reduce the risk      association with plant debris and thus are unable to survive
+of early-season epidemics are: rotating where crops are          once the crop residue decomposes, are the main target for
+grown, selecting resistant varieties, planting seed that has     crop rotation. Fortunately there are many such pathogens.
+been tested and/or treated, controlling weeds, controlling       Hasten decomposition by chopping or mowing a crop as
+insect vectors, minimizing leaf wetness periods (e.g. plant      soon as possible after harvest followed by tillage. Small
+parallel to prevailing wind direction, use drip rather than      pieces of debris break down faster than larger pieces, and
+overhead irrigation, trellise tomatoes), improving soil          organisms that break down debris are in the soil. This will
+aeration and drainage, and practicing good sanitation (e.g.      reduce the amount of inoculum that survives the winter.
+disinfecting greenhouse surfaces and tomato stakes after
+using). These are referred to as cultural practices. It is       To maximize success of rotation, avoid moving soil
+unlikely that all diseases of a particular crop can be           between fields on equipment and via runoff. It is best to
+controlled by just following these procedures. Often             rotate among separate fields. Do not rotate between
+fungicides need to be applied as well. Nevertheless, the         adjacent blocks in a field.
+extent (incidence and severity) of disease, the number of
+fungicide applications, and the concomitant costs of             Some soilborne diseases are not readily controlled by
+achieving adequate control can be significantly reduced by       rotation. These include those caused by pathogens that can
+following as many of these procedures as appropriate and         survive long-term in soil as ‘soil inhabitants’ (they cause
+feasible.                                                        root rots and include Pythium and Phytophthora), and
+                                                                 those that produce structures that can withstand the effects
+2.2 Diagnosis of Disease                                         of time and nonhost crops. Examples of these include
+                                                                 clubroot of crucifers, Phytophthora blight and Fusarium
+The first step in disease management should be accurate          wilt of several crops. Other pathogens have such a wide
+diagnosis. It is important to differentiate between infectious   host range that they can survive indefinitely because so
+diseases (which are those caused by fungi, bacteria,             many crops and weed species serve as hosts. These
+phytoplasma, viruses, viroids, and nematodes; all capable of     pathogens include Sclerotinia, Rhizoctonia, Verticillium
+multiplying and spreading from plant to plant) and               and root-knot nematodes.
+noninfectious diseases or disorders (e.g., physiological
+disorders, air pollutants, nutrient imbalances, water
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+10 CHAPTER 2 – DISEASE MANAGEMENT
+
+
+
+turning up of nonfumigated soil during fitting in the spring.                                                                                                       Crop debris. Undecomposed residues from previous crops
+This should be followed by disking or any other means of                                                                                                            prevent distribution of fumigant through the soil,
+fitting which will leave the soil in seedbed condition. Clods                                                                                                       irreversibly absorb fumigant, interfere with application
+and poorly incorporated debris will provide “chimneys”                                                                                                              equipment, prevent proper sealing of the soil surface, and
+through which fumigant can escape prematurely from the                                                                                                              protect nematodes and nematode eggs from fumigant
+soil.                                                                                                                                                               action. Rake, burn, or deeply incorporate debris prior to
+                                                                                                                                                                    fumigation.
+Soil moisture. The soil should be neither too wet nor too
+dry. A good rule of thumb is that moisture content is most                                                                                                          Sealing of soil surface. It is essential that fumigated soil be
+favorable when soil will just “ball” in one’s hand when                                                                                                             thoroughly sealed as soon after application as possible. This
+pressure is applied. If soil is excessively dry and irrigation                                                                                                      can be achieved by means of equipment such as a
+is available, moisture supplementation before fumigation is                                                                                                         cultipacker, chain harrow or float, or by means of spray
+recommended.                                                                                                                                                        irrigation or plastic sheets. A plastic film seal will increase
+                                                                                                                                                                    the efficacy of fumigation.
+Soil temperature. The optimal temperature for most
+fumigants is 50° to 70°F. At warmer temperatures,                                                                                                                   Interval between fumigation and planting. Under average
+fumigants dissipate thoroughly and rapidly, nematode                                                                                                                conditions, with a soil temperature of ± 50°F, a minimum of
+larvae (which are easier to kill than eggs) have emerged,                                                                                                           three weeks is regarded as necessary between fumigation
+and all nematode stages can be more effectively controlled.                                                                                                         and planting to prevent phytotoxicity. See fumigant labels
+                                                                                                                                                                    for specific recommendations.
+
+
+
+Table 2.3.1 Registered conventional fungicides by crop. See Table 4 in appendix for biopesticides which
+typically are labeled for all crops.
+X = registered; Superscript numbers = preharvest interval (PHI) aka days to harvest. No number = 0 day PHI or intended for seed or soil
+use at planting. Note that harvest is not a permitted activity during the restricted-entry interval (REI) which is at least 12 hours for most
+fungicides. H = head lettuce, L = leafy lettuce.
+                                                                                  Crop
+
+
+
+
+                                                                                          Brussels sprouts             Cabbage, Chinese                                                Lettuce and Endive           Onion, Dry bulb                                        Pumpkin, W. Squash             Summer Squash
+                      FRAC Group   Asparagus   Bean, Dry   Bean, Snap          Broccoli                      Cabbage                               Cauliflower   Cucumber   Eggplant                                                  Onion, GB                                                                           Sweet Corn            Watermelon
+Fungicide                                                               Beet                                                              Carrot                                                            Melon                                 Peas   Pepper   Potato                        Spinach                                Tomato
+(active ingredient)
+Actigard              P 01                                                     X7 X7 X7 X7                                                          X7            X                      H7                  X       X7                                  Chili                 X                X7          X                          X14 X
+                                                                                                                                                                                                                                                          14
+(acibenzolar-S-                                                                                                                                                                          L7
+methyl)
+Agri-mycin 17          25                                                                                                                                                                                                                                 X        X                                                                    X
+(streptomycin)
+Aliette WDG           P 07                                                     X3 X3 X3 X3                                                          X3 X0.5                              X3 X0.5 X3                                                                        X0.5 X3 X0.5                                                X14 X0.5
+(fosetyl-Al)
+*†Aproach              11                      X14
+(picoxystrobin)
+Apron XL                 4                       X                      X                                                                                                                                                                         X                                                                         X
+(mefenoxam), seed
+Aprovia Top           3+                       X14 X14                                                                                                            X          X                               X       X7 X7 X14 X                                               X                            X                           X         X
+(difenoconazole +      7
+benzovindiflupyr)
+Blocker 4F             14                                                       X            X                X           X                          X                                                                                                             X
+(PCNB), application
+method varies
+Bravo, Echo, OLP      M05 X190 X14 X7                                          X7 X7 X7 X7                                                 X        X7            X                                          X       X7 X14                                       X7           X                            X Xg,14 X                             X
+(chlorothalonil)
+Cabrio EG              11                                               X       X            X                X           X                X         X            X          X             X                 X       X7 X7                                X                    X                 X          X                           X         X
+(pyraclostrobin)
+†Cannonball WG         12                       X7 X7                                                                                                                                      X                         X7 X7
+(fludioxonil)
+Captan 4L ST          M04                        X           X          X       X            X                X           X                          X            X                                          X                                    X                            X                 X          X               X                     X
+(captan), seed
+
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                       CHAPTER 3 – INSECT MANAGEMENT 17
+
+
+
+
+                               Chapter 3 – Insect Management
+3.1 General Principles                                             crop must be sampled. Sampling may involve examining
+                                                                   plants and recording the number of pests or the amount of
+The goal is to avoid or reduce insect pest populations to
+                                                                   damage observed, or traps may be used to capture the pest
+levels that do not cause economic loss. Management of
+                                                                   species to estimate pest activity and possibly abundance.
+insect pests should ideally include a variety of tactics that
+                                                                   Sampling is conducted at regular intervals throughout the
+are integrated to reduce pest infestations and damage to
+                                                                   season or during critical stages of crop growth.
+acceptable levels and minimize the chance that pests will
+adapt to any one management tactic. In many cases, certain
+insect pest infestations never exceed economically                 3.2 Management Options
+damaging levels and do not require control. The most
+common management tactics used against insect pests                3.2.1 Pest-Resistant Crops
+include pest resistant or tolerant varieties, and cultural,        An important management option for the control of insect
+physical, mechanical, biological, and chemical controls.           pests is the use of crop varieties that are resistant or
+                                                                   tolerant. A resistant variety may be less preferred by the
+Integrated pest management requires an understanding of            insect pest, adversely affect its development and survival,
+the pest’s biology and ecology, the crop production system         or the plant may tolerate the damage without an economic
+and the agroecosystem. For example, temperature is the             loss in yield or quality. For example, vine crops (squash,
+primary factor determining the rate at which insects               cucumbers, melons) that have lower concentrations of
+develop; higher temperatures increase the rate of                  feeding stimulants (cucurbitacins) are less preferred by
+development. Therefore, temperature can be important               cucumber beetles. Sweet corn varieties with tight husks are
+when determining the frequency of insecticide applications.        less likely to be infested by corn earworm, and some
+Degree-day models for some insect pests are available on           varieties are resistant to the bacteria transmitted by corn
+the Network for Environment and Weather Applications               flea beetle that causes Stewart’s wilt. Bacillus thuringiensis
+web site (newa.cornell.edu) and can aid in determining how         (Bt) sweet corn varieties have been genetically engineered
+fast insects are developing and the timing of applications. In     to resist European corn borer, corn earworm, fall
+addition to temperature, other factors influence the pest          armyworm and western bean cutworm. Some cabbage
+populations such as rainfall, host quality, host availability      varieties have been classically bred to tolerate onion thrips
+and the ability of the pest to disperse long distances.            damage. Advantages of pest-resistant or tolerant crop
+                                                                   varieties include ease of use; compatibility with other
+Knowledge of when pests typically infest a crop and the            integrated pest management tactics; low cost; cumulative
+crop stage that is most vulnerable to yield loss when              impact on the pest (each subsequent generation of the pest
+damaged by the pest will impact the management options             is further reduced); and reduced negative impact on the
+used. For example, if the pest attacks the seedling stage of       environment.
+the crop every year, a preventative tactic might be selected
+(e.g., resistant cultivar, insecticide at planting). If the pest
+only occasionally attacks the crop, a decision to control the      3.2.2 Cultural Control
+pest should be made only when infestations are likely to           There are many agricultural practices that make the
+reach an economically damaging level (see more below).             environment less favorable for insect pests. Crop rotation,
+                                                                   for example, is recommended for management of Colorado
+Understanding the population dynamics of insect pests in           potato beetle. Beetles overwinter in or near potato fields
+the agroecosystem can inform decisions about how best to           and they require potato or related plants for food when they
+manage the pest in the vegetable crop. For example, a pest         emerge in the spring. Planting potatoes far away from the
+may initially infest a crop (e.g., alfalfa or wheat) or non-       previous year’s crop prevents access to needed food, and
+crop (e.g., weeds) that do not require control, thereby            the relatively immobile beetles will starve. Selection of the
+allowing subsequent generations to build that may disperse         planting site may also affect the severity of insect
+into and damage a nearby vegetable crop.                           infestations. Cabbage planted near small grains is more
+                                                                   likely to be infested by onion thrips that disperse from the
+Action Thresholds and Sampling. The decision to use an             maturing grain crops.
+insecticide, or similar tactic, against an insect infestation
+requires an understanding of the level of damage or insect         Trap crops are planted to attract and hold insect pests where
+infestation a crop can tolerate without an unacceptable            they can be managed more efficiently and prevent or reduce
+economic loss. The level of infestation or damage at which         their movement onto cash crops. Early-planted potatoes can
+some action must be taken to prevent economic loss is              act as a trap crop for Colorado potato beetles emerging in
+referred to as the “action threshold.” Action thresholds are       the spring. Because the early potatoes are the only food
+available for many vegetable crops and should serve as a           source available, the beetles will congregate on these plants
+guide for making control decisions. Thresholds should be           where they can be more easily controlled. Adjusting the
+adjusted based on market value, environmental conditions,          timing of planting or harvesting is another cultural control
+variety, etc. To estimate the severity of pest infestations, the   technique. Earlier planted sweet corn is less likely to be
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+22     CHAPTER 4 – WEED MANAGEMENT
+
+
+
+
+                               Chapter 4 – Weed Management
+4.1 General Principles                                            Nightshades. Nightshades are warm-season, annual weeds.
+                                                                  Eastern black nightshade (Solanum ptycanthum) is the most
+Weeds reduce yield and quality of vegetables by competing
+                                                                  common and widespread species in New York, although
+directly for light, nutrients, and water. Weeds can serve as
+                                                                  hairy nightshade (Solanum sarracoides) is predominant in
+alternate hosts for insects and pathogens and uncontrolled
+                                                                  some areas. It can be difficult to distinguish among the
+vegetation can reduce air circulation around plants, creating
+                                                                  Solanum species, especially at the seedling stage. Eastern
+more favorable conditions for plant disease development.
+                                                                  black nightshade is characterized by smooth egg- to
+Weeds that remain in-crop at the end of the season can
+                                                                  triangular-shaped leaves and glossy, purple to black berries;
+significantly impede harvest operations. While a
+                                                                  hairy nightshade has hairy leaves and stems and green to
+comprehensive weed control system integrates tools and
+                                                                  yellow berries. These weeds are particularly problematic in
+practices throughout all phases of production, early-season
+                                                                  tomato, potato, snap bean, and dry bean fields. Few
+competition can significantly impact future yield potential
+                                                                  herbicides currently registered for use in vegetable crops
+and control should be emphasized during this period. Weed
+                                                                  are effective for controlling nightshades. Therefore, to stop
+species vary, considerably, with respect to their emergence
+                                                                  an infestation, it is important to correctly identify the weed
+patterns, life history traits, size and competitive ability,
+                                                                  and eradicate it before the plants produce seeds.
+among other attributes, and cannot be controlled using a
+single method. Consequently, the first step in developing an
+                                                                  Quackgrass. Quackgrass is a common, cool-season,
+effective management strategy is proper identification. See
+                                                                  perennial grass that spreads by both rhizomes and seeds.
+the Cornell Weed Identification web site
+                                                                  The species can be identified by leaves that are rolled in the
+(https://blogs.cornell.edu/weedid/).
+                                                                  bud, a short membranous ligule and clasping auricles at the
+                                                                  collar region. Quackgrass is most effectively managed by a
+4.1.1 Problem Weeds in Vegetable                                  combination of chemicals and tillage, although care must be
+Production                                                        taken to avoid spreading quackgrass rhizomes into clean
+                                                                  fields via farm equipment. Check specific crop
+Galinsoga. Galinsoga is an upright summer annual with             recommendations for more targeted control options.
+opposite, egg- to triangular-shaped leaves with toothed
+margins. Because of its biology and its tolerance to              Nutsedge (nutgrass). Nutsedge is a perennial weed with
+vegetable herbicides, galinsoga may quickly become a              three-angled stems and long, grass-like leaves. The species
+major weed once it is introduced into a vegetable field. The      spreads by both rhizomes and tubers. Dormant tubers can
+species is not sensitive to day length and, as a consequence,     remain viable in the soil for years, making the species
+begins to flower and produce seed when it has about five or       difficult to eliminate. Nutsedge does not emerge until the
+six pairs of leaves and continuing until the plants are killed    soil is warm; in most fields, weeds such as lambsquarters,
+by frost. Fresh seed that drops onto the soil surface can         mustard, ragweed, and quackgrass emerge two or three
+germinate almost immediately because there little or no           weeks earlier. Nutsedge grows vegetatively until
+dormancy. Three to five generations per season have been          midsummer when it begins to form daughter tubers as
+observed in Ithaca, New York. Cultivation is only partially       daylengths start to decrease in July. Tuber formation is
+helpful because Galinsoga can re-root, easily, and re-            greatly accelerated in August and September, when
+establish itself from cut stems unless conditions are very        daylengths become even shorter. In the fall, even small
+dry for several days following soil disturbance.                  plants can form tubers.
+Velvetleaf. This erect, robust, summer annual weed is             Both cultural practices and herbicides are needed to manage
+increasing rapidly in upstate New York areas. The species         nutsedge infestations. The species is sensitive to dense
+comes by its name, honestly, because its stems and heart-         shade and successful control programs need to capitalize on
+shaped leaves are hairy and soft to the touch. It often           this characteristic. For example, when planted early and at a
+escapes in fields where preemergence herbicides are used          close spacing, most pumpkins and squash can provide the
+without mechanical cultivation. It has fairly large seeds that    shade needed to suppress nutsedge growth. Cultivation can
+last many years in the soil and are not destroyed when fed        be used between rows to manage nutsedge until the crop
+to cattle. Because of their size, seeds can germinate             canopy closes. Plant and harvest early on fields for which
+anywhere in the top several inches of soil. Subsequently,         selective chemicals are not available. Fall tillage and
+seedlings can emerge from a range of depths, appearing            nonselective chemicals can then be used. When selective
+over a period of many weeks, and most surface-applied             chemicals are available (dry and snap beans, potatoes, and
+herbicides used at planting are relatively ineffective on late-   sweet corn), delay planting and treatment until tubers have
+emerging plants. Unfortunately, even late seedlings can           sprouted. Herbicides do not damage dormant tubers. See
+reach reproductive maturity and produce mature seeds              specific crop information for recommendations.
+before frost.
+                                                                  Perennial broadleaf weeds. Perennial broadleaf weeds
+                                                                  such as field and hedge bindweed, Canada thistle, horse-
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+30     CHAPTER 5 – WILDLIFE DAMAGE MANAGEMENT
+
+
+
+
+                  Chapter 5 – Wildlife Damage Management
+5.1 Deer                                                         harvestable fields, however, these efforts have had mixed
+                                                                 success.
+5.1.1 Nonchemical Alternatives
+A vegetable grower can use a variety of nonchemical
+alternatives to reduce deer damage to crops. These
+                                                                 5.1.2 Repellents
+techniques fall into three primary categories: exclusion,        Repellents may be cost-effective for controlling wildlife
+population reductions, and habitat modification. Fencing is      damage when light to moderate damage is evident, small
+the most common exclusion technique used to prevent deer         acreage is damaged, and only a few applications will be
+damage. Woven-wire designs are the most effective                needed for adequate control. If these three conditions are
+physical barrier, with high-tensile, woven-wire fencing          not satisfied, it is best to look at the cost-benefit ratios of
+providing the ultimate in protection and durability. Deer        alternative control measures.
+can be successfully eliminated from large areas with an
+eight to ten foot high woven-wire fence. The advantages of       With the use of repellents, some damage must be tolerated,
+this design are its effectiveness and low maintenance            even if browsing pressure is low. None of the existing
+requirements after construction. Disadvantages include the       repellents provide reliable protection when deer densities
+high initial cost and the difficulty in repairing damaged        are high. Repellents should be applied before damage is
+sections.                                                        likely to occur, when precipitation is not expected for 24
+                                                                 hours, and temperatures will remain between 40° to 80°F
+A variety of multi-strand, high-tensile, vertical, or sloped     for that period. Hand-spray applications may be cost
+electric fence designs may effectively exclude wildlife.         effective on small acreages, while machine sprays will
+Electric high-tensile fences can be complete physical            reduce costs for larger areas. If the materials are
+barriers, or more often, act as psychological deterrents.        compatible, spray costs may be reduced by adding
+Deer can be excluded from crops with a five to six foot          repellents to pesticide sprays. If browsing pressure is
+electric fence, even though they can easily jump over fences     severe, a long-term damage management program should
+of this height. The most frequent reasons why electric           be implemented. Such a program should include potential
+fences fail to prevent deer damage include: the selection of     habitat modifications, reductions in animal numbers, and an
+an unsuitable fence design, the failure to install fencing       evaluation of fencing alternatives.
+according to specifications, and inadequate maintenance.
+High-tensile electric fences are more easily repaired than
+conventional fences, and may cost half as much as eight to
+                                                                 5.2 Woodchucks
+ten foot woven-wire designs. Disadvantages include the           Woodchucks are game animals in New York and can be
+need for frequent monitoring and vegetation control to           hunted throughout the year without limit. A hunting license
+maintain shocking power. Single-strand electric fences,          is required to harvest woodchucks. Woodchucks causing
+combined with cloth strips treated with deer repellents or       damage can be destroyed without a license under New York
+aluminum foil tabs coated with peanut butter to act as an        Conservation Law. Consult your regional Department of
+attractant, and attached at three to four foot intervals along   Environmental Conservation (DEC) office if you have
+the fence, have successfully reduced summer deer damage          questions about a specific situation.
+to vegetables. High-visibility, electric polytape fences on
+fiberglass stakes provide another low-cost, portable design      Growers have usually relied on lethal controls to reduce
+that can effectively reduce deer damage to vegetable crops.      woodchuck damage. Spring is the best time to use lethal
+                                                                 controls, because adults are active and young animals may
+Posting of private lands reduces the opportunity for             remain within their burrow at this time. In addition,
+sportsmen to harvest antlerless deer. Deer populations are       burrows are more evident before annual vegetation conceals
+regulated through the removal of breeding-age does.              their entrances, and other wildlife are less likely to use
+Growers who experience recurring deer damage should              burrows as shelter at this time.
+invite hunters to their property and mandate that they fill an
+antlerless tag (if available) before harvesting a buck.          Shooting or trapping methods can be used to remove
+Reducing deer numbers on a unit-wide basis may lower             problem woodchucks from fields containing edible crops. It
+crop losses. Deer depredation permits issued on a farm-by-       may be illegal or unsafe to shoot woodchucks under some
+farm basis have not controlled crop losses in other states.      circumstances. Woodchucks can be captured using #2 leg-
+                                                                 hold traps, #160 or #220 body grips, or live traps baited
+Deer problems are most severe in fields near escape or           with apples and set near burrow entrances. Traps should be
+resting cover. Mowing or removing brush in fields adjacent       checked at least twice daily. Only live traps should be used
+to crops may make the sites less attractive for deer and         where pets or livestock might be inadvertently captured.
+other problem wildlife. Some growers have experimented
+with lure crops to draw deer away from important                 Lethal controls have been reported to have limited success
+                                                                 in controlling woodchuck populations. Twenty-eight
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+34     CHAPTER 6 – PESTICIDE INFORMATION AND USE
+
+
+
+
+                  Chapter 6 – Pesticide Information and Use
+6.1 Pesticide Classification and                                  6.2.1 Plan Ahead
+Certification
+                                                                  Many safety precautions should be taken before you begin
+Pesticides can be classified as general-use or restricted-use.    using pesticides. Most pesticide accidents can be prevented
+General-use pesticides may be purchased and used by               with informed and careful practices. Always read the label
+anyone. Restricted-use pesticides can only be purchased           on the pesticide container before using the pesticide.
+and used by a certified applicator or used by someone under       Make sure you understand and can follow all label
+a certified applicator’s supervision. In some cases, the          directions and precautions. Be prepared to handle an
+pesticide label may limit use of a restricted-use pesticide to    emergency exposure or spill. Know the first aid procedures
+only a certified applicator.                                      for the pesticides you use.
+Private applicators use or supervise the use of pesticides
+to produce agricultural commodities or forest crops on land       6.2.2 Move Pesticides Safely
+owned or rented by the private applicator or their employer.      Transporting pesticides carelessly can result in broken
+If a private applicator wants to use or supervise the use of      containers, spills, and contamination of people and the
+restricted-use pesticides, they need to be a certified private    environment. Accidents can occur even when transporting
+applicator. Certified private applicators are also allowed to     pesticides a short distance. You are responsible for a
+purchase restricted-use pesticides. Certification is not          pesticide accident so take every effort to transport
+needed if a private applicator uses general-use pesticides.       pesticides safely. Be prepared for an emergency.
+In New York State, a certified commercial applicator,
+certified commercial technician, or commercial                    6.2.3 Personal Protective Equipment and
+apprentice working under the supervision of a certified           Engineering Controls
+commercial applicator is allowed to apply any type of
+                                                                  Personal protective equipment (PPE) needs depend on the
+pesticide on property that is not a private application
+                                                                  pesticide being handled. Required PPE are listed on
+(described above) or is a residential application. (A
+                                                                  pesticide labels. Any required PPE is based on the
+residential application is the use of general-use pesticides
+                                                                  pesticide’s toxicity, route(s) of exposure, and formulation.
+on property owned or rented by the applicator, excluding
+                                                                  Label-listed PPE are the minimum that must be worn when
+establishments selling or processing food and residential
+                                                                  using a pesticide. You can always use more than what’s
+structures other than where the applicator lives.) Certified
+                                                                  listed!
+commercial applicators are allowed to purchase restricted-
+use pesticides.
+                                                                  The type of PPE used depends on the type and duration of
+                                                                  the activity, where pesticides are being used, and the user’s
+Information on pesticide certification and classification is
+                                                                  exposure. For example, mixing/loading procedures often
+available from your Cornell Cooperative Extension office
+                                                                  require more PPE than when applying a pesticide. Studies
+(cce.cornell.edu/localoffices), regional NYSDEC pesticide
+                                                                  show you are at a greater risk of accidental poisoning when
+specialist (www.dec.ny.gov/about/558.html), the Pesticide
+                                                                  handling pesticide concentrates. Pouring pesticide
+Applicator Training Manuals (www.cornellstore.com/
+                                                                  concentrates is the most hazardous activity.
+books/cornell-cooperative-ext-pmep-manuals), or the
+Cornell Cooperative Extension Pesticide Safety Education
+                                                                  Engineering controls are devices that help reduce a
+Program (psep.cce.cornell.edu).
+                                                                  pesticide user’s exposure. An example is a closed transfer
+                                                                  system that reduces the exposure risk when dispensing
+6.2 Use Pesticides Properly                                       pesticide concentrates. Consult the product label for more
+                                                                  information on using engineering controls in place of PPE.
+Using pesticides requires the user to protect their health, the
+health of others, and the environment. Keep in mind
+“pesticide use” is more than just the application. It includes    6.2.4 Avoid Drift, Runoff, and Spills
+mixing, loading, transporting, storing, or handling
+                                                                  Pesticides that move out of the target area can injure
+pesticides after the manufacturer’s seal is broken; cleaning
+                                                                  people, damage non-target areas, and harm the
+pesticide application equipment; and preparing a container
+                                                                  environment. Choose weather conditions, pesticides,
+for disposal. These activities require thoughtful planning
+                                                                  application equipment, pressure, droplet size, formulations,
+and preparation. They also require you to comply with state
+                                                                  and adjuvants to minimize drift and runoff potential.
+and federal laws and regulations intended to protect human
+                                                                  Product labels may have specific application and/or
+health and the environment from the adverse effects
+                                                                  equipment requirements to reduce issues with drift and
+pesticides may cause.
+                                                                  runoff.
+
+
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                             CHAPTER 6 – PESTICIDE INFORMATION AND USE              45
+
+
+
+                                         REDUCING DRIFT FROM SPRAYERS
+Options to consider:
+1. Monitoring equipment: Purchase and use good quality instruments for wind speed, temperature, and humidity
+2. Air Induction Nozzles (AI): These nozzles, when used properly, can reduce drift by at least 50 percent. The principle
+behind these nozzles is to create a larger droplet that won’t drift as far but still maintain good leaf coverage.
+3. Shielded Sprayers: Shielded sprayers are the best way to reduce drift. Very little spray gets out of the shield spraying
+system allowing for a 90 percent reduction in drift. If AI nozzles are used within the shield sprayer 99 percent of drift can be
+reduced.
+4. Drift reducing additives: most drift additives work by increasing droplet size. Not all of them can withstand the high
+pressures and need independent verification.
+5. Calibrate and check that the sprayer is functioning correctly.
+
+Drift is impossible to eliminate but can be minimized. Implementing just one of these methods will greatly reduce the effects
+of drift and improve your efficiency of spray application saving you time, money, and future problems.
+
+                                          Management strategies to reduce drift
+Before spraying:                                                      During spraying:
+1. Read and follow the pesticide label.                               1. Stay alert: ensure the spray is not allowed to drift on to
+2. Train the operator to use the sprayer correctly on your               non-target areas and watch for changes in wind speed
+    farm under your conditions.                                          and direction.
+3. Plan the spraying operation; consider the use of field             2. Keep spray pressure as low as possible and ensure an
+    work-cards, outlining the amount to be mixed/sprayed                 accurate gauge is used.
+    per block as a good management tool.                              3. Maintain a constant speed and pressure. If an automatic
+4. Select the correct nozzle for the target. Adjust the size             regulator is fitted, remember, small increases in speed
+    and position of the nozzles to achieve correct                       result in large increases in pressure.
+    distribution on the target, particularly as the growing           4. Avoid spraying near sensitive crops or surface water;
+    season progresses.                                                   use a 50 –100 foot buffer zone unless otherwise
+5. Consider the use of sprayers which direct the spray to                specified on the pesticide label.
+    the target such as air assist.
+6. Consider spray additives to reduce drift only if they are
+    independently proven to work.
+7. Improve spraying logistics to ensure adequate time to
+    spray within ‘ideal’ conditions.
+8. Only spray when weather conditions are ideal; avoid
+    spraying on days when conditions favor temperature
+    inversions or drift.
+9. Calibrate the sprayer to ensure that everything is
+    working correctly.
+10. Start planting windbreaks!
+
+Table 6.12.1. Comparison of nozzle type and air-assistance in reducing drift
+                                                                                                                 Drift deposition
+                   Crop-free                                                    Boom height           Air         (%) on water
+    Year         Buffer zone (ft)      Year of tests      Nozzle typea            (inches)         assistance        surfaceb
+    1995               2.5               ‘92-‘94           4110-18                   27                No               5.4
+    1995               2.5                ‘92-94           4110-18                   27               Yes               2.7
+    1998               2.5               ‘97-‘98           XR11004                   20                No               2.9
+    1998               2.5               ‘97-‘98           XR11004                   20               Yes               0.6
+    2000                5                  1998           DG1104+end                 20                No               0.9
+    2000               3.3                 1998           DG1104+end                 20               Yes              0.15
+    2000                5                  1998            ID12004                   20                No               0.7
+    2000                3                  1998            ID12004                   20               Yes              0.15
+aSpray drift deposition on water surfaces for potato growing in the Netherlands for 1995, 1998 and 2000.
+
+bNote: ID series nozzles are air induction nozzles
+
+Adapted from Zande, J.C. van de, (2002). Spray drift and buffer zones. Danske plantevaernskonference 2002. DJF rapport nr.66. pp69-71
+
+    2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                    CHAPTER 7 – GENERAL CULTURE              51
+
+
+
+
+                                   Chapter 7 – General Culture
+7.1 Mulches                                                      Different mulch colors affect this ratio and therefore can
+                                                                 potentially affect plant development and possibly increase
+7.1.1 Types                                                      early yield. Initial studies conducted by the USDA and
+Use of plastic mulch is common throughout New York,              other researchers suggest that certain crops had higher
+particularly for vine crops, peppers, and tomatoes. Several      yields with specific colors of mulch, independent of the
+types of plastic mulches are available. All protect ground-      effect on soil temperature. Research with tomatoes at
+level fruit from soil pathogens, conserve soil moisture,         Cornell showed no significant yield advantage using
+reduce leaching of mobile nutrients such as nitrogen, and        colored mulches. More conclusive information and
+warm the soil. The disadvantages of mulches include the          guidance for growers may be available at a later date.
+environmental cost to produce and dispose of the plastic
+and the cost of materials and labor for application and          Use of photodegradable plastics has increased because of
+removal. In addition, although they conserve soil moisture,      environmental concerns and regulations regarding the
+rain and irrigation water may never reach the roots if the       disposal of nondegradable types. The products now on the
+soil is dry when mulches are applied.                            market usually degrade thoroughly once the process begins,
+                                                                 but inaccuracy in timing of breakdown has discouraged
+Black plastic is probably the best weed control measure          some growers. It is usually necessary to experiment with a
+available and a good alternative to herbicides. Two main         few different formulations to find what will work best for a
+disadvantages of using black compared to clear plastic are       particular farm management system. Buried edges must be
+that (1) soil temperatures are cooler under black plastic than   brought to the surface at the end of the season and exposed
+under clear, so black plastic is less effective at stimulating   to light before they will degrade, but these remnants have
+early crop growth and yield; and (2) if black plastic is used    not been a major problem for most growers. The primary
+with a row cover, air temperatures can become excessive on       byproducts of degradation are small amounts of carbon
+warm days and damage the crop.                                   dioxide and water, which are relatively harmless. Trace
+                                                                 amounts of nickel or other elements (depending on type)
+Clear plastic causes warmer soil temperatures than black         may also be left behind. Biodegradable plastics exist, but
+plastic, resulting in earlier harvest. Some growers also         none are currently being used on a large scale for mulch
+claim that clear plastic leads to larger fruit size and better   film in the United States. Another option, recycling of
+quality. The main disadvantage of clear plastic is weed          agricultural plastics, requires a considerable infrastructure
+control. Clear plastic creates an ideal situation for weeds,     for collecting, cleaning, and reusing the plastic that does not
+and herbicides must be used to prevent harm to the crop.         yet exist in the United States.
+
+Infrared-transmitting (IRT) plastic is relatively new and
+more expensive than conventional plastics, but it may be
+                                                                 7.1.2 Application and Disposal
+worth trying because of its special properties. Basically,       Before laying plastic mulch, the soil should be prepared
+IRT plastic is a hybrid between clear and black plastic in       using special precautions. Good soil moisture is essential at
+that it prevents weed growth (as does black plastic) by          the outset because supplemental water applied later through
+screening out light energy the weed seedlings need to grow       the holes where the transplants are placed usually will not
+but allows infrared light to pass through, thereby warming       be adequate for maximum growth. Many growers use drip
+the soil more effectively than black plastic. In trials at       irrigation under the plastic, which is an excellent, although
+Cornell University, soil temperatures under IRT mulches          costly, technique for ensuring optimal soil moisture and
+have been halfway between clear and black plastic; IRT           best response to the mulch.
+usually results in greater early yields than black plastic but
+lower yields than with clear plastic.                            A tight fitting mulch, which requires a flat soil surface, will
+                                                                 help control weeds by burning seedlings as they touch the
+Reflective, aluminum-faced, plastic mulch interferes with        plastic. It also prevents a whipping action that can damage
+the movement of aphids, which are insect vectors of              transplants on windy days.
+diseases such as cucumber mosaic virus. Use of reflective
+mulches in regions with significant insect pressure reduces      Initial fertilizer and herbicide applications must also
+the spread of these diseases.                                    precede laying of plastic. Late-season supplemental
+                                                                 fertilizer applications at the outer edge of plastic can be
+Red, white, and yellow plastic mulches have been tested for      effective when plants are large enough to have roots in this
+their effect on early yield of some crops. Although results      region. “Fertigation,” feeding liquid fertilizer through a drip
+have been inconclusive, the theory behind the use of             irrigation system, is another option. See Section 8.7.6 in the
+colored mulches is sound. Plant development (e.g., stem          Soil Management chapter.
+elongation and flowering) is sensitive to the ratio of far-red
+to red wavelengths that strike the leaves and shoots.            Most growers use a commercially-available plastic layer for
+                                                                 installation. Disks are used to open small trenches on each
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                   CHAPTER 8 – SOIL MANAGEMENT             57
+
+
+
+
+                                Chapter 8 – Soil Management
+8.1 Soils and Fertility                                         8.3 Crop Rotation
+Fertility management is part of overall soil management         Vegetable crops within the same plant family (crucifers,
+involving proper tillage practices, crop rotation, cover        legumes, vine crops, Solanaceous crops, etc.) tend to share
+crops, water management (irrigation and drainage), liming,      the same diseases. As a rule of thumb, don’t include that
+weed management, and produce safety considerations.             plant family more than once every three years in the
+Although it is important in obtaining maximum economic          rotation. Include cover crops in the same family as well.
+yields, fertilization alone will not overcome shortcomings
+in the other areas mentioned above. Such problems should        Rotation with forage, hay, and cereal crops is an effective
+be corrected first so as to benefit fully from organic and      way to maintain the organic matter and structure of soils
+inorganic fertilizer supplements and to sustain high yields     used primarily for vegetables. A good stand of legume or
+and quality over the long term. Information on Soil Testing,    grass-legume sod can also provide substantial nitrogen
+Soil pH and Fertilizers is below in sections 8.8, 8.9 and       upon decomposition, thus reducing the nitrogen fertilizer
+8.10.                                                           requirement for the next vegetable crop planted. Grass
+                                                                and/or legume sods have a place in the rotation to maintain
+                                                                the porosity of fine-textured soils, improve the water-
+8.2 Field and Soil Evaluation                                   holding capacity of coarse soils, and may reduce the
+Plan ahead when selecting new lands or fields. Soils for        buildup of disease, insect, and weed pests. Note: All
+growing vegetables should be well drained, fairly deep,         legumes, whether crops or cover crops, share many of the
+reasonably level, properly limed, and in good tilth (have       same diseases.
+good structure). Medium-textured soils (sandy to silty
+loams with good organic-matter content) are generally most      8.4 Cover Crops
+satisfactory; well-drained, sandy soils with a slight to
+                                                                Cover crops are planted to protect and improve the soil,
+moderate southern slope are most favorable for early
+                                                                suppress weeds and diseases, and help cycle nitrogen.
+plantings and certain warm-season vegetables. For a
+                                                                Integrating cover crops into vegetable production systems
+summary of soil types and soil management groups in New
+                                                                offers many benefits, but provides some challenges as well.
+York State, please see the general information section of the
+                                                                For cover cropping to be successful, it is important to know
+Cornell Guide for Integrated Field Crop Management.
+                                                                the intended purposes, consider key management factors,
+Detailed soil survey maps are available through local
+                                                                and understand the characteristics of different cover crop
+Cornell Cooperative Extension, NRCS and SWCD offices.
+                                                                species.
+For the soil types in your fields search online: Web Soil
+Survey from USDA-NRCS. After determining whether the            Cover crops offer a way to add organic matter to soils;
+soil is suitable, check for perennial weeds, correct pH, and    improve soil tilth and reduce compaction; protect soil from
+soil nutrient levels before planting.                           wind and water erosion; add or recycle plant nutrients;
+                                                                increase the biological activity of soil; retain soil moisture;
+8.2.1 Soil Health                                               and in some cases, suppress weeds and diseases. No single
+Soils in good health provide a desirable medium for root        cover crop can do all of these things. Matching the need and
+development, have pore space for both air and rapid             opportunity to the right cover crop requires information and
+percolation of excess water, have a high water-holding          planning.
+capacity so crops can withstand dry periods, are less prone
+to erosion, and resist the tendency to crust. Healthy soils     Cover crops need to be treated with the same care as cash
+have low levels of soil-borne disease organisms, and high       crops in order to get the intended value. The best success
+levels of beneficial soil organisms. Many agricultural          will come with practices that favor a fast start, and that
+practices cause soil structure to deteriorate. Compaction,      leave no gaps in the stand. These include: sufficient
+which results from the use of equipment on wet soils, is        temperature, soil moisture, and soil fertility; practices such
+particularly damaging. Tillage tools break down soil            as preparing an adequate seedbed by drilling seed or
+aggregates, the tiny, basic building-blocks of good soil        broadcasting and cultipacking; inoculating legume seed
+structure; intensive cultivation accelerates loss of organic    with the proper Rhizobium inoculant; and, correcting pH or
+matter and causes soil to crust. Obviously, all unnecessary     soil fertility problems. In some cases escaped weeds must
+operations should be avoided. Prepare the soil only enough      be controlled with herbicides or by mowing the cover crop
+to provide an adequate seedbed. Never plow, till, plant, or     in midseason.
+cultivate soils when they are wet. A ball of soil which
+crumbles when pressed with the thumb is likely dry enough.      Cover crops must also be killed on time. Before planting,
+One mistake can reduce the yield of the crop regardless of      know when and how the cover crop will be killed, and have
+the level of other inputs. For detailed information on soil     access to the means of termination. Cover crops that are
+health and the Cornell Soil Health Test:                        killed too soon don’t deliver the benefit for which they were
+https://soilhealth.cals.cornell.edu                             planted. If killed too late, they can reseed, leave clumps that
+
+    2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                            CHAPTER 9 – TRANSPLANT PRODUCTION                67
+
+
+
+
+                           Chapter 9 – Transplant Production
+9.1 Cultural Practices                                           more slender, wiry, less expensive plants. Although their
+                                                                 early production is light, these plants usually give high total
+Many crops are transplanted in New York because of the
+                                                                 yields, which are desirable for processing and for late-
+late spring, relatively short growing season, and desire to
+                                                                 market crops.
+obtain maturity as early as possible. Transplants can be
+grown in greenhouses, plant beds, or field nurseries
+operated by vegetable growers or commercial plant                9.2 Growing Media
+growers. A good transplant is healthy, stocky, and relatively
+young with four to six true leaves. Such plants require          9.2.1 Soil
+uniformly fertile soil or mix, good light, even spacing, and     A good soil is characterized by at least four percent organic
+proper temperature and water. Exposure to full sun               matter to give it good structure; medium texture (fine sandy
+outdoors or reduced temperature and watering near the end        loam or silt loam); medium to good fertility level; low
+of the growing period toughen the plant and allow it to          soluble salts; pH of 6.0 to 6.8; and freedom from diseases
+accumulate food reserves for starting the new root system        and pests. Sufficient phosphorus (about two pounds of 0-
+after transplanting. Tender, very young, or weak plants          20-0 per cubic yard) must be mixed thoroughly and
+often die. Overmature or hardened plants usually resume          uniformly with the soil. A soil test should be run well
+growth slowly and often have reduced yield and smaller           before use of any soil or compost, so necessary corrections
+fruit. Cabbage, broccoli, cauliflower, celery, and onion         in soluble salts, pH, and fertility levels can be made.
+plants used for early spring planting may go to seed             Soluble salts should be kept below a K x 105 reading of 100
+prematurely or “button” if subjected to cool temperatures        to 125, although muck soils can tolerate a somewhat higher
+during the growing period. Desirable daytime and minimum         amount without injury. Leaching and keeping the soil in the
+nighttime temperatures for growing plants and the                flat moist are partial solutions for high soluble salt
+approximate time required at these temperatures are listed       problems. Refer to Section 9.6.1 for information on soil
+in Table 9.1.1.                                                  sterilization and control of diseases.
+
+The greater the difference between daytime and nighttime
+temperatures, the more plants appear to “stretch” (stems         9.2.2 Artificial Mixtures
+elongate). For some crops, a stockier, thicker-stemmed           The artificial mix formula listed in Table 9.2.1 has proved
+plant might be obtained when day and night temperatures          practical for all vegetable plants. This mix is lightweight,
+are reversed (e.g., 60°F day, 70°F night). We do not have        does not crust, holds water well, and does not require
+enough data to recommend this approach, but growers may          sterilization.
+wish to experiment on a small scale.
+                                                                 Fertilizers should be spread evenly over the peat and
+Excellent plants can be grown in flats or cell or plug trays     vermiculite. Two ounces of nonionic water wetter, such as
+either by direct seeding or the conventional seed-plant flat     Aquagro, in ten to 20 gallons of water per cubic yard help
+combination. Seeding directly often reduces growing time         to wet the mix. Mix the ingredients thoroughly on a clean
+and labor costs and can produce 25 percent more plants per       floor or in a concrete mixer. Fill the flats, packs, or pots,
+flat. Seed can be planted by hand in rows or spots or            and water thoroughly; wait approximately 15 to 30 minutes
+broadcast and later thinned to the desired spacing.              and water again. Transplant seedlings or sow seed in
+Reasonably good seed spacing can be obtained using a             mixture. Do not plant too early because plants grow rapidly
+vacuum-operated seed-spotting tank built to the dimensions       in the mix. For information on planting dates, see Section
+of the flats or cell trays. For tomatoes, peppers, and           9.5. In flats with transplants, apply a soluble fertilizer (one
+eggplant, wide spacing of 16 plants per square foot in the       pound per 100 gallons of water) approximately three weeks
+flat can lead to stocky plants that produce high early yields.   after thinning or transplanting, and repeat once or twice a
+Close spacing of 48 to 72 plants per square foot leads to        week. Calcium nitrate works well for this purpose.
+
+ Table 9.1.1 Temperature requirements for plant production. (Temperature values are given in °F).
+ Crop                                                 Day Temperature        Night Temperature            Weeks from seed
+ Broccoli, Cabbage, Cauliflower                             65                      55-60                       4-6
+ Celery                                                     65                       60                        8-12
+ Eggplant                                                  70-80                     60                         6-8
+ Lettuce                                                   60-65                     50                         3-5
+ Melons                                                    70-75                     60                         2-3
+ Onions                                                    65-70                    55-60                       6-8
+ Pepper                                                    70-75                     60                         6-8
+ Tomatoes                                                  65-70                     60                         5-8
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+70     CHAPTER 10 – POSTHARVEST HANDLING
+
+
+
+
+                          Chapter 10 – Postharvest Handling
+10.1 Background                                                  contaminated due to contact with animal or other sources of
+                                                                 illness causing organisms.
+Vegetables and fruit are living organisms that continue to
+change after harvest. While some of these changes are
+desirable, most are not, and growers must be aware of            10.3 Clean Surfaces and Containers
+effective ways to minimize undesirable changes, increase
+                                                                 Dirty surfaces can also transmit decay and illness causing
+shelf life, minimize food safety risks and decrease
+                                                                 organisms, Ensuring harvest and postharvest tools and
+postharvest losses. For most vegetables, maintaining cool
+                                                                 containers are clean and sanitized prior to use will reduce
+temperatures and high humidity are the most effective
+                                                                 both postharvest losses and food safety risks. If new
+means of preserving quality.
+                                                                 containers are used, ensure they are stored in clean areas
+                                                                 prior to use to prevent contamination. The concern about
+Once picked, vegetables will respire, meaning they use their
+                                                                 clean surfaces extends to the hands of those involved in
+stored sugars to produce carbon dioxide and heat. The more
+                                                                 post-harvest handling such as those who cull and pack
+rapid the rate of respiration, the faster a vegetable will use
+                                                                 produce. Proper hand hygiene including handwashing will
+up the stored food supply; the greater the heat produced, the
+                                                                 reduce food safety risks that could be introduced during
+shorter the postharvest life of a given commodity.
+                                                                 postharvest handling.
+Vegetables also give off ethylene, a ripening hormone
+which promotes senescence. Detrimental effects of                10.4 Washing and Chlorination
+senescence include loss of green color; abscission of leaves
+                                                                 Decay is usually the most obvious postharvest problem but
+or flowers; toughening of asparagus spears; russet spotting
+                                                                 food safety risks should also be a consideration. Many
+in lettuce; sprouting of potatoes; bitterness in carrots; and
+                                                                 decay and illness causing organisms (bacteria and fungi)
+general weakening of the vegetable, which greatly reduces
+                                                                 cannot invade sound, undamaged tissue, but as the tissue
+the natural resistance to decay organisms. The effect of
+                                                                 becomes older, it becomes weaker and more subject to
+ethylene is influenced by the amount present, the length of
+                                                                 invasion. To control postharvest losses and reduce food
+time the vegetable is exposed, and the temperature.
+                                                                 safety risks, it is recommended that produce be washed in
+Exposure to a specific concentration of ethylene for a given
+                                                                 chlorinated water before storage or shipping (see Table
+time will have much less influence at 32°F than at 85°F.
+                                                                 10.4.1). The wash temperature should be about 10°F
+The sensitivity of many vegetables to ethylene increases
+                                                                 warmer than the produce temperature to ensure that decay
+with maturity or age.
+                                                                 and illness causing organisms are not sucked into the tissue.
+                                                                 Since chlorine is most effective at a slightly acidic pH, it is
+Transpiration, the loss of moisture from living produce, is
+                                                                 important that wash water is buffered to adjust the pH to
+one of the primary determinants of postharvest life and
+                                                                 between 6 and 7.
+quality. The rate of moisture loss depends on both the
+commodity and the environment and is influenced by many
+                                                                 Table 10.4.1. Amount of sodium hypochlorite to
+physical and morphological factors. These factors include
+                                                                 add to wash water for 50 - 150 PPM dilution.
+storage environment, surface to mass ratio (e.g., leaf lettuce
+has much more surface area per weight than winter squash         Target PPM         ml/L       Tsp/5 gal         Cup/50 gal
+and is more subject to weight loss), and injury. High                          Sodium Hypochlorite, 5.25%
+humidity also helps to limit moisture losses. See specific            50            1.0          3 2/3               ¾
+crop chapters for best storage temperature and humidity               75            1.4           5½                  1
+recommendations.                                                      100           1.9           7¼                 1½
+                                                                      125           2.4             9                 2
+                                                                      150           2.9            11                2¼
+10.2 Harvest Considerations                                                    Sodium Hypochlorite, 12.75%
+Harvesting tools, equipment, and containers, must be                  50            0.4           1½                 1/3
+cleaned and sanitized, when possible, before harvest begins           75            0.6           2¼                  ½
+and anytime they become dirty. Cleaning tools, detergents,            100           0.8             3                3/5
+                                                                      125           1.0           3¾                 4/5
+and sanitizers must be provided so sanitation practices can
+                                                                      150           1.2          4 1/2                1
+be completed. Workers and visitors who contact vegetables
+and/or food contact surfaces, also must have clean hands.
+Well-stocked and clean toilet and handwashing facilities         Chlorine in the wash water is often inactivated when the
+must be provided to all employees and any visitors.              wash water becomes dirty. Use filtering devices to remove
+Employees must be trained on how to properly wash their          soil and organic material, and check the chlorine
+hands as well as when handwashing is critical, such as after     concentration often. Produce should be subjected to the
+using the toilet, after eating, and anytime they may be          chlorinated wash from one to ten minutes. After it is
+                                                                 removed, allow it to drain for several minutes before
+                                                                 packing. There are other chemicals beside chlorine that can
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+72     CHAPTER 11 – ORGANIC VEGETABLE PRODUCTION
+
+
+
+
+                 Chapter 11 – Organic Vegetable Production
+11.1 Organic Certification                                        break down organic matter into plant-available nutrients as
+                                                                  well as others that compete with plant pathogens on the root
+To use a certified organic label, farming operations that
+                                                                  surface.
+gross more than $5,000 per year in organic products must
+be certified by a U.S. Department of Agriculture National
+                                                                  Rotating between crop families can help prevent the
+Organic Program (NOP) accredited certifying agency. The
+                                                                  buildup of diseases that overwinter in the soil. Rotation
+choice of certifier may be dictated by the processor or by
+                                                                  with a grain crop, preferably a sod that will be in place for
+the target market. A list of accredited certifiers operating in
+                                                                  one or more seasons, deprives many disease-causing
+New York is compiled on the New York State Department
+                                                                  organisms of a host, and also contributes to a healthy soil
+of Agriculture and Markets Organic Foods and Farming
+                                                                  structure that promotes vigorous plant growth. The same
+pages: https://agriculture.ny.gov/farming/organic-foods-
+                                                                  practices are effective for preventing the buildup of root
+and-farming. See more certification and regulatory details
+                                                                  damaging nematodes in the soil, but keep in mind that
+under Section 11.4.1 Certification Requirements and
+                                                                  certain grain crops are also hosts for some nematode
+Section 11.7: Using Organic Pesticides.
+                                                                  species. Rotating between crops with late and early season
+                                                                  planting dates can help prevent the buildup of weed
+11.2 Organic Farm Plan                                            populations. Organic growers must attend to the connection
+An organic farm plan is central to the certification process.     between soil, nutrients, pests, and weeds to succeed. An
+                                                                  excellent resource for additional information on soils and
+The farm plan describes production, handling, and record-
+                                                                  soil health is Building Soils for Better Crops, 3rd edition, by
+keeping systems, and demonstrates to certifiers an
+                                                                  Fred Magdoff and Harold Van Es, 2010, available from
+understanding of organic practices for a specific crop. The
+                                                                  SARE, Sustainable Agriculture Research and Education:
+process of developing the plan can be very valuable in
+                                                                  https://www.sare.org/resources/building-soils-for-better-
+terms of anticipating potential issues and challenges, and
+                                                                  crops-3rd-edition/ For more information, refer to the
+fosters thinking of the farm as a whole system. Soil,
+                                                                  Cornell Soil Health website (http://soilhealth.cals.
+nutrient, pest, and weed management are all interrelated on
+                                                                  cornell.edu/).
+organic farms and must be managed in concert for success.
+Certifying organizations may be able to provide a template
+for the farm plan. The following description of the farm          11.4 Cover Crops
+plan is from the NOP web site:
+                                                                  Unlike cash crops, which are grown for immediate
+                                                                  economic benefit, cover crops are grown for their valuable
+The Organic Food Production Act of 1990 (OFPA or Act)
+                                                                  effect on soil properties and on subsequent cash crops.
+requires that all crop, wild crop, livestock, and handling
+                                                                  Cover crops help maintain soil organic matter, improve soil
+operations requiring certification submit an organic system
+                                                                  tilth, prevent erosion and assist in nutrient management.
+plan to their certifying agent and, where applicable, the
+                                                                  They can also contribute to weed management, increase
+State Organic Program (SOP). The organic system plan is
+                                                                  water infiltration, maintain populations of beneficial fungi,
+a detailed description of how an operation will achieve,
+                                                                  and may help control insects, diseases and nematodes. To
+document, and sustain compliance with all applicable
+                                                                  be effective, cover crops should be treated as any other
+provisions in the OFPA and these regulations. The
+                                                                  valuable crop on the farm, carefully considering their
+certifying agent must concur that the proposed organic
+                                                                  cultural requirements, life span, mowing recommendations,
+system plan fulfills the requirements of subpart C, and any
+                                                                  incorporation methods, and susceptibility, tolerance, or
+subsequent modification of the organic plan by the
+                                                                  antagonism to root pathogens and other pests. Some cover
+producer or handler must receive the approval of the
+                                                                  crops and cash crops share susceptibility to certain
+certifying agent.
+                                                                  pathogens and nematodes. Careful planning and monitoring
+More details may be found at: the Agricultural Marketing          is required when choosing a cover crop sequence to avoid
+Service’s National Organic Program website                        increasing pest problems in subsequent cash crops. “Crop
+(https://www.ams.usda.gov/about-ams/programs-                     Rotation on Organic Farms: A Planning Manual”
+offices/national-organic-program).                                (https://www.sare.org/resources/crop-rotation-on-organic-
+                                                                  farms/) is a valuable resource for optimizing your rotations.
+                                                                  See Section 11.6: Crop and Soil Nutrient Management for
+11.3 Soil Health                                                  more information about how cover crops fit into a nutrient
+Healthy soil is the basis of organic farming. Regular             management plan.
+additions of organic matter in the form of cover crops,
+compost, or manure create a soil that is biologically active,     A certified organic farmer is required to plant certified
+with good structure and capacity to hold nutrients and water      organic cover crop seed. If, after contacting at least three
+(note that any raw manure applications should occur at least      suppliers, organic seed is not available, then the certifier
+120 days before harvest). Decomposing plant materials will        may allow untreated conventional seed to be used.
+activate a diverse pool of microbes, including those that         Suppliers should provide a purity test for cover crop seed.
+
+     2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                                 CHAPTER 12 — ASPARAGUS                 81
+
+
+
+
+                                        Chapter 12 – Asparagus
+12.1 Recommended Varieties                                             Table 12.2.1 Recommended spacing.
+Many newer varieties are all-male hybrids, whereas traditional                 Row (in feet)                 In-row (in inches)
+varieties such as Mary Washington are dioecious with 50                           4.5-61                          10-182
+percent male and 50 percent female plants. The new male                1 Use spacing that allows room for farm equipment. Mature
+hybrids are higher yielding, more vigorous, and do not produce         ferns can become large and difficult to cover with sprays if
+seeds.                                                                 planted too closely.
+                                                                       2 Early yields from closely spaced plants will be high, but as
+ Table 12.1.1 Recommended asparagus varieties                          roots spread, the closely spaced plants become crowded and
+ Jersey Supreme (RR, FT) 1          Jersey Giant (RR,FT)               spear diameter decreases.
+ Jersey Knight (RR,FT)
+ 1 RR = Rust resistant; FT = Fusarium tolerant
+                                                                      12.3 Fertility
+                                                                      Apply adequate lime to bring the pH to between 6.0 and 6.5. If
+12.2 Planting Methods                                                 a large amount of lime is needed, apply half before plowing and
+Crowns. One-year-old crowns are generally planted.                    incorporate the remainder after plowing. Remember, asparagus
+Commercially, crowns are dug in the fall after one season’s           will be in the field for eight to 12 years, so proper soil
+growth, stored, and sold in the spring. If a grower                   preparation prior to planting is essential. See Table 12.3.1 for
+establishes his/her own nursery, crowns may be left in the            the recommended rates of nitrogen, phosphorus, and potassium.
+field over the winter, dug in the spring, and replanted
+immediately. Crowns are placed in the bottoms of furrows
+six to eight inches deep with buds up and covered with 11/2           12.4 Harvesting
+inches of soil. Furrows are gradually filled in over the first        Do not harvest asparagus the year of planting. Asparagus can be
+growing season, by moving soil toward the plants during               harvested the second year after planting. A traditional harvest
+cultivation until the field is again level.                           sequence calls for cutting two weeks the first year of harvest,
+                                                                      four weeks the second, and six to eight weeks thereafter. These
+Transplants. Asparagus fields can be established using ten-           are general guidelines, and the length of the harvest period
+to 12-week-old transplants. Transplants are planted in                should be adjusted according to the spear size. When spears are
+furrows six to eight inches deep. The furrow should be wide           predominantly small in diameter, harvest should be stopped.
+and contain a three-inch flattened mound at the bottom in a           Fresh-market asparagus is cut or snapped by hand when the
+modified W-shape. Placing the transplant on the mound                 spears are about ten inches tall. In warm weather, fields should
+protects the plant from being washed out or covered by soil           be harvested daily. Damaged or thin shoots should be cut and
+during a heavy rain. Furrows are not completely filled in at          discarded. After harvesting, spears should be washed, cooled,
+planting. Instead, the root mass of the transplant is covered,        trimmed to a uniform length, and graded by diameter. Spears
+and the soil is gradually moved into the furrows with                 can be stored for up to three weeks at 36°F and 95 percent
+cultivation over the first growing season.                            relative humidity.
+
+
+ Table 12.3.1 Recommended nutrients based on soil tests.
+                              P2O5 pounds/acre                   K2O pounds/acre
+                            Soil Phosphorus Level              Soil Potassium Level
+ N pounds/acre            low        med.      high          low       med.      high           Comments
+ New plantings
+ 50                       110          60         30         150         100          50        Total recommended
+ 0                        110          60         30         150         100          50        Broadcast and disk-in.
+ 50                        0           0          0           0           0           0         Sidedress at first cultivation.
+ Cutting beds
+ 50                        75          50         25             80      60           40        Total recommended
+                                                                                                Apply in the spring before spear
+ 50                        75          50         25             80      60           40
+                                                                                                emergence. Incorporate lightly
+
+
+
+
+      2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                                     CHAPTER 14 – BEETS       121
+
+
+
+ Table 14.3.1 Recommended application rate of nutrients based on soil tests.1,2
+  N (pounds/acre)     P2O5 (pounds/acre)             K2O (pounds/acre)        Comments
+                     Soil Phosphorus Level          Soil Potassium Level
+                   low       med.      high       low       med.      high
+ 150-175           150        100       50        300        200      100     Total recommended
+
+ 25-50                  75         25          0           225        150          50     Broadcast and disk-in.
+ 25                     75         75         50            75         75          50     Band place with planter.
+ 50                     0           0          0             0          0           0     Apply three weeks after planting
+ 50                     0           0          0             0          0           0     Apply eight weeks after planting
+
+
+
+14.5 Disease Management
+14.5.1 Foliar disease is caused primarily by the fungi, Cercospora beticola (Cercospora leaf
+spot), Phoma betae (Phoma leaf spot), and Alternaria spp. (Alternaria leaf spot aka early blight).
+Bacterial leaf spot is caused by Pseudomonas syringae pv. aptata.
+Time for concern: The fungal foliar diseases (Cercospora, Phoma and Alternaria leaf spots) are most prevalent in mid to late
+season with daytime temperatures of 75° to 80°F and with frequent rainfall or long periods of 90 to 100 percent relative
+humidity. Bacterial leaf spot is most prevalent early in the season when daytime temperatures are less than 75°F in periods of
+frequent rainfall.
+Key characteristics: Cercospora leaf spot first appear as small, circular lesions that are gray with a distinct dark brown
+(yellow varieties) to purple/red (red varieties) halo. The presence of black fruiting structures of the fungus randomly positioned
+with the lesion is diagnostic for this disease. Cercospora leaf spot may rapidly cause defoliation. Phoma leaf spot appears as
+lesions of various size with concentric ring pattern and fruiting bodies of the pathogen. When lesions of both pathogens mature,
+the centers become gray and brittle and fall out. Bacterial leaf spot lesions are brown to black and cause deformation of the
+leaves. Disease severity is highest in young plants.
+ Management Option              Guideline
+Scouting/thresholds           Record the occurrence and severity of leaf spot. No thresholds have been established.
+Resistant varieties           No resistant varieties are currently available. Ruby Queen is less susceptible to Cercospora leaf
+                              spot than Merlin, Detroit, Falcon, Touchstone Gold, and Boldor.
+Crop rotation                 Minimum two year rotation out of beets with nonhost crops preferably grains.
+Site selection                Avoid fields with tree lines and stagnant air circulation, as long duration of leaf-wetness is
+                              conducive for disease development. Also, weeds belonging to the family Chenopodiaceae may
+                              serve as a source of inoculum.
+Fungicide use                 See product labels for diseases. Resistance to Group 11 (strobilurin) fungicides has been
+                              detected in Cercospora beticola where these fungicides have been used for several years in
+                              major production areas of beet (including NY) and sugar beet.
+Seed selection/treatment      Plant commercially treated seed to prevent seed decay and reduce seedborne inoculum.
+Postharvest                   If possible, crop debris should be destroyed as soon as possible to remove this source of disease
+                              for other plantings and to initiate decomposition.
+Sanitation                    This is not a currently viable management option.
+
+Compound(s) Foliar disease
+ Product Name (Active
+ Ingredient) (Class of                                                    REI           Field Use
+ Compounds)                             Product Rate         PHI (Days) (Hours)           EIQ        Comments
+ Cabrio EG (pyraclostrobin)           8-12 oz/acre                0           12        2.7 - 4.1    See comment below
+ (Group 11)
+ Labeled for Cercospora and Alternaria.
+ No more than 2 consecutive applications.
+ In NYS, no aerial application within 100 feet of aquatic habitats.
+ *Cevya (mefentrifluconazole)           3-5 fl oz/acre            7           12          Not        No more than 2 consecutive,
+ (Group 3)                                                                              Available    3 max applications.
+
+    2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                                    CHAPTER 16 – CARROTS         171
+
+
+
+16.6 Insect Management
+16.6.1 Aphids, Primarily the green peach aphid, Myzus persicae
+Time for concern: June through harvest. Not generally a problem on carrots in NY.
+Key characteristics: Adults vary in color. Aphids are generally about 1/16 inch long. Aphid infestations usually occur on new
+growth causing yellowing or wilting of foliage. See https://entnemdept.ufl.edu/creatures/veg/aphid/green_peach_aphid.htm.
+ Management Option              Guideline
+ Scouting/thresholds             When aphids appear in sweep nets, randomly sample 50 plants in the field to determine the
+                                 percentage of plants infested. Check the newest leaves for the presence of aphids. If more
+                                 than 25 percent of plants are infested, an insecticide treatment is recommended.
+ Resistant varieties             No resistant varieties are available.
+ Natural enemies                 Natural enemies are helpful in controlling aphid populations. They can be preserved by
+                                 using insecticides that are less harmful to them. Use
+                                 biocontrol.entomology.cornell.edu/index.php for identification of natural enemies.
+ Note(s)                         Aphid populations decline rapidly during periods of heavy rainfall. Some insecticides
+                                 applied for leafhoppers may also suppress aphids, others, such as pyrethroids. may
+                                 exacerbate aphid populations.
+ Crop rotation, site selection, These are not currently viable management options.
+ postharvest, and sanitation
+
+Compound(s) Aphids
+ Product Name (Active
+ Ingredient) (Class of                                                    REI          Field Use
+ Compounds)                            Product Rate          PHI (Days) (Hours)          EIQ         Comments
+ *Admire Pro Systemic Protectant       4.4-10.5 fl oz/acre    21 for soil     12       4.5 - 10.7    Soil applications only.
+ (imidacloprid) (Group 4A)                                       apps
+ *Admire Pro Systemic Protectant       1.2 fl oz/acre         21 for soil     12          1.2        Foliar applications only.
+ (imidacloprid) (Group 4A)                                       apps
+ *Leverage 360 (imidacloprid +         2.4-2.8 fl oz/acre          7          12        1.7 - 2
+ beta-cyfluthrin) (Group 4A + 3A)
+ *†Platinum 75 SG                      1.7-4.01 oz/acre            -          12       2.7 - 6.3
+ (thiamethoxam) (Group 4A)
+ * Restricted-use pesticide.
+ † Not for use in Nassau and Suffolk Counties.
+
+16.6.2 Aster leafhopper, Macrosteles quadrilineatus
+Transmits the pathogen for carrot yellows disease.
+Time for concern: June through August
+Key characteristics: The adult aster leafhopper is about 3/16 inch long and pale green with six black spots on the front of its
+head. Nymphs resemble adults but are smaller and lack wings. The aster leafhopper transmits the pathogen for aster yellows
+disease. This insect overwinters in the egg stage on wild and cultivated grasses and broadleaf weeds. However, migrating
+populations from the south also play a role in population levels and aster yellows transmission. Aster leafhopper has a wide
+host range feeding on over 100 plant species although preferring cereals and grasses. See: www.omafra.gov.on.ca/
+english/crops/ and https://vegento.russell.wisc.edu/pests/aster-leafhopper/.
+ Management Option                Guideline
+ Scouting/thresholds              Leafhopper feeding does not cause economic damage, but leafhoppers can transmit aster
+                                  yellows. Record the occurrence and severity of aster leafhoppers, using yellow sticky cards
+                                  which are good for especially rapid increases in infestations, or sweep nets. Perform 20
+                                  sweeps in 5 locations/field and record the total number of leafhoppers present. A foliar
+                                  insecticide should be applied at the first appearance of leafhoppers. Spray up to three
+                                  applications at ten day intervals. For areas where aster yellows has been a problem, follow a
+                                  seven day spray schedule and continue spraying until leafhoppers can no longer be found in
+
+    2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+182    CHAPTER 17 – CUCURBITS – CUCUMBER, MELON, PUMPKIN, SQUASH AND WATERMELON
+
+
+
+Table 17.5.2 Relative effectiveness of various chemicals for cucurbit disease control.
+                                                            Relative Control Rating
+
+
+
+
+                                           Alternaria Blight   Bacterial Leaf Spot                                                           Downy Mildew   Gummy Stem Blight                    Phytophthora Blight    Powdery Mildew          Septoria Leaf Spot
+                                                                                                                                                                                Plectosporium
+
+                              PHI (days)                                             Anthracnose               Cottony Leak   Damping Off
+                                                                                                   Belly Rot
+Trade Name (active
+ingredient) and Group                                                                                                                                                           Blight                                                   Scab
+Number(s)
+Actigard (acibenzolar-S-methyl) 0     -                           L                     -            -            -              -             L                -                   -                 -                   L              L          -
+P 01
+Aliette (fosetyl-Al) 33          0.5  -                             -                 -             -             -              -           ++              -                    -                   -                 -                 -      -
+*Aprovia Top (difenoconazole      0 +++                             -                +++           +++            -              -            -             +++                  +++                  -                +++               +++    +++
++ benzovindiflupyr) 3 + 7
+Bravo, Echo or OLP                0 +++                             -                +++           +++            -              -          +++Co           +++                  +++                +                  ++Co              +++    +++
+(chlorothalonil) M5
+Cabrio EG (pyraclostrobin) 11     0 +++                             -                +++             -            -              -            R              R                   +++                  -                 R                 -        +
+*Cevya, Provysol                  0   -                             -                 -              -            -              -            -             +++                   -                   -                ++C                -        -
+(mefentrifluconazole) 3
+Copper a M1                       0  ++                           +                   +              -            -              -          ++Co            +                       -               +                  +Co               +      +/-
+Curzate (cymoxanil) 27            0   -                           -                   -              -            -              -            ++             -                      -               -                   -                -       -
+*Dithane, Manzate, Penncozeb, 5      ++                           -                  +++             -            -              -          +++Co           ++                      -               -                   -                +       -
+*Roper (mancozeb) M3
+Double Nickel (Bacillus           0   -                             -                   -            -            -            L               L              L                     -                 -                +/-Co              -         -
+amyloliquefaciens) 44 d
+Endura (boscalid) 7               0 +++                             -                   -            -            -              -            R               -                   -              -                      R                 -        -
+Flint Extra (trifloxystrobin) 11  0   -                             -                   -            -            -              -            R               R                  +++             -                      R                 -        +
+Forum (dimethomorph) 40           0   -                             -                   -            -            -              -           V/R              -                   -             +++                      -                -        -
+*†Gatten (flutianil) U13          0   -                             -                   -            -            -              -            -               -                   -              -                     +++C               -        -
+*Gavel (zoxamide + mancozeb) 5       M                              -                   -            -            -              -          ++++              -                   -             +++                      -                -        -
+22 + M3
+Inspire Super or OLP              7 +++                             -                +++             -            -              -              -           +++                  +++                  -                ++C                -     +++
+(difenoconazole + cyprodinil)
+JMS Stylet-oil (mineral oil) NC 0     -                             -                   -            -            -              -              -            -                      -                 -                ++Co               -         -
+*†Luna Experience (fluopyram      7   -                             -                   -            -            -              -              -           +++                     -                 -                ++++               -         -
++ tebuconazole) 7 + 3                                                                                                                                                                                                   C
+*†Luna Flex (fluopyram +          0  L                              -                 L              -            -              -              -           +++                     -                 -                +++C               -         -
+difenoconazole) 7 + 3
+ManKocide (mancozeb +             5  ++                           +                  +++             -            -              -           ++             ++                      -               +                      -              -         -
+copper hydroxide) M3 + M1
+*†Merivon (fluxapyroxad +         0 +++                             -                   -            -            -              -            R               R                     +                 -                  R                -         -
+pyraclostrobin) 7 + 11
+Mettle 125 ME                     0 +++                                                                                                                     +++                                                         ++                      +++
+(tetraconazole) 3
+Kaligreen or OLP (potassium      0   -                              -                   -            -            -              -              -               -                   -                 -                +/-Co              -         -
+bicarbonate) NC
+*†Miravis Prime (fludioxonil +   1 +++                              -                   -            -            -              -              -           +++                     -                 -                +++               +++    +++
+pydiflumetofen) 12 + 7
+*Omega 500 (fluazinam) 29      7/30 +++                             -                   -            -            -              -          ++++                -                   -           ++++                       -              -         -
+Orondis Gold (oxathiapiprolin    0   -                              -                   -            -            -              -            -                 -                   -           ++++                       -              -         -
++ mefenoxam) 49 + 4
+Orondis Opti (oxathiapiprolin + 0    M                              -                M               -            -              -          ++++             M                      -                 -                 M                M          -
+chlorothalonil) 49 + M5
+Orondis Ultra (oxathiapiprolin   0   -                              -                   -            -            -              -          ++++                -                   -           ++++                       -              -         -
++ mandipropamid) 49 + 40
+
+
+
+      2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+372     CHAPTER 24 – SPINACH
+
+
+
+Compound(s) annual grasses, yellow nutsedge, galinsoga, suppression of nightshades and other broadleaf
+weeds (continued)
+TIMING KEY: PPI = pre-plant incorporated; PreE = pre-emergent; PostE = post-emergence
+  Timing
+          Product Name (active ingredient, weight of active per unit of herbicide, group number)
+
+PPI   PreE   PostE        Notes
+             *†Dual Magnum (continued)
+                   Comments: recommendations in these guidelines. SLN indemnified labels and the indemnification
+                   (continued) agreement can be found by logging in at www.farmassist.com. (New users must create an
+                                account.) Once logged in, labels are available under the products menu at the top of the screen
+                                under “Indemnified Labels.” If difficulties are encountered in using the website, click the
+                                support link at the top of the FarmAssist web page to contact Syngenta. Apply broadcast to
+                                the soil surface as a preemergence application (prior to crop or weed emergence). Banded
+                                applications may also be made but not if the crop is planted in trenches or depressed beds.Do
+                                not incorporate. Do not exceed 0.67pt/A/season. Only one application of *†Dual Magnum is
+                                permitted per spinach growing season on the same ground in one calendar year.
+ * Restricted-use pesticide.
+ † Not for use in Nassau and Suffolk Counties.
+
+
+Compound(s) ragweed, hairy galinsoga, smartweed, wild buckwheat, dandelion, hairy nightshade, Canada
+thistle
+TIMING KEY: PPI = pre-plant incorporated; PreE = pre-emergent; PostE = post-emergence
+   Timing
+          Product Name (active ingredient, weight of active per unit of herbicide, group number)
+
+PPI   PreE   PostE        Notes
+          X *†Stinger (clopyralid, 3 lb/gal, group 4)
+                          Rate: 0.33 pt/acre
+                   AI per acre: 0.124 lbs/acre
+                          PHI: 21
+                           REI: 12
+                Field Use EIQ: 2.6
+                    Comments: Not for use in Nassau and Suffolk Counties. For control of aster weeds, legumes and some
+                                solanaceous species. May only suppress perennial weeds. Do not apply more than 1/2 pt/A
+                                per season. Apply to spinach in the 2 to 5 leaf stage. *†Stinger may be applied with other
+                                herbicides labeled for use on spinach. Other clopyralid products may be registered; read
+                                labels carefully. Some leaf curling may be observed on smaller spinach, particularly at higher
+                                use rates. Crop tolerance may be optimized by selecting the lower application rate necessary
+                                for weed control, especially where non-uniform emergence has caused variable plant sizes.
+ * Restricted-use pesticide.
+ † Not for use in Nassau and Suffolk Counties.
+
+
+Compound(s) some annual broadleaves (lambsquarters, chickweed, purslane, ragweed)
+TIMING KEY: PPI = pre-plant incorporated; PreE = pre-emergent; PostE = post-emergence
+  Timing
+         Product Name (active ingredient, weight of active per unit of herbicide, group number)
+
+PPI   PreE   PostE         Notes
+              X *Spin-Aid (phenmedipham, 1.3 lb/gal, group 5)
+                            Rate: 3-6 pts/acre
+                     AI per acre: 0.49-0.98 lbs/acre
+                            PHI: 21
+                            REI: 12
+                  Field Use EIQ: 8.1-16.3
+
+
+
+      2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+                                                                                        APPENDIX     449
+
+
+
+
+                                                  Appendix
+Table 1. Herbicides mentioned in this publication
+Trade Name                      Common Name                   Formulation            EPA Reg. No.
+*†AAtrex 4L                     atrazine                      4L                     100-497
+*†AAtrex NINE-O                 atrazine                      90 DG                  100-585
+Accent                          nicosulfuron                  75 DF                  352-560
+Aim EC                          carfentrazone                 2.0 EC                 279-3241
+Assure II                       quizalofop p-ethyl            0.88 EC                352-541
+*Atrazine 90WDG                 atrazine                      90 WDG                 34704-622
+*Atrazine 4L                    atrazine                      4L                     34704-69
+Balan                           benefin                       60 DF                  34704-746
+Banvel                          dicamba                       4L                     66330-276
+Basagran                        bentazon                      4L                     66330-413
+Basagran 5L                     bentazon                      5L                     7969-112
+Broadloom                       bentazon                      4L                     70506-306
+Callisto                        mesotrione                    4 SC                   100-1131
+Caparol 4L                      prometryn                     4L                     100-620
+                                                                                     (SLN NY-140007)
+Chateau EZ                      flumioxazin                   41.4 SC                59639-221
+Chateau SW                      flumioxazin                   51 WDG                 59639-99
+Clarity                         dicamba                       4 EC                   7969-137
+Command 3 ME                    clomazone                     3 ME                   279-3158
+Curbit EC                       ethalfluralin                 3 EC                   34704-610
+*†Dual Magnum                   metolachlor                   7.62 E                 100-816 and SLN
+                                                                                     NY-110004
+*†Dual II Magnum                metoachlor                    7.64 E                 100-818
+Eptam 7-E                       EPTC                          7E                     10163-283
+Formula 40                      2,4-D                         3.8 L                  228-357
+†Fusilade DX                    fluazifop-butyl               2 EC                   100-1070
+Goal 2XL                        oxyfluorfen                   2E                     62719-424
+Goaltender                      oxyfluorfen                   4F                     62719-447
+*†Harness Herbicide             acetochlor                    7 EC                   524-473
+Impact                          topramezone                   2.8 L                  5481-524
+Karmex DF                       diuron                        80 DF                  66222-51
+Laudis                          tembotrione                   3.5 EC                 264-860
+Lorox DF                        linuron                       50 DF                  61842-23
+Matrix                          rimsulfuron                   25 DF                  352-556
+Metribuzin 75                   metribuzin                    75DF                   34704-876
+Moxy 2E                         bromoxynil                    2E                     9779-346
+*†Nortron SC                    ethofumesate                  4SC                    264-613
+                                                                                     (SLN NY-120014)
+*†Optill                        saflufenacil + imazethapyr                           7969-280
+*†Outlook                       dimethenamid-p                6 EC                   7969-156
+Permit                          halosulfuron                  75 DF                  81880-2-10163
+Poast                           sethoxydim                    1.5 E                  7969-58
+Prefar 4-E                      bensulide                     4E                     10163-200
+Prowl 3.3 EC                    pendimethalin                 3.3 EC                 241-337
+Prowl H2O                       pendimethalin                 3.8 CS                 241-418
+*†Pursuit                       imazethapyr                   2EC                    241-310
+Raptor                          imazamox                      1 AS                   241-379
+*Reflex                         fomesafen                     2L                     100-993 and SLNs
+                                                                                     NY-130006 and
+                                                                                     NY-140003
+Ro-Neet                         cycloate                      6L                     74530-16
+Roundup WeatherMAX              glyphosate                    5.5 L                  524-537
+Sandea                          halosulfuron                  75 DF                  81880-18-10163
+Table continued on next page.
+
+   2024 CORNELL INTEGRATED CROP AND PEST MANAGEMENT GUIDELINES FOR COMMERCIAL VEGETABLE PRODUCTION
+

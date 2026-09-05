@@ -1,0 +1,1221 @@
+COMMUNITY LIFELINES
+IMPLEMENTATION TOOLKIT
+Comprehensive information and resources for
+implementing lifelines during incident response
+
+
+
+
+                                                  Version 2.1
+                                                    July 2023
+                                                                                            2
+
+Organization
+Content in this toolkit is organized into the following four sections:
+   1.       Lifelines Overview ……………………………………………………………………………………….Slide 3
+   2.       Situational Awareness and Reporting..…………………………………………………………Slide 29
+   3.       Lifelines and Operational Planning ……………………………………………………………..Slide 37
+   4.       Icons and Templates …………………………………………………………………………………..Slide 59
+  Companion documents to the toolkit may include:
+   Cover Sheet
+   Presenter’s Guide
+   Fact Sheet
+   Templates
+        –     Lifeline Card Template
+        –     Tier I, Tier II, and Tier III Reporting Templates
+        –     Incident Approach Template
+
+
+
+                                                                             Version 2.1 - 07/2023
+                     3
+
+
+
+
+     Section I:
+Lifelines Overview
+                                                                                                                                     4
+
+Incorporating Community Lifelines into Response
+FEMA developed the community lifelines construct to increase effectiveness in disaster
+operations and better position the Agency to respond to catastrophic incidents. The
+construct allows emergency managers to:
+       Characterize the incident and identify the root causes of priority issue areas
+       Distinguish the highest priorities and most complex issues from other incident information
+
+                                           WHY A LIFELINES CONSTRUCT?
+   Lifelines provide an outcome-based, survivor-centric frame of reference that assists responders with the following:
+    –    Rapidly determining the scale and complexity of a disaster
+    –    Identifying the severity, root causes, and interdependencies of impacts to basic, critical lifesaving and life-sustaining
+         services within impacted areas
+    –    Developing operational priorities and objectives that focus response efforts on the delivery of these services by the
+         most effective means available
+    –    Communicating disaster-related information across all levels of public, private, and non-profit sectors using a
+         commonly understood, plain language lexicon
+    –    Guiding response operations to support and facilitate integration across mission areas
+
+                                                                                                                     Version 2.1 - 07/2023
+                                                                                                                      5
+
+   Toolkit 2.1
+The 4th Edition of the National Response Framework formalizes the community lifelines
+                       construct in national level response doctrine.
+      Toolkit Version 2.1 is an interim product, designed to introduce adjustments
+        which improve the community lifelines construct. Major changes include:
+           Adding an eighth lifeline focused on “Water Systems.”
+               This lifeline includes some components previously aligned under the “Food, Water, Shelter”
+                lifeline.
+         Renaming the “Food, Water, Shelter” lifeline to “Food, Hydration, Shelter.”
+         Refining the purpose of the community lifelines construct as an impact assessment
+          tool rather than a tool supporting stabilization. The toolkit still addresses stabilization
+          as an objective, particularly in response planning.
+         Revising the “conditions designations” color coding scheme to focus on community
+          impact reporting, rather than progress toward reaching stabilization targets.
+         Simplifying and standardizing situational awareness reporting products for a more
+          streamlined approach in real world application.
+                                                                                                       Version 2.1 - 07/2023
+                                                                                                    6
+
+    Evolution of the Community Lifelines Construct
+While Toolkit 2.1 still focuses on the Response Mission Area, FEMA continues to examine
+ the application of community lifelines across the disaster lifecycle and all five mission
+                                           areas.
+
+      Driving Lifeline Resilience through:
+        Preparedness: Reorganizing Threat & Hazard Identification and Risk
+         Assessments by lifeline
+        Protection: Assessing lifeline infrastructure vulnerability
+        Recovery: Transitioning from incident response to recovery
+        Mitigation: Reducing lifeline vulnerability through mitigation activities
+
+    The Lifelines Toolkit will continue to be refined as the construct evolves
+
+
+                                                                                     Version 2.1 - 07/2023
+                                                                                           7
+
+Lifelines, Core Capabilities, ESFs
+The interrelationship of Emergency Support Functions (ESF), Core Capabilities, and
+           lifelines can be thought of in terms of means, ways, and ends.
+    Means: ESFs and other organizing bodies—the means—are the way we
+     organize across departments and agencies, community organizations, and
+     industries to enhance coordination and integration to deliver the
+     Response Core Capabilities.
+    Ways: Response Core Capabilities describe the grouping of response
+     actions—the ways—that can be taken to re-establish lifeline infrastructure.
+     FEMA executes Lines of Effort (LOE) to operationalize the Core Capabilities
+     (the ways) for response and recovery planning and operations.
+    Ends: Lifelines describe the critical service infrastructure within a
+     community that must be stabilized and re-established to address
+     community impact—the ends—by alleviating threats to life and property.
+                                                                            Version 2.1 - 07/2023
+                                                                                                                          8
+
+    Community Lifeline Implementation
+Lifelines reframe incident information to provide decision-makers with impact statements and summarize
+    the root causes of disruptions to lifeline services. The community lifelines construct maximizes the
+            effectiveness of federally supported, state managed, and locally executed response.
+
+   Incorporating the community lifelines construct primarily impacts how
+                                                                                 RESPONSE PROCESSES DO NOT CHANGE;
+     incident information is framed, organized, and reported during response
+                                                                                HOWEVER, FRAMING THE INCIDENT AROUND
+   ESFs, Core Capabilities, response operations, procedures, and key          LIFELINES CREATES SOLUTIONS THAT ADDRESS
+
+     elements of doctrine remain fundamentally the same                        ROOT CAUSES AND BETTER UNDERSTAND AND
+                                                                                      ADDRESS INCIDENT IMPACTS
+  Implementation of the community lifelines construct provides the
+  following benefits:
+      –    Understanding, prioritizing, and communicating incident impacts
+      –    Structuring and formatting decision-making support products in a
+           streamlined approach (e.g., briefings, forms)
+      –    Planning for incident impacts and stabilization both prior to and
+           during incidents
+
+
+                                                                                                         Version 2.1 - 07/2023
+                                                                                                                 9
+
+      Community Impact
+ The community lifelines construct is used to identify and measure impacts that an incident has had on
+                          critical infrastructure within an affected community.
+
+ When a lifeline is affected by a disaster, survivors may experience disruptions which
+  reduce their ability to receive critical services and recover from the effects of the
+  incident. These lifeline impacts are assessed and addressed based on overall impact
+  to the community, otherwise known as Community Impact.
+ Addressing community impact is an ongoing process, which occurs throughout the
+  disaster lifecycle. Community impact is a metric that is re-evaluated from the start of
+  an incident through the conclusion of response operations to measure and assess
+  progress.
+     At the conclusion of response operations, and as efforts turn to recovery, all immediate community
+      impacts should be addressed to the point that the impacted state, local, tribal, or territorial (SLTT)
+      government no longer needs direct federal support.
+
+                                                                                                  Version 2.1 - 07/2023
+                                                                                                             10
+
+Community Lifelines Defined
+    A CONSTRUCT FOR COMMUNITY IMPACT ASSESSMENT AND ANALYSIS
+
+    A lifeline enables the continuous operation of critical government and business
+     functions and is essential to human health and safety or economic security.
+
+
+
+
+ Lifelines are the most fundamental services in the community that enable all other aspects
+  of society to function.
+ Lifelines are the integrated network of assets, services, and capabilities that are used day-to-
+  day to support the recurring needs of the community.
+ When disrupted, decisive intervention (e.g., rapid service re-establishment or employment of
+  contingency response solutions) is required.
+                                                                                              Version 2.1 - 07/2023
+                                                                                                        11
+
+Deconstructing Community Lifelines
+ Each lifeline is composed of multiple components and
+  subcomponents that help define the services that
+  make up that lifeline.                                   ORGANIZATION AND BREAKDOWN OF EACH LIFELINE
+   Components represent the general scope of
+    services for a lifeline.
+   The components are further divided into relevant
+    subcomponents that provide a granular level of
+    enabling functions for the delivery of services to a
+    community.
+ Lifelines and components are fixed, but the
+  subcomponents may be adjusted as necessary.
+       Note: Not every incident will impact all
+       the lifelines or components.
+
+                                                                                         Version 2.1 - 07/2023
+                                                                                   12
+
+Community Lifeline Construct
+            Example components and subcomponents: Energy Lifeline
+
+
+   The graphic provides an
+    example breakdown of the
+    Energy Lifeline into its relevant
+    components and
+    subcomponents.
+   The subcomponents define
+    each component and are
+    subject to change depending
+    on incident circumstances.
+
+                                                                    Version 2.1 - 07/2023
+                                                                                                                                   13
+
+ Community Lifeline Components
+Multiple components and subcomponents establish the parameters of the lifeline; component-level
+               assessment is required to determine the condition of each lifeline.
+1. Safety and Security             4. Energy                               7. Hazardous Material
+       Law Enforcement/Security              Power Grid                         Facilities
+       Fire Service                          Fuel                               HAZMAT, Pollutants, Contaminants
+       Search and Rescue
+                                   5. Communications
+       Government Service                                                 8. Water Systems
+                                         Infrastructure
+       Community Safety                                                         Potable Water Infrastructure
+                                         Responder Communications
+                                                                                 Wastewater Management
+2. Food, Hydration, Shelter              Alerts, Warnings, and Messages
+       Food                             Finance
+       Hydration                        911 and Dispatch
+       Shelter                                                              ASSESSMENT
+       Agriculture                6. Transportation
+                                                                                  Status        “What?”
+                                          Highway/Roadway/Motor Vehicle
+ 3. Health and Medical
+                                          Mass Transit                          Impact         “So What?”
+       Medical Care
+                                          Railway
+       Public Health
+                                          Aviation                              Actions        “Now What?”
+       Patient Movement
+                                          Maritime
+       Medical Supply Chain                                                 Limiting Factors   “What’s the Gap?”
+       Fatality Management
+                                                                               ETA to Green     “When?”
+
+                                                                                                                    Version 2.1 - 07/2023
+                                                                                                               14
+
+        Safety and Security
+           COMPONENTS AND SUBCOMPONENTS
+     Law Enforcement/Security                      Fire Service            Search and Rescue
+   Police Stations                     Fire Stations               Local Search and Rescue
+   Law Enforcement                     Firefighting Resources
+   Site Security
+   Correctional Facilities
+
+
+
+
+         Government Service                    Community Safety
+   Emergency Operation Centers         Flood Control
+   Essential Government Functions      Other Hazards
+   Government Offices                  Protective Actions
+   Schools
+   Public Records
+   Historic/Cultural Resources
+
+                                                                                                Version 2.1 - 07/2023
+                                                                                                                                      15
+
+             Food, Hydration, Shelter
+               COMPONENTS AND SUBCOMPONENTS
+                  Food                                      Hydration                                      Shelter
+   Commercial Food Distribution                Temporary Hydration Missions (e.g.,      Housing (e.g., homes, shelters)
+   Commercial Food Supply Chain                 bottled water distribution)              Commercial Facilities (e.g., hotels)
+   Food Distribution Programs (e.g., food      Commercial Water Supply Chain
+    banks)
+
+
+
+               Agriculture
+   Animals and Agriculture
+
+
+
+
+                                                                                                                       Version 2.1 - 07/2023
+                                                                                                 16
+
+        Health and Medical
+          COMPONENTS AND SUBCOMPONENTS
+                     Medical Care                              Public Health
+   Hospitals                                 Health Surveillance
+   Dialysis                                  Human Services
+   Pharmacies                                Behavioral Health
+   Long-Term Care Facilities                 Vector Control
+   Veterans’ Affairs (VA) Health System      Labs
+   Veterinary Services
+   Home Care                                              Medical Supply Chain
+                                              Blood/Blood Products
+                 Patient Movement             Manufacturing
+   Emergency Medical Services                    Pharmaceutical Devices
+                                                  Medical Gases
+                                              Distribution
+                Fatality Management           Critical Clinical Research
+   Mortuary and Post-Mortuary Services       Sterilization
+                                              Raw Materials
+
+                                                                                  Version 2.1 - 07/2023
+                                                                                                     17
+
+       Water Systems
+          COMPONENTS AND SUBCOMPONENTS
+
+              Potable Water Infrastructure                    Wastewater Management
+   Intake                                      Collection
+   Treatment                                   Storage
+   Storage                                     Treatment
+   Distribution                                Discharge
+
+
+
+
+                                                                                      Version 2.1 - 07/2023
+                                                                                                       18
+
+       Energy
+          COMPONENTS AND SUBCOMPONENTS
+                   Power Grid                                       Fuel
+   Generation Systems                      Refineries/ Fuel Processing
+   Transmission Systems                    Fuel Storage
+   Distribution Systems                    Pipelines
+                                            Fuel Distribution (e.g., gas stations, fuel points)
+                                            Off-shore Oil Platforms
+
+
+
+
+                                                                                        Version 2.1 - 07/2023
+                                                                                                  19
+
+        Communications
+          COMPONENTS AND SUBCOMPONENTS
+                    Infrastructure                     Responder Communications
+   Wireless                                   Land Mobile Radio (LMR) Networks
+   Cable Systems and Wireline
+   Broadcast (TV and Radio)
+   Satellite
+   Data Centers/Internet
+
+          Alerts, Warnings, and Messages                          Finance
+   Local Alert/Warning Ability                Banking Services
+   Access to IPAWS (WEA, EAS, NWR)            Electronic Payment Processing
+   NAWAS Terminals
+
+                   911 & Dispatch
+   Public Safety Answering Points (PSAP)
+   Dispatch
+
+
+                                                                                   Version 2.1 - 07/2023
+                                                                                                          20
+
+          Transportation
+              COMPONENTS AND SUBCOMPONENTS
+    Highway/Roadway/Motor                           Mass Transit                 Railway
+            Vehicle                      Bus                           Freight
+   Roads                                Rail                          Passenger
+   Bridges                              Ferry
+
+
+
+
+              Aviation                               Maritime
+   Commercial (e.g.                    Waterways
+    cargo/passenger)                    Ports and Port Facilities
+   General
+   Military
+
+
+
+
+                                                                                           Version 2.1 - 07/2023
+                                                                                                                     21
+
+       Hazardous Materials
+          COMPONENTS AND SUBCOMPONENTS
+
+                         Facilities                             HAZMAT, Pollutants, Contaminants
+   Oil/HAZMAT Facilities (e.g., chemical, nuclear)      Oil/HAZMAT/Toxic Incidents from Non-Fixed Facilities
+   Oil/HAZMAT/Toxic Incidents from Facilities           Radiological or Nuclear Incidents
+
+
+
+
+                                                                                                      Version 2.1 - 07/2023
+                                                                                                                        22
+
+   Determining Lifeline Condition
+The condition of each lifeline depends on the capability of the underlying components, and is
+   informed by situational awareness reports, impact assessments, and conversing with
+                  partners across the public, private, and non-profit sectors.
+
+ Applying the following questions and understanding the incident is critical in determining
+ the condition of a lifeline and components:
+   Did the incident disrupt services to survivors provided by component capabilities?
+   What is the extent of the disruption and impact on response and survivors?
+   Has a solution to the disruption been identified?
+   Has that solution been converted into a plan of action?
+   Has that plan of action been resourced?
+   Are there limiting factors that are worsening impacts to the community? If so, to what extent are they limiting
+    services?
+   Are there contingency response solutions in place? How long until emergency repairs are completed?
+   When can permanent repairs begin?
+   Did the incident create a surge demand exceeding component capabilities?
+                                                                                                         Version 2.1 - 07/2023
+                                                                                                                                                   23
+
+    Analyzing Components
+  Lifeline components can be analyzed using six assessment categories that capture
+                 essential information for response decision-makers
+       Categories                                                                 Description
+        Component             Identify the component.
+          Status
+                              Summarize the root cause(s) of disruption to lifelines services.
+         (What?)
+                              Explain the disaster impacts to specific communities, disaster survivors, and response operations. Detail how the
+          Impacts
+                              survivor experience or response operation will improve if this component is addressed. Specify the impacted areas
+        (So What?)
+                              and population totals.
+         Actions              Describe the actions that are being taken to address the disrupted services. Summarize the most critical actions
+       (Now What?)            being taken across the whole community.
+      Limiting Factors        Express issues that are preventing services from being re-established. Such issues can stem from another
+     (What’s the Gap?)        lifeline/component, resource shortfall, management, policy, etc.
+
+  Estimated Time to Status
+Change and Re-establishment
+                              Provide current component condition or an estimated timeframe for when a change in condition is expected.
+       Requirements
+          (When?)
+
+                                                                                                                                    Version 2.1 - 07/2023
+                                                                                                                                        24
+
+ Example Component Analysis
+          Transportation
+
+              Categories                                                     Description
+                                      Mass Transit
+Component
+                                      Sub-component: Bus
+Status                                Bus service is unavailable due to road debris.
+                                      100,000 survivors have no access to public transportation nor emergency support
+Impacts                               services.
+
+                                      Local jurisdictions are prioritizing route clearance to critical facilities, U.S. Army Corps of
+                                      Engineers assigned to supplement state and local authorities with route clearance and
+                                      debris removal efforts, modified mass transit schedules are being executed as roads
+Actions                               become passable, micro transit being utilized on roads passable to smaller vehicles,
+                                      but not buses, messaging of modified routes through numerous
+                                      information/messaging platforms and outlets (radio, television, social media).
+
+Limiting Factors                      Full service will not resume until the routes are cleared and roads inspected.
+
+Estimated Time to Status Change and   Full service estimated to resume in a week, with a modified service available as roads
+Re-establishment Requirements         become clear.
+
+                                                                                                                         Version 2.1 - 07/2023
+                                                                                                                                   25
+
+Colors Indicate Lifeline or Component Condition
+Unknown: Grey
+  Indicates the extent of disruption and impacts to lifeline services is unknown.
+Significant Impact: Red
+  Indicates there are severe challenges and obstacles hindering the essential services and resources associated
+   with the lifeline. Immediate attention and resources are required to address the situation and restore
+   functionality.
+Moderate Impact: Yellow
+  Indicates that there are disruptions or limitations to the delivery of normal, pre-incident services and resources.
+   The situation requires attention and proactive measures to prevent further deterioration and ensure community
+   needs are met.
+     Restoration of this lifeline is still in progress and the community has not returned to pre-incident levels of
+      service. This includes instances in which lifeline restoration is being addressed through temporary means.
+Minimal Impact: Green
+  Indicates that the lifeline is functioning at pre-incident levels, with only minor disruptions or limitations.
+Administrative: Blue
+  Does not indicate an operational status or condition; used for administrative purposes such as presentations and
+   briefings.
+
+                                                                                                                    Version 2.1 - 07/2023
+                                                                                   26
+
+Assigning a Condition
+ Assess lifeline conditions as incident
+  circumstances evolve and over the course of
+  response operations.
+   –   A color designation represents a snapshot in time for that
+       response operational period.
+
+ The baseline to which lifelines should be
+  compared is how the lifeline itself functions in
+  pre-incident conditions.
+
+ The flowchart shows an example of how
+  responders may think through assigning
+  lifelines a color.
+
+
+
+
+                                                                    Version 2.1 - 07/2023
+                                                                                                                             27
+
+ Example Condition Designations
+Below are example analyses for the Highway/Roadway/Motor Vehicle component of the Transportation lifeline
+                             and corresponding color determination for each.
+                Status                                             Example
+                                Assessment teams have been unable to establish status of bridge
+       Grey                     infrastructure.
+
+                                The community is unable to be reached via roadway to deliver emergency
+                                resources and assistance to survivors. Plans to find alternative means to
+       Red                      transport emergency supplies to survivors not yet established. No supplies
+                                currently being delivered.
+                                Emergency supplies have been identified and resourced, but transportation
+       Yellow                   issues are restricting and limiting delivery and therefore not back to pre-
+                                disaster conditions.
+                                The main transportation route is re-established. All community needs met.
+       Green
+                                Blue does not indicate an operational status or condition; it is used for
+       Blue                     administrative purposes, such as presentations and briefings.
+
+
+                                                                                                              Version 2.1 - 07/2023
+                                                                                               28
+
+   FEMA’s Implementation of Community Lifelines
+  FEMA incorporates the community lifelines construct into its planning and reporting
+products. This section provides an overview and examples of how the lifelines have been
+                                  implemented to date.
+
+   Planning products include:               Reporting products include:
+         All Hazards Plans                       Tier I: Senior Leadership Brief
+         Information Analysis Brief              Tier II: Senior Leadership Brief
+         Incident Action Plan
+         Incident Approach
+         National/Regional Support Plan
+          (N/RSP)
+
+                                                                                Version 2.1 - 07/2023
+                        29
+
+
+
+
+      Section II:
+Situational Awareness
+    and Reporting
+                                                                                                                         30
+
+    FEMA Standardized Situation Reporting Construct
+
+
+
+
+The Situation Reporting Construct enables the collection, analysis and dissemination of incident information to
+generate the What? So What? Now What? And When? for decision makers.
+                                                                            Presenter’s Name     June 17, 2003
+                                                                                                           Version 2.1 - 7/2023
+                                                                                                                                                      31
+
+
+     Lifeline Integrated Reporting Process
+ FEMA’s Situation Reporting Construct was revised to better integrate the community lifelines construct by discussing the impacts,
+response actions, and issues associated with lifelines, components, and sub-components using a tiered structure across all levels of
+                                                           the response.
+
+
+                                  Tier I: Senior Leadership Brief
+                                         Executive Summary of the disaster and lifelines with details on most impacted components
+                                         Significant FEMA and/or Interagency Actions
+                                              – Information should reflect high level status, impacts, actions being taken to re-establish
+                                                  lifelines, or limiting factors for each lifeline
+                                  Tier II: Senior Leadership Brief
+                                         Synopsis of lifeline condition and response efforts
+                                             – Information should reflect status, impacts, actions, limiting factors, and an anticipated
+                                                timeline to re-establish each lifeline component as well as more detailed information on
+                                                the operational environment and state by state and tribe impacts.
+                                  Tier III: Information Collection Process
+                                         Granular information regarding lifeline components to include status, actions, key messages,
+                                          limiting factors
+                                              – Charts, graphs, etc.
+                                              – Geographic Information System (GIS) products
+                                         Data collection from all incident levels to include field, regions, state, national, and interagency
+                                         Answers Essential Elements of Information (EEI) to inform lifeline components and sub-
+                                          components
+                                                                                                Presenter’s Name             June 17, 2003
+                                                                                                                                        Version 2.1 - 7/2023
+                                                                                                                             32
+
+     Tier I: Senior Leadership Brief
+The Tier I: Senior Leadership Brief includes executive-level information summarizing the situation, condition, critical
+impacts, actions, and limiting factors for each lifeline.
+   Current Situation: Includes the most pertinent information in each stage of response.
+   Lifeline Assessment: Assessing and reporting on lifeline conditions is recommended by Situation Unit and
+    validated by leadership.
+   Lifeline Condition: Is based on the underlying components, and is informed by situational awareness reports,
+    impact assessments, and conversing with partners across public, private, and non-profit sectors.
+   Additional Products may Include: Force Laydown Map, updated information on Incident Management Assistance
+    Team (IMAT) and Liaison Officer (LNO) locations, RRCC status, State Emergency Operations Center (EOC) status,
+    and overall posture including Emergency/Disaster Declarations.
+
+
+
+
+                                                                                Presenter’s Name      June 17, 2003
+                                                                                                               Version 2.1 - 7/2023
+                                          33
+
+
+
+
+Presenter’s Name   June 17, 2003
+                            Version 2.1 - 7/2023
+                                                                                                                            34
+
+
+Tier II: Senior Leadership Brief
+   The Tier II: Senior Leadership Brief identifies the status, impact, actions, limiting factors, and estimated
+    time to condition change and re-establishment requirements for each lifeline component as well as an
+    overall regional response picture.
+   This product provides greater detail than a Tier I: Senior Leadership Brief based on information received
+    as part of the Tier III: Information Collection Process.
+   For smaller events, a Tier I may be utilized over a Tier II if there are limited lifeline impacts.
+
+
+
+
+                                                                              Presenter’s Name       June 17, 2003
+                                                                                                              Version 2.1 - 7/2023
+                                                                                                                 35
+
+
+ Tier III: Information Collection Process
+ The Tier III: Information Collection Process serves as a formalized process for collecting and
+  analyzing sub-component, component, and assessed community lifeline statuses and
+  impacts.
+ It also serves as the basis for compiling Tier I and Tier II reports with EEIs and Critical
+  Information Requirements (CIR) associated with the incident.
+ The Information Collection Process incorporates Information Collection Plans, Information
+  Collection Tools, as well as field, LNO, branch, and/or division reports.
+
+
+
+
+                                                                      Presenter’s Name    June 17, 2003
+                                                                                                   Version 2.1 - 7/2023
+                                                                     36
+
+Information Collection Process: Visualization Tools
+ A Tier III information collection effort
+  may still involve visualizations of the
+  lifeline and component conditions such
+  as:
+      GIS products
+      Charts, graphs, and other supplemental
+       materials which can be used for
+       resources such as commodities
+
+
+
+
+                                                      Version 2.1 - 07/2023
+                            37
+
+
+
+
+        Section III:
+Lifelines and Operational
+         Planning
+       Lifelines Drive Response and Enable Recovery Transition
+   Incident responders assess lifeline conditions, establish priorities, organize lines of effort, and respond
+                 until the lifelines are stabilized so that a transition to recovery may occur.
+
+
+
+
+Note: The colors shown in
+this graphic are further
+explained in Slide 25, titled
+“Colors Indicate Lifeline or
+Component Condition”
+                                                                                                    Version 2.1 - 07/2023
+                                                                                                                                39
+
+        Response Planning and Incident Stabilization
+    Response planning focuses on providing solutions which will result in incident stabilization. Incident
+                  stabilization lessens overall community impacts as recovery begins.
+
+   Stabilization occurs when basic lifeline services are provided to survivors, either by rapid re-
+    establishment of lifeline services or through the employment of a contingency response solution.
+        Stabilization may occur through the employment of contingency response solutions that are intended to restore
+         service, but only for a very limited duration or through a temporary measure.
+            An example may include emergency measures to clear debris from a roadway or the provision of mobile
+             communications services or the utilization of a "tent" hospital to provide medical care for a community.
+            May be necessary to stabilize lifelines until temporary fixes to infrastructure are completed and may require
+             sustained resources and continuous evaluation.
+        Re-establishment of lifeline services, a longer-term stabilization solution, implies the normal lifeline service
+         providers are available within the community through emergency infrastructure repairs or other means,
+         alleviating the requirement for contingency response solutions.
+            Examples may include emergency repairs, installation of generators to run a critical facility without grid
+             power, or resuming the commercial supply chain to a community.
+
+
+                                                                                                                 Version 2.1 - 07/2023
+                                                                                                                                      40
+
+ Lifeline Stabilization Targets (1 of 2)
+         Stabilization Targets for each lifeline are developed collaboratively with key
+           stakeholders including local, state, regional, and national stakeholders.
+
+Stabilization Targets should reflect goals defined in deliberate planning and should be
+                     validated and refined throughout the incident.
+    Example stabilization targets:
+         Safety and Security Lifeline: Threats to life safety are no longer a concern for all response personnel and impacted
+          communities. Government essential functions, including executive leadership, are operational. Sufficient search and
+          rescue assets are on-scene to assist all survivors. Sufficient fire resources are available to support fire suppression
+          efforts.
+         Food, Hydration, Shelter Lifeline: All survivors, their pets, and service animals have access to food and temporary
+          drinking water. Sheltering (including reception, capacity, and wrap-around services) is supporting the displaced
+          population. Sufficient resources are in place to sustain agricultural requirements.
+         Health and Medical Lifeline: All survivors, their pets, and service animals have access to required medical and
+          veterinary care. Emergency medical systems are capable of managing patient movement requirements. Public health
+          services are accessible to all survivors. Sufficient temporary fatality management support is in place to meet
+          processing demand. Medical supply chain capable of adequately resupplying medical care providers.
+
+                                                                                                                       Version 2.1 - 07/2023
+                                                                                                                                             41
+
+ Lifeline Stabilization Targets (2 of 2)
+         Stabilization Targets for each lifeline are developed collaboratively with key
+           stakeholders including local, state, regional, and National stakeholders.
+
+Stabilization Targets should reflect goals defined in deliberate planning and should be
+                     validated and refined throughout the incident.
+    Example stabilization targets:
+         Energy Lifeline: Generators are providing temporary emergency power at critical facilities necessary to stabilize other
+          lifelines. Fuel distribution is available for responders. Sufficient fuel distribution is available for survivors, including to
+          support individuals dependent on power for life-sustaining medical care.
+         Communications Lifeline: Survivors have access to commercial communications infrastructure to contact or be
+          contacted by emergency services. LMR communications network is operational. PSAPs are available to the public.
+          Survivors have access to financial services.
+         Transportation Lifeline: Multimodal routes (air, rail, road, port) are clear of debris and accessible by normal or alternate
+          means.
+         Hazardous Material Lifeline: All contaminated areas are identified and secure.
+         Water Systems: Survivors have access to temporary or permanent infrastructure providing potable water and
+          wastewater management services. Sufficient resources are in place to support the temporary or permanent delivery of
+          baseline water systems services.
+                                                                                                                              Version 2.1 - 07/2023
+                                                                                                                                                         42
+
+Community Lifelines Construct and Response Planning
+   Deliberate Planning: Incorporate lifelines into deliberate planning products, including defined stabilization
+    targets for each lifeline.
+   Crisis Action Planning: During an incident, deliberate stabilization targets are adjusted to the active response
+    based on an analysis of strategies, operational priorities, and objectives.
+     –    This analysis provides support to leadership decisions and prioritization of response activities for each operational
+          period, including the development of strategies, operational priorities, and objectives.
+
+                                  Lifelines enable crisis action planning efforts at all levels
+                                                                      Strategic planning defines lifeline stabilization targets and the
+                                                Strategic Level       specific lines of effort and logistics requirements that will assist
+                                                                      communities in stabilizing each lifeline.
+
+                                                                      Operational planning spans multiple operational periods and
+                                                  Operational
+                                                                      provides greater detail to the analysis and execution of each line of
+                                                    Level             effort.
+
+
+                                                                      Tactical planning directs the employment of resources for the next
+                                                Tactical Level        operational period across all lines of effort.
+
+           Example: Energy Lifeline may include three distinct Lines of Effort – Temporary Emergency Power, Power Restoration, and Fuel Distribution.
+           Example: Food, Hydration, Shelter Lifeline may include two distinct Lines of Effort – Sheltering and Commodity Distribution.
+                                                                                                                                          Version 2.1 - 07/2023
+                                                                                               43
+
+
+Deliberate Planning                            Example of Deliberate Planning
+        Deliberate Plan Components
+
+   Base Plan – Identifies lifeline
+    stabilization targets
+   Annex B – Information gathering and
+    analysis to support decisions and assess
+    progress in achieving stabilization
+    targets
+   Annexes C & D – Strategy development
+    and functional planning through LOEs to
+    achieve lifeline stabilization targets
+
+
+
+
+                                                                                Version 2.1 - 07/2023
+                                                                                                              44
+
+Deliberate Planning and All-Hazards Plan Updates
+   Deliberate planning incorporates defined stabilization targets for each lifeline and the LOEs
+    to stabilize each lifeline
+   FEMA is developing stabilization targets for lifelines to include in its update of regional All
+    Hazards Plans
+
+
+
+
+                                                                                               Version 2.1 - 07/2023
+                                                                                                                                                                  45
+
+
+ Crisis Action Planning – Products and Relationships
+
+ Stabilization: Incident Approach                              Current State/
+    ________________________________________                                                            Stabilization Target                      Required Lines
+                                                  Strategic      Estimated
+                                                                                                                                                     of Effort
+                                                                                                          _____________________________________
+
+
+
+                                                    Level         Impacts                               Recovery Outcome
+(Recovery Outcomes: Integrated Strategic Plan)
+
+
+
+LOE               LOE                LOE
+                                                                                                                                                       LOE
+                                                 Operational   LOE End State                             LOE Strategy                             Intermediate
+                                                   Level                                                                                            Objectives
+
+
+
+                                                                  IS Objectives
+
+  Incident Action Plan                             Tactical     _____________________________________      Assigned                                   Work
+                                                                                                           Resources                               Assignments
+                                                    Level        IM Objectives
+
+
+
+
+                                                                                                                                                    Version 2.1 - 07/2023
+                                                                                                                   46
+
+
+    Crisis Action Planning - Strategic
+ Strategic Level of Planning                                Disaster Strategy Development
+
+
+
+
+                                 Role of Strategic Planning During an Incident
+Strategic planning during the response phase of an incident provides an incident-wide approach to
+incident management and support. It provides a mechanism for crisis action planning that integrates
+deliberate plans into the operation; adapting deliberately planned LOEs to achieve lifeline stabilization.
+The resulting Incident Approach, focusing on lifelines, provides guidance and informs resource
+deployment and employment decisions, establishment of Task Forces and Crisis Action Planning Teams,
+and the development of incident objectives.
+                                                                         Presenter’s Name   June 17, 2003
+                                                                                                     Version 2.1 - 7/2023
+                                                                                                                 47
+
+
+   Current v. End States & Goal Setting
+Assessment process that is foundational to FEMA Operations and widely understood
+            as the Phase 1 “Leg” of the Incident Action Planning “P.”
+
+ Continuously reassessed and revised
+ Current State or Maximum Anticipated Impact
+       What do we know? – Facts
+       How bad could it be? – Assumptions
+
+ End States and Goals
+       What are the Stabilization Goals we are striving to achieve?
+       What are the Recovery Outcomes we are striving to achieve?
+       How do we know we have been successful?
+
+
+
+
+                                                                       Presenter’s Name   June 17, 2003
+                                                                                                   Version 2.1 - 7/2023
+                                                                                Lifeline Stabilization Problem Frame
+                                                                                                                                                                                                                                          48
+                Planning Factors (Maximum Anticipated or Known Impacts)                                      Lifeline Stabilization Targets                                                     Federal Assistance Lines of Effort
+Safety & Security:                                                        Safety & Security: Threats to life-safety are no longer a concern for all response personnel and            Safety & Security
+# of buildings with at least extensive damage                             impacted communities. Government essential functions, including executive leadership, are                   • Damage Assessment (Anticipated)
+# of fire station facilities with at least moderate damage                operational. Sufficient search and rescue assets are on-scene to assist all survivors. Sufficient fire      • Search and Rescue (In Progress)
+# of police station facilities with at least moderate damage              resources are available to support fire suppression efforts.                                                • Restoration of Public Infrastructure – Police, Fire
+# of government offices with at least moderate damage                                                                                                                                     (Anticipated)
+# of dams/levees at risk of failure and/or at least moderate damage
+# of isolated communities
+# of facilities requiring federal security support
+# of survivors requiring SAR assistance
+
+Food, Hydration & Shelter:                                                Food, Hydration & Shelter: All survivors, their pets, and service animals have access to food, water,       Food, Hydration & Shelter
+# of people seeking short-term public shelter                             and sanitation. Sheltering, including cellular reception, capacity, accessibility, and wrap-around          • Sheltering Operations (In Progress)
+% of grocery stores w/o power                                             services, is supporting the displaced population. Sufficient resources are in place to sustain              • Temporary Housing [Repair, Rental Assistance, Direct
+                                                                          agricultural requirements.                                                                                     Housing] (Anticipated)
+
+
+Health & Medical:                                                         Health & Medical: All survivors, their pets, and service animals have access to required medical and        Health & Medical
+# of total injuries/fatalities                                            veterinary care. Emergency medical systems are capable of managing patient movement requirement.            • Temporary Emergency Power (In Progress)
+#/% of total hospital beds function on H+1                                Public health services are accessible to all survivors. Sufficient temporary fatality management            • Healthcare Systems Support (In Progress)
+# of medical facilities with at least moderate damage                     support is in place to meet processing demand. Medical supply chain capable of adequately
+                                                                          resupplying medical care providers.
+
+Energy (Power & Fuel):                                                    Energy (Power & Fuel): Generators are providing temporary emergency power at critical facilities            Energy (Power & Fuel)
+# of households w/o power on H+1                                          necessary to stabilize other lifelines. Fuel distribution is available for responders. Sufficient fuel      • Temporary Emergency Power (In Progress)
+# of natural gas pipelines leaks/breaks                                   distribution is available for survivors, including to support individuals dependent on power for life-
+#/% of gas stations w/o power or out of fuel                              sustaining medical care.
+# of critical facilities w/o power
+# of fuel (gallons) needed for generators through H+7
+
+Communications:                                                           Communications: Survivors have access to commercial communications infrastructure to contact or be          Communications
+# of facilities with at least moderate damage                             contacted by emergency services. LMR communications network is operational. PSAPs are available to          • Emergency Repairs and Augmentations to Infrastructure
+# of banks/ATMs inoperable                                                the public. Survivors have access to financial services.                                                       [Comms] (Anticipated)
+                                                                                                                                                                                      • Temporary Emergency Power (In Progress)
+
+Transportation:                                                           Transportation: Multimodal routes (air, rail, road, port) are clear of debris and accessible by normal or   Transportation
+# of highway bridges with at least moderate damage                        alternate means.                                                                                            • Emergency Repairs and Augmentations to Infrastructure
+# of railway bridges with at least moderate damage                                                                                                                                        [Port] (Anticipated)
+# of airport runways with at least moderate damage                                                                                                                                    • Debris Management [Road, Port] (Anticipated)
+# of port facilities with at least moderate damage
+
+Hazardous Materials:                                                      Hazardous Materials: All contaminated areas are identified and secure.                                      Hazardous Materials
+# of oil systems facilities with at least moderate damage                                                                                                                             • Debris Management [Sunken, Derelict & Displaced
+# of total debris (tons)                                                                                                                                                                 Vessels] (Anticipated)
+# of hazardous materials facilities damaged                                                                                                                                           • Hazardous Waste (Anticipated)
+# of derelict vessels
+
+Water Systems:                                                            Water Systems: Survivors have access to temporary or permanent potable water infrastructure                 Water Systems:
+# of households w/o potable water on H+1                                  providing drinking water and wastewater management services. Sufficient resources are in place to           • Emergency Repairs and Augmentations to Infrastructure
+#/% of water systems with at least moderate damage                        support the temporary or permanent delivery of baseline water systems services.                                [Water] (Anticipated)
+# of wastewater leaks/breaks                                                                                                                      Presenter’s Name                             June 17, 2003
+                                                                                                                                                                                                                    Version 2.1 - 7/2023
+                                                                                                                               49
+
+    Crisis Action Planning - Operational
+Operational Level of Planning                              When is an LOE Operational Plan Necessary?
+                                               Currently available resources are insufficient.
+                                               Unconventional resource delivery sequencing is necessary due to
+                                                location or environmental restriction.
+                                               Lifeline interdependencies are preventing stabilization.
+                                               Atypical resource types or capabilities are required to stabilize a lifeline.
+                                               Exceptionally high duration of instability.
+                                               Timeframe to achieve either lifeline stabilization or Recovery Outcome
+                                                is unnaturally shortened due to external pressures.
+                                              Line of Effort Operational Plan
+Some LOEs may have complexities that require atypical solution sets. These solution sets should be generated
+through the Crisis Action Planning Process and should result in an LOE Operational Plan. This Plan develops details of
+the tasks to achieve the intermediate objectives, the resources required, and identifies and mitigates risks that may
+inhibit achieving the objectives due to a lack of resources or other non-resource limiting factors.
+
+
+                                                                                Presenter’s Name       June 17, 2003
+                                                                                                                 Version 2.1 - 7/2023
+                                                                                                                      50
+
+
+ Defining Lines of Effort
+LOEs are the specific mission-sets required to stabilize the lifelines and address community impact.
+   For FEMA Operations, LOEs are activities that a state, tribe, or territory can ask FEMA and the
+               interagency to manage to address the consequences of an incident.
+
+  LOEs are the operationalization of core capabilities (the ways) for response and recovery planning and
+   operations. Core Capabilities are the general competencies required during response used to conduct a
+   preparedness assessment. Lifelines identify critical infrastructure that may be impacted by an incident,
+   whereas LOEs address solutions to resolve lifeline instability and address impacts.
+  Planning for the delivery of each LOE allows the development of strategy across all required ESFs to
+   mobilize, employ, and demobilize resources applicable to that mission, including the identification of key
+   intermediate objectives or milestones in the execution of that mission.
+  LOEs are intended to jump-start crisis action (adaptive) planning. LOEs help incident personnel at all
+   levels to visualize how federal interagency capabilities can support lifeline stabilization by clearly
+   articulating and communicating the strategy to meet federal assistance requests.
+  Functional LOEs are focused on addressing end states which address impacts to lifeline infrastructure.
+     •   Note: Each Function may address more than one lifeline
+
+                                                                                                        Version 2.1 - 7/2023
+                                                                                                                                                                    51
+
+     Lines of Effort
+17 standard LOEs below have been agreed upon by all ten FEMA regions to be included in their All Hazards Plans
+currently being updated. Additional LOEs may be used or created based on region or incident.
+
+
+
+
+     Damage Assessment                                        Healthcare Systems Support                      Responder Security and Protection
+     Debris Management                                        Medical Transportation                          Restoration of Public Infrastructure
+     Emergency Repairs or Augmentation to Infrastructure      Natural and Cultural Resource Protection &      Search and Rescue
+                                                                Restoration
+     Evacuation, Reception, Re-entry, and Return                                                               Sheltering Operations
+                                                               Private Sector Coordination
+     Fatality Management                                                                                       Temporary Emergency Power
+                                                               Public Information and Warning
+     Hazardous Waste                                                                                           Temporary Housing (Repair, Rental Assistance, Direct
+                                                                                                                 Housing)                              Version 2.1 - 7/2023
+                                                                                 52
+
+
+Example: Healthcare Systems Support LOE
+                      LOE Dissection
+
+
+
+
+                                       Presenter’s Name   June 17, 2003
+                                                                   Version 2.1 - 7/2023
+                                                                                                                        53
+
+    Phasing
+                                  Example LOEs Across Outcome-Focused Phases
+
+
+
+
+Phasing lays out the focus of the execution of LOEs in a logical sequence to break the operation into manageable
+parts. LOEs are initiated and conclude at different times in a disaster. It is important to recognize that phase
+culmination is often reached at different times in different geographic areas across a single incident.
+                                                                            Presenter’s Name     June 17, 2003
+                                                                                                          Version 2.1 - 7/2023
+                                                                                                                            54
+   Crisis Action Planning – National/Regional Support Plan
+   (N/RSP)                LOEs and the N/RSP
+
+
+                               3a         3b        3c         3d            3e
+
+
+
+
+                                               Incident Support Objectives
+The N/RSP utilize objectives and associated tasks to drive federal support actions either prior to an event (notice) or
+immediate post event (no-notice). Objectives in an N/RSP generally involve the ordering, activating, staging, and
+outfitting of resources for further employment at the incident management (IM) level. Many, if not all, objectives in an
+N/RSP can serve as the starting point for LOEs as defined in deliberate planning. Due to the limited scope of RRCC
+and National Response Coordination Center (NRCC) tactical control during initial response, most, if not all, LOEs will
+be in an early stage of execution upon transfer to IM.
+                                                                                  Presenter’s Name   June 17, 2003
+                                                                                                              Version 2.1 - 7/2023
+                                                                                                                          55
+
+    Crisis Action Planning - Tactical
+  Tactical Level of Planning                                         Example Line of Effort
+
+
+
+
+                         LOEs and the Incident Action Plan Objectives on the ICS Form 202
+
+Incident objectives are developed and anticipated for each LOE as points across the continuum from the current state
+to the end-state for the federal assistance mission. Within a few operational periods, as planning is matured, incident
+leadership can anticipate the sequence of incident objectives across the LOE. Similarly, through evaluation of
+performance and effectiveness of the LOE, incident leadership can anticipate when incident objectives will be
+achieved, and transition to the next incident objective across the LOE.
+                                                                             Presenter’s Name      June 17, 2003
+                                                                                                            Version 2.1 - 7/2023
+                                                                                                                      56
+
+  IAP Incident Objectives
+               Transitioning Line of Effort Intermediate Objectives into Incident Objectives
+
+                                                                         Incident Objectives
+                                                                         1e: Damage Assessment LOE Complete
+                                                                         2e: S&R LOE Complete
+                                                                         3d: De-install Generators
+                                                                         4c: Deliver State Commodity Requests
+                                                                         5c: Shelter Consolidation & Transition
+                                                                         6d: Sustain Fuel Distribution
+                                                                         7b: Conduct Emergency Repairs to
+                                                                             Infrastructure
+                                                                         8b: Conduct Prioritized Temporary
+                                                                             Critical Public Facilities Build-Out
+                                                                         9a: Approve Direct Housing Program
+                                                                         10a: Process Requests for Public
+                                                                             Assistance
+
+
+IAP objectives can be developed based on the current intermediate objective for each
+                                    active LOE.
+                                                                      Presenter’s Name       June 17, 2003
+                                                                                                        Version 2.1 - 7/2023
+                                                                                                              57
+
+ Transition to Integrated Strategic Planning
+ Once lifelines begin to stabilize, and
+  incident personnel can anticipate               Incident Approach             Integrated Strategic
+  operations beyond stabilization, the IM
+  Planning Section initiates the development
+                                                                                Plan
+  of the Integrated Strategic Plan (ISP).
+ The Incident Approach informs the ISP, and
+  once the first ISP is published, the Incident
+  Approach is sunset.
+ While many LOEs developed in the Incident
+  Approach will culminate relatively early in
+  the lifecycle of the incident, several LOEs
+  developed in the Incident Approach will
+  transition to longer-term operations and be
+  included in the ISP.
+                                                  Lifeline Stabilization         Outcome Driven
+                                                                                 Recovery
+                                                                    Presenter’s Name   June 17, 2003
+                                                                                                Version 2.1 - 7/2023
+                                                                                                                             58
+
+    Recovery Outcomes
+                                      Recovery Outcomes by Recovery Support Function
+
+
+
+
+    These are the National-level outcomes as approved by Recovery Support Function Leadership Group (RSFLG)
+       Undersecretaries, which SLTTs can use as a reference point for tailoring their own recovery outcomes.
+
+When stabilization of community lifelines are achieved, the focus of the mission shifts to achieving Recovery
+Outcomes. The Outcome Driven Recovery model drives an approach that emphasizes long-term resilient solutions
+across all lifelines and other aspects of a community. To the greatest extent possible, recovery operations will utilize
+similar reporting templates contained in this toolkit but modified to reflect recovery outcomes by RSF rather than
+stabilization targets by lifelines.
+                                                                                Presenter’s Name     June 17, 2003
+                                                                                                               Version 2.1 - 7/2023
+                      59
+
+
+
+
+     Section IV:
+Icons and Templates
+                                                                                             60
+
+Templates
+ Templates can assist in lifeline implementation during incident response.
+ Each emergency management office may adapt these templates to fit their
+  specific requirements.
+ Current templates within toolkit 2.1 include the following:
+       –   Lifeline Card Template
+       –   Tier I, Tier II, and Tier III Reporting Templates
+       –   Incident Approach Template
+
+All files can be found in the companion folder “Lifeline Templates” included with
+this toolkit.
+
+
+
+
+                                                                              Version 2.1 - 07/2023
+                                                                                                  61
+
+Guidance for Using Lifeline Icons
+ Lifeline icons should be used consistently and appropriately when added to any
+  incident response products
+ Icons should be colored blue when representing the state pre-incident and/or when
+  no incident status is indicated
+ All other colors are defined in Section I with exact color values shown below
+
+                     Name               RGB Value*              Shading
+                      Grey            RGB 145-147-149
+
+                       Red             RGB 197-32-56
+
+                     Yellow           RGB 251-186-22
+
+                      Green            RGB 94-156-66
+
+                      Blue             RGB 1-82-135
+            *RGB – Red, Green, Blue
+                                                                                   Version 2.1 - 07/2023
+                                                                                                    62
+
+Editing Lifeline Icons
+ The community lifelines graphic tool provides an easy method for quickly adjusting the
+  colors for all lifeline icons.
+ Follow the instructions included in the tool to assign colors and then copy over the icons
+  to other products as necessary.
+
+
+
+
+                                                                                     Version 2.1 - 07/2023
+                                       63
+
+Icon Library (1 of 2)
+
+
+
+
+                        Version 2.1 - 07/2023
+                                       64
+
+Icon Library (2 of 2)
+
+
+
+
+                        Version 2.1 - 07/2023
+                                                            65
+
+
+
+
+      Your Feedback Matters!
+Please send questions, comments, or feedback to
+            Lifelines@fema.dhs.gov
+
+
+                Thank you!
+                                             Version 2.1 - 07/2023
+

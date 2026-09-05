@@ -1,0 +1,10 @@
+# kind|path|enabled|trust-note
+survival|../Survival-Library|yes|review license and provenance per file
+manuals|../RES|no|inventory before ingestion
+ham-text|../Scraper/offline_site|no|select technical paths only
+mayhem|../mayhem-firmware|yes|GPL documentation and schematics
+mayhem-versioned|../mayhem-firmware-v2.4.0-sivra|yes|deduplicate by hash
+sonar|../TPMS Sonar|yes|experimental concept material
+positive-psychology|../../DISM/Postive Psychology|no|only verified legal/open works
+schematic-clone|/replace/with/discovered/path|no|unknown provenance; quarantine first
+

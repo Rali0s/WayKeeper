@@ -1,0 +1,117 @@
+                    FAITH-BASED COMMUNITY
+                    SELF-ASSESSMENT
+                    USER GUIDE
+
+ INTRODUCTION
+ This user guide provides a step-by-step sequence for navigating the Cybersecurity and Infrastructure Security
+ Agency (CISA) Houses of Worship (HOW) Security Self-Assessment.
+ The Assessment, when completed, will provide an easy-to-follow road map for implementing suggested voluntary
+ options for consideration. These options are based on current best practices designed to improve facility security
+ and preparedness:
+
+
+
+
+    Security and            Perimeter Security/         Parking and                Access               Video Surveillance
+  Safety/Emergency              Delineation               Barriers               Control/Entry            Systems (VSS)
+    Management                                                                     Control
+
+
+
+ ASSESSMENT BASICS                                                      USE OF THE RESULTS
+ Each question has either three or five answers. The                    The tables in the self-assessment are
+ answers and options for consideration are arranged                     designed to show a range of security and
+ from the lowest level of security that offers a very low               protection, from the lowest level of security
+ level of protection (red) to a very high level of security             that offers minimal protection (red) to a very
+ that provides a greatly enhanced level of protection                   high level of security that provides a greatly
+ (green). None of this infers priority of actions to                    enhanced level of protection (green). None of
+ implement.                                                             these designations is meant to infer priority
+ For each relevant question, identify the answer that                   of actions to implement.
+ most accurately represents your facility. Directly                     Each facility will be able to use the results
+ below the applicable answer is a corresponding option                  of this security self-assessment to evaluate
+ for consideration. It may be helpful to copy and paste                 the most impactful, cost-effective options
+ the applicable option for consideration into a separate                to improve their overall risk profile.
+ document or spreadsheet.
+
+
+ USING THE SELF-ASSESSMENT
+ Before starting, have a self-assessment available to easily move through the question sets. Afterwards, use the
+ methodology depicted on the following page to evaluate your current security level and identify corresponding
+ actions for improvement.
+
+
+
+
+cisa.gov               central@mail.cisa.dhs.gov        @CISA.gov @CISACyber                     @cisa.gov        As of August 2025
+                                                                                             Faith-Based Community Self-Assessment User Guide
+
+
+
+   STEP
+               Use a step-by-step process to go through each question and identify your current posture.
+     1
+
+   STEP        After identifying your current posture, drop down to the corresponding option for consideration.
+     2         Consider the elements on the sliding scale to modify your security or preparedness level today or in the future.
+
+
+               Review and use the provided background, references for the self-assessment question, and additional
+   STEP        resources to build and improve your security and lower your risk.
+     3         Example: You have identified the lack of a security plan. Gauge the level that you would like to achieve, and then
+               use the resources referenced in the question to build a security plan
+
+   THE SELF-ASSESSMENT IN ACTION
+   Question                      Very Low                         Low                     Medium                        High                    Very High
+   Does the house       The house of worship does        The house of               The house of               The house of                The house of worship
+   of worship have a    not have a security manager      worship has a              worship has a              worship has a               has a security
+   security manager     or committee.                    security manager           security manager or        security manager or         manger or committee,
+   or security                                           or committee, but          committee. Security        committee. Security         Security management
+   committee to                                          security management        management                 management                  activities are regularly
+   make security                                         activities are sporadic.   activities are regularly   activities are regularly    scheduled and
+   management                                                                       scheduled, but not         scheduled and               coordinated with
+   decisions?                                                                       coordinated with           coordinated with            other committees,
+                                                                                    other committees,          other committees,           departments, and
+                                                                                    departments, or            departments, and            groups, and staffing
+                                                                                    groups ( e.g., special     groups, but additional      levels fully support
+                                                                                    events planning,           personnel are               the facility’s security
+                                                          Your self-identified      childcare).                needed to support           mission.
+                                                           level of security                                   the facility’s security
+                                                                                                               mission.
+
+   Option for
+                                 Very Low                         Low                     Medium                        High                    Very High
+   Consideration
+                        Designate an individual          Schedule regular           Coordinate safety and      Hire or appoint             Regularly assess
+                        as a security manager            meetings to review         security planning with     additional personnel        the facility’s security
+                        or a group of individuals        security procedures        other committees,          to support the              management
+                        as a security committee,         and incidents.             departments, and           facility’s security         program. Conduct
+                        and ensure that person                                      groups.                    mission.                    security surveys, risk
+                        or group is responsible for                                                                                        assessments, and
+                        developing implementing,                                                                                           threat assessments
+                        and coordinating all security                                                                                      of the facility and
+                        related activities. If the                                                                                         neighboring areas.
+                        manager or committee                                                                                               Implement best
+                        members have no security or                                                                                        practices based
+                        law enforcement background,                                                                                        on collaborative
+                        make sure they reach out                                                                                           relationships and new
+                        to local law enforcement to                                                                                        or updated resources.
+                        become acquainted. Provide
+                                                          Your starting point              Continual Improvement Approach
+                        security management                 for improving
+                        training and/or access                 security
+                        to training materials and
+                        resources.
+
+
+   EASY-TO-USE REFERENCES AND RESOURCES FOR EACH QUESTION
+   References:
+   • ASIS, Securing Houses of Worship, asisonline.org/security-news/security-topics/securing-houses-of-worship/
+   • Interagency Security Committee (ISC), Facility Security Plan: An Interagency Security Committee Guide,
+     cisa.gov/resources-tools/resources/isc-facility-security-plan-guide
+   • CISA, Security Planning Workbook, cisa.gov/security-planning-workbook
+   For more information:
+   • Protecting Houses of Worship resources and tools, cisa.gov/protecting-houses-worship.
+                                                                                                                                                                       2
+
+cisa.gov                    central@mail.cisa.dhs.gov                   @CISA.gov @CISACyber                                   @cisa.gov               As of August 2025
+

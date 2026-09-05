@@ -1,0 +1,1724 @@
+                   A program of the National Center for Appropriate Technology • 800-346-9140 • ATTRA.NCAT.ORG
+
+
+Equipment and Tools for Small-Scale
+Intensive Crop Production
+By Andy Pressman, NCAT            This publication focuses on equipment and tools for intensive crop production on a small-
+Sustainable Agriculture           scale commercial farm. It details equipment and hand tools for soil preparation, planting, weed
+Specialist                        management, and harvesting. The use of appropriate equipment and tools, both in terms of size
+Published Sept. 2011              and practicality, can increase production efficiency and profits while minimizing disturbance to
+Updated April 2023 by
+                                  soil and to plant health. Lists of further resources and tool and equipment suppliers are included.
+Andy Pressman and
+Omar Rodriguez, NCAT
+Agriculture Specialists
+© NCAT
+IP417
+
+
+
+
+ Contents
+Introduction:
+Selecting
+Appropriate Tools...... 1
+Soil Preparation......... 8
+Seeding and
+Planting.................... 10
+Weed Control........... 12
+Harvest. ................... 17
+Summary.................. 18
+References............... 19
+Further                           Farm machinery. Photo: Andy Pressman, NCAT
+Resources................ 19
+Appendix..................26      Introduction: Selecting Appropriate Tools
+
+                                  M
+                                               ost farmers can tell you how important   to rely on older equipment that requires frequent
+                                               it is to have good tools and equipment   maintenance and repairs to keep running.
+                                               to increase efficiency and production.   However, the current interest in small-scale
+                                  They can also tell you about the impact equipment     intensive crop production in the United States
+                                  can have on farm expenses, assets, and other          has generated a resurgence of the small-scale farm
+                                  financials. Scale of production plays a fundamental   machine industry and provided opportunities
+                                  role in all current and future farm operations;       for farmer-to-farmer knowledge sharing on tool
+                                  it is a critical consideration in decision-making     and equipment design and local fabrication of
+                                  related to effective use of labor and in making       hand tools.
+                                  sure the tools and equipment used can do the
+This publication is produced      work that is needed. It is common to see tractors
+by the National Center for
+Appropriate Technology            and equipment more than 50 years old being                “Any intelligent fool can make things
+through the ATTRA                 used today on smaller-scale farms. Many farmers           bigger, more complex … It takes a
+Sustainable Agriculture
+                                  who operate at this scale also rely on imported           touch of genius—and a lot of courage—
+program, under a cooperative
+agreement with                    tools and machinery designed for more intensive           to move in the opposite direction.”
+USDA Rural                        cropping systems. The farm-equipment market in            –E.F. Schumacher
+Development.
+ATTRA.NCAT.ORG.                   the United States often leaves smaller-scale farms
+
+ATTRA.NCAT.ORG                                                                                                                     Page 1
+                      Equipment and tools are necessary for plant          is specialized and not used often. Farm-tool
+                      propagation, soil preparation, planting, pest and    lending libraries and equipment rental programs
+                      weed control, irrigation, harvesting, postharvest    are offered in many areas, often through
+                      handling, storage, and distribution. Sustainable     organizations such as county conservation
+                      agriculture can be a labor-intensive business;       districts. Utilizing these programs can be cost-
+                      by selecting the appropriate tool for the task at    effective, as rates are often determined by the
+                      hand, farmers can increase profits by increasing     job, acreage, or time spent using the equipment.
+                      crop yields, improving crop quality, and             Options to custom hire out the job or barter
+                      reducing expenses. There are several factors to      with a neighboring farmer may also be worth
+                      consider when choosing appropriate agricultural      exploring. In some situations, the farmer may be
+                      equipment and tools:                                 able to change management practices in order
+                                                                           to achieve a suitable solution.
+                        • Does the tool or equipment support your
+                          whole-farm plan?
+ Related ATTRA
+ Resources              • Is the tool or equipment appropriate to your
+                          farm’s location and growing condition?
+ ATTRA.NCAT.ORG
+                        • How does the tool or implement impact soil
+• Draft Animal            health, production, and marketing?
+  Power for Farming     • Is it safe to use and appropriate to your
+                          skill and comfort level and to that of other
+• Conserving Fuel
+  on the Farm
+                          farmworkers?
+                        • Is it appropriate in scale now and for future
+• Market Gardening:
+                          growth?
+  A Start-Up Guide
+                        • Is it easy to maintain and repair? How
+• Sustainable Weed
+                          accessible are parts?
+  Management
+  for Small and       How a farm operates and maintains its equipment
+  Medium-Scale        can have a significant impact on that farm’s
+  Farms               bottom line. In addition to the initial purchase
+• Solarization and    price and costs to operate and maintain the
+  Biosolarization:    equipment, there are many associated costs that
+  Harnessing the      need to be considered. These can relate to taxes,
+  Sun and Organic     fees for tool and equipment storage, insurance
+  Matter to Control   costs, and more. A partial budget is a tool that
+  Weeds               can help determine the return on investment
+                      when purchasing equipment. The University
+• Topic Area:
+                      of Kentucky Cooperative Extension Service
+  Equipment
+                      publication titled Understanding Equipment
+                      Costs on the Small Commercial Vegetable Farm
+                      (2020) offers additional methods to help small
+                      vegetable farms plan for the costs of operating,
+                      maintaining, and replacing equipment.
+                      When a piece of equipment is needed on the
+                      farm, it is important to consider all options
+                      that may achieve the desired outcome. Maybe
+                      buying outright or leasing is the right choice,
+                      but there are often several other options that can
+                      be considered, as well. Many farmers purchase
+                      equipment jointly, especially when the equipment
+
+
+
+
+Page 2                                                       Equipment and Tools for Small-Scale Intensive Crop Production
+   Appropriate Technologies
+   There are a number of characteristics
+   that define agricultural tools as an
+   appropriate technology:
+
+     •  They should be safe to use and allow
+          for efficient work.
+
+     • They should fit local conditions.
+
+     •  They should be inexpensive to make,
+           use, and maintain.
+
+     • They should be made from local
+        materials.
+
+     • They should not deplete natural
+        resources.
+
+     • They should promote fulfilling jobs
+        and workplaces.
+
+
+
+
+  Open Source/
+  Open System
+  Tools and Equipment
+  Farmers have always been innovators
+  and tinkerers, be it out of necessity,
+  for profit, or simply for fun. Many
+  farmers are also open to sharing
+  information, especially when it comes
+  to building, modifying, and utilizing
+  specialty tools and equipment that
+  will increase on-farm efficiencies and
+  a farm’s bottom line.
+  Farm Hack is a community of
+  collaborators interested in developing
+  and sharing open-source tools for
+  resilient agriculture. Farm Hack exists
+  as a platform for community-based
+  sharing and collaborative research.
+  To join the Farm Hack community
+  and to access all the open-source tool
+  designs, visit farmhack.org.
+  The Oggún tractor, developed by
+                                          The Culticycle, an open-source pedal powered tractor for cultivation and seeding, built
+  CleBer, LLC, is designed on an open from readily available lawn tractor, ATV, and bicycle parts. Photo: Farm Hack
+  system (non-proprietary) platform.
+  This allows for each tractor to be designed at a scale that can lower costs and empower farmers to troubleshoot,
+  configure, and adapt equipment as they deem necessary. And, by creating an open system design, CleBer’s Universal
+  Power Platform (UPP) can be used for a range of small-scale equipment beyond tractors. For more information on
+  the Oggún tractor and CleBer’s open system design platform, visit ronnietractors.com.
+  More information on open-source tool designs is included in the Further Resources section of this publication.
+
+
+
+
+ATTRA.NCAT.ORG                                                                                                               Page 3
+                                                                               more precise bed preparation, and more efficient
+                        Hand Tools                                             nutrient cycling for long-term resilience.
+                        There are three components to consider when
+                        selecting hand tools for commercial crop               Capitalization costs for purchasing mechanized
+                        production: how the tool fits the hand and body,       equipment can have a significant impact on a
+                        how the tool fits the need, and the quality or         farm’s budget and monthly cash flow. With
+                        durability of the tool. Ergonomics refers to how       planning, new farmers can design their systems
+                        a tool is best designed for comfort, efficiency,       to function now and for future growth. This will
+                        safety, and productivity. The more ergonomically       help in preparing to scale up and use mechanized
+                        designed a tool is, the easier it will be on the       equipment. Careful recordkeeping allows for an
+                        human body. The length of a handle, the type           understanding of how mechanized equipment
+                        of handle grip, the weight of the tool, and the        can reduce labor costs. It can also portray the
+                        angle of the tool head to the handle all affect the    return on investment while offering a pathway
+                        ergonomics of a tool.                                  for managing financial risks, especially when
+                                                                               debt (from a bank loan) is being considered for
+                        The more durable a tool is, the longer it will last    purchasing farm equipment.
+                        without sustaining significant damage or wear.
+                        Durability can be measured in the strength of          Several tools are now on the market that run
+
+
+
+
+T
+                        the handle and tool head. The harder the steel         on battery power. This includes tools for soil
+         here are                                                              preparation, cultivation, pest control, and
+                        used for the tool head, the better it will hold an
+         three          edge—which in turn improves efficiency and             harvesting. Although battery-powered tools,
+         components     reduces wear. Thus, it is important to keep a          such as those powered by hand drills, have been
+                        sharpening tool close by, and one that best serves     available for many years, there are newer options
+to consider when
+                        that particular type of steel. Filing in the forward   being used on farms, such as chain saws and string
+selecting                                                                      trimmers. The batteries for these tools tend to be
+                        direction with something like a mill file with a
+handy tools for                                                                costly, though when they are selected carefully,
+                        bastard cut works to keep softer steels sharp, while
+commercial              sharpening stones perform well on harder steel         interchangeable batteries allow for different
+                                                                               tools to be powered by the same type of battery.
+crop production:        blades, including stainless and spring steel. How
+                                                                               Battery-powered tools don’t produce exhaust, are
+how the tool fits       the tool head and handle are joined together also
+                                                                               quieter, and are easier to maintain than tools that
+                        affects the durability of the tool and determines
+the hand and body,                                                             run on fuel.
+                        whether parts can be replaced.
+how the tool fits
+the need, and the       The Further Resources section of this publication
+                        contains a list of suppliers that specialize in
+quality or durability
+                        various tool types, including tools ergonomically
+of the tool.            optimized for women and left-handed people, tools
+                        made from recycled materials, and many more.
+
+                        Mechanized Equipment
+                        In recent years, there has been a great amount
+                        of innovation in mechanized equipment for
+                        small farms. This includes machines specifically
+                        designed for seeding, bed preparation, harvesting,
+                        and much more. When selected appropriately,
+                        these tools can be great labor-saving investments
+                        that contribute to overall efficiency, productivity,
+                        and profit. Mechanization is often linked to an
+                        expansion in production, from a human-powered
+                        and labor-intensive scale to an increase in acreage
+                        and number of markets, but it can also be used
+                        to increase efficiency within current production
+                        systems. For example, tools can be used to farm
+                        more intensively on a given parcel by allowing for     Drill-powered Iconoclast tool available from Neversink
+                        closer plant spacings, more efficient weed control,    Farm. Photo: Andy Pressman, NCAT
+
+
+Page 4                                                           Equipment and Tools for Small-Scale Intensive Crop Production
+                                                          quantities of horsepower and can frequently get the
+Walk-Behind Tractors                                      job done with less than 30 horsepower. Additional
+A walk-behind tractor, or two-wheel tractor, can          considerations in tractor use include the skill level
+be an effective—even essential—tool for small-            of the farmer or farm worker to safely operate the
+scale farming. At 3.5 to 16 horsepower, these two-        tractor and to maintain it.
+wheeled power sources can handle the mowing,
+                                                          In 1939, Ford Motor Company came out with
+tillage, and cultivation needs for a farm up to a few
+                                                          the three-point hitch on its Model N tractors.
+acres. Their versatility allows them to be used in
+                                                          Prior to this time, the brand of most implements
+high tunnels, while also allowing them to be used
+                                                          had to match the brand of the tractor, because
+in combination with a four-wheeled tractor to
+                                                          each manufacturer had its own way of hitching
+manage crop production on more acreage. Walk-
+                                                          its implements to its own tractors. The three-point
+behind tractors tend to be affordable for smaller
+                                                          hitch allows for implements to be easily attached
+scales of production, easy and safe to operate, and
+                                                          to a tractor and lets the tractor carry the weight
+less costly to maintain. They can be equipped
+                                                          of the implement. Although single and double
+with a wide range of implements, including PTO-
+                                                          hitches served in a similar capacity, the three-
+driven tillers, rotary plows, power harrows, and
+                                                          point hitch also allows for the implement to be
+mowers. Other implements that can be pulled or
+                                                          lifted by the tractor’s hydraulic system. As a result,
+powered by a walk-behind tractor include discs,
+                                                          the depth of the implement can be controlled;
+roller-crimpers, seeders, and toolbars with various
+                                                          therefore, the load on the tractor is also controlled.
+cultivation set-ups. Many of these implements
+                                                          The three-point hitch became standardized in the
+are designed for 30-inch bed widths and can be
+                                                          1960s, making different manufacturers’ tractors
+used in combination with other hand tools for
+                                                          and implements compatible.
+managing intensive crop plantings.
+
+Tractors, PTOs, and Toolbars
+    One horsepower is equal to the force
+    required to raise 33,000 pounds one
+    foot in one minute.
+
+Tractors provide the power to push and pull farm
+machinery and move materials, when equipped with
+a front-end loader, forks, or hay bale spear. There are
+many considerations to be evaluated when selecting
+a tractor, including the type of operation, scale,
+terrain, physical layout of the production area, soil
+conditions, and implements that will be mounted           A three-point hitch with toolbar. Photo: Andy Pressman,
+to it. Small-scale farms do not often need large          NCAT
+
+
+
+
+BCS tractor and implements. Photo: Strafford County (NH) Conservation District
+
+ATTRA.NCAT.ORG                                                                                                      Page 5
+                            A toolbar can also be attached to a tractor to     vibrate slightly, S-shanks vibrate aggressively,
+                            serve as a tool carrier. Toolbars are most often   and straight shanks are firm.
+                            utilized for cultivation purposes, and they can
+                                                                               Starting in 1947, manufacturers began adding a
+                            be set up with multiple tools that can work in
+                                                                               built-in transmission device known as a power
+                            conjunction with one another. A shank is used
+                                                                               take-off (PTO) to tractors. The PTO allows the
+                            to attach a tool, such as a sweep or shovel, to
+                                                                               tractor to be driven while powering an implement.
+                            the toolbar. Depending on how much action, or
+                                                                               PTOs are a main feature on tractors today,
+                            mobility, is needed by the tool, different types
+                                                                               including several walk-behind tractor brands. For
+                            of shanks can be used. For example, C-shanks
+                                                                               most tractor implements, the PTO runs at 540
+                                                                               rpm, which equates to the PTO shaft rotating
+                                                                               nine times per second. PTO entanglements are
+                                                                               all too common on farms and investing in a PTO
+                                                                               shield can prevent accidents caused by the PTO.
+
+                                                                                Although draft-animal power does find a
+                                                                                place on small farms, this publication does
+                                                                                not include a discussion on equipment
+                                                                                for draft power. However, many of the
+                                                                                implements described in this publication
+                                                                                were originally designed for draft animals
+                                                                                and can be used with either draft or tractor
+                                                                                power. Refer to ATTRA’s Draft Animal Power
+                                                                                for Farming for information on the use of
+                                                                                draft animals.
+PTO shield. Photo: NYCAMH
+
+
+
+
+    To Invest or Not to Invest
+    Efficient processes are often essential components of a successful farm. Whether talking about crop planning,
+    bed preparation and turnover, management of pests, disease, and fertilization, or harvest and post-harvest, there
+    are clear benefits to a streamlined and carefully designed plan. Selecting the appropriate suite of tools for a farm
+    is an essential process that will have an impact on all the farm duties listed above. A well-selected combination
+    of tools will allow a farmer to substitute human labor hours for a mechanical advantage. Combining real-time
+    accounting information and a way to rank potential investments greatly reduces the possibility of making a poor
+    choice. Whether a farmer chooses to create a simple back-of-the-envelope calculation that includes categories
+    like cost, condition of purchase (new/used/rent), and urgency of need, or whether they use a more elaborate
+    tool like the example included below, a well-thought-out investment is more likely to reflect the actual needs and
+    expectations of the farmer.
+
+    Table 1 (page 7) comes from the world of whole-farm planning, which is a holistic approach to establishing a short
+    and long-term vision for the farm that examines values, capacity, and goals in creating a farm plan. Notice that the
+    questions posed in the table go beyond cost and benefit to include a side-by-side comparison of two alternative
+    options for addressing a farm need, as well as an examination of vision, goals, and future monitoring. Following the
+    whole-farm plan methodology can help farmers adapt their goals and actions to align their needs and preferences
+    for success in the long term. Eventually, the process of whole-farm planning will lead to the development of business,
+    retirement, transition, estate, and investment plans.
+    Click here for a downloadable Excel version of Table 1 (available for online and PDF formats).
+    For information on sizing tractors, see What Size Farm Tractor Do I Need? in the Further Resources section.
+
+
+
+
+Page 6                                                            Equipment and Tools for Small-Scale Intensive Crop Production
+                                      Table 1. Decision-Making: On Farm Investments
+ Decision Made By: Jack and Jill Hiller                             Date: 01 / 26 / 2019
+                                                                    Scaling up the market garden to commercial enterprise, finding an
+ Proposed Action & Objective
+                                                                    efficient approach to managing it
+
+ Is there a specific problem?                                       Tenacious perennial weeds; cheat grass; low organic matter
+
+                                                                    1. Invest $$$$ in a BCS two-wheeled tractor and implements to
+                                                                        allow for weed control and organic matter incorporations via
+ Are there alternative options being compared?                          shallow tillage
+                                                                    2. Invest $$ in imported compost and manage the system as
+                                                                        no-dig; smother weeds and maintain by hand
+
+ Mark Pass (P) or Fail (F) for each alternate where
+                                                                     P       F      P       F    Notes / Further information needed
+ applicable. List any additional issues or points raised.
+ Cause and effect test: Does this action appear to address
+                                                                             F      P            OM for intensive vegetable production
+ the root cause of the problem? Have we discovered the root
+                                                                                                 requires inputs. Tillage spreads weeds.
+ cause of the problem yet?
+ Weak link test - social: What are the possible reactions and
+                                                                             ~      ~       ~    OM enhanced more by no-till than
+ effects of this action? How can I /we enhance any positive
+                                                                                                 by tillage.
+ effects or address any negative impacts?
+ Weak link test - biological: Does this action address the                                       Tillage controls weeds short term
+ weakest point in the lifecycle of this organism, whether                    F      P            but damages soil structure; awakens
+ enhancing or diminishing its impacts?                                                           weed seed
+ Weak link test - financial: Does this action address the
+                                                                             F      P            No-till feeds the soil while reducing
+ weakest link in the chain of production (resource conversion,
+                                                                                                 labor.
+ product conversion, marketing)?
+ Marginal reaction test: Comparing two or more actions:
+                                                                             F      P            Compost = lower investment for
+ Which option provides the greatest return (in terms of my /
+                                                                                                 greater return
+ our holistic goal, for the time, money, and effort spent)?
+ Gross profit analysis test: Comparing two or more
+                                                                     ~       ~      P            BCS would be efficient (low labor) but
+ enterprises: Which contributes most to covering the
+                                                                                                 continued use necessary
+ overhead of the business?
+ Energy / money source & use test: Is the money or energy
+ to be used sourced in a manner that is consistent with my /
+ our holistic goal? Will the energy or money lead toward my /
+ our holistic goal?                                                                              Note to self - it seems possible to
+                                                                                                 close nutrient cycles and create future
+                         Energy                  Money                                           compost needs on site. With this
+                                                                                                 in mind, the ongoing cost would be
+                                                 From sales of               F      P            mostly labor.
+ Source                  1. Oil 2. Labor
+                                                 CSA shares
+ Use
+
+ Sustainability test: Will this action lead toward or away from              F      P            Leads to requiring oil, repairs, and
+ the future resource base described in my /our holistic goal?                                    maintenance over time
+
+ Justification test: I / we can honestly say theese tests have                                   BCS would work well, but no-dig has
+ been used objectively, and not merely to justify a specific                                     more benefits across more aspects of
+ desired outcome.                                                                                our context and at a lower cost
+ Society and culture test: Gut check - Considering all of
+                                                                             F      P            No-dig feels more in line with where I'd
+ the testing outcomes and my /our holistic goal, what is the
+                                                                                                 like to be in five years.
+ feeling about the proposed action now?
+ Monitoring: What social, financial, and ecological indicators can be tracked to discover (as quickly as possible) whether this action
+ is progressing in the right direction? 1. Record total human hours for weeding, installing & total for the market garden;
+ 2. Monitor compost application rates over four years
+Source: Adapted from Regenerative Agriculture, by Richard Perkins
+
+
+
+
+ATTRA.NCAT.ORG                                                                                                                      Page 7
+                                                                               pull a subsoiler to break up a hardpan may be
+                      Soil Preparation                                         much greater than what is required throughout
+                      Preparing the soil for seeding and planting              the rest of the year, often needing around 25 to
+                      crops is a multi-step process. Depending on              30 horsepower per shank.
+                      the soil condition and the kinds of crops to be
+                      planted, farmers can decide which tool or piece          Hand Tools for Soil Preparation
+                      of equipment to use, the depth to which the soil
+                                                                               Hand tools can thoroughly prepare a small
+                      needs to be prepared, and when the soil should
+                                                                               amount of land for planting. Spades and digging
+                      be worked. Soil preparation disrupts soil structure
+                                                                               forks are designed to thrust vertically into the
+                      and soil life; thus, maintaining and enhancing
+                                                                               soil rather than at an angle. They are preferable
+                      the life of the soil is the farmer’s responsibility.
+                                                                               to a shovel because the blade of a shovel is often
+                      Selection and use of the right tools and practices
+                                                                               shorter than the blade of a spade; in addition,
+                      to prepare the soil plays a crucial role in this
+                                                                               the curve of a shovel blade makes it difficult to
+                      regard. In some instances, farmers can get
+                                                                               deeply penetrate the soil. Short-handled spades
+                      exceptional crop quality and yields with minimal
+                                                                               and forks with a D- or T-shaped handle allow for
+                      soil disturbance through such practices as no-till
+                                                                               more efficient use of energy when digging deeply
+                      farming or preparing raised garden beds through
+                                                                               and when moving soil.
+
+
+
+S
+                      the technique of double-digging, in which the soil
+        oil           is loosened to a depth of as much as 24 inches.
+        preparation
+                      Breaking the soil for commercial crop production
+        disrupts      usually requires the art of plowing or tilling the
+soil structure and    soil. The goal of soil preparation is to minimize soil
+soil life; thus,      damage while creating a smooth, deeply loosened
+maintaining and       seed bed with as little residue and as few weed
+                      seeds as possible in the top three to six inches.
+enhancing the
+                      Tools serve to loosen and aerate the soil, break up
+life of the soil      residues and weeds, incorporate organic matter
+is the farmer’s       and soil amendments, and shape the planting
+responsibility.       bed. A well-prepared bed will be easy to seed or
+                      transplant into, have good water drainage, and be
+                      easy to cultivate. Soil amendments and organic
+                      matter can be incorporated into the soil as it is
+                      being prepared for seeding or planting.
+
+                      Equipment for Soil Preparation
+                      Selecting the right piece of equipment for tillage
+                      depends on the type of soil that is desired.
+                      Tillage can be broken down into primary and
+                                                                               A digging fork (left) with a T-handle and a spade with a
+                      secondary stages. Primary tillage aggressively           D-handle. Photo: Andy Pressman, NCAT
+                      loosens the soil and breaks up residues at a deep
+                      depth. Secondary tillage pulverizes and smooths          After the soil has been forked or spaded, a garden
+                      the top several inches of soil. Equipment should         rake can be used to break up larger clods and
+                      be selected based on the type of tillage desired         remove residues and stones that, left alone, could
+                      and how the equipment works, given the specific          interfere with planting, cultivation, and overall
+                      characteristics of the soil. The tools’ ability to       plant health. Rakes can also be used to level a bed
+                      perform correctly also depends on the horsepower         and open furrows for seeding. They can be used
+                      of the tractor. Soils that are heavy, compacted, or      with the head facing either up or down and by
+                      have significant amounts of residues, for example,       using a push-pull motion. The handle of a rake
+                      may require greater horsepower. In some cases,           can also be held parallel to the body so that the
+                      like in systems that are heavily degraded or that        head can be used to lightly tamp down the soil
+                      are compromised with a hardpan, a one-time               after seeding. The seedbed rake is designed with
+                      heavy equipment rental or management option              longer tines that can be used to mark out specific
+                      may be necessary. The horsepower required to             rows for planting.
+
+Page 8                                                          Equipment and Tools for Small-Scale Intensive Crop Production
+The broadfork, or U-bar, is used for tillage. Due      penetrate 16 to 18 inches or so. Subsoilers are also
+to its minimal soil disturbance and no inversion       used to break up compacted soils and improve
+of soil layers, some farmers include this tool in      drainage and aeration by penetrating deeper than
+their regular operations for reduced or no-till        a chisel plow into the soil.
+production. It consists of two handles, one on
+                                                       Discs can be used for both primary and secondary
+each side of the fork, and teeth that are spaced
+                                                       tillage. Discs are ground-driven implements that
+about four inches apart. The teeth are designed
+                                                       cut and mix the soil. They come in several different
+and spaced so that as the handles of the broadfork
+                                                       shapes and sizes and can be arranged in different
+are pulled toward the operator, the tines break the
+                                                       rows and at different angles. Discs perform best
+soil and lift it, without the broadfork itself being
+                                                       on soils that don’t have a lot of residues and on
+lifted. Once the soil is loosened, the broadfork is    soils that are not so wet that they will clog or so
+moved back about six inches, and the procedure         dry that the discs don’t cut. Heavy discs can be
+is repeated down the bed. Some farmers find the        used for primary tillage and adding additional
+broadfork useful for harvesting crops such as          weight to the disc can help it cut further and
+scallions and potatoes, as well.                       incorporate better. Lighter discs can be used for
+Bed rollers can be used as a last step in preparing    secondary tillage after the soil has been plowed.
+beds, to create a uniform planting surface.
+
+
+
+                                                                                                                P
+                                                       Rotary tillers can also be used for primary and
+Depending on the desired condition of the              secondary tillage up to around eight inches deep.               rimary tilling
+bed, weight can be added to provide a more             Rotary tillers are instrumental in small-scale                  is performed
+compressed surface. Additionally, bed rollers are      vegetable production, because they can produce                  by different
+compatible with dibblers for preparing transplant      fine seedbeds at varying widths. They are suitable
+holes at regular intervals or placing row markers                                                               types of plows,
+                                                       to use with walk-behind tractors that have as little
+for follow-up with hand seeding or push seeders.       as five horsepower and four-wheel tractors up to         discs, rototillers,
+                                                       100 horsepower. Rotary tillers have a rotating           and spading
+Primary Tillage Equipment                              shaft with several attached tines that mix the           machines.
+Primary tilling is performed by different types of     soil at various depths. While most tillers on the
+plows, discs, rototillers, and spading machines.       market use a forward rotation to mix the soil,
+The moldboard plow is one of the oldest                reverse-tine tillers use reverse action to pull the
+implements used for soil preparation. It consists      tiller into the ground, burying larger soil clods
+of one or more curved pieces of metal, called          underneath smaller clods, often leaving a finer
+bottoms, attached to a frame. The bottoms are          seedbed with less compaction.
+pulled through the soil to cut it and then invert      Rototilling is an effective way to prepare a seedbed;
+it, either partially or wholly. One- to four-bottom    however, there are drawbacks when the tool is
+plows are common for small-scale production,           overused. Continuous rototilling can create a hard
+and each bottom requires approximately 10 to           layer of soil, or plow pan, underneath the tilled
+15 horsepower from the tractor. Plows come in          soil and increase organic matter decomposition.
+various shapes and sizes, which determine the          It can also lead to soils that can quickly erode.
+depth of the cut and how the plow moves the            Reducing the rototiller’s revolutions per minute
+soil. Disc coulters can be added to the front of       or increasing the tractor’s ground speed can be
+the plow to pre-cut the soil so that the bottom        less harmful to the soil than normal rototilling
+penetrates more effectively.                           (Wiswall, 2009). Power harrows, or rotary
+Chisel plows, or field cultivators, have curved        harrows, are designed to gently move the soil
+shanks (also known as chisels) with sweeps or          “horizontally” up to a few inches in depth. The
+                                                       soil is not inverted nor over-pulverized, which
+other tips attached to them. They are used for
+                                                       allows for multiple uses during the season without
+loosening the soil without inverting it, thus
+                                                       jeopardizing soil structure or forming a hardpan.
+leaving residues on the soil surface. They are
+often used to break up hardpans and heavy soils        Spading machines are an alternative to using
+and can be run across a bed before planting root       a rotary tiller. Common in Europe, spading
+crops. Root penetration can also be improved           machines loosen the soil and incorporate residues
+with a subsoiler. Subsoilers have straighter and       without turning the soil. Spaders are either rotary or
+longer shanks than chisel plows, usually about 18      reciprocating, and the spades on both types move
+inches; each shank needs about 25 horsepower to        more slowly than a rotary tiller through the soil.
+
+ATTRA.NCAT.ORG                                                                                                                Page 9
+                                                                                    Bed Shaping
+                                                                                    There are several advantages to forming raised beds,
+                                                                                    including warmer soils and better drainage. In
+                                                                                    addition, raised beds make it easier to steer a tractor
+                                                                                    and implement for planting and cultivating. Bed
+                                                                                    shaping is usually done by pushing loose soil into
+                                                                                    ridges with a hilling disc or other implement and
+                                                                                    then forming and pressing the soil into a bed. There
+                                                                                    are many different styles of bed shapers. Some can
+                                                                                    lay drip tape and plastic mulch and apply fertilizers.
+                                                                                    Many designs are made right on the farm.
+
+                                                                                    Seeding and Planting
+                                                                                    Farmers must take several factors into
+                                                                                    consideration when choosing how best to
+                                                                                    establish a crop for production. Local soil and
+                                                                                    growing conditions, market considerations, and
+A Celli spading machine at Pennypack Farm and Education Center in Horsham,          crop type affect whether a crop should be direct-
+Pennsylvania. Photo: Andy Pressman, NCAT
+                                                                                    seeded or transplanted. Decisions made around
+                                                                                    crop establishment will affect performance; thus,
+                            This action works the soil more effectively without     the selection of appropriate tools for a particular
+                            causing compaction. Depending on the condition          farming operation can help greatly in saving time
+                            of the soil, a fine seedbed can be accomplished in      and labor, while also increasing the health, viable
+                                                                                    yield, speed to maturity, and quality of a crop.
+                            a single pass without secondary tillage.
+
+                            Secondary Tillage Equipment                             Equipment for Direct Seeding
+                                                                                    Direct seeding requires contact between the
+                            Depending on how rough or crusted the soil
+                                                                                    seed and the soil, so that the crop can establish
+                            is and how much plant residue remains, using            itself once it germinates. Spin seeders are used
+                            secondary tillage equipment can further refine          for broadcasting cover-crop seeds at a set, desired
+                            and level the soil before seeding or planting.          rate. They can be handheld or tractor-mounted.
+                            Harrowing is used for shallow tillage and is            Light harrowing, raking, irrigating, or adequate
+                            most often practiced after plowing. Harrows             rainfall will help ensure good seed-to-soil contact.
+                            can be used to break down the furrow slices
+                            caused by the plow, reduce clods, smooth out            Other types of seeders should be used for crops
+                                                                                    that need to be planted in the soil at a uniform
+                            the soil surface, and kill young weeds. The types
+                                                                                    spacing and depth. These include precision seeders,
+                            of harrows include light disc harrows, chain-link
+                                                                                    pinpoint seeders, stick- or jab-type seeders, and
+                            harrows, spring-tooth harrows, and spike-tooth          drills. Precision seeders can be manually pushed
+                            harrows. If sod has been plowed under, the disc         or tractor mounted to dispense individual seeds
+                            harrow will not bring lumps of sod up to the            in a furrow. Seeds can be singulated through
+                            soil surface—unlike the spring-tooth or spike-          several different mechanisms, including cups,
+                            tooth harrow. Although spike-tooth harrows do           belts, vacuums, plates, and rollers. For small-
+                            not pulverize the soil as well as other types of        scale farms, Glaser, Earthway, and Jang are brand
+                            harrows, they can sometimes be used to cover            names of precision push seeders that use plates or
+                            broadcast seed.                                         rollers. The Stanhay uses belts, and the Nibex uses
+                                                                                    cups. Both of these are available as walk-behind
+                            Field cultivators consist of a toolbar with different   push seeders or toolbar-mounted seeders (Volk,
+                            implements mounted on it. They are heavier than         2009). Some seeders function as standalone units
+                            harrows and are used when the soil is too rough,        capable of seeding up to six rows of seed, while
+                            is too compacted, or has too much residue for           other single-row seeders offer attachments that
+                            a harrow. The toolbar usually has C-shanks or           can connect seeders together for seeding multiple
+                            S-shanks with sweeps, tines, chains, or rollers         rows, attach seeders to a wheel hoe, or mount
+                            attached to the bottom.                                 seeders with a fertilizer attachment.
+
+Page 10                                                               Equipment and Tools for Small-Scale Intensive Crop Production
+                                                       Equipment for Transplanting
+                                                       Setting out transplants helps to extend the
+                                                       growing season and harvest period. Many farmers
+                                                       transplant crops by hand using a trowel, a dibbler,
+                                                       or a jab-style planter, but mechanical transplanters
+                                                       can speed up the planting process by offering more
+                                                       accuracy and less labor. Mechanical transplanters
+                                                       require one person to drive the tractor while a
+                                                       crew of one or more people drops transplants into
+                                                       the soil. Many farmers have designed simple sled-
+
+
+
+                                                                                                                 M
+                                                       type transplanters that allow the crew to sit or lie
+                                                                                                                              any
+                                                       down while they transplant by hand. Commercial
+                                                       transplanters have a shoe, coulter, or some other                      farmers
+                                                       device to open the planting furrow. They also                          transplant
+                                                       have a closing wheel that packs the seedlings,            crops by hand using
+                                                       which are held on trays, in place once they are           a trowel, a dibbler, or
+                                                       planted. Water-wheel transplanters inject water
+                                                       into the hole after the plant is set. Other types         a jab-style planter,
+                                                       of transplanters include the gripper, the carousel,       but mechanical
+                                                       the spade, and the no-till.                               transplanters can
+                                                       Until recently there have been plenty of options for      speed up the planting
+SPIN farmer Wally Satzewich of Wally’s Urban Market
+Garden in Saskatoon, Saskatchewan, using an Earthway
+                                                       mechanized transplanting equipment for farmers            process by offering
+seeder. Photo: Courtesy of SPIN-Farming                at every scale, except those at the lower end of          more accuracy and
+                                                       the spectrum—namely, the market gardeners.
+                                                                                                                 less labor.
+Pinpoint seeders are designed to be manually           Now, the paper-pot transplanter and other similar
+pulled and perform well for greenhouse planting.       products fill that niche for the small-scale farmer
+Medium- to large-sized seeds can be hand planted       who is looking to increase efficiency. The hand-
+through a stick- or jab-type seeder that can also      pulled transplanter relies on a sled and chain of
+plant through plastic mulch. Seed drills also          pots that are pulled across a pre-prepared seedbed
+are available for manual or tractor-mounted            to plant and bury seedlings. A well-prepared
+seeding. Discs can be set for the size of the seed,    seedbed is important for ease of planting, and,
+but thinning may be necessary to achieve proper        in the right context, this type of transplanter can
+spacing between plants. Planet Jr. is a classic name   greatly reduce transplanting times. One company
+associated with vegetable drills. Drills can also be   claims that with its equipment, a single person can
+used for planting grains and cover crops.              plant a 100-foot bed with 264 plants in minutes.
+
+
+  Desirable Features of a Hand-Pushed
+  Precision Seeder
+  In his book The New Organic Grower, Eliot
+  Coleman suggests several characteristics
+  to look for in a hand-pushed precision
+  seeder:
+    • It is easy to push in a straight line.
+    • It gives precise seed placement.
+    • It allows accurate depth adjustments.
+    • It is easy to fill and empty.
+    • It is flexible and adaptable.
+    • It has a visible seed level and seed drop.
+    • It includes a dependable row marker.             A Rainflo water-wheel transplanter at Pennypack Farm and Education Center in
+                                                       Horsham, Pennsylvania. Photo: Andy Pressman, NCAT
+
+ATTRA.NCAT.ORG                                                                                                                    Page 11
+                                                                               Weed Control
+                                                                               Weeds compete with crops for light, water, and
+                                                                               nutrients, and they can affect a farm’s economic
+                                                                               bottom line. Weeds can reduce crop yields
+                                                                               through competition with cash crops, promote
+                                                                               pests and disease, and even be problematic in
+                                                                               the harvesting process. As a result, there is a
+                                                                               large cost associated with controlling weeds.
+                                                                               Minimizing weed growth both in the short term
+                                                                               and the long term should be considered when
+                                                                               designing a cropping system. Careful planning
+                                                                               to limit weeds’ competition with cash crops and
+                                                                               to reduce the amount of time, fuel, and other
+                                                                               resources spent on controlling weeds can be vital
+                                                                               to a farm’s economic viability.
+                                                                               There are several techniques for effectively
+                                                                               controlling weeds, including chemical and
+                                                                               cultural approaches, as well as the use of
+                                                                               cultivation tools. Many of the control techniques
+                         Paperpot transplanter. Photo: Andy Pressman, NCAT     can be integrated together to be more effective.
+                                                                               All the techniques focus on either preventing
+                                                                               weed seeds from germinating (pre-emergence) or
+  Conservation Tillage Equipment                                               suppressing established weeds (post-emergence).
+  Conservation tillage refers to several strategies and techniques for
+  establishing crops in a previous crop’s residues, which are purposely
+  left on the soil surface. The principal benefits of conservation                 A weed-management strategy
+  tillage are improved water conservation and the reduction of soil                includes several factors:
+  erosion. Additional benefits include reduced fuel consumption,                     • Timing weed-control operations
+  reduced compaction, planting and harvesting flexibility, reduced
+                                                                                     • Selecting the most appropriate tools
+  labor requirements, and improved soil tilth. Ridge till and no-till are
+                                                                                        for cultivating
+  the most common types of conservation tillage systems.
+                                                                                     • Forming planting beds and crop-row
+  Ridge tillage uses specialized planters and cultivators to maintain
+                                                                                       spacing to match the cultivation tool
+  permanent ridges, on which crops are grown. After harvest, the
+                                                                                       and its configuration
+  crop residue is left until planting time. The planter places the seed
+  in the top of the ridge after pushing residue out of the way and                   • Incorporating other cropping practices
+  slicing off the surface of the ridge top. Ridges are re-formed during                such as cover crops, crop rotation,
+  the last cultivation of the crop with a ridge-tillage cultivator that                irrigation, fertilization, and pest
+  removes weeds while building up the ridge.                                           management
+  As the name implies, tillage is not used in establishing a seedbed
+  in no-till systems. Instead, crops are simply planted into the
+  previous year’s crop residue or into cover crop residue. Farmers
+  producing on smaller scales are utilizing several different hand
+                                                                               Cultural Practices
+  tools and mulching techniques for no-till vegetable production,              Cultural practices include cover cropping, the
+  while no-till drills and transplanters can benefit farmers growing           use of stale seedbeds, mulching, tarping, and
+  on a mechanized scale. No-till drills are equipped with coulters             mowing. The practice of using a stale seedbed
+  that slice the soil, allowing a double-disc opener to place the seed         targets weed seeds within the top one to two
+  at a proper depth. The slot is then closed with a spring press               inches of soil and is usually performed mid to
+  wheel. No-till waterwheel transplanters are commonly used for
+                                                                               late season. This technique allows the weed seeds
+  vegetable transplants. The transplanter uses coulters that allow
+  no-till planting into bare soil or terminated cover crops. A spiked          to germinate, but the young weeds are then killed
+  wheel creates a hole and fills it with water, then workers riding on         through practices such as flaming or scraping just
+  the transplanter place plants.                                               below the soil surface. This prevents new seeds
+                                                                               from coming up to the surface.
+
+Page 12                                                           Equipment and Tools for Small-Scale Intensive Crop Production
+Mowing weeds can stress the weed plants so that
+they are unable to flower and set viable seed.
+Mowing around crops also can limit weeds’
+ability to compete.
+Mulching can create a physical barrier to limit
+weed growth. Organic mulches, such as straw,
+can also reduce the soil temperature, which may
+slow down the growth of weeds. Plastic and
+biodegradable “plastic” mulches are used with
+heat-loving plants and promote an earlier harvest
+by raising the soil temperature. Plastic mulches
+come in a variety of colors that affect the soil
+temperature differently. Although black plastic
+mulch doesn’t provide much heat to the soil,
+it effectively suppresses weeds. A plastic-mulch
+layer is an implement that can quickly lay plastic       Terrateck manual plastic-mulch layer.
+in a straight, flat, and tight manner over a bed.        Photo: Andy Pressman, NCAT
+
+
+
+
+                                                                                                               S
+Depending on the unit, plastic-mulch layers can                                                                      olarization
+level the soil surface, shape beds, lay plastic over     crops, such as rye, contain allelopathic chemicals          refers to the
+hoops or raised beds, and even lay drip tape under       that prevent weed seeds from germinating.
+                                                                                                                     use of clear
+the mulch, all in one pass. Plastic-mulch lifters        Selecting which cover crop(s) to use depends on
+can be used to assist in pulling up the plastic          the goal for the cover crop, as well as how it will   plastic mulch on
+mulch at the end of each season.                         be managed or terminated. For cover crops that        moist soils during
+                                                         don’t winter kill, mowing will likely be necessary    the hottest parts
+The use of plastic tarps can raise soil temperatures
+                                                         before incorporating the crop into the soil. Unlike   of the year to
+to levels that kill or debilitate many soil pathogens,
+                                                         sickle bar or rotary-type mowers that leave a lot
+insects, nematodes, weed seeds, and seedlings.                                                                 harness the sun’s
+                                                         of the cut biomass intact, flail mowers cut the
+Solarization refers to the use of clear plastic mulch                                                          energy to reduce
+                                                         cover-cop material into fine biomass that is evenly
+on moist soils during the hottest parts of the year
+                                                         distributed. Meanwhile, the roller-crimper is a       the number of
+to harness the sun’s energy to reduce the number
+                                                         cutting-edge implement that is being used to kill     insects, diseases,
+of insects, diseases, nematodes, and weeds in the
+                                                         cover crops in no-till plantings. It consists of a    nematodes, and
+soil. Solarization can also improve soil tilth and
+                                                         metal drum with protruding blunt metal blades
+release nitrogen in the form of ammonium and                                                                   weeds in the soil.
+                                                         arranged in a pattern, designed to roll over a
+nitrates, as well as calcium, magnesium, and
+                                                         cover crop and crimp the plants so that they die,
+potassium (Guerena, 2022). Adding organic
+                                                         creating a mulch layer. Crops can then be planted
+amendments to the solarization process creates
+                                                         or transplanted directly through the mulch.
+anerobic conditions that break down the carbon
+sources, creating a toxic environment for pests
+and diseases. This is known as biosolarization.          Hand-Tool Cultivation
+Tarping, or occultation, is the process of using         The primary tool used in hand cultivation is the
+impermeable tarps for weed control. This is a            hoe. For many farmers, hoeing may seem like
+more common practice in places that receive less         back-breaking and labor-intensive work. This
+sunlight. Weed seed germination is stimulated,           may well be the case, especially when using the
+but weeds then die after emergence due to lack           standard hoe with a 90-degree angled blade and
+of light. Tarps can also be used to warm up the          a 54- to 57-inch handle for weeding. These hoes
+soil in the early spring, speed up decomposition         are designed for such tasks as digging, chopping,
+of crop residues, conserve soil moisture, and            and hilling soil, and they are inadequate for
+minimize nutrient leaching.                              cultivating smaller weeds that have germinated
+                                                         in intensively planted beds. Understanding when
+Cover crops can be planted to suppress weeds.
+                                                         to hoe and how to use different hoes will allow
+Cover crops such as rye, oats, buckwheat, and
+                                                         for easy cultivation of weeds.
+sorghum-sudangrass can be planted during
+certain times of the year to smother weeds through       The eye-hoe, or chopping hoe, is one of the oldest
+competition or by creating a mulch layer. Some           and most traditional tools in the world. The
+
+ATTRA.NCAT.ORG                                                                                                              Page 13
+                               eye-hoe is designed with a heavy head for chopping
+                               larger weeds and roots and for moving soil. They
+                               are swung similarly to an axe, with the weight of
+                               the head doing the work.
+                               Upright hoes allow for smaller weeds to be sliced
+                               just below the soil surface. Their blades can fit
+                               in narrow spaces and are relatively lightweight.
+                               Their handles tend to be longer, between 66 and
+                               74 inches, which allows for a farther reach and
+                               for hand positioning that lets the user’s back stay
+                               straight. Examples of upright hoes are the narrow
+                               collinear hoe and the swan-neck or half-moon hoe.            Terrateck wheel hoe with attachments. Photo:
+                                                                                            Andy Pressman, NCAT
+                               The narrow collinear hoe has a thin metal blade,
+                               usually 3¾ inches or 7 inches long, placed at                same time. Wheels come in different diameters,
+                               a 70-degree angle to the handle. The blade                   usually from nine to 24 inches, with the smaller-
+                               runs parallel to the soil surface and is used in a           wheeled models being easier to direct and less
+                               pulling motion, with the user standing sideways.             tiring and cumbersome to use (Coleman, 1995).
+
+
+W
+           heel                The swan-neck hoe also is used in a pulling or
+                                                                                            As with the toolbar for tractor-mounted cultivators,
+           hoes are            sweeping motion, and the blade is a bit heavier
+                                                                                            wheel hoes can also serve as tool carriers, as newer-
+           one of              and wider than the blade of the collinear hoe. The
+the most efficient                                                                          type wheel hoes can be fitted with accessories that
+                               push hoe is designed with the front of the blade
+tools for weed                                                                              mimic larger-scale implements. For example, the
+                               sharpened and lying flat on the ground so that it
+cultivation on small                                                                        French-manufactured wheel hoe from Terrateck
+                               can “scuffle” across the soil surface in a pushing
+land bases.                                                                                 can be positioned for in-row and between-row
+                               motion. The diamond hoe is sharpened on both
+                                                                                            cultivation with setups using collinear hoe
+                               the front and back of the blade, allowing it to cut
+                                                                                            blades, various discs and blades, tine cultivators,
+                               in both a pushing and a pulling motion. The blade
+                                                                                            and finger weeders. Tine weeders have also been
+                               of a stirrup hoe is not fixed like the diamond hoe’s,
+                               which allows it to dig deeper into the soil as it            adapted for manual cultivation by attaching flex
+                               cuts in both directions. In addition, the stirrups,          tines to long tool handles.
+                               or sides of the blade, make it possible for users to
+                               see how close they are cutting to the cash crop.             Mechanical Cultivation
+                                                                                            For many farms, an increase in production
+                               Wheel hoes are one of the most efficient tools
+                                                                                            efficiency begins with a cultivating tractor.
+                               for weed cultivation on small land bases. The
+                                                                                            Farmall, Allis Chalmers, Ford, Case, Oliver,
+                               ability to attach different cultivation implements,
+                                                                                            Kubota, and John Deere are some common
+                               such as stirrup hoes, chisels, and sweeps, onto
+                                                                                            brand names of cultivating tractors, and many
+                               a wheeled frame allows the user to stay upright
+                                                                                            models are designed for accuracy that allows the
+                               while pushing and pulling the tool. Wheel hoes
+                                                                                            driver to steer close to the crops while cultivating.
+                               have either one or two wheels. Although the
+                                                                                            Guidance accuracy was incorporated into the
+                               double-wheeled version is less common, it allows
+                                                                                            design of many models by using belly-mounted
+                               for cultivation on both sides of a crop row at the
+                                                                                            toolbars and by offsetting the motor to give the
+                                                                                            driver a clear line of sight. Having the toolbar
+                                                                                            belly mounted also compensates for the lateral
+                                                                                            direction of the toolbar while steering. In other
+                                                                                            words, the toolbar moves slightly in the same
+                                                                                            direction the tractor is being steered. With rear-
+                                                                                            mounted implements, on the other hand, the
+                                                                                            toolbar moves slightly in the opposite direction
+                                                                                            of the tractor as it turns.
+                                                                                            Many cultivating tractors were manufactured
+                                                                                            during the late 1940s and early 1950s and are
+From left to right, a collinear hoe, a swan-neck hoe, a stirrup hoe, a “regular” hoe, and   still common on small-scale vegetable farms.
+an eye-hoe. Photo: Andy Pressman, NCAT                                                      The Allis Chalmers Model G, for example, was
+
+Page 14                                                                       Equipment and Tools for Small-Scale Intensive Crop Production
+built between 1948 and 1955, and, unlike other              Cultivation Equipment for
+cultivating tractors, its motor was placed behind
+the driver to provide even further guidance when
+                                                            Pre- and Post-Emergence
+cultivating. Newer makes with this type of design           Weed Control
+include Oggún, Tuff-Bilt, and Tilmore tractors.             Controlling weeds before they germinate involves
+While some cultivating tractors were designed to be         cultivating just below the soil surface. Pre-
+low to the ground for precision cultivation between         emergence cultivation can be done prior to or in
+young or low-growing crops, other tractors, such            between plantings or shortly after a crop has been
+as the Landini, were built with a high clearance            planted. Clean fallow is a term used to describe
+to cultivate between larger crops throughout the            repeated cultivation before or between plantings
+growing season.                                             and is used to kill annual weeds, reduce weed-
+There is a broad range of tractor-drawn and PTO-            seed banks in the soil, and remove perennial weed
+driven implements for weed cultivation. In addition         growth (Grubinger, 1999). Once a crop has been
+to reducing weed populations and herbicide use,             planted, and even germinated, a technique known
+many of the implements function to loosen,                  as blind cultivation is used in and between rows.
+aerate, and till the soil, as well as to incorporate        Blind cultivation targets small weeds that have
+soil amendments into it. Implements for cultivation         been up for a week or less and does not prevent
+
+
+
+                                                                                                                     D
+are designed for both post- and pre-emerging weeds          large-seeded crops that have been sown deeply
+and include sweeps, discs, torsion hoes, brush                                                                                  isc
+                                                            from germinating.
+hoes, spider wheels, finger weeders, S-tines, basket                                                                            harrows
+weeders, rolling cultivators, and other specialized         Disc harrows are one of the most versatile                          are
+cultivating devices. Some of the more common                cultivation tools for clean fallowing. The blades
+                                                                                                                     one of the most
+implements are described below. For a detailed              of the disc loosen and mix the soil through a
+explanation of weed-management tools, see Steel             lifting action, which then leaves the soil level.        versatile cultivation
+in the Field in the Further Resources section.              Tandem disc blades are usually 16 to 18 inches           tools for clean
+                                                            in diameter and are set about seven inches apart,        fallowing. The
+                                                            while offset disc harrows have discs 20 to 24            blades of the disc
+  Huguenot Street Farm in New Paltz,
+                                                            inches in diameter and are set nine inches apart
+  New York, received funding from                                                                                    loosen and mix
+  the USDA-SARE program to develop
+                                                            (Schwenke, 1991). Offset disc harrows are often
+                                                            used in orchards because they can be set up to           the soil through
+  detailed instructions on converting an
+  Allis Chalmers Model G into an electric                   stir the soil close to trees. Some perennial weeds,      a lifting action,
+  vehicle. There are numerous instructions                  particularly those that spread through rhizomes,         which then leaves
+  and videos available online, including                    are better dealt with by equipment that can dig          the soil level.
+  the original plans at projects.sare.org/                  the rhizomes up to the soil surface, where they
+  wp-content/uploads/910807converting-                      can dry out and die. Spring-tooth harrows or field
+  an-allis-chalmers-g-cultivating-tractor-                  cultivators equipped with sweeps or shovels work
+  into-an-electric-vehicle.pdf.
+                                                            well for uprooting perennial weeds.
+                                                            Tine weeders and rotary hoes are two implements
+                                                            commonly used for blind cultivation. Tine
+                                                            weeders, also known as flex-tine weeders, consist
+                                                            of many small metal tines that are pulled through
+                                                            the soil at a fast speed, causing the tines to vibrate
+                                                            and remove the weeds from the soil. Timing is key
+                                                            because the tines scratch the cash crop as well as
+                                                            the weeds growing between the rows. The depth
+                                                            of the tines can be controlled by gauge wheels or
+                                                            by using a three-point hitch. Rotary hoes often
+                                                            are used for blind cultivation in corn and beans
+                                                            and for breaking up the surface of crusted soils
+  An Allis Chalmers G converted to electric at Fair Share
+                                                            (Grubinger, 1999). Rotary hoes are ground-driven
+  Farm, Kearney, Missouri. Photo: Rex Dufour, NCAT          and consist of several spider wheels with “spoons”
+                                                            or tips that rotate and remove weeds.
+
+ATTRA.NCAT.ORG                                                                                                                    Page 15
+                                                                             Basket weeders consist of two rows of metal
+                     Cultivation Equipment                                   baskets that roll across the soil surface at different
+                     for Post-Emergence                                      speeds. The first row is ground driven, which also
+                     Weed Control                                            drives a chain to power the rotation of the second
+                     Tools for post-emergent weed cultivation are            row. This increases the rotation speed of the
+                     designed to be used for specific crop stages. As a      baskets in the second row, so that they cultivate
+                     crop grows and gains strength, more aggressive          weeds that survive the cultivation of the first-
+                     tools that throw soil can be used, such as              row baskets. The baskets scuff the soil surface
+                     sweeps, basket weeders, Spyders™, hilling discs,        without moving the soil. Basket weeders are belly
+                     finger weeders, row-crop cultivators, and rolling       mounted, can be driven at moderate speeds, and
+                     cultivators. Implements such as wiggle hoes and         are ideal for cultivating various greens, such as
+                     brush weeders are designed for cultivating smaller      lettuce. Buddingh basket weeders are designed
+                     crops between rows.                                     for cultivating two- to eight-row beds.
+                     The sweep is one of the most basic tools used for       The Spyder is a ground-driven wheel with offset
+                     cultivation. Sweeps are V-shaped blades on a shank      teeth angled to either throw soil toward or away
+                     that is attached to a toolbar. Depending on the         from the row. Torsion weeders and spring-hoes
+                     style of sweep, the blade faces forward and slices,     can be mounted to the Spyder to take care of
+
+
+
+T
+        ools for     drags, or buries the weeds while throwing soil into     weeds missed by the teeth of the Spyder.
+        post-        the rows. The toolbar can be rear mounted, front
+                                                                             Hilling discs are used to pull soil away from
+                     mounted, or belly mounted to the tractor. Sweeps
+        emergent     are usually set to a depth of one inch below the
+                                                                             small crops or to hill (throw soil toward) larger
+weed cultivation                                                             crops, such as potatoes and sweet corn.
+                     soil surface, and the depth of the sweeps can be
+are designed to be   adjusted to accommodate differences in elevation        Finger weeders are metal, cone-shaped wheels
+used for specific    within a bed. Running a sweep too deeply can            mounted to the belly of a tractor. Protruding
+                     disturb plant roots and throw more soil. However,       from the wheels are rubber-coated metal fingers
+crop stages. As
+                     sweeps set at a deeper depth can also be used           that cultivate around the stems of plants. The
+a crop grows and     for hilling-up crops such as Irish potatoes, sweet      wheels are ground driven and cultivate closely
+gains strength,      corn, and broccoli (Schonbeck, 2010). Shovels are       in rows.
+more aggressive      narrower than sweeps and throw less soil.
+                                                                             Rolling cultivators contain gangs of wheels with
+tools that throw                                                             tines angled to either throw or hill soil into the
+soil can be used.                                                            rows. The gangs swivel as they slice through the
+                                                                             soil, digging up weeds. A fertilizer attachment can
+                                                                             be used at the same time as a rolling cultivator for
+                                                                             side-dressing crops (Grubinger, 1999).
+                                                                             A row-crop cultivator is a metal frame with
+                                                                             several shanks and cultivators attached. The
+                                                                             shanks can be set for specific crop rows and
+                                                                             throw the soil as the frame is pulled by a tractor.
+                                                                             Shields can be mounted to protect the more
+                                                                             delicate plants.
+                                                                             Wiggle hoes are steered from the back of the
+                                                                             implement as it is pulled by a tractor. They
+                                                                             consist of half sweeps that face either to the left
+                                                                             or the right and are attached to a shank. Wiggle
+                                                                             hoes can be steered by the driver close to the
+                                                                             crops, but this requires wide crop spacing.
+                                                                             The European brush weeder sweeps weeds out of
+                                                                             the soil. The brushes fit between narrow rows of
+                                                                             crops, which are protected by a shield. As with
+                     A basket weeder belly mounted to an Allis Chalmers G
+                     at Pennypack Farm and Education Center in Horsham,      the wiggle hoe, a brush weeder is steered from
+                     Pennsylvania. Photo: Andy Pressman, NCAT                the back of the implement by a driver.
+
+Page 16                                                         Equipment and Tools for Small-Scale Intensive Crop Production
+Flame weeders use propane burners that create
+a flame of intense heat to control small weeds.
+Flame weeding is often used to kill weeds in the
+stale-seedbed technique, particularly for intensive
+plantings of greens and herbs, because it does not
+disrupt or throw the soil. There are different scales
+of flame weeders, from handheld or backpack
+flamers to tractor-mounted implements.
+Soil steaming is an emerging technology that is
+being utilized to manage disease, weeds, and pests
+in fields and in high tunnels. The goal of soil
+steaming is to pasteurize the soil, not to sterilize it,
+by reaching temperatures between 140 and 180°C             Soil steaming at Picadilly
+                                                             Farm, Winchester, New
+for an extended period. This is accomplished by            Hampshire. Photos: Andy
+using a boiler unit that fills a tarp laid over an                  Pressman, NCAT
+area with steam or by directly injecting the steam
+into the soil. While soil steaming offers a solution
+for managing many pests, diseases, and weeds,
+more research is needed before conclusions can be
+drawn about the depth and breadth of the effects
+of soil steaming on soil biology.
+
+Harvest
+Of course, like any operation, context is key, and
+every farm will benefit from careful planning and
+the design of workflows that make for a more
+efficient and less redundant process. Farmers
+should always ask themselves: How does this
+piece of equipment work with my management                 There are so many harvest tools and implements
+style and scale of production?                             out there, many of which are well known at the
+                                                           larger scales of production. A few that work for
+Let’s take an example of a simple yet often-
+                                                           small- and mid-scale farms are harvest baskets,
+overlooked and useful piece of equipment: storage
+                                                           aprons, and bags, as well as knives, garden carts,
+boxes. How many different brands and shapes
+                                                           and snips. To borrow the suggestions made by
+have you accumulated over the years? How much
+                                                           Daniel Mays (2020) in his book The No-Till
+time do you spend looking for lids to match the
+                                                           Organic Vegetable Farm, when it comes to knives,
+correct box? As they say, the devil is in the details,
+and small time sucks like these can accumulate             there are many to choose from, but some farmers
+drastically when summed across an operation.               have found that a single multipurpose knife
+Storage boxes that have incorporated lids that can         with a serrated edge should be carried by each
+also be nested inside one another or stacked when          farmworker and is best for general harvest needs.
+filled may be a good solution worth considering.           For crops that require a more delicate touch and
+                                                           that may have brittle or delicate stems (eggplant,
+For those taking part in direct sales, who need            peppers, flowers, tomatoes, etc.) a snip with
+to keep their produce cool, the typical and most           long, straight blades should do the trick. People
+common route has been to purchase a refrigerated           harvesting crops that can be harvested while
+vehicle. While this is a good option and one               standing (tomatoes, snap peas, other trellised
+of the more reliable ways to transport delicate            crops, tree fruit, etc.) can benefit from the use of
+produce across longer distances, there is a more           fruit-picking bags, which help with picking speed
+cost-effective choice. Well-made and lightweight           and ergonomics. When it’s time to transport
+insulated boxes made from recyclable materials             from the field to the wash/pack station, a garden
+may be a suitable substitute for many wanting to           cart serves as a good bulk transporter for heavy
+transport products from an on-farm refrigerator            produce or produce that has been accumulated
+to the buyer or market.                                    at the end of the row.
+
+ATTRA.NCAT.ORG                                                                                                    Page 17
+                        There are also a couple of recent notable            scaled-up options, farmers don’t have to crawl
+                        innovations that some will find particularly         around on hands and knees cutting each plant by
+                        useful. Single-row potato diggers and tuber-         hand; an entire bed can be harvested in a fraction
+                        digging ploughs can be attached to a small tractor   of the time.
+                        or a two-wheeled tractor. These open the potential
+                        for economically viable potato production at         Summary
+                        smaller scales, particularly when thinking about
+                                                                             Choosing the right tool or piece of equipment
+                        more desirable and tastier cultivars.
+                                                                             can greatly affect production efficiency and the
+                        Additionally, greens harvesters have been a great    economic bottom line for the small-scale farmer.
+                        innovation for the small farm producing salad        Investing in well-designed hand tools of good
+                        mixes or “cut and come again” greens. Many small     quality enhances the farmer’s ability to maximize
+                        farmers were priced out of salad mix production      production on an intensive scale. Using tractors
+                        when innovations were made for larger growers        and implements designed for small-scale intensive
+                        that saved on labor costs; the small farm just       crop production can increase crop quality and
+                        couldn’t compete. Now, with several options          yields while reducing labor inputs. Such factors
+                        for the small and mid-scale farmer, including        as soil type and crop selection play an important
+                        the “Quick-cut-greens harvester” and similar         role in the utilization of farm equipment.
+
+
+   Foggy Meadow Farm – Benson, Vermont
+   Paul Horton and Sally Beckwith of Foggy Meadow Farm produce naturally grown vegetables and herbs on 4½
+   acres in Benson, Vermont. Foggy Meadow is a year-round operation that direct markets its crops through farmers
+   markets and restaurants. From its
+   start in 2004, Foggy Meadow has
+   invested in small-scale equipment
+   and tools, which has resulted in
+   the farm being able to continue
+   producing at this scale and remain
+   economically viable.
+   Horton and Beckwith believe every
+   farm should develop a reputation
+   for growing certain crops. Foggy
+   Meadow is known for its high-quality
+   greens and carrots. Although most
+   crops on the farm are transplanted,
+   the farmers at Foggy Meadow direct-
+   seed 1,000 row feet of salad mix and
+   10,000 row feet of carrots each week
+                                           Foggy Meadow Farm, Benson, Vermont. Photo: Courtesy of Sally Beckwith
+   from March through September to
+   ensure a continuous supply. Greens are grown in two 15-foot by 96-foot high tunnels during the spring and winter
+   months, and tomatoes take root in these tunnels during the summer. The high tunnels are moved once or twice
+   a year to new soil to help protect plants from soil salinity issues, pests, and disease.
+   Field crops are grown in ¾-acre sections. This amounts to having six to seven sections, which allows Horton and
+   Beckwith to plan for extensive crop rotations. As spring crops come out of the ground, some land becomes a
+   stale seedbed, while other parcels are cover cropped or sheet mulched for use the following spring.
+   The farm uses a 70-horsepower John Deere tractor for field tillage and bed preparation. Beds are prepared for
+   planting using a combination of a five-shank chisel plow and a 70-inch rototiller. This creates beds for up to three
+   crop rows, which are marked out in the bed using pins on a basket weeder. The Buddingh basket weeder is attached
+   to a Farmall Cub—one of four tractors used for cultivation. There are two Farmall Super Cs, one with sweeps and
+   hilling discs, and the other with shovels that are matched with the rows in each bed. In addition, a Farmall A tractor
+   is set up with a 6-foot disc and harrow for planting cover crops. Having tractors set up with only one implement
+   reduces the time and stress involved with switching implements on a single tractor. As Foggy Meadow Farm looks
+   to produce more crops for winter markets, Horton is interested in purchasing another cultivating tractor with a
+   toolbar set up for single-row crops.
+
+
+Page 18                                                        Equipment and Tools for Small-Scale Intensive Crop Production
+References
+Coleman, Eliot. 1995. The New Organic Grower. Chelsea                 How to Use Implements on Your Small-Scale Farm. 2005.
+Green Publishing, White River Junction, VT.                           By Rick Kubik. Motorbooks International, Minneapolis,
+Grubinger, Vernon. 1999. Sustainable Vegetable Production             MN. 120p.
+from Start-Up to Market. Natural Resource, Agriculture,                Describes how to use implements in detail, including their
+and Engineering Service, Ithaca, NY.                                    function, how they are attached and removed from tractors,
+                                                                        when to use them, and basic maintenance and repair.
+Guerena, Martin. 2022. Soil Solarization and
+Biosolarization. National Center for Appropriate                      Managing Weeds on Your Farm: A Guide to Ecological
+Technology ATTRA Publication. attra.ncat.org/publication/             Strategies. 2022. By C.L. Mohler, J.R. Teasdale, and A.
+soil-solarization-and-biosolarization/                                DiTommaso. SARE Handbook Series 16. SARE, College
+Mays, Daniel. 2020. The No-Till Organic Vegetable Farm.               Park, MD. 416p.
+Storey Publishing, North Adams, MA.                                     Provides in-depth information about dozens of agricultural
+                                                                         weeds and the best ways to manage them.
+Perkins, Richard. 2019. Regenerative Agriculture.
+regenerativeagriculturebook.com                                       Sample Costs to Produce and Harvest Strawberries.
+                                                                      2016. By M. P. Bolda, L. Tourte, J. Murdock, and D.A.
+Schonbeck, Mark. 2010. Design the Cropping System
+                                                                      Summer. University of California Agriculture and Natural
+and Select Tools for Effective Weed Control. eXtension.
+                                                                      Resources, Cooperative Extension and Agricultural
+extension.org/pages/18531/design-the-cropping-system-and-
+                                                                      Issues Center, UC Davis Department of Agricultural and
+select-tools-for-effective-weed-control
+                                                                      Resource Economics. coststudyfiles.ucdavis.edu/uploads/
+Schwenke, Karl. 1991. Successful Small-Scale Farming: An              cs_public/e7/6d/e76dceb8-f0f5-4b60-bcb8-76b88d57e272/
+Organic Approach. Storey Publishing, North Adams, MA.                 strawberrycentralcoast-2016-final2-5-1-2017.pdf
+Volk, Josh. 2009. Tools that Make Direct Seeding                        Offers sample budget for labor, materials, equipment, and
+Easier. Growing for Market. growingformarket.com/                        custom services to produce and harvest strawberries in the
+articles/20090428_6                                                      Central Coast Region.
+Wiswall, Richard. 2009. The Organic Farmer’s Business Handbook.       Steel in the Field – A Farmer’s Guide to Weed Management
+Chelsea Green Publishing, White River Junction, VT.                   Tools. 1997. Edited by Greg Bowman. A publication of the
+                                                                      Sustainable Agriculture Network (SAN), Beltsville, MD. 128p.
+Further Resources                                                       Highlights 22 farms and how mechanical weed control works
+                                                                         in their sustainable cropping systems.
+Books and Publications
+Build Your Own Farm Tools. 2021. By Josh Volk. Storey                 The Market Gardener. 2014. By Jean-Martin Fortier. New
+Publishing, North Adams, MA. 207p.                                    Society Publishers, Gabriola Island, BC, Canada. 221p.
+ Offers small-scale farmers an in-depth guide to building              A compendium of proven horticultural techniques and
+  customized equipment that will save time and money and                 innovative growing methods.
+  introduce much-needed efficiencies to their operations.
+                                                                      Understanding Equipment Costs on the Small Commercial
+Grower to Grower: Creating a Livelihood on a Fresh Market             Vegetable Farm. 2020. By M. Ernst., A. Butler, and
+Vegetable Farm. 2005. By John Hendrickson. Center for                 T. Woods. University of Kentucky Center for Crop
+Integrated Agricultural Systems. University of Wisconsin,             Diversification CCD-FS-18. University of Kentucky,
+Madison, WI. cias.wisc.edu/wp-content/uploads/                        Lexington, KY. 13p. uky.edu/ccd/sites/www.uky.edu.ccd/
+sites/194/2008/07/grwr2grwr1.pdf
+                                                                      files/equipmentcosts.pdf
+   Report that offers Wisconsin case studies to provide a basis
+                                                                         A free publication that describes equipment commonly used
+    for comparisons between farms on how to make farming a
+                                                                          in small-scale vegetable production and details the methods
+    quality livelihood.
+                                                                          for calculating farm machinery costs per hour of use.
+Growing for Market
+P.O. Box 75                                                           What Size Tractor Do I Need? 2007. By Paul E. Sumner
+Skowhegan, ME 04976                                                   and E. Jay Williams. University of Georgia Cooperative
+800-307-8949                                                          Extension Pub. No. ENG07-003. University of Georgia,
+www.growingformarket.com                                              Athens, GA. 8p. tractorbynet.com/forums/attachments/
+  Subscription journal with news, advice, and resources for market   farm-tractor-pdf.240968
+  farmers. Articles are written by market farmers and regularly         Provides information and data to help determine the
+  include information on equipment and tools for market farms.           right-size tractor for a farm.
+
+ATTRA.NCAT.ORG                                                                                                               Page 19
+                                                                       A.M. Leonard, Inc.
+Videos                                                                 241 Fox Drive
+Vegetable Farmers and Their Sustainable Tillage Practices              Piqua, OH 45356
+[DVD]. By V. Grubinger. 2007. University of Vermont                    800-543-8955
+Extension. eorganic.org/node/3450                                      info@amleo.com
+  Eleven farmers and researchers in three northeastern states         amleo.com
+   describe their sustainable tillage practices and tools, from          Offers quality horticulture tools and equipment for nursery,
+   mulches to ridge till to spaders.                                      landscape, and agriculture customers.
+                                                                       BCS America
+Vegetable Farmers and Their Weed-Control Machines
+                                                                       14151 Fir Street
+[DVD]. By V. Grubinger and M.J. Else. 1996. University of              Oregon City, OR 97045
+Vermont Extension. eorganic.org/node/3448                              800-543-1040
+  Nine farmers from three northeastern states describe their          info@bcsamerica.com
+   tools for weed management, from cultivation to flaming.             bcsamerica.com
+                                                                       BCS America offers two-wheel tractors and a wide selection of
+                                                                       implements for BCS two-wheel tractors.
+Websites
+Farm Tractor Manuals                                                   Brookdale Fruit Farm
+                                                                       38 Broad Street
+farmtractormanuals.com
+                                                                       Hollis, NH 03049
+  Company offers a full line of parts, service/repair, and
+                                                                       603-465-2240
+   owners/operators farm tractor manuals for almost every make         tractortrv@aol.com
+   or model of farm tractor.                                           brookdalefruitfarm.com
+New York Center for Agricultural Medicine and Health                     Supplier of irrigation equipment and an assortment of
+                                                                          equipment, including no-till vegetable seeders and transplanters.
+nycamh.org
+  The mission of NYCMH is “Enhancing agricultural and                 Buckeye Tractor Co
+   rural health by preventing and treating occupational injury         P.O. Box 97, 11313 Slabtown Rd
+   and illness.” NYCAMH provides services and education                Columbus Grove, Ohio 45830
+   related to farm safety and farmer mental health.                    800-526-6791
+                                                                       buckeyetractor@bright.net
+TractorData.com                                                        buctraco.com
+ For 20 years, TractorData.com has been providing tractor               Manufacturer of specialty agricultural equipment.
+  specifications to farmers, homeowners, and the machinery industry.
+                                                                       Carts and Tools
+University of Vermont’s Ground Work Tractor Resource Hub               7171 NE Highway 20
+blog.uvm.edu/groundwk/                                                 Corvallis, OR 97330
+                                                                       541-286-3161
+  The Ground Work Tractor Resource Hub brings together
+                                                                       cartsandtools.com
+  information and resources regarding basic tractor use and
+                                                                         Manufacture and sales of small battery-powered tillers and
+  operation, basic tractor maintenance, tractor safety, tractor           wheel hoes.
+  purchase decision-making, and farm mechanization strategies.
+                                                                       Carts Vermont
+Yesterday’s Tractor Company                                            210 Pierce Road
+ytmag.com                                                              St Johnsbury, VT 05819
+  Website with active forums, photos, and extensive                   800-732-7417
+   information about pre-1985 farm equipment.                          customerservice@cartsvermont.com
+                                                                       cartsvermont.com
+                                                                         A variety of yard carts built with the durability for outdoor,
+Suppliers                                                                 continued use.
+This is not a complete list and is to be used for educational          Clampco Fertilizer Applicators
+purposes only. The ATTRA Sustainable Agriculture                       3400 Rancho Vista Ct
+Program is operated by the National Center for Appropriate             Gilroy, CA 95020
+Technology under a cooperative agreement with the                      408-706-0016
+Rural Business-Cooperative Service, U.S. Department of                 info@clampcoapplicators.com
+Agriculture. These organizations do not recommend or                   clampcoapplicators.com
+endorse products, companies, or individuals.                             Applicators designed for use with dry organic fertilizers.
+
+Page 20                                                                Equipment and Tools for Small-Scale Intensive Crop Production
+Curly’s Ag                                                           flameengineering.com
+1349 Old Rosevale Road                                                  Developer of flame weeders, including the Red Dragon®
+Rosevale, QLD 4340                                                       Agricultural Flamers.
+Australia: 0449 268 131
+                                                                     Four Season Tools
+info@curly’sag.com
+                                                                     9615 Grandview Road
+curlysag.com
+                                                                     Kansas City, MO 64137
+  Tools and equipment designed and manufactured for efficient
+                                                                     816-444-7330
+   and productive sustainable bio-intensive farming.
+                                                                       Dealer of small farm tools for seeding, harvest, weed
+Dailey’s Farm & Walk-Behind Tractors                                    management, and more.
+141 Marvin Whitehead Rd.
+                                                                     Gempler’s
+Hohenwald, TN 38462
+                                                                     P.O. Box 5175
+931-295-9009
+                                                                     Janesville, WI 53547-5175
+  Retails BCS, Yagmur, and Grillo walk-behind tractors, as
+                                                                     800-382-8473
+   well as hand tools and seeders. The company also has locations
+                                                                     customerservice@gemplers.com
+   in Georgia and Indiana.
+                                                                     gemplers.com
+Easy Digging                                                           Farm supply company.
+1400 Forum Blvd. #585
+                                                                     Green Heron Tools
+Columbia, MO 65203
+                                                                     P.O. Box 71
+573-823-3539
+                                                                     New Tripoli, PA 18066
+contact@easydigging.com
+                                                                     610-844-5232
+easydigging.com
+                                                                     info@greenherontools.com
+  Sells a variety of heavy-duty tools for gardening, landscaping,
+                                                                     greenherontools.com
+   construction, and small-scale agriculture.
+                                                                       Maker of high-quality hand tools and equipment specifically
+Earth Tools                                                             designed for women farmers.
+1525 Kays Branch Road
+                                                                     Grindstone Farm
+Owenton, KY 40359
+                                                                     780 County Route 28, Tinker Tavern Road
+502-84-3988
+                                                                     Pulaski, NY 13142
+officemanager.earthtools@gmail.com
+                                                                     customerservice@grindstonefarm.com
+earthtoolsbcs.com
+                                                                     grindstonefarm.com
+  Offers BCS and Grillo walking tractors, compatible implements,
+                                                                       Organic farm and manufacturer of root-crop washer.
+   and a full line of hand-forged and professional garden tools.
+                                                                     Growers & Co.
+Farmers Friend
+                                                                     3535 Boul. Ste-Anne B.300
+99 Broome Lane
+                                                                     Quebec, Qc, Canada, G1E 3L6
+Centerville, TN 37033
+                                                                     418-524-4443
+931-583-0397
+                                                                     info@growers.co
+support@farmersfriendllc.com
+                                                                     growers.co
+farmersfriend.com
+                                                                       Handcrafted products that address the need for reliable,
+  Dedicated to equipping, educating, and inspiring growers to
+                                                                        functional, and durable market gardening tools and clothing.
+   change the world through regenerative agriculture.
+                                                                        Founded by Jean-Martin Fortier.
+Ferrari Tractor C.I.E.
+                                                                     Growing Resources
+P.O. Box 1045
+                                                                     1711 Mud Lick Rd.
+Gridley, CA 95948
+                                                                     Glenville, WV 26351
+530-846-6401
+                                                                     304-462-7606
+sales@ferrari-tractors.com
+                                                                     info@flameweeders.com
+ferrari-tractors.com
+                                                                     flameweeders.com
+  Dealer of new and used equipment for the small farm, with
+                                                                        Flame weeders designed for market gardeners.
+   expertise in carrying European-made two- and four-wheel
+   compact tractors and implements.                                  Gulland Forge Broadforks
+                                                                     Siler City, NC
+Flame Engineering, Inc.
+                                                                     502-682-8529
+P.O. Box 577
+                                                                     gullandbroadfork@me.com
+LaCrosse, KS 67548
+                                                                     gullandforge.com
+800-255-2469
+                                                                       Designer and fabricator of high-quality forged broadforks.
+dragonmaster@flameengineering.com
+
+ATTRA.NCAT.ORG                                                                                                                  Page 21
+Harmony Farm Supply and Nursery                                         croproller.com
+P.O. Box 460                                                            farmingwithhorses.com
+Graton, CA 95444                                                          Manufacturer of roller crimpers for cover crops and durable,
+707-823-9125                                                               workable, and economical horse-drawn farm equipment.
+info@harmonyfarm.com
+harmonyfarm.com                                                         Johnny’s Selected Seeds
+  Offers a full range of tools and supplies for the small-scale farm.   955 Benton Avenue
+                                                                        Winslow, ME 04901
+Hida Tool & Hardware Company, Inc.                                      877-564-6697
+1333 San Pablo Avenue                                                   communications@johnnyseeds.com
+Berkeley, CA 94702                                                      johnnyseeds.com
+800-443-5512                                                              Offers a complete line of tools for the gardener or commercial
+hidatool@hidatool.com                                                      grower, including flame weeders, wheel hoes, seeders, and
+hidatool.com                                                               hand tools.
+  Specializes in Japanese handcrafted weeders, hoes, sickles,
+   and cutting implements.                                              Kennco Manufacturing, Inc
+                                                                        1105 3rd Street NE
+Hillside Cultivator                                                     Ruskin, FL 33570
+911 Disston View Drive                                                  800-645-2591
+Lititz, Pennsylvania 17543                                              sales@kenncomfg.com
+717-626-6194                                                            kenncomfg.com
+sales@hillsidecultivator.com                                              Since 1973, Kennco Manufacturing has been designing raised
+hillsidecultivator.com                                                     bed shapers and plastic layers and developing farm equipment
+  Manufacturer and dealer of cultivation equipment for fruits             for small farm growers.
+   and vegetables.
+                                                                        Koskitie 185
+HISCO Professional Tools
+                                                                        FIN-45520 Kukkola
+4320 North Cooper Ave.
+                                                                        Tornio, Finland
+Oklahoma City, OK 73118
+                                                                        +358 16-472 000
+405-524-2700
+                                                                        Petri.leinonen@elomestari.fi
+customerservice@hisco-okc.com
+                                                                        elomestari.fi/english/english.htm
+hiscotools.com
+                                                                          Finnish company specializing in products for small-scale
+  Professional-grade tools with reinforced fiberglass handles.
+                                                                           sustainable farming. The company is the maker of the Weed
+Hoss Tools                                                                 Master (a manual carrier for seeding, planting, flaming,
+P.O. Box 429                                                               spraying, and hoeing) and the Crawler (a motorized, lay-
+Norman Park, GA 31771                                                      down working cart for all horticultural work).
+888-672-5536
+Custserv@hosstools.com                                                  Kult Kress
+hosstools.com                                                           717-984-8979
+  Hoss Tools carries a complete line of high-quality garden            info@kult-kress.com
+   tools, gardening supplies, vegetable seeds, and cover crop seeds.    kult-kress.com
+                                                                          Manufacturer of efficient cultivation equipment including
+Howland Tools                                                              the Kress Finger Weeder and Kress Robovator.
+25 Elm Street
+Shelburne Falls, MA 01370                                               Lee Valley Tools
+413-776-1948                                                            P.O. Box 1780
+info@howlandtools.com                                                   Ogdensburg, NY 13669
+howlandtools.com                                                        800-267-8735
+  Source for premium-quality hand tools made in the USA and            customerservice@leevalley.com
+   imported from Europe. Howland stocks hand-crafted farm               leevalley.com
+   and garden tools from SHW, Falci, DeWit, Ashfield Tools,               Offers an extensive inventory of gardening tools.
+   Hoss Wheel Hoes, Council Tools Axes, and more.                       Market Farm Implement
+I&J                                                                     257 Fawn Hollow Road
+10 S New Holland Rd, Suite 2                                            Friedens, PA 15541
+Gordonville, PA 17529                                                   814-443-1931
+717-442-9451                                                            marketfarm.com
+info@croproller.com                                                       Specializes in vegetable-crop machinery from tillage to harvest.
+
+Page 22                                                                 Equipment and Tools for Small-Scale Intensive Crop Production
+Meadow Creature                                                       Offers a full line of hand tools, growing supplies, irrigation
+P.O. Box 2112                                                          and season-extension supplies, organic soil amendments, seed,
+Vashon, WA 98070                                                       and pest and weed controls.
+360-329-2250
+                                                                    Purple Mountain Organics
+sales@meadowcreature.com
+                                                                    7120 Carroll Avenue
+meadowcreature.com
+                                                                    Tacoma Park, MD 20912
+  Manufactures the Meadow Creature® Broadforks, the Avalon
+                                                                    877-538-9901
+   Cider Press, grub hoes, and other metal fabricated products.
+                                                                    purplemountainorganics.com
+Mechanical Transplanter Company                                       Offers a full line of high-quality tools and equipment for the
+1150 Central Avenue                                                    small farm, including hand tools, walking tractors, compact
+Holland, MI 49423                                                      tractors, and implements.
+800-757-5268
+mtc@mechanicaltransplanter.com                                      Rain-flo Irrigation
+mechanicaltransplanter.com                                          929 Reading Rd.
+  Offers a full range of manual and tractor-mounted                East Earl, Pennsylvania 17519
+   equipment for tillage, planting, and cultivation.                717-445-3000
+                                                                    rainfloirrigation.com
+Morgan County Seeds                                                   Purveyor of vegetable planting equipment, vegetable growing
+18761 Kelsay Road                                                      products, T-Tape drip tape for drip irrigation, plastic mulch,
+Barnett, MO 65011                                                      portable water pumps, diesel powered water pumps, and
+573-378-2655                                                           overhead crop irrigation.
+errolahlers@reagan.com
+morgancountyseeds.com                                               Rebel Tools
+  A seed and supply store for home gardens, organic growing,       223B W. Walnut St.
+   greenhouse operations, and commercial vegetable growing.         Lancaster, PA 17603
+                                                                    717-288-7058
+Neversink Farm                                                      susquehanna.apothecary@gmail.com
+635 Claryville Road                                                 susquehannasustainability.com/garden-tools
+Claryville, NY 12725                                                  Highly ergonomic forged tools; owned by Susquehanna
+neversinkcustomerservice@gmail.com                                     Sustainable Enterprises.
+neversinkfarm.com
+  Offers a variety of tools for weeding and bed preparation.        Red Pig Tools
+                                                                    12040 SE Revenue Road
+Organic Growers Supply (FEDCO)                                      Boring, OR 97009
+P.O. Box 520                                                        503-663-9404
+Waterville, ME 04903                                                redpigtools@frontier.com
+207-873-7333                                                        redpigtools.com
+fedcoseeds.com                                                        Maker of forged-steel hand tools, including left-handed tools.
+  Cooperative supplier of hand tools, orchard supplies,
+   irrigation, and seed-starting supplies for the organic grower.   Ronnie Baugh Tractors
+                                                                    P.O. Box 58007
+OESCO, INC (Orchard Equipment & Supply Company)                     Raleigh, NC 27658
+8 Ashfield Road                                                     256-655-8792
+Conway, MA 01341                                                    horace@cleberllc.com
+800-634-5557                                                        ronnietractors.com
+info@oescoinc.com                                                     Distributer of the Oggùn tractor, an open-source, modern
+oescoinc.com                                                           replica of the Allis G.
+  In continuous operation since 1954, supplying growers,
+  gardeners and green industry professionals with professional      Rogue Hoe
+  grade machinery, tools, parts, and service.                       4360 Bado Road
+                                                                    Cabool, MO 65689
+Peaceful Valley Farm and Garden Supply                              417-962-5091
+125 Clydesdale Court                                                sales@roguehoe.com
+Grass Valley, CA                                                    roguehoe.com
+888-784-1722                                                          Maker of hand-crafted hoes made from recycled agricultural
+helpdesk@groworganic.com                                               disc blades that are sharpened on three sides.
+groworganic.com
+
+
+ATTRA.NCAT.ORG                                                                                                                Page 23
+Seeds of Change                                                      Tilmore
+P.O. Box 4908                                                        295 Kurzen Rd North,
+Rancho Dominguez, CA 90220                                           Dalton, OH 44618
+888-762-7333                                                         844-255-5864
+seedsofchange.com                                                    info@tilmor.com
+  Offers seeds, digging and cultivating tools, hand tools, rakes    tilmor.com
+   and hoes, and seed-saving supplies.                                  Offers a variety of small farm implements for planting,
+                                                                         cultivation, harvest, post-harvest, and more.
+Small Farm Innovations
+3701 State Highway 36, South                                         Tractor Tools Direct
+Caldwell, TX 77836                                                   800 South 9th Street
+979-200-1473                                                         Terre Haute, IN 47807
+smallfarminnovations@hughes.net                                      260-225-3429
+smallfarminnovations.com                                             info@tractortoolsdirect.com
+  Supplier of compact tractors and farm implements for small        tractortoolsdirect.com
+   acreages, including compact hay equipment.                          Offers a line of unique implements for compact tractors.
+Small Farm Works                                                     Treffler-M@M
+N1749 Yerges Road                                                    Molenstraat 4
+Reeseville, WI 53579                                                 4364 AA Grijpskerke
+608-620-5804                                                         Nederland
+paperchainpots@gmail.com                                             +31(0) 630035123
+smallfarmworks.com                                                   treffler@manatmachine.com
+  Seller of the paper pot transplanter and associated accessories.   organicmachinery.net
+Sioux Corporation                                                      A partnership between Treffler GmbH and Man@Machine
+One Sioux Plaza                                                         for sales and promotion, specializing in Treffler machines
+Beresford, SD 57004                                                     for farmers around the world. Team members are located
+866-794-0848                                                            throughout the U.S. and can be found at organicmachinery.
+email@sioux.com                                                         net/contact-us.
+sioux.com                                                            Tuff-bilt Tractors Manufacturing, Inc.
+  Manufacturer of steam units for soil steaming, sterilizing        2801 I Ave
+   mushroom substrate, and agricultural plastic sterilization.       Walthill, NE 68067
+Scythe Supply                                                        844-486-3268
+496 Shore Road                                                       info@tuff-bilt.com
+Perry, ME 04667                                                      tuff-bilt.com
+207-853-4750                                                           Cultivating tractor designed for versatility and agility to
+scythe@scythesupply.com                                                 meet the needs of landscape companies, small landowners,
+scythesupply.com                                                        large farms with specific cultivation needs, farmers market
+  Offers European style scythes, scythe blades, snaths,                producers, and organic farming.
+   whetstones, hammers, anvils, and equipment.
+                                                                     Two Bad Cats
+Terrateck                                                            2631 N. Grove Street
+600 Rue Adam Grunewald                                               Rutland , VT 05701802-775-8233
+62136 Lestrem                                                        pete@twobadcatsllc.com
+France                                                               twobadcatsllc.com
++33 (0)3 74 05 10 10                                                   Manufacturer of tools for the small farm, including dibblers
+terrateck.com/en                                                        and weeding equipment.
+  Design, manufacturing, and distribution of tools for market
+                                                                     US Small Farm Equipment
+   gardening.
+                                                                     307-431-9555
+Threadlite Broadforks                                                ussmallfarm@yahoo.com
+920-332-6557                                                         ussmallfarm.com
+treadlitebroadforks.com                                                Manufacturer and seller of potato planters, diggers, and
+  Broadforks in a range of sizes and configurations.                    custom farm equipment.
+
+
+Page 24                                                              Equipment and Tools for Small-Scale Intensive Crop Production
+Valley Oak Tool Company                                               Woodward Crossings
+P.O. Box 301                                                          178 Jackson Hill Road
+Chico, CA 95926                                                       Aaronsburg, PA 16820
+530-342-6188                                                          814-349-4484
+david@valleyoaktool.com                                               mail@woodwardcrossings.com
+valleyoaktools.com                                                    woodwardcrossingscountrybasics.com
+  Specializes in high-quality wheel hoes and broadforks.                Inventors of the Wunderbar Module, strive to present
+                                                                        economical and resourceful products for the gardener and
+Wasco Hardfacing Co                                                     land owner. Sells anything from hay bale feeders to pallet
+P.O. Box 2395                                                           forks to wood chippers and log grapples to spreaders, bale
+Fresno, CA 93745                                                        choppers, rototillers, sprayers, garden seeders, skidding
+888-485-5860                                                            winches, wood processors, and more.
+Rancemess@ag1.net
+wascohardfacing.com                                                   Yağmur Traktör Industry and Trade Inc
+  Equipment for tillage, cultivators, rippers, and plows, with       İ.O.S.B Sefaköy Sanayi Sitesi 13.Blok No:9
+   locations in CA and ID.                                            Başakşehir/İstanbul, TÜRKİYE
+Wegners                                                               +90 (850) - 340 - 1314
+814 S. College Street                                                 yagmurtraktor.com/en
+Myerstown, PA17067                                                      Produces and exports 2-wheel drive and 4-wheel drive diesel
+800-451-5240                                                             garden tractors under the brand name of Agrifarm. Also
+jkline@wengers.com                                                       makes Blitz brand two-wheel tractors.
+wengers.com
+  Specializes in used tractor parts and skid loader parts, as well
+   as farm equipment sales.
+
+
+
+
+ATTRA.NCAT.ORG                                                                                                                Page 25
+Appendix: Examples of estimated equipment needs for
+vegetable farms of various sizes
+                          Power                                                                      Post-
+            Seed                         Direct
+  Scale                 source and                    Equipment      Cultivation    Harvesting      harvest        Delivery
+           starting                     seeding
+                          tillage                                                                   handling
+
+                                                                                                                  Everyday
+          Small hoop    Rototiller      Direct                      Wheel hoe,                                    vehicle,
+                                                      Backpack                     Field knives,   Bulk tank,
+          house, grow   or walking     seeders                      hand hoes,                                    pickup
+   0-2                                                sprayer,                     hand boxes,     canopy,
+          lights,       tractor,       (Single and/                 digging                                       truck
+  acres                                               irrigation,                  buckets,        packing
+          planting      custom         or multiple                  forks,                                        (with
+                                                      tools                        carts           containers
+          trays         work           row)                         spades                                        topper)
+                                                                                                                   or van
+
+          1,000 sq.
+                        16-40 hp
+          ft. green-                                                               Potato
+                        tractor, with                                                              Roller track
+          house, cold                                 1-row trans-                 digger,
+                        creeper                                                                    conveyor,
+   3-6    frames,                     Plate           planter,     Cultivating     bed lifter,
+                        gear, power                                                                hand carts,    Cargo van
+  acres   field                       seeder          irrigation,  tractor         wagon,
+                        steering,                                                                  walk-in
+          tunnels,                                    more tools                   more boxes,
+                        high-                                                                      cooler
+          planting                                                                 buckets
+                        clearance
+          trays
+
+          Additional                                               Tool bar
+                        40-60 hp                                                                   Barrel
+          cold                                        2-row trans- implements:                                    1-ton truck
+   7-10                 tractor,       Precision                                   More field      washer,
+          frames,                                     planter,     beet knives,                                   with refrig-
+  acres                 chisel plow,   belt seeder                                 crates          spinner,
+          planting                                    sprayer      basket                                         eration
+                        spader                                                                     pallet jack
+          trays                                                    weeder
+
+
+
+                                                                    Sweeps
+                                                                    (Besserides),
+                        80 hp                                                                      Wash line,
+                                                                    Buddingh
+                        tractor                                                                    larger
+                                                                    finger
+                        with loader    Nibex or       Irrigation,                  Asa lift,       cooler,
+   20 +   2,000 sq. ft.                                             weeders,                                      Refriger-
+                        bucket         Monosem        bed shaper,                  harvest         packing
+  acres   greenhouse                                                flame                                         ated truck
+                        and forks,     seeder         mulch layer                  wagon           shed and
+                                                                    weeder,
+                        compost                                                                    loading
+                                                                    potato hiller,
+                        spreader                                                                   dock
+                                                                    2nd cultivat-
+                                                                    ing tractor
+
+
+
+
+Page 26                                                        Equipment and Tools for Small-Scale Intensive Crop Production
+Notes
+
+
+
+
+ATTRA.NCAT.ORG   Page 27
+                                         Equipment and Tools for Small-Scale Intensive
+                                         Crop Production
+                                         By Andy Pressman, Sustainable Agriculture Specialist
+                                         Published September 2011, Updated April 2023
+                                         by Andy Pressman and Omar Rodriguez,
+                                         NCAT Agriculture Specialists © NCAT
+                                         Tracy Mumma, Editor • Amy Smith, Production
+                                         This publication is available
+                                         on the Web at:
+                                         ATTRA.NCAT.ORG
+                                         IP417
+                                         Slot 411
+                                         Version 040323                    SUSTAINABLE AGRICULTURE
+
+
+
+
+Contact Us! ATTRA.NCAT.ORG • Toll-free: 800-346-9140 • Email: askanag@ncat.org
+

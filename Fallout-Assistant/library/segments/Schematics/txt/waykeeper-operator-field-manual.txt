@@ -1,0 +1,225 @@
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 1 OF 8
+================================================================================
+PURPOSE
+  A pocket reference for operating the WayKeeper ANSI shell, finding local data,
+  protecting private material, and recovering from ordinary software trouble.
+
++--------------------------- 60-SECOND START -------------------------------+
+| 1. Start WayKeeper:        ./scripts/run.sh                                |
+| 2. Move between controls:  TAB / SHIFT+TAB                                 |
+| 3. Open selected control:  ENTER                                           |
+| 4. Browse a list:          UP/DOWN                                          |
+| 5. Open a card:            ENTER                                           |
+| 6. Return/close:            ESC                                             |
+| 7. Direct workspace:       F1-F12 or number keys                           |
+| 8. Leave current screen:   ESC                                             |
+| 9. Protect the unit:       select LOCK from System                         |
++---------------------------------------------------------------------------+
+
+INPUT RULE
+  Navigation is locked to Tab, Enter, Escape, arrows, 0-9, paging keys, and
+  F1-F12. Stray printable keys are ignored. Full typing works only after opening
+  a deliberate text field, search, journal composer, or editor.
+
+PRIVACY RULE
+  Use LOCK before handing the unit to another person. The lock screen exposes
+  only the public Sentinel display and an optional Last Will message.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 2 OF 8
+================================================================================
+ANSI SHELL NAVIGATION
+
+  KEY / COMMAND          ACTION
+  ---------------------  -------------------------------------------------------
+  TAB                    Move focus to the next control or tab
+  SHIFT+TAB              Move focus to the previous control or tab
+  UP / DOWN              Move one row in lists and menus
+  PAGE DOWN              Advance one page
+  PAGE UP                Move back one page
+  HOME                   Jump to the beginning
+  END                    Jump to the end
+  ENTER                  Open or activate the selected item
+  1-9                    Open the numbered choice
+  0                      Open choice 10 where present
+  F1-F12                 Open a primary workspace directly
+  ESC                    Close the current view, cancel, or return
+  ESC at Command Center  Exit WayKeeper cleanly
+
+TOUCHSCREEN
+  Touch selects visible tabs and controls. The on-screen QWERTY keyboard can be
+  opened from the keyboard control when the Full profile supplies the service.
+  Hardware keys remain the most dependable recovery input.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 3 OF 8
+================================================================================
+PRIMARY WORKSPACES
+
+  KEY     WORKSPACE             FIELD USE
+  ------  --------------------  -----------------------------------------------
+  F1      Cards / Help          Quick references and command help
+  F2      Library               Offline books, manuals, and documents
+          Schematics tab        Fixed-cell diagrams and these field manuals
+  F3      Ask                   Local guide query; availability is profile-based
+  F4      Profile               Operator identity and preferences
+  F5      Status                Power, sensors, radios, and service state
+  F6      Map                   Offline terrain and saved overlays
+  F7      Herbs                 Local plant reference
+  F8      Journal               Field notes stored locally
+          Citizens             Citizen records
+  F9      Society               Community records
+  F10     Inventory             Supplies and field inventory
+  F11     OOBE                  Setup and first-run checks
+  F12     About                 Build and system information
+          Scout / UART          Authorized field I/O tools
+          Nearby Chat          BLE mesh power, nickname, and radio status
+          Search                Search local indexed material
+          Cookbook              Local recipes and food references
+
+LOW-MEMORY PRACTICE
+  Open only the view being used. Prefer text cards to PDFs. Keep local AI and
+  other optional heavy services disabled on Orange Pi Zero 2 deployments.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 4 OF 8
+================================================================================
+SENTINEL PRIVACY AND DEADMAN CONTROL
+
+  COMMAND              RESULT
+  -------------------  ---------------------------------------------------------
+  LOCK or SENTINEL     Lock now and show the public ANSI Sentinel screen
+  QUIET                Use the reduced-motion public presentation
+  BLACKOUT             Hide public information behind the darkest lock state
+  SPEED 0.5            Half-speed Sentinel card playback
+  SPEED 1              Normal playback
+  SPEED 2              Double-speed playback
+  WILL                  Edit the optional Last Will & Testament message
+  WILL ON               Allow the Last Will message on the lock screen
+  WILL OFF              Hide it without deleting the saved text
+
+AUTOMATIC LOCK
+  With no operator input, the deadman timer counts down from five minutes and
+  enters Sentinel. Each public card is shorter than the deadman interval.
+
+WAKE SEQUENCE
+  Press exactly:  ESC  W  K  ENTER
+
+  The wake sequence is a privacy gate, not strong cryptographic authentication.
+  Do not put private coordinates, inventory, medical records, radio details, or
+  access secrets in the public Last Will text.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 5 OF 8
+================================================================================
+USEFUL COMMAND-LINE OPERATIONS
+
+  COMMAND                                        PURPOSE
+  ---------------------------------------------  --------------------------------
+  offgrid-assistant ui                           Start the ANSI interface
+  offgrid-assistant status                       Print service and system status
+  offgrid-assistant herbs <search terms>         Search the local herb index
+  offgrid-assistant ask <question>               Ask the configured local guide
+  offgrid-assistant map <terrain.tif> [cols rows] Render an offline terrain map
+  offgrid-assistant image <manual.pdf> <page>     Render one PDF page to text
+  offgrid-assistant parse 'OGP1|...'              Validate an OGP1 sensor frame
+  offgrid-assistant scout help                    Show UART Scout commands
+
+DEVELOPER / RECOVERY BUILD
+  cmake --preset dev
+  cmake --build --preset dev -j2
+  ctest --preset dev --output-on-failure
+  ./build/dev/offgrid-assistant ui
+
+ON THE ORANGE PI ZERO 2
+  Use the pinned WayKeeper image and its packaged launcher. Avoid compiling on
+  battery power. A build may consume substantially more memory and energy than
+  normal ANSI operation.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 6 OF 8
+================================================================================
+USEFUL LOCATIONS
+
+  PATH                                      CONTENT
+  ----------------------------------------  -------------------------------------
+  state/profile.ini                         Operator profile
+  state/settings.ini                        Shell and presentation settings
+  state/inventory.tsv                       Inventory records
+  state/inventory-summary.txt               Compact inventory summary
+  state/io-scout.ini                        UART Scout target and authorization
+  state/last-will.txt                       Saved Last Will text and visibility
+  state/journal/                            Local field journal
+  state/map-overlays/                       Saved offline map annotations
+  library/catalog.tsv                       Main offline library catalog
+  library/segments/Schematics/txt/          Approved ANSI schematic cards
+  maps/                                     Offline terrain assets
+  docs/                                     Detailed operator documentation
+  docs/UART-SCOUT.md                        Authoritative UART Scout guide
+  RES/WayKeeper TM/                         WayKeeper image and build resources
+  build/dev/                                Developer build output
+  build/prod/                               Production build output
+
+PORTABLE STATE
+  Set OFFGRID_STATE_DIR to place writable state on a separate mounted volume.
+  Back up the entire state directory while WayKeeper is stopped.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 7 OF 8
+================================================================================
+FIELD RECOVERY FLOW
+
+                  +--------------------+
+                  | UI DOES NOT RESPOND |
+                  +----------+---------+
+                             |
+             +---------------+----------------+
+             |                                |
+       KEYBOARD WORKS                    NO INPUT WORKS
+             |                                |
+     Press Q or ESC                    Wait 10 seconds
+     then type CLEAR                         |
+             |                       Try ESC W K ENTER
+             |                                |
+     Type QUIT cleanly               Switch to local TTY/SSH
+             |                                |
+     Restart scripts/run.sh           Stop only WayKeeper process
+             +---------------+----------------+
+                             |
+                    Run status and inspect
+                    state without deleting it
+
+IF THE DISPLAY IS SCRAMBLED
+  Resize once, return to a text console, then restart the UI. Verify TERM and
+  UTF-8 locale. The cards themselves are ASCII-safe and preserve blank cells.
+
+IF DATA APPEARS MISSING
+  Check OFFGRID_STATE_DIR and mounted storage before creating replacement data.
+  Never erase state merely to clear a display problem.
+
+
+WAYKEEPER (TM) OPERATOR FIELD MANUAL                                      CARD 8 OF 8
+================================================================================
+OPERATOR CHECKLIST
+
+  BEFORE DEPARTURE
+  [ ] Boot fully; check STATUS, battery, date/time, storage, and radios.
+  [ ] Confirm needed maps, manuals, schematics, and journal data work offline.
+  [ ] Confirm a known-good recovery card/image is physically available.
+  [ ] Test LOCK and the ESC-W-K-ENTER wake sequence.
+  [ ] Review Last Will visibility; remove sensitive public text.
+
+  IN THE FIELD
+  [ ] Save notes before changing power or storage.
+  [ ] Treat displayed sensor values as aids, not certified safety instruments.
+  [ ] Keep connectors dry and capped; avoid back-powering any port.
+  [ ] Use UART Scout only on owned or explicitly authorized equipment.
+
+  AFTER RETURN
+  [ ] Shut down cleanly before removing power or storage.
+  [ ] Back up state and journal files.
+  [ ] Record faults, repairs, image version, and replaced modules.
+
+DOCUMENT CONTROL
+  This card describes the current local WayKeeper build. The shipped image,
+  exact board revision, final bill of materials, and service notes take priority.

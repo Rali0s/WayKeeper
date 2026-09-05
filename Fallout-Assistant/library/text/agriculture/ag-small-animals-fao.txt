@@ -1,0 +1,3349 @@
+                                                     ISSN 1810-0775
+
+
+
+
+                                Small animals
+                                     for
+                                 small farms
+                                    Second edition
+
+
+
+
+)$2'LYHUVLÀFDWLRQERRNOHW
+      Diversification booklet number 14
+
+
+
+
+    Small animals
+         for
+     small farms
+
+                  R. Trevor Wilson
+
+
+
+
+   Rural Infrastructure and Agro-Industries Division
+Food and Agriculture Organization of the United Nations
+                      Rome 2011
+The designations employed and the presentation of material in this
+information product do not imply the expression of any opinion whatsoever
+on the part of the Food and Agriculture Organization of the United Nations
+(FAO) concerning the legal or development status of any country, territory, city
+or area or of its authorities, or concerning the delimitation of its frontiers or
+boundaries. The mention of specific companies or products of manufacturers,
+whether or not these have been patented, does not imply that these have
+been endorsed or recommended by FAO in preference to others of a similar
+nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and
+do not necessarily reflect the views of FAO.
+
+
+ISBN 978-92-5-107067-3
+
+All rights reserved. FAO encourages reproduction and dissemination of
+material in this information product. Non-commercial uses will be authorized
+free of charge, upon request. Reproduction for resale or other commercial
+purposes, including educational purposes, may incur fees. Applications for
+permission to reproduce or disseminate FAO copyright materials, and all
+queries concerning rights and licences, should be addressed by e-mail to
+copyright@fao.org or to the Chief, Publishing Policy and Support Branch,
+Office of Knowledge Exchange, Research and Extension, FAO,
+Viale delle Terme di Caracalla, 00153 Rome, Italy.
+
+
+© FAO 2012
+■ Preface                                                       v
+
+
+
+
+                                                                     Table of contents
+■ Acknowledgements                                             vii
+
+■ Introduction                                                  1
+  ■ Small animals                                               1
+  ■ Market potential                                            3
+  ■ Profits for improved livelihoods                            4
+  ■ Purpose of the booklet                                      5
+
+■ Benefits of small animals                                     7
+  ■ Small animals at household level                            7
+  ■ Small animals and the farming system                        8
+  ■ Health and nutrition                                        9
+  ■ Food security                                              10
+  ■ Equity, gender development and opportunities for the
+     disabled                                                  11
+  ■ Financial rewards                                          14
+
+■ Key steps in the livelihood activity                         17
+  ■ The right species and breeds: rabbits, rodents, reptiles   17
+  ■ Smallholder production systems                             24
+  ■ Housing                                                    31
+  ■ Feed and water                                             33
+  ■ Health care                                                35
+  ■ Sources of stock                                           36
+  ■ Labour needs                                               37
+  ■ Indicative costs                                           37
+
+■ Strategies for successful and sustainable trade              39
+  ■ Market appraisal                                           39
+  ■ Products: meat, fur, skins, eggs and breeding stock        40
+  ■ Adding value                                               50
+  ■ Marketing channels                                         53
+  ■ Marketing strategies                                       55
+■ Support services to promote small animals                   59
+  ■ Technical support                                         59
+  ■ Business, marketing and entrepreneurial skills training   61
+  ■ Market information                                        61
+  ■ Organizational options: producer groups                   62
+  ■ Financial services                                        64
+  ■ Veterinary services                                       65
+  ■ Transport infrastructure                                  67
+  ■ Public policy                                             68
+  ■ Sustainable services for all                              70
+  ■ Role of the advisor                                       72
+
+■ Opportunities and challenges                                73
+  ■ Opportunities                                             73
+  ■ Challenges                                                74
+
+■ Selected further reading                                    77
+
+■ Sources of further information and support                  83
+
+
+
+
+                             Table of contents
+                                Preface
+
+
+The purpose of the FAO Diversification booklets is to raise awareness and
+provide decision support information about opportunities at farm and local
+community level to increase the incomes of small-scale farmers.
+
+    Each booklet focuses on a farm or non-farm enterprise that can be
+integrated into small farms to increase incomes and enhance livelihoods. The
+enterprises profiled in the FAO Diversification booklets selected are suitable
+for smallholder farmers in terms of resource requirements, additional costs,
+exposure to risk and complexity. The products or services generated by the
+
+
+
+
+                                                                                 Small animals for small farms
+enterprises are suitable for meeting demand on a growing, or already strong,
+local market and are not dependent on an export market. However, in this
+particular booklet, export markets will be considered. This is because small
+enterprise development and local markets are influenced by international
+market demand for furs, hides and skins, and for some specific small animals’
+meat.
+
+   The main target audience for these booklets are people and organizations
+that provide advisory, business and technical support services to resource-
+poor small-scale farmers and local communities in low- and middle-income
+countries. It is hoped that enough information is given to help these support
+service providers to consider new income-generating opportunities and how
+these might enable small-scale farmers to take action. What are the potential
+benefits? What are farmer requirements and constraints? What are critical
+‘success factors’?
+
+   The FAO Diversification booklets are also targeted to policy-makers and
+programme managers in government and non-governmental organizations.
+What actions might policy-makers take to create enabling environments for
+small-scale farmers to diversify into new income-generating activities?
+
+   The FAO Diversification booklets are not intended to be technical ‘how
+to do it’ guidelines. Readers will need to seek more information or technical
+
+                                                                            v
+support, so as to provide farmer advisory and support activities relating to the
+introduction of new income-generating activities. To assist in this respect,
+each booklet identifies additional sources of information, technical support
+and website addresses.
+
+   A CD has been prepared with a full series of FAO Diversification booklets
+and relevant FAO technical guides, together with complementary guides on
+market research, financing, business planning, etc. Copies of the CD are
+available on request from FAO. FAO Diversification booklets can also be
+downloaded from the FAO Internet site.
+
+   If you find this booklet of value, we would like to hear from you. Tell
+your colleagues and friends about it. FAO would welcome suggestions about
+possible changes for enhancing our next edition or regarding relevant topics
+for other booklets. By sharing your views and ideas with us we can provide
+better services to you.
+
+
+
+
+vi
+                      Acknowledgements
+
+
+Gratitude is owed to David Hitchcock, Senior Enterprise Development
+Officer, Rural Infrastructure and Agro-Industries Division, (AGS), FAO, for
+reviewing and providing detailed advice on the booklet. Special thanks go to
+Alexandra Röttger, Agribusiness Officer, (AGS), Jerome Mounsey, Livestock
+Associate Professional Officer, (AGS) and Martin Hilmi, Small Enterprise
+Management and Marketing Consultant, (AGS), for providing reviews and
+comments. Thanks are also owed to Äke Olofsson, Rural Finance Officer,
+(AGS), for carefully reviewing and providing inputs on the sections in the
+booklet related to finance.
+
+
+
+
+                                                                                   Small animals for small farms
+Acknowledgements for the series
+Gratitude is owed to Doyle Baker, Senior Technical Officer, Rural Infrastructure
+and Agro-Industries Division (AGS), FAO, for his vision, encouragement and
+constant support in the development of the FAO Diversification booklet series.
+Martin Hilmi managed the development, production and post-production
+of the series and provided technical support and inputs. Michael Breece
+undertook the design and layout of the booklets and desktop publishing.
+
+
+
+
+                                                                             vii
+                                       Introduction
+
+■ Small animals                                         livestock have traditionally been
+The livestock sector is an important                    favoured in development projects.
+source of income and provides                           However, in other parts of the world,
+improved livelihoods in many                            the major source of animal protein for
+countries the world over. The growing                   people derives from ‘small animals’
+demand for products of animal origin                    or what are commonly referred to
+resulting from population growth,                       as ‘microlivestock’. These ‘protein
+increased disposable income and                         sources’ are constituted by more than
+lifestyle aspirations, especially in                    one thousand kinds of rabbits, rodents,
+expanding urban areas provides small-                   reptiles, birds, insects, other small
+
+
+
+
+                                                                                                         Small animals for small farms
+scale farmers additional opportunities.                 animals (and fish). All these small
+Common farm animals are considered                      animal categories are viable enterprises
+to be cattle, sheep, goats and pigs1.                   for small-scale farmers and worthy of
+Most of these so called ‘classic’                       mention. In this booklet, however,
+                                                        the focus is on creating awareness and
+1
+  see FAO Diversification booklet No. 6 Milk for
+health and wealth, FAO Diversification booklet No.      promoting rabbits, rodents and reptiles
+8
+  Higher value addition through hides and skins,        (the ‘3 Rs’) as viable enterprises for
+FAO Diversification booklet No. 9 Sheep and goats
+for diverse products and profits, FAO Diversification
+                                                        small-scale farmers in rural, peri-
+booklet No. 15 Pigs for prosperity                      urban and urban areas (see Box 1).
+
+    BOX 1 Rabbits, Rodents and Reptiles
+    Rabbits and Rodents
+    In addition to the well known rabbit, other mammals – mostly rodents – are suitable as small
+    animals. Rodents include Guinea pigs, giant rats and cane rats (or grasscutters) as well as
+    the capybara, although this is considered by some to be rather large for consideration as a
+    small animal. Many of these small mammals are extremely prolific and highly adaptable.
+    They often thrive on a diet of weedy vegetation and kitchen scraps. Their meat is higher in
+    protein and lower in fat than more conventional meat. Other products such as skins and fur and
+    occasionally manure can also be important for farm use or to sell.
+    Reptiles and Amphibians
+    Many larger reptiles including crocodiles and monitor lizards are used for food and other
+    products. In some areas, for example Ethiopia, crocodiles have become accepted as farm
+    animals. Smaller reptiles such as green and black iguanas are more ‘user friendly’ and
+    provide meat and eggs as well as having valuable skins. Frogs are greatly appreciated as a
+    delicacy in many parts of the developed and developing world.
+
+
+
+                                                                                                     1
+    Some small animal species,                is scarce and parts of the community,
+including notably the rabbit and Guinea       particularly women and children,
+pig, are completely domesticated and          lack adequate income and nutrition.
+raised in recognizable production             Economic niches not available to
+systems and often in close contact            larger species are occupied by small
+with their owners. Other species,             animals. They are useful for people
+including many small mammals and              outside or at the margins of the cash
+reptiles, are totally free ranging or         economy because they require very
+only semi-domesticated. Some small            little start-up capital, are a relatively
+animals are only collected in the wild        small financial risk, produce rapid
+although for many of these attempts at        returns on investment and allow for
+domestication – in order to preserve          a flexible production process. They
+the wild resource – are being made.           also provide a steady source of food
+If this broad concept of small animals        or income, generate employment, are
+is accepted it is clear that they have        likely to be successful because they
+been essential to human nutrition             are numerous, are easily transportable
+for thousands of years. In the future         and are often efficient converters of
+these small animals are certain to            feed to protein. Other benefits include
+be of increasing importance in food           the small size of the ‘package’,
+security, environmental conservation,         efficient use of space, low capital
+animal production and economic                needs for housing (see Figure 1),
+diversity.                                    use of non-conventional feeds, easy
+    Small animal production can be            management, and provide numerous
+an important subsystem where land             by-products.
+
+
+
+
+FIGURE 1 Grasscutters in pen constructed mainly from local materials, Cotonou, Benin
+(Photo by R. T. Wilson)
+
+
+
+2
+   Among the many advantages of          and development as well as in more
+starting a small animal enterprise       geographical areas of the world.
+are:
+                                         ■ Market potential
+• they require little space;             Market-oriented       small     animal
+• mostly they do not compete             production       enables       farming
+    directly with people for food;       communities to produce surplus
+•   they are usually socially            products that can be sold to consumers
+    acceptable and have few taboos;      in rural, peri-urban and urban areas
+•   demand for their products            for the benefit of economic growth
+    outstrips supply;                    and the improvement of livelihoods
+•   they generally have high             in a rural community. This has the
+    reproductive rates;                  potential to create linkages between
+
+
+
+
+                                                                                  Small animals for small farms
+•   veterinary costs are relatively      poorer rural areas and richer urban
+    low;                                 areas and contributes to a more equal
+•   cash inflow arrives in a short       distribution of the benefits from
+    period;                              economic growth.
+•   financial returns are from high to       Almost 50 percent of the world
+    very high;                           population lives in urban areas. The
+•   housing and other capital costs      trend to urbanization is expected
+    are low;                             to continue or even to accelerate.
+•   nutritional and supposed             Apart from the ease of transporting
+    medicinal value of products is       such small animals to urban settings,
+    high; and                            production can be conveniently
+•   they require little foreign          situated in urban and peri-urban
+    exchange for their operations but    areas as a result of limited space
+    can contribute substantially to      requirements needed by small
+    foreign exchange.                    animals.      Small animals can be
+                                         raised successfully in peri-urban
+   However, the strongest argument       and in urban centres as in rural and
+for promoting rabbits, rodents and       remote areas and production facilities
+reptiles is that people already make     are easily mobile. For example
+use of them. This recognises their       Guinea pigs and their cages can be
+value sufficiently to suggest that       moved from rural and remote areas
+more attention should be paid to         into peri-urban and urban kitchen or
+them at policy level, in research        vegetable or roof gardens easily (see
+
+                                                                             3
+FAO Diversification booklet No.2             Marketing also involves transport
+Livelihoods grow in gardens).            and most smallholders sell their
+    Small animals are not difficult to   livestock in the local village
+raise and require training that is not   market. However, small animal
+overly complicated. Production can       production offers potential sales in
+easily be carried out by all members     urban markets because most of its
+of the farm family: women and            output can easily be transported, for
+children as well as sick or disabled     example by bicycle or on a bus. This
+members of the farm family. Labour       clearly represents an opportunity
+requirements are not excessive and       for economic growth.           Despite
+the animals’ small size and their        increased demand, however, it is
+confinement requirements mean            easy to saturate local markets. One
+that production can be located close     possible approach to increasing the
+to the homestead.                        market potential is the development
+    Earning a profit involves not only   of marketing associations which
+production but also and importantly      could share transport costs to larger
+marketing. One of the main elements      regional markets. Developing a
+in marketing is finding out what         stable relationship with customers --
+consumers need and want. Demand          whether they are individuals, retailers
+for livestock is growing faster          or wholesalers -- is to ensure and
+in developing countries than the         guarantee a steady supply of product
+demand for staple crops. Typically       in order to make a viable business
+such a rise in demand for animal         venture for all parties involved.
+protein is associated with higher
+levels of disposable income and          ■ Profits for improved livelihoods
+more consumer sophistication. This       Effective      poverty       reduction
+means that consumer demand will          measures can only be successful
+focus on quality, regularity of supply   if the livelihoods of the rural poor
+and reasonable prices. All these         can be improved and importantly
+elements can be provided fairly          maintained. Profits and the earning
+easily with small animals, so long as    of profits is an essential element of
+appropriate production practices are     any farm enterprise, including small
+upheld, mainly concerning health         animals. Small-scale farmers need
+and hygiene as well as appropriate       profits so costs can be covered, fair
+and balanced feed.                       returns on efforts to produce and
+
+
+4
+market the farm enterprises can be           Small animal production creates
+gained and importantly money can          other jobs directly or indirectly
+be put aside, in terms of savings, as     linked to production through
+well as investments can be made in        supplying inputs and services to
+productive assets. Productive assets      farmers. Small traders, for example
+are assets which have the capacity to     are an important and often a cost
+generate more income, for example,        effective link between producers and
+investing money in new and better         consumers, while also generating
+housing facilities for rabbits.           income for themselves. Market-
+    Small-scale farmers with small        oriented development of small
+animals may not produce large             animals also creates a market
+quantities of meat, but carcass sizes     for service providers such as
+are manageable and the ‘harvest’ is       transporters, traders, pharmacies,
+
+
+
+
+                                                                                   Small animals for small farms
+easy to process and store. Even if        financial institutions, veterinarians,
+smallholders do not fully participate     small shops and agricultural advisory
+in formal markets and barter their        services. Development of input and
+products for other household goods        supply services generates economic
+cash is released for other and perhaps    activity and has a positive effect on
+essential purchases. Other sources of     rural livelihoods.
+income accrue from fur from Angora
+rabbits and chinchilla, rabbit skins,     ■ Purpose of the booklet
+reptile eggs and the speciality skins     This booklet highlights the most
+of reptiles. Improved production          important issues in the best use of
+techniques and better management          small animals ( rabbits, rodents
+can lead to considerably higher yields    and reptiles) in the expectation that
+which could then be marketed more         development workers and policy-
+systematically. This in turn leads to a   makers will recognize and act upon
+more even cash flow within and across     the numerous opportunities such
+a year which cannot be achieved by        small animals offer. This would not
+the very occasional sale of a ‘large’     only result in improved livelihoods
+animal. Small animals also contrast       for producers but also assist in
+many food and cash crops that are         expanding employment and income
+harvested and sold only once or twice     opportunities in general. The booklet
+a year and with which the labour input    focuses on important aspects of this
+is unevenly distributed.                  business.
+
+
+                                                                              5
+   In summary the aim of this                in terms of income;
+booklet is threefold and is to:          •   identify the key inputs into
+                                             smallholder livestock systems to
+• highlight the benefits of keeping          improve productivity; and
+    small animals for small-             •   identify the range of support
+    scale farmers and the many               services required and the
+    opportunities they offer, not only       challenges of service provision.
+
+
+
+
+6
+                    Benefits of small animals
+
+
+■ Small animals at household level                  Small animals add to food
+A well managed integrated production            security, improve human health
+system comprising several diverse               through a more varied diet,
+enterprises including small animal              generate a steady cash flow that
+production adds considerable value to a         increases     household     income,
+farm household. There are synergistic           have an important role in poverty
+benefits to integrated and associated           alleviation, contribute to the
+farming systems. In addition there              empowerment of women and
+are several non-marketed benefits in            children as well as the sick and the
+
+
+
+
+                                                                                                  Small animals for small farms
+relation to the function of animals as          disabled and other marginalized
+security and savings and as a means             groups, make productive use of
+of financing sudden or periodic                 labour and valorise local feedstuffs
+expenditure such as payment for                 and feedstuffs not normally suitable
+medical expenses or school fees.                for direct consumption by people.
+
+  CASE STUDY 1            Guinea pigs and livelihoods in Bolivia
+
+  In the forest margins of the tropical Bolivian provinces of Sara and Ichilo, some 100
+  km north-west of the city of Santa Cruz, farmers keep small animal species on their
+  farms, generally to contribute to food security, although, in times of need, production
+  not needed for home consumption, is sold. Under traditional management, poultry
+  commonly scavenge around homesteads for the bulk of their feed, receiving only
+  occasional supplements of household scraps and cracked grain. Pigs also scavenge,
+  while receiving occasional offerings of chopped cassava, while sheep graze and
+  browse along roadsides and in fallow-lands. They receive no vaccinations or veterinary
+  treatment and find their own shelter where they can.
+
+  Although they receive no veterinary care, guinea pigs are the exception, since they are
+  usually kept in sheds, or in the family kitchen, where they are fed freshly-cut forage,
+  often of kudzu (Pueraria phaseoliodes). Monitoring showed that the productivity of
+  chickens and ducks was reduced by the attacks of a range of controllable diseases
+  and natural predators, while losses from pigs and sheep were as a result of accidents
+  and internal parasites. Guinea pigs had few identifiable problems, with low levels of
+  losses, restricted almost entirely to theft and accidents, often involving dogs belonging
+  to neighbouring families.
+
+
+
+
+                                                                                              7
+    CASE STUDY 1              Guinea pigs and livelihoods in Bolivia (Cont.)
+
+    As a result of the use of almost zero inputs, apart from the labour of women and
+    children, the return from small animal species can represent up to 30 percent of annual
+    family income, when home consumption is costed at the prevailing, local market prices.
+
+    Source: Adapted from Paterson, R.T. & Rojas, F. 2004. Small animal species in the livelihoods
+    of small-scale farmers in Tropical Bolivia, In E. Owen, T. Smith, M.A. Steele, S. Anderson, A.J.
+    Duncan, M. Herrero, J.D. Leaver, C.K. Reynolds, J.I. Richards & J.C. Ku-Vera (Eds.) Responding
+    to the Livestock Revolution: the role of globalisation and implications for poverty alleviation,
+    BSAS Publication 33, Nottingham University Press, Nottingham, United Kingdom, pp.117-132
+
+
+
+
+■ Small animals and the farming                       to local conditions but also that it
+   system                                             will not become an invasive pest.
+Small animals are an important                           Environmental            damage
+pathway of diversification and                        purportedly attributed to farming
+intensification in a wide variety                     of conventional livestock has been
+of farming systems. Small animal                      well documented and perhaps
+production is a form of intensive                     overexposed. Small animals can,
+agriculture.    Large volumes of                      however, occupy niches that large
+produce can be obtained from very                     animals cannot. Green iguanas,
+small areas of land if the animals                    for example, have long been an
+are provided with adequate water                      important food source for eggs
+and food, and pests and diseases                      and meat in Central America,
+are controlled. They ensure better                    have been (and are increasingly
+uses of the means of production                       being)     semi-domesticated    and
+including land, labour and capital.                   can     therefore   occupy     both
+They can make excellent use of                        wild and farm environments
+farm and industrial by-products.                      (see Figure 2). Rabbits, rodents
+   Many kinds of small animals                        and reptiles can enhance total
+are best used locally in their native                 farm yields and supply diversified
+environment. Before attempting                        products in a way that is compatible
+to introduce a new species or                         with many situations and in many
+breed careful research should                         farming systems. They can be
+be undertaken. This should be                         highly productive in environments
+designed to ensure that the animal                    that are unsuitable for other kinds
+to be introduced is not only adapted                  of animals: these include steep
+
+8
+                                                                                  Small animals for small farms
+FIGURE 2 Green iguanas on a farm in Costa Rica
+(Photo by R. T. Wilson)
+
+
+
+hillsides, highly degraded areas and      a paradigm shift whatever species
+urban localities. In some parts of the    may be considered. Veterinarians,
+tropics large livestock may be totally    agronomists and animal production
+unsuitable whereas local species of       specialists trained along traditional
+small animals may thrive. The use         lines need to modify their
+of locally adapted small animals          conceptions and attitudes and
+reduces the pressure to alter the         donor agencies should give further
+environment dramatically in order to      consideration to providing support
+accommodate conventional livestock        for small animals as more and more
+production.                               technical and scientific knowledge
+    The development of small animal       and expertise are available in this
+farming – one of whose principal          animal production subsector.
+objectives is to progressively
+abandon the uncontrolled harvest          ■ Health and nutrition
+of these species and thus to prevent      Meat produced by small animals has
+their extinction in the wild – requires   a positive effect on family nutrition
+
+                                                                             9
+both directly and by making more              the fight against HIV/AIDS through
+products available for consumption.           boosting the immune system. People
+Small animal meat, like all meat,             infected with HIV/AIDS need to
+is generally easily digestible, is an         eat more saturated fats in order to
+important source of protein and               help augment the blood cholesterol
+of essential amino acids, minerals            level. The rapid reproductive cycle
+(especially iron and zinc) and                and high rates of growth of the
+vitamin B for the family. Most                animals provides for a regular supply
+of these nutrients are not present            and relatively large source of food
+or present in only small and often            (see Box 2).
+unbalanced amounts in the staple
+starchy foods that comprise the major         ■ Food security
+dietary intake of most people. Meat           Food security is now a priority
+helps to alleviate protein deficiency,        objective worldwide. In very recent
+contributes to improved growth and            times (prior to 2010) it has been
+physical activity in children and             recognized even by politicians in
+to better health and less disease in          the Western world as a potential
+the family. Well fed and healthy              source of conflict. Food security (or
+children – and there are far too few          rather insecurity) was considerably
+of these across the world – suffer            exacerbated over the last 20
+less from learning difficulties than          years of the twentieth century
+do children who do not possess these          as increased human populations
+characteristics. Animal foods provide         began to approach or exceed the
+a particularly dense combination of           capacity of land to support them.
+critical nutrients. Consumption of            The problem will intensify as the
+meat (and of other livestock products         numbers of people continue to grow
+such as milk and eggs) also helps in          and especially in the developing
+
+  BOX 2 The nutritional value of Rabbit meat
+
+  Rabbit meat has a high protein content of about 21 percent and a low fat content of
+  around 8 percent. Rabbit meat is low in stearic and oleic acids with a high proportion
+  of polyunsaturated linolenic and linoleic acids. Some vitamins, notably nicotinic acid
+  and calcium pantothurate, are higher in rabbit than in other meats and calcium and
+  phosphorus are also high. Rabbit meat is thus a good source of protein and some
+  other essential elements and is relatively low, at 160 kcal/100 g meat, in energy.
+
+
+
+
+10
+countries and in many areas it will      often crucial to household nutritional
+be associated with a continuing          strategies. They usually demand
+rapid increase in urbanization.          reduced labour inputs, are resistant
+The overall effect of increased          to disease and provide nutritional
+human populations on agriculture         diversity.      This is especially
+will be greater demand for human         important in regions where increasing
+food, competition for animal feed        dependency on cereal staples such as
+resources and increased pressure on      maize can lead to vitamin deficiency
+land. The major challenges are to        diseases.
+increase food production, improve
+productivity and ensure that systems     ■ Equity, gender development and
+are sustainable. Equally important          opportunities for the disabled
+are distribution and accessibility of    Small animal production initially
+
+
+
+
+                                                                                   Small animals for small farms
+food to ensure that a balanced diet is   involves small-scale activities that
+available to everyone.                   require some skills but usually low
+   Increased     food      production    capital investment. It can combine
+must not, however, be achieved           well with traditional domestic roles
+at the irreversible expense of           and this makes it an accessible
+the environment and especially           livelihood option for people with
+overexploitation      of     marginal    limited resources, including women,
+land, more pollution and loss of         children and old people (see Case
+biodiversity. Small animals are an       Study 2). Very few animals are
+important resource that are able to      sufficient initially to participate
+contribute to meeting the increasing     in production. Even the landless
+demand for animal protein, especially    poor can keep small animals. In the
+in the developing world. Small           longer term, however, smallholders
+animals contribute to food security in   will need more animals in order to
+various ways but perhaps especially      develop a profitable enterprise.
+because they are characterized by           Small animal production should
+high reproductive and growth rates       have a positive or, at worst, a neutral
+and can thus produce large quantities    impact on the most vulnerable
+of nutritious food in a short period.    members of the household and the
+They play a disproportionately large     community. It may be necessary to
+role in food security systems as         undertake some gender awareness
+they thrive on degraded vegetation       activities in the community to
+and non-conventional feeds and are       ensure people understand why it is
+
+                                                                             11
+  CASE STUDY 2              Smallholder rabbit production in south-western
+                            Nigeria
+
+  A combination of ultrasmall (keeping two or less breeding does) and small units (three
+  to 10 breeding does) constitute 80 percent of all rabbit farmers in south-western
+  Nigeria. Medium scale (11 to 50 breeding does) accounted for 15 percent of units and
+  large scale (greater than 50 does) the final 5 percent. Rabbit farmers cut across all
+  ages and professions including retired persons. The primary reason for keeping rabbits
+  was for home consumption with occasional sale of surplus stocks. The market chain
+  involved direct sale of live animals to consumers or other farmers. Some 57 percent
+  of rabbit keepers indicated that all members of the family were involved in animal care
+  and management. Breeds used were invariably crosses among imported commercial
+  meat type rabbits (mainly New Zealand White, Californian and Chinchilla). There was
+  no reliable and steady supply of breeding stock, so foundation and replacement stocks
+  were mostly acquired from friends and other smallholder farms. There was no standard
+  type or design of animal house and use was made of assorted materials (wood, wire
+  mesh, tires, etc.) in the construction of rabbit cages. Cages were mostly single-tiered
+  and placed outside the house. Mating of does was seasonal as a result of seasonal
+  heat stress. About 70 percent of the farmers noted that doe receptivity and conception
+  rates were markedly low during the dry season. Principal constraints facing the units
+  included getting reliable and stable sources for foundation/replacement stocks, feeds,
+  theft and access to information on rabbit management.
+
+  Source: Adapted from Oseni et al.2008. Smallholder rabbit production in Nigeria, 9th World
+  Rabbit Congress, June 10-13, Verona, Italy
+
+
+
+
+important that people are rewarded                  • the availability of labour; and
+for their efforts. It may also be                   • community or cultural factors
+necessary to find innovative ways of                    that facilitate production and
+strengthening control by the normally                   trade.
+disadvantaged over their earnings,
+for example by promoting group                         Development of small animal
+savings. Social and organizational                  production can make a strong positive
+factors that contribute to whether                  contribution to the empowerment of
+or not production is successful and                 the marginalized members of society
+provides for growth include:                        whether they be rural or urban or
+                                                    men, women or children. Small
+• women’s involvement and their                     animal production can contribute to
+     control over any income that is                equal participation and involvement
+     generated;                                     in economic growth. Women’s
+
+
+12
+involvement in management of               sectors of the population including
+assets and cash income – for example       women, children and disabled
+through membership and leadership          persons (see Figures 3 and 4). In this
+of producer associations – increases       context they are an important factor
+their social status and their influence    for social promotion.
+on decisions important for the daily           Throughout     much      of     the
+life of many families. Small animals       developing world women and
+are almost perfectly tailored to small     children primarily undertake small
+and landless farmers as they require       animal production. It is important
+neither large capital (investment)         to ensure that they also participate in
+nor recurrent costs. Small animals         sharing the benefits of their labour,
+provide employment opportunities           especially as production enterprises
+for the socially more vulnerable           become more commercialized.
+
+
+
+
+                                                                                     Small animals for small farms
+
+
+
+
+FIGURE 3 Boy with rabbits ready for market, Western Escarpment, Burundi
+(Photo by R. T. Wilson)
+
+
+
+
+                                                                               13
+FIGURE 4 Women feeding Guinea pigs in Peru
+(Photo: FAO/17459/A. Odoul)
+
+
+
+Women and youths must also be              stronger voice can be helped by
+involved in marketing their produce        ‘professional’ organizations which
+as well as in retaining control over       can arise from the keeping of small
+the money they earn. This will not         animals.
+only allow women to become more
+self-sufficient and independent but        ■ Financial rewards
+will also increase their capabilities in   Small animals can have many
+looking after the family and improve       financial    advantages    compared
+their social status in the immediate       to raising larger animals and
+household and wider community.             especially for small-scale farmers.
+    Improved use of resources              Conventional stock by their very
+is a valuable background and               nature must be bought and sold in
+introduction     to    more      active    large units. Saving up to buy a cow
+participation in policy formulation        may take a very long time and if an
+and rural development planning.            accident or illness occurs the entire
+Even greater participation with a          investment is lost.
+
+14
+    Investment in small animals          financial rewards is enhanced. In
+can initially be small and then          promoting small animal production
+incremental. It is also spread over      emphasis should be put on the
+several units and thus contributes       potential to provide good nutritious
+considerably to reduced risk. Smaller    food for the family while concurrently
+animals reach sexual maturity faster     developing the concept of marketing
+and can reproduce quickly which          surplus produce and additional non-
+further expands the investment.          food products for cash.
+Several types of small animals are
+raised in backyards or inside the
+home and do not require large areas
+of land per unit of output. Production
+for home use and/or market is
+
+
+
+
+                                                                                  Small animals for small farms
+distributed more evenly throughout
+the year which results not only in
+more even subsistence but also can
+contribute to a steady income that
+can be more easily controlled in
+response to market conditions. Most
+small-scale farmers cannot hope to
+compete in the market with large,
+high input, single species industrial
+enterprises but can perfectly well
+cater to specialized niche or exotic
+markets and obtain a good price for
+their product (consumers in Ghana
+pay up to three times more for meat
+from cane rats or grasscutters than
+they do for beef, for example). Small
+animal products are also capable of
+providing higher incomes through
+processing into value added products.
+    As familiarity with production
+technology increases, the rewards for
+developing husbandry skills increase
+and the potential for increasing
+
+                                                                            15
+         Key steps in the livelihood activity
+
+
+■ The right species and breed:            many European warrens where large
+   rabbits, rodents and reptiles          numbers of rabbits are still found.
+                                              Rabbits were truly domesticated
+Rabbits                                   around 1 600 AD when European feudal
+Rabbits belong to several genera in       systems (in which only landowners had
+the subfamilies Leporinae (which          the right to own rabbits) were abolished
+includes the similar hares, Lepus         and keeping rabbits in hutches or
+spp.) and Palaeologinae of the family     cages became widespread. Rabbits
+Lepidae in the order Lagomorpha in        as domestic animals have undergone
+
+
+
+
+                                                                                     Small animals for small farms
+the superorder Glives. “Rabbits” are      several cycles of popularity and decline
+found commonly in many parts of the       and have been especially popular during
+world. Most rabbits in the broad sense    wars when other meat was not easily
+have developed a digestive system,        available. Precocity and prolificacy
+known as coprophagy, analogous to         enable very rapid population expansion
+rumination. Feed is partially digested,   and the use of quantitative genetics has
+voided, the faeces re-ingested and        enabled ‘broiler’ rabbits to compete
+digestion then completed.                 with similarly managed domestic
+    The true rabbit, Oryctolagus          fowl. Europe remains the centre of
+cuniculus,      comprises       several   production in terms of overall volume
+subspecies. These were originally         but consumption per person is highest
+native to southwest Europe and North      in tropical and subtropical countries.
+Africa. The rabbit was known in Spain         Rabbits are relatively easy to rear,
+about 3 000 years ago and it spread,      manageable in small units and do
+as the Roman empire expanded,             not necessarily (and in smallholder
+throughout as a game animal. It           systems should not) compete directly
+was later reared in fenced enclosures     for human food. They are eminently
+that usually had stone walls (called      suitable to smallholder production
+‘leporaria’), for sport and to provide    (see Figure 5) and, while there may be
+foetuses and newborn rabbits (known       some initial resistance to eating them,
+as laurices), for consumption by the      there are no major entrenched taboos.
+Roman garrisons and later by monks.           Many traditional breeds of rabbit
+These ‘leporaria’ are the origins of      have been used over the years to
+
+                                                                               17
+FIGURE 5 Rabbits in a small-scale production system
+(Photo: FAO/14106/ Ch. Errath)
+
+
+
+produce meat, fur and skins. Several       as this tends to cause development
+western European countries had a           of the digestive tract but this is offset
+large number of breeds of varying          by the reduced cost of feeding.
+size and reproductive and growth               Some species that are not
+performance. Modern fast growing           lagomorphs          show         similar
+and prolific breeds, such as California    morphology to the rabbits. The
+Hyline, New Zealand White and              viscacha (a Spanish word from the
+Chinchilla (not to be confused with        Quechan Indian language), Lagidium
+the rodent of that name) (see Figure       viscacia, a rodent of the upper
+6), reach weights of 2.2 kg at 80 to       Andes, is native to southern Peru,
+90 days. Dressing percentages are          most of Chile, and parts of Bolivia
+60 to 70 percent and increase with         and Argentina. It has a head and ears
+age, independently of weight. The          that could lead to it being confused
+higher value hind quarters and loins       with the true rabbit but its very
+comprise about three-fifths of the         short front legs and long tail serve
+carcass. Carcass yield is slightly less    to distinguish it. The long greyish-
+in animals fed bulk roughage feeds         coloured fur, often tinted with a rich
+
+18
+                                                                                    Small animals for small farms
+FIGURE 6 Chinchilla breed meat rabbits in a modern unit, Lumle, Nepal
+(Photo by R. T. Wilson)
+
+
+
+brown hue, is similar in composition       fur (coypu, whose fur is the highly
+to, but not as valuable as, that of the    valued ‘nutria’ and chinchilla of even
+chinchilla, to which it is very closely    more value) and skins or hides. A
+related.                                   few only of this vast range of animal
+                                           life are described as examples of the
+Rodents                                    order.
+The order Rodentia comprises more              Chinchilla, along with the
+than 2 200 species and 40 percent          rabbit-like viscacha, belong to the
+of all mammal species are rodents.         family Chincillidae. There is little
+They range in size from tiny (the          noticeable difference between the
+African Pygmy Mouse weighs 7 g)            two species of chinchilla except that
+to quite large (the Capybara weighs        Chinchilla brevicaudata has a shorter
+up to 80 kg). Many species of rodent       tail, a thicker neck and shoulders and
+are suitable or potentially suitable       shorter ears than C.lanigera. The
+for small animal production either         latter species, from which domestic
+as fully or partly domesticated stock.     chinchilla are thought to descend, is
+They produce meat (rats, capybara),        now rare in the wild. It is everywhere
+
+                                                                              19
+illegal to hunt wild chinchilla but        the South American Andes. It had
+outside the domesticated types             already been domesticated and was
+they are on the verge of extinction        familiar to the aboriginal Inca and
+because of continuing illegal hunting.     other populations of the highlands
+Chinchillas are gentle, timid and          of Peru, Ecuador and Colombia by
+intelligent animals. An adult animal       the time the Spaniards arrived in the
+can grow up to 30-36 cm long               New World (see Figure 7). Guinea
+including its bushy tail which alone       pigs rarely weigh more than 1 kg
+can measure up to 12.5 cm. A fully         at maturity. They do not burrow
+grown animal weighs between 600            although they have four strong claws
+and 800 g.                                 on the front feet and three on the
+    Guinea pigs belong to the genus        hind. Several domesticated types
+Cavia of the family Cavidae in the         have developed. The Peruvian is a
+order Rodentia. Domestic Guinea            rather large variety with long silky
+pigs are also known as cavies, a           hair. The English or Bolivian breed is
+corruption of the Quechan ‘cuy’,           a short-haired type. An ‘Abyssinian’
+the onomatopoeic South American            type has hair in a series of whorls.
+Indian word derived from the                   Cane or African giant rats of the
+animal’s alarm call. The domestic          genus Cricetomys and grasscutters of
+species Cavia procellus is native to       the genus Thryonomys of the family.
+
+
+
+
+FIGURE 7 Guinea pigs in a traditional system, Cuzco, Peru
+(Photo by R. T. Wilson)
+
+
+
+20
+Thryonomidae       are     widespread       and prefer damp or wet places
+in Africa in all except the driest          although the few reports on their
+areas (see Figure 8). They appear           ecology are conflicting. The West
+to be commoner in West Africa               African grasscutter, Thryonomys
+than elsewhere but this is possibly         swinderianus, is a large non-
+because they are seen more often            burrowing rodent. Cane rats range in
+offered for sale on roadsides and           body length from 35 to 60 cm. They
+in markets as they are used as              commonly weigh 6-7 kg in captivity
+food. The West African rat that is          but some wild specimens attain 10
+most used for food is Cricetomys            kg. They are heavily-built rodents,
+gambianus which is mainly a species         with bristly brown fur speckled with
+of the savanna areas. Cricetomys            yellow or grey. Other ‘rats’ are also
+emini is also used for food but is          important food species in some areas.
+
+
+
+
+                                                                                    Small animals for small farms
+more restricted in distribution and             The capybara, Hydrochoerus
+occurs only in rain forests. Giant rats     hydrochaeris (suborder Cavimorphae,
+are burrow-dwelling, usually solitary       family Hydrochoridae, subfamily
+
+
+
+
+FIGURE 8 A grasscutter in a small-scale production system
+(Photo by R. T. Wilson)
+
+
+
+21                                                                            21
+Cavioidae), is the largest rodent      of Brazil, Paraguay and Uruguay
+in the world (see Figure 9). The       and to the northeast of Argentina.
+capybara is indigenous to and widely   The subspecies H.h.isthmius has
+distributed in lowland tropical        a separate distribution in Panama,
+South America where it is known        western       Columbia,        western
+by several local names. This semi-     Venezuela and the Pacific coast of
+aquatic animal is rarely found more    Ecuador. Many capybaras are kept
+than 500 metres from open water.       in captivity around the world. They
+The subspecies H.h.hydrochaeris        are of a quiet disposition and quickly
+extends from the eastern plains        come to accept being handled.
+of Columbia, through Venezuela,
+Guyana, French Guiana, Surinam and     Reptiles
+to the Amazonian parts of Ecuador,     Reptiles of the class Reptilia are air-
+Peru and Bolivia, hence the whole      breathing and generally ‘cold-blooded’
+
+
+
+
+FIGURE 9 A Capybara in Brazil
+(Photo: FAO/1855/ A. Brack)
+
+
+
+
+22
+(poikilothermic) animals whose skin        Central and South America. These
+is usually covered in scales or scutes.    are mainly herbivorous species of the
+The four living orders are Crocodilia      genus Iguana in the family Iguanidae
+(crocodiles, gavials, caimans and          of the order Squamata in the class
+alligators [23 species]), Sphenodontia     Sauropsida.       These reptiles feed
+(tuataras from New Zealand [2              mainly on leaves, flowers and fruits
+species]), Squamata (lizards, snakes       and are likely to be more suitable
+and worm lizards (about 7 900              for smallholder production than
+species) and Testudines (turtles and       carnivorous reptiles. The species about
+tortoises [about 300 species]). Most       which most is known is the green
+reptile species are oviparous (egg-        iguana Iguana iguana. It is likely that
+laying) although some squamates are        its close relatives the black or spiny-
+either ovoviviparous (egg retention)       tailed iguanas including Ctenosaura
+
+
+
+
+                                                                                      Small animals for small farms
+or viviparous (give birth to live young    similis, C.acanthura, C.hemilopha
+which they may then care for). Extant      and C.pectinata have similar
+reptiles range in size from a tiny         characteristics. The common South
+gecko, Sphaerodactylus ariasae, that       American name for green iguanas is
+grows to only 1.6 cm to the saltwater      ‘gallina de palo’ or ‘chicken of the
+crocodile, Crocodylus porosus, that        trees’. Green iguanas are found in
+may reach 6 m in length and weigh          their preferred tropical lowland forests
+over 1 000 kg.                             usually close to water in central and
+    Many reptiles have been important      northern South America and several
+contributors to human welfare for          Caribbean islands (and there are
+millennia. They provide meat, eggs         some feral populations in parts of the
+and skins and are often a source of        United States of America). Spiny-
+supplementary income when they             tailed iguanas have a more restricted
+are shot, trapped or hunted with dogs      distribution in Central America in
+over much of Asia, Africa and South        drier open woodland areas. One other
+America. Several species of smaller        genus which may prove suitable as
+reptile are suitable for domestication     small animals is Tupinambis which
+or at least for commercial production.     includes T. rufescens and T. teguixen
+Most attention in the recent past (other   both are known as tegus. Tegu, like
+than the large number of species           crocodiles, produce a valuable leather
+kept as ‘pets’ or companion animals)       and, although they are most common
+has been given to the iguanas of           in Argentina and Paraguay they are
+
+
+                                                                                23
+found as far north as Colombia and on                 Management of a rabbit enterprise
+the island of Trinidad.                           is possible at three reproductive levels.
+                                                  In extensive systems gestation and
+■ Smallholder production systems                  lactation are not concurrent events:
+Rabbits                                           young are weaned naturally at 5 to 6
+Rabbits are very suitable for intensive           weeks, does are bred after weaning and
+management systems and in recent                  give birth every two and half months.
+years the use of quantitative genetics,           In semi-intensive cycles, does are bred
+along the lines of those used for                 10 to 20 days after kindling and young
+poultry broiler production, have                  weaned at 4 to 5 weeks. There is some
+improved their productivity. Hybrid               overlap of gestation and lactation but
+lines capable of high reproductive                for 60 to 65 percent of the time does
+rates and very good feed to meat                  are only pregnant or only lactating.
+conversion ratios are readily available           In intensive systems does are served
+(see Table 1). For production other               on the day, or at the latest within four
+than for home use and a small surplus             days, of kindling. Weaning should
+for sale, maximizing the reproductive             take place not later than 28 days after
+rate is the major factor affecting                parturition and a reproductive cycle of
+productivity.                                     less than 35 days is possible.
+
+  TABLE 1 Production characteristics and trends in intensive rabbit
+          systems in Europe
+     Parameter                                               Year
+                                      1950         1960             1970        1980
+     Number sold/breeding
+                                       <25          30               45          60
+     female/year
+     Interval between litters
+                                       >90          70               54          42
+     (days)
+     Ratio concentrate feed: gain                   6.0             4.5          3.6
+
+                                                   Pure       Pure breeds x
+     Rabbit type                    Unselected                                 Hybrids
+                                                  breeds     improved bucks
+
+     Man hours/doe/year                16.0        16.0             10.0         7.5
+
+     Labour (min)/carcass (kg)         27.0        22.0             9.5          6.2
+
+     Unit size                       80 - 100    100 - 150     200 - 250      350 - 1000
+  Source: Adapted from FAO, 1997a
+
+
+
+24
+    The most intensive system should        reduced by about 30 percent. Water
+only be attempted where conditions are      requirements are greater at higher
+optimal. Progressive breeders adjust        temperatures.
+cycles to feed availability and doe              Production systems in the tropics are
+condition. Females with 7 to 8 young        still at an early stage of development. In
+are usually mated immediately whereas       the Caribbean, for example, the levels of
+those with larger litters are held back a   production (see Table 2) are comparable
+few days. Feed intake and nutritional       to those achieved in Europe in the 1950s
+needs vary with age and reproductive        (see Table 1). It should be possible,
+status and less energy is needed in         however, to increase production and
+warmer than colder conditions. At           productivity very rapidly by drawing on
+30 °C energy demand is 50 percent           European experience and adapting it for
+lower than at 5 °C but weight gains are     the tropics.
+
+
+
+
+                                                                                         Small animals for small farms
+  TABLE 2 Rabbit performance in the Caribbean
+
+
+        Trait                                    Unit              Mean
+
+
+        Reproduction
+
+        Litter size (total young)              Number               5.0
+
+        Litter size (born alive)               Number               4.5
+
+        Litter size (weaned)                   Number               3.5
+
+        Pre-weaning mortality                  Percent              20
+
+        Age at first mating                     Months              6.0
+
+        Period between parturitions              Days               80
+
+        Litters/year                           Number                4
+
+        Young/doe/year                         Number             12 - 16
+
+        Reproductive life                       Months            12 - 18
+
+        Age at culling                          Months            18 - 24
+
+
+
+
+                                                                                   25
+  TABLE 2 Rabbit performance in the Caribbean (Cont.)
+
+
+       Trait                                     Unit          Mean
+
+
+       Growth
+
+       Birth weight                             grams            45
+
+       Weaning weight (28 days)                 grams           320
+
+       Weight at 13 weeks                       grams          1600
+
+       Pre-weaning daily gain                   grams            10
+
+       Post-weaning daily gain                  grams            22
+
+       Mature weight                            grams          3000
+
+
+       Dressing percentage at 13 weeks                           52
+
+       Post-weaning feed efficiency (concentrate:gain)          3.6
+
+       Source: Adapted from Rastogi, 1989
+
+
+
+
+   Rabbits are sometimes selective          4:1 for intake/gain. Attempts to
+feeders but will eat a wide variety         replace true proteins with non-
+of plants.    In modern systems             protein nitrogen, such as urea, have
+a series of standards have been             not been successful.
+established for different production
+stages. Protein quality, determined         Rodents
+by essential amino acid levels              The Spaniards discovered the
+(especially methionine, lipine              chinchilla in 1524 and shortly
+and arginine), is as important as           afterwards Queen Isabella of Spain
+quantity.    Unbalanced proteins            was presented by one of the early
+reduce growth rates by up to 14             explorers with a chinchilla coat.
+percent and increase the normal             It was to be another 350 years,
+feed conversion ratios of 3:1 to            however, before Sir John Murray,
+
+
+26
+an Englishman working in Chile,        bordering the Gulf of Guinea where
+set up the first known chinchilla      commercial grasscutter farms,
+breeding farm in 1874 and tried to     each with more than one thousand
+develop the domestic animal. Over      animals, are achieving high levels
+the next 50 years various attempts     of production and productivity.
+were made to set up chinchilla            Many capybara are still taken
+‘ranches’ with animals of both wild    from the wild by traditional (and
+caught or bred in captivity.           modern) hunters. The species
+   Cane rats have been extensively     is, however, eminently suitable
+hunted in the past although in the     for raising as a domestic animal
+savanna area of West Africa people     in both extensive and intensive
+have traditionally captured from       systems. The capybara is easy to
+the wild and fattened animals in       handle once it has become tame. It
+
+
+
+
+                                                                              Small animals for small farms
+captivity. Cane rats are not the       has been shown at several locations
+most prolific of rodent species but    in South America that captive
+the high demand, attractive market     breeding and close confinement
+price and the small amount of          for intensive or semi-intensive
+investment required make them a        production is quite feasible.
+suitable small animal activity for     Disease problems might, however,
+income generation in many parts of     be somewhat severe if husbandry
+West and Central Africa. Research      is not of a high standard. Pens
+carried out towards the end of the     should contain only one male or
+twentieth century has allowed          there will be considerable fighting.
+the selection and improvement of       For extensive production (i.e.
+stock for captivity and much of the    free range grazing) enough room
+knowledge and techniques for cane      must be allowed for the animals
+rat breeding has been determined       to select their preferred feeds or
+from work carried out at the Benin-    losses from starvation might be
+Germany breeding station which         exceptionally high. Under this
+was established in the mid-1980s       type of management it is claimed
+(see Case Study 3).        Practical   that capybara are three and a half
+information is now more readily        times more efficient than cattle and
+available for farmers interested       bring in cash returns three times
+in cane rat breeding.        This is   higher than cattle when the two are
+reflected, for example, in countries   stocked together.
+
+
+                                                                        27
+  CASE STUDY 3             Grasscutters in West Africa
+
+  Wild grasscutters and cane rats are victims of their success with consumers and
+  becoming increasingly scarce in areas surrounding the capitals of West and Central
+  Africa. In Côte d’Ivoire hunters kill an estimated eight million wild grasscutters every
+  year. At present the concept of rearing small game is mainly taking hold in countries
+  where bush meat is firmly entrenched in local dietary practice as in the Congo basin.
+  In Gabon consumption of game is said to be twice that of beef. Développement
+  d’Alternatives au Braconnage en Afrique Centrale (DABAC) is a project financed by
+  the European Development Fund (EDF) aimed at developing alternatives to poaching
+  in Central Africa. It has been attempting to satisfy some of the high demand by rearing
+  game on the outskirts of towns, most of which is sold without the use of middlemen
+  on the urban markets. First launched in Gabon the project now also operates in
+  Cameroon and Congo. Almost anyone can start a small household activity based on
+  a few grasscutters but scaling up to the next level of a viable and regular output with
+  a view to regular sales is altogether more challenging. Success depends largely on
+  developing clear technical strategies based on sound veterinary and animal husbandry
+  research and the diffusion of affordable production methods that are suited to small-
+  scale producers. Rearing grasscutters has proved successful in West Africa thanks
+  to years of research on all aspects of this type of farming including buildings and
+  equipment, feeding, reproduction, health and livestock behaviour. Studies began in
+  Ghana, Côte d’Ivoire and Nigeria in the 1970s before being launched in Benin with
+  support from the German development corporation GTZ. The primary objective of
+  this joint Benin-German project was to resolve problems linked to grasscutter habitat,
+  captivity and disease. The experience gained in Benin should soon be made available
+  to farmers in other sub-Saharan African countries as far down as South Africa through
+  the creation of national networks.
+
+  Source: Adapted from Spore.2008. Mini-livestock keeping: Think big with minilivestock, No.
+  133 (Available at http://spore.cta.int/index.php?option=com_content&task=view&id=343&Item
+  id=99999999)
+
+
+
+
+Reptiles                                          America iguanas are the preferred
+Reptiles have been traditionally                  game animal and are hunted regardless
+exploited for centuries by hunting and            of sex and reproductive status so
+capturing in the wild or by taking their          that egg-carrying females are taken
+eggs after they have been laid by the             to the detriment of the population
+female. In South America, however,                as a whole. Because of the green
+as in Africa for the Nile crocodile some          iguana’s popularity in the pet trade
+species have been hunted so ruthlessly            (more than 800 000 were imported
+that they are now endangered in many              into the United States of America in
+areas. In much of Central and South               1995 alone) and as a food source in
+
+28
+Latin America they are listed in the             example, in an iguana farming
+Convention on International Trade in             project in Panama and Costa Rica
+Endangered Species of Wild Fauna                 which raised more than 10 000
+and Flora (CITES), also known as the             green iguana in its first five years
+Washington Convention, Appendix                  of operation, pens were constructed
+II, as a species whose “trade must be            of sheet metal sunk 30 cm into the
+controlled so as to not harm the species         ground with each enclosure having
+in the future”. Captive breeding or              ample shelter made from bamboo
+domestication has several advantages             and other vegetation. These shelters
+over indiscriminate and uncontrolled             protect the lizards from predators, are
+hunting including the much higher                raised from the ground and food is
+survival rate of young (more than 90             provided underneath. Some 20 to 60
+percent of young wild iguana may                 young iguanas can be kept on 10 m².
+
+
+
+
+                                                                                                 Small animals for small farms
+be taken by predators in the first few           Tunnels provided as artificial nest
+months of life) and the possibility              sites can ensure almost 100 percent
+of restocking wild populations. For              hatching (see Case Study 4).
+
+  CASE STUDY 4            The green iguana in Costa Rica
+
+  Every year in early spring female green iguanas climb down from the tall trees of Costa
+  Rica’s rain forests and lay their eggs in sandy beaches along the ocean. And every
+  year people are waiting to catch and eat them. Eating iguanas, which the local people
+  call ‘chicken of the trees’ is an ancient tradition in Costa Rica. Spring is the best time
+  for Costa Ricans to trap iguanas as pregnant females move slowly when they are
+  weighed down with dozens of eggs. Now, because of these hunts, climate change
+  and loss of habitat, iguanas are in danger. The Costa Rican government now forbids
+  hunting iguanas but that does not stop the local people from still enjoying one of their
+  favourite traditional dishes.
+
+  Edsart Besier, a Dutch conservationist who founded the Iguanaverde Foundation in
+  2001, is one of several people trying to save the green iguana from extinction. Some
+  have created refuges for green iguanas in their natural habitat whereas others are
+  training farmers to raise them for food so there will be plenty of iguanas for future
+  generations. Even though they face many obstacles these environmentalists still
+  believe their work is making a difference. “I’m very positive” Besier said. “The project
+  is growing a lot every year. Every year we get a lot more knowledge, and people write
+  about it. There is publicity about it, and in the area it is very well known, in a positive
+  way. I have never heard negative things, other than from local kids who walk on the
+  street, especially at Easter time when they catch the iguanas. They don’t look at me
+  that friendly, but that’s fine. I can live with that.”
+
+
+
+
+                                                                                            29
+  CASE STUDY 4              The green iguana in Costa Rica (Cont.)
+
+  Besier estimates there are less than 2 000 green iguana left along the southern part of
+  Costa Rica’s Caribbean coast. Researchers at the National University of Costa Rica
+  say that is about one third of what there should be in order for the species to survive.
+  So with money he raises from renting cabins to tourists and from donations, Besier has
+  created a safe place where females can lay their eggs without being caught. Besier
+  collects iguana eggs and takes them to an 800-square-mile reserve near the town of
+  Punta Uva on the Caribbean Coast in the Gandoca-Manzanillo Wildlife Refuge.
+
+  In 2009 the females laid about 400 eggs, the biggest number yet. A big part of Besier’s
+  project is educating local school children about the iguana’s plight. He helps students
+  raise iguanas and set them free in the wild. He wants to show them that there are
+  other ways to think about iguanas besides food. Sometimes he takes students to the
+  Kekoldi Indian Reserve where Gloria Mayorga Balma and the Kekoldi tribe have been
+  raising iguanas on a farm in the damp rain forest for 15 years. Balma makes sure the
+  iguanas’ sandy nesting boxes are covered with a black tarpaulin and the eggs are kept
+  warm. When the eggs hatch at the end of summer she moves the tiny green reptiles
+  to another cage, where they spend the next two years. They are then set free. Balma
+  said she worries about losing the forest to banana plantations and timber companies
+  but her biggest concern is that local people still steal iguanas from the farm. Yet she,
+  like Besier, remains hopeful and says the best hope is educating children so that the
+  future can be different for the iguana.
+
+  Source: Adapted from Miller, A. 2009. Saving Costa Rica’s Green Iguanas
+  (Available at http://teacher.scholastic.com/scholasticnews/indepth/endangered_species/news/index.
+  asp?article=gr)
+
+
+
+
+Peri-urban and urban production                     Individual household plots, waste
+systems                                             ground and roadsides are propitious
+Intensified production systems for                  sites for increasing the family food
+small animals are required not only                 supply and for producing a small
+in rural areas. Urban and peri-urban                surplus to sell. City farmers have
+systems must be further developed                   developed small and medium sized
+and intensified to secure a continuous              enterprises specializing in producing
+supply of fresh produce to the                      animal products for sale in city
+human populations living in these                   markets. This activity is becoming
+areas. Animal production within and                 more popular especially as it provides
+around cities is already a preferred                employment and income for women
+activity for many unskilled migrants.               and young farmers.
+
+
+30
+■ Housing                                   housing should be to take into
+For many of the species considered          account animal health and animal
+in this booklet suitable housing            welfare. Water should always be
+is important for protection from            available and food should preferably
+weather and from predators. This            be offered in clean receptacles or
+does not mean that it should be             containers. Suitable materials for
+sophisticated and expensive. On the         housing include bamboo, local
+contrary it should be simple, cheap         wood, wire mesh, expanded metal
+and constructed whenever possible           and thatch (see Figure 10). In
+from local materials or even materials      appropriate cases adequate provision
+scavenged from other enterprises.           for ventilation or the circulation of
+A guiding principle in considering          air should be made.
+
+
+
+
+                                                                                          Small animals for small farms
+
+
+
+
+FIGURE 10 Wire mesh cage with automatic drinker and food container, Cotonou, Benin
+(Photo by R. T. Wilson)
+
+
+
+
+                                                                                     31
+   Rabbits are gregarious animals      does not like its fur to become
+and     outside    the    individual   soiled.
+breeding pens they should be given        Grasscutters can be kept in
+a considerable amount of space         individual cages or in purpose
+in which they can exercise and         built pens (see Figure 11).
+socialise. They are also burrowing     Considerations for safe and secure
+animals so any pen should either be    housing are similar to those
+gnaw proof with a hard (concrete)      already described for rabbits.
+floor or the walls – which may be      Capybaras are social animals
+of wire netting, corrugated metal      that live in family groups. All
+or brick or concrete – should be set   members of the group cooperate
+top at least 60 cm below ground.       in defence and nurturing of the
+Hutches for breeding does should       young. As capybaras are semi-
+provide a floor space of 0.45 m        aquatic they must have access to
+height of 0.75 m for an individual    water at all times and should also
+doe and, when they are pregnant,       be provided with shelter from the
+a separate but attached nest box       sun. Capybaras are best kept in
+with an area of 0.4 m with a height    large secure paddocks where they
+of 0.3 m should be provided. Not       can graze freely.
+too much money needs to be spent          Green iguanas need to live in an
+on housing so that capital input       environment with high humidity.
+costs remain low and maintenance       If kept outside their natural
+can be simple and effective where      environment they will need to be
+local materials are used.              provided with adequate sources of
+   Chinchillas are rock hoppers        water to ensure they can create their
+that like to scurry about so they      own microclimate. Green iguanas
+prefer floor space in their cages      will thrive only in temperatures of
+rather than height. Cages should       35°C and above and must have
+be made of welded wire mesh of         appropriate sources of light either
+at least 16 gauge thickness with       naturally or artificial. If these
+the holes no larger than 1.9 cm        conditions are absent their bodies
+square. Raised wire floors allow       cannot produce the vitamin D
+droppings, urine and partially         that promotes calcium absorption
+eaten food to fall through as the      which can result in a metabolic
+chinchilla is a clean animal that      bone disease that can be fatal.
+
+
+32
+                                                                                   Small animals for small farms
+FIGURE 11 Grasscutter in wire cage with yam offered as feed, Nungua, Ghana
+ (Photo by R. T. Wilson)
+
+
+
+■ Feed and water                            Such resources are usually available
+The statement that ‘water is essential      at very little or no cost. Off-farm
+to life’ is as applicable in small          wastes from industrial crops or
+animal production as it is elsewhere.       agroprocessing including molasses
+Clean cool water should be available        from sugar, brewers grains, oilseed
+on a permanent basis to all species         cakes, cereal by-products like bran,
+of animal. Feed requirements vary           pulp from citrus crops converted to
+according to the animal in question.        juice and vegetable trimmings from
+   Small animal production is               canning processes can also be made
+based largely on the feeding and            use of.
+consumption of otherwise difficult              Rabbits grow best on feeds with
+to valorise farm products or even           220-240 calories digestible energy
+wastes including stalks, straw,             per kilo of animal weight. In low
+hulls, vegetable residues and other         intensity and smallholder systems
+plant material that cannot be used          many local plants can be used
+directly for human consumption.             to reduce costs. In Malawi, for
+
+
+                                                                             33
+example, a roughage supplement of        eat yam, cassava and plantain peels,
+Amaranthus is used along with maize      maize chaff and cocoyam and yam
+grain and bran , groundnut cake and a    tubers.
+pinch of salt, and this allows does to       The capybara is a herbivore
+produce 20 young per year and young      that feeds mainly on grasses and
+rabbits to grow at 15 g per day for      aquatic plants but it also eats fruit
+up to 16 weeks. Groundnut haulms         and tree bark. An adult will eat 2.7
+are fed in Burkina Faso as well as       to 3.6 kg dry matter of grasses per
+Brachiaria ruziziensis. B.mutica is      day. This animal, like the rabbit, is
+used in the Philippines and could        coprophagous and uses its own faeces
+prove useful elsewhere in the tropics.   as a source of bacterial gut flora and
+Cassava leaves and peel are used in      in order to help digest the cellulose
+Ghana but both need balancing with       in its normal diet and extract the
+protein and fibrous feeds. Bananas,      maximum protein. Capybara may
+coconuts, prickly pear, potatoes and     also regurgitate food to masticate it
+many legumes and grasses are also        again and in a manner similar to cud-
+fed to rabbits in many parts of the      chewing by a cow. Average daily
+tropics.                                 gains of 130 g have been achieved
+    The Guinea pig is a monogastric      for capybara weighing 15 to 20 kg
+herbivore, able to adapt to whatever     fed a diet of 50 percent elephant
+food is available. Of the three          grass (Pennisetum purpureum) cut
+possible feeding systems, one is         at 7 weeks of growth and 50 percent
+based exclusively on fodder, a           concentrate. The conversion rate of
+second is a mixed option consisting      feed to gain in this weight range is
+of fodder plus a concentrate, and a      about 5.9:1.
+third is based on concentrates plus          Iguanas have a specialized
+water and vitamin C.                     digestive system in which food
+    Cane rats and grasscutters are       is broken down by bacteria in an
+mainly herbivorous but will eat many     enlarged fermentation chamber.
+kinds of food. In the wild, cane rats    Food is converted to meat in a
+eat mainly palm fruits and tubers,       manner similar to that of ruminants
+particularly yams, plus a variety        but the process takes relatively
+of other fruits, seeds and insects.      longer. Juvenile iguanas often eat
+There are some differences in dietary    faeces from adults in order to acquire
+preferences between males and            the essential microflora to digest their
+females. In captivity cane rats will     low quality diet. Both green and
+
+34
+black iguanas are mainly vegetarian       and private sector services will need
+but the latter also feed on insects and   to be involved in this operation.
+small vertebrates. Green iguanas              Infectious diseases are a major
+are able to convert the vegetation of     constraint to livestock productivity
+tall trees to human food much more        and there is an urgent need to tackle
+effectively than any other potential      the problem in order to improve and
+food species. Green iguanas require       ensure food security. Diseases caused
+a rather precise ratio of two calcium     by viruses and bacteria are of major
+to one phosphorus in their diet.          concern as they often cause serious
+Farmed iguanas can be fed a mixture       epidemics which can severely disrupt
+of broken rice, meat meal, fish meal,     both local and international trade.
+various fruits and leaves and flowers     Parasitic diseases caused, amongst
+although there is some debate as to       other organisms, by helminths
+
+
+
+
+                                                                                    Small animals for small farms
+whether feeding animal protein has        and protozoa are also important
+long term deleterious effects on the      because of their debilitating and
+iguana kidney.                            often persistent effects. The first
+    Young iguanas take about 3 years      line of defence in the past has been
+to reach marketable size on a farm.       chemotherapy which, although it
+Alternatively young stock can be          may have initial spectacular results,
+reared to about 10 months and then        may not prevent re-infection.
+released in trees nearby. If they are     Repeated treatment is expensive and
+fed some supplementary food they          time consuming and all too often
+tend to stay in the vicinity and can be   leads to resistance to the drugs in the
+harvested when they reach a suitable      organisms being targeted.
+size. Tegu are generally carnivorous          Disease has direct repercussions
+and will eat snails, insects, small       through higher mortality rates and
+mammals, smaller lizards including        indirect ones through its effects on
+other tegus, various fruits, eggs         reduced reproductive performance
+of birds, turtles and caimans and         and on slower growth rates. There
+occasionally carrion.                     is also the consideration of animal
+                                          welfare: a contented and healthy
+■ Health care                             animal will produce more high
+In the case of small animals there is a   quality products in a shorter time than
+need to maintain and improve animal       an unhappy and uncomfortable one.
+health as in large and medium–sized       There is also a high risk that some
+livestock production. Both public         diseases may be transmitted from
+
+                                                                              35
+animals to man, this type of disease      Lassa fever and Hanta virus although
+being known as a zoonose. The             normal health care should obviate
+first line of defence in animal health    these kinds of problems. Capybaras
+care is thus prevention rather than       are known to carry foot and mouth
+cure. Small-scale farmers should          disease and seem to be particularly
+work closely with their veterinary        susceptible to brucellosis as well
+advisors and ensure that sanitation       as to mechanically transmitted
+and biosecurity measures are of the       Trypanosoma evansi.
+highest order.                                Metabolic Bone Disease (MBD)
+    Some diseases affect a wide           in iguanas is caused by various
+spectrum of host animals whereas          factors including lack of calcium
+others are more restricted in their       and inadequate exposure to ultra
+effects to just a few or even a single    violet light. Metabolic Bone Disease
+species. It is not possible to describe   (MBD) reduces the vitality of
+or list every disease affecting small     iguanas and can result in premature
+animals but some examples can be          death. Green iguanas can carry
+provided to illustrate the types of       salmonella which can be transmitted
+problems that may arise.                  to handlers if sensible precautions are
+    The main diseases of rabbits          not observed.
+are myxomatosis, coccidiosis and
+pasteurellosis. Farmed rabbits can        ■ Sources of stock
+be protected against myxomatosis          The sustainability of small animal
+and calicivirus with a genetically        production is in large part based
+modified vaccine but extreme              on the availability of breeding and
+care is needed to ensure that the         replacement stock. There is little
+vaccine does not escape into the          problem in this context with rabbits
+wild. A possible human health issue       and Guinea pigs which have been
+associated with the use of rabbits for    kept as domesticated animals over
+meat is Tularaemia or Rabbit Fever.       a very long period. The situation is
+    A risk associated with the eating     somewhat different, however, with
+of rat meat is contacting Weil’s          some rodents and reptiles which
+disease or leptospirosis. Rats are also   are relatively new activities. Many
+notoriously associated with zoonotic      of the animals reared are initially
+diseases such as bubonic plague           captured in the wild. Activities based
+(of which there are still sporadic        on wild harvest need to be linked to
+outbreaks in developing countries),       the ability of the natural environment
+
+36
+and its animal populations to recover      from other enterprises.       Family
+and maintain their output. Factors         labour resources are indeed likely
+that can affect the sustainability of      to make better use of the added
+this second type of small animal           value of small animal production.
+production include:                        Women and children in particular
+                                           should have opportunities to acquire
+• rights of access to the resource         additional skills and become more
+    including competing operations;        involved in economic activity. This
+•   resource availability;                 may have the effect of strengthening
+•   the intrinsic ability of the species   their position within the family and
+    to reproduce and multiply;             the local community.
+•   temporal (seasonal and inter-             Labour needs are more specialized
+    annual) availability of the wild       and probably more intensive once
+
+
+
+
+                                                                                    Small animals for small farms
+    stock; and                             individual and group processing
+•   the potential for domestication        are undertaken.      Training needs
+    and captive breeding.                  for processing are more particular
+                                           and more intensive than for simple
+   Wild capture should, however,           production.
+be considered only as an interim
+measure. Rearing small animals             ■ Indicative costs
+caught in the wild and then breeding       The staple diet of many small
+them in captivity helps to protect the     animals is usually inexpensive. It
+species while providing meat and           largely comprises natural vegetation,
+income for small-scale farmers.            fruit and vegetable wastes or rejects
+                                           and harvest and household waste.
+■ Labour needs                             This is a considerable advantage
+Small animal production on a small-        given the current rapidly rising
+scale is potentially accessible to most    prices and often limited availability
+people. The cost of entry is usually       of concentrate animal feeds which
+fairly low and the major initial input     are in turn linked to the soaring cost
+is family labour. The intensity of         of cereals and the limited output of
+labour use will clearly depend on the      petroleum products.
+type of enterprise but at the primary         Other costs are associated with
+production level labour use should         housing, health care and marketing
+not be excessive and work with small       but these, too, are not likely to
+animals should not withdraw labour         prove excessive (see Case Study 5).
+
+                                                                              37
+  CASE STUDY 5             Financial analysis of smallholder rabbit
+                           production in the Kumasi district of Ghana
+
+  Data from nine backyard farms started and operated with family capital and labour
+  were used for this case study. The farms had been in existence between two and six
+  years at the time of the study. The animal population on the farms ranged from 91
+  to 223. Breeding does kindled (produced young) five times a year and produced an
+  average of 21 fryers for the market. It was estimated that Ghanaian cedis ¢6725.37
+  (US$ 6052.83) was needed as initial capital for a 50-doe unit meat rabbit farm
+  in Kumasi. The cost of housing (hutches) was 62.4 percent of the initial capital,
+  equipment was 17.2 percent and breeding stock was 8.2 percent with 12.2 percent
+  being needed for operating expenses during the first six months of operation (the
+  period during which the farm could not generate enough money to pay for its running
+  costs). A profitability index (PI) of 1.8 and an annualised rate of return (ARR) of 36.1
+  percent were calculated for the 5-litter a year breeding programme and the payback
+  period was reached in the third year. A more intensive breeding programme of six
+  litters per doe per year could have improved PI to 2.2 and ARR to 43.9 percent and this
+  would have brought the payback period to the second year. It was concluded that a
+  high return on investment and labour could be obtained if a family uses its own capital
+  and labour to produce backyard meat rabbits and even more so if the doe could be
+  managed to produce six litters in a year.
+
+  Source: Adapted from Karikari,P.K. & Asari,K. 2009. An economic analysis of a smallholder meat
+  rabbit production system, Journal of Applied Sciences Research, 5(8), pp. 969-973
+
+
+
+
+Nonetheless many smallholder                       have little spare income and few
+farmers or other persons wishing to                savings and will probably require a
+enter small animal production will                 credit line to enter the business.
+
+
+
+
+38
+                  Strategies for successful
+                   and sustainable trade
+
+■ Market appraisal                       which types of product are popular
+Smallholders need to be aware of the     and what returns can be expected
+real and feasible opportunities for      and whether these will cover the
+small animal production before they      production costs and provide an
+start an enterprise. At any level of     adequate return on investment. If the
+commercialization it is the market       objective is to produce for a larger
+that drives production. Investments      (and probably more demanding)
+for commercial production should         urban market, a more extensive
+
+
+
+
+                                                                                    Small animals for small farms
+be made only after it has been           appraisal process will be needed.
+established that there is a guaranteed   This, of necessity, will involve higher
+market for small animal products.        costs and time as it may involve
+Market appraisal requires farmers to     investigating such aspects as different
+investigate who the consumers are,       product prices in various wholesale
+what they desire, where they are,        or retail outlets, the quantities that
+the price they are willing to pay, the   can be sold at each outlet, quality
+cost of production, how products         requirements (possibly including
+will be transported to market and the    animal welfare considerations) and
+transport facilities available. Market   transport costs. Such an investigation
+appraisal helps smallholders and         may be beyond the capabilities of an
+their groups or associations to learn    individual farmer in terms of money
+about the activities needed to market    and time but may well be undertaken
+their produce.       Market appraisal    by a group or association of farmers.
+can reduce considerably the risks            Consumers buy to obtain
+inherent in making and taking the        satisfaction so it is essential that the
+wrong production and marketing           marketed produce be of good quality.
+decisions.                               Consumers vary according to age
+    The type of appraisal undertaken     and gender and with cultural, ethnic
+depends      on     the    commercial    and religious background and these
+objectives. If, for example, the         characteristics and factors need to
+objective is to supply a local market    be taken into account in deciding
+a simple investigation will establish    what small animals to produce.
+
+                                                                              39
+An early – or even an initial – step         The domestic rabbit is a short
+in production, therefore, is market      life cycle animal and is regarded
+appraisal. However, even though a        as an efficient producer of meat as
+market appraisal is a prerequisite for   a result of its fast growth rate and
+any commercial operation, it cannot      high fecundity. Rabbits are not as
+guarantee success. Market appraisals     productive in protein and energy
+can reduce risk and uncertainty          output per hectare as grain and potato
+in decisions about production and        crops but they produce more protein
+marketing, but cannot guarantee          than pigs and more protein and energy
+success.                                 than poultry (see FAO Diversification
+                                         booklet No. 3 Products and profit
+■ Products: meat, fur, skins, eggs       from poultry) and sheep. Rabbit
+     and breeding stock                  meat is of high nutritional value as
+                                         it contains high quality protein, iron
+Meat                                     and phosphorus and a low amount of
+Meat is the main product of most         fat. The meat of domesticated rabbits
+of the small animals discussed in        tastes like chicken and is rather
+this booklet. As for other types of      bland but this lends itself to being
+animal meat, quality is affected         ‘improved’ with a variety of flavours.
+by the treatment an animal               Rabbit meat is leaner than beef,
+receives throughout its life. More       pork and chicken. Rabbit products
+particularly, however, it is affected    are generally labelled as Fryer (a
+by the way the animal is handled         young rabbit of 2.0 to 2.5 kg and up
+in the lead up to and at slaughter.      to 9 weeks old with tender and fine
+In order to avoid unnecessary            grained meat) or Roaster (over 2.5 kg
+stress and to reduce defects in          and up to 8 months of age with firmer
+meat related to stress, animals          and coarser grained flesh that is less
+should be treated with care and          tender than a fryer).
+consideration.      The slaughter            Cane rats are widely distributed
+process itself should be carried out     and are the most valued species of
+quickly and in as humane a manner        ‘bush meat’ in West and Central
+as possible.     Slaughtering and        Africa. In Ghana up to half of all meat
+dressing techniques should be of         eaten is that of the cane rat. The meat
+the highest standards to conform         is high in protein and low in fat and is
+to animal welfare and food safety        greatly appreciated for its tenderness
+considerations.                          and taste. Other ‘rats’ are edible by
+
+40
+humans and are sometimes captured                  except fish, pork, wild birds and
+and eaten in emergency situations.                 rats (see Case Study 6) . Bandicoot
+In some cultures rats are considered               rats are an important food source
+a staple. Among the reasons why rat                among some peoples in Southeast
+meat is not more widely eaten is the               Asia. Rice-field rats are a popular
+strong proscription against it in Halal            meat in parts of Southeast Asia and
+and Kashrut tradition. Conversely,                 in Valencia in Spain rata de marjal
+in the Mishmi culture of India rats                was a main ingredient of the original
+are essential to the traditional diet              paella (although now at least in part
+as Mishmi women may eat no meat                    replaced by rabbit).
+
+  CASE STUDY 6             Rats for food, livelihoods and the environment
+
+
+
+
+                                                                                                    Small animals for small farms
+  Vijay Prakash of the Bihar State welfare department told a press conference in Patna
+  that “rat meat is a healthy alternative to rice and grains and should be eaten by one
+  and all. Rat and chicken have equal food values not only in protein but throughout the
+  entire spectrum of nutrition. I haven’t tried it myself, but my mother has and she finds
+  it delicious. In fact, whoever has eaten rat says it is more spongy and better than even
+  chicken meat”. Prakash went on to say that “almost 50 percent of India’s grain stocks
+  are eaten away by rodents in fields or warehouses. Increased human consumption
+  of rodents will ease soaring food prices and provide increased employment for rat
+  catchers. We will have a massive media campaign to persuade people to try it. Some
+  hotels in Bihar have started selling rat meat as a starter. If you order patal-bageri at
+  one of our roadside hotels, that’s what you’ll get. In Aizawl in Mizoram State in India
+  smoked rat is a highly prized delicacy. The rodent is much in demand in kitchens in this
+  Northeastern State. Hundreds of smoked rats come in to the city from nearby villages
+  every morning. Rats caught by traps in paddy fields sell like the proverbial hot cakes.”
+  “I don’t keep records of my sales but I normally sell about 200 smoked rats daily,” a
+  New Market shopkeeper told the Indo-Asian News Service. “They don’t come cheap
+  either with one smoked rat costing Rupees 15-20.”
+
+  In late 2008 Reuters reported that the price of rat meat had quadrupled in Cambodia
+  creating hardship for the poor who could no longer afford it. Cambodia also exports
+  about a tonne of rats daily to Viet Nam as food. The rise in price has encouraged a
+  return to rat catching and children are entering the labour market for rat catchers and
+  are offering rat meat in the local markets.
+
+  As an alternative form of protein rat meat is “low in fat, low in food miles and completely
+  free range”. In fact, some claim that “ rat meat is about as ethical a dish as it is possible
+  to serve on a dinner plate.”
+
+  Source: Adapted from Food and Wine. 2009. The ubiquitous rat, by P.Brunning, International
+  Wine & Food Society Europe & Africa Committee - issue 98
+
+
+
+                                                                                               41
+ CASE STUDY 7            Rodent trade in Oxchuc, Chipas, Mexico
+ In Mexico alone, around 100 wild mammal species have known uses by local
+ communities (Lopez-Wilchis et al., 1992; Naranjo et al., 2004; Uribe & Arita 1998). In
+ spite of the fact that small rodent species represent a significant part of mammalian
+ diversity (Ceballos et al., 2002), the recorded use of rodents in Mexico has focused
+ on large and medium-sized species (Guerra 2001; Jorgenson 2000; Naranjo 2002).
+ However, there is evidence of the use of small rodents as sources of food, medicine
+ and ritual objects (i.e., Neotoma albigula, Sigmodon hispidus, and some pocket gopher
+ species) in the highlands of central Mexico (Mellink et al., 1986).
+ In this regard a study in the town of Santo Tomas Oxchuc, in the highlands of Chiapas,
+ Mexico, was conducted. The number of individuals per rodent species traded as well
+ as the biomass, sex, presentation (raw, cooked), and price of each rodent offered
+ by the salesman was recorded. Rodents were sold as food either raw with skin or
+ cooked. Fifty-three percent of all rodents sold were small-sized (<100 g), and most
+ of them (73.1 percent) were sold cooked. The most frequently traded species were
+ Neotoma mexicana, Peromyscus zarhychus, Ototylomys phyllotis, P. mexicanus, and
+ P. aztecus. Small, cooked rodents were more frequently sold than large, raw ones and
+ there was a significant increase in rodent sales in the rainy season (particularly July
+ and August) in comparison with the dry season. Among the three most traded rodent
+ species in Oxchuc, the Mexican wood rat (N. mexicana) was the most frequently sold.
+ The other two species were the hispid pocket gopher (Orthogeomys hispidus) and the
+ Chiapan deer mouse (P. zarhychus).
+ Meat samples obtained from rodents for sale in Oxchuc had a high protein content
+ (78.3 percent), as well as a high percentage (86.06 percent) of total digestibility. At
+ the same time, rodent meat was low in crude fiber (0.93 percent), as well as in fat and
+ non-nitrogenated components.
+ For local inhabitants, such mammals constitute a valuable natural resource producing
+ economic and nutritional benefits. However, uncontrolled rodent exploitation may also
+ have negative effects on some wild populations, such as those of P. zarhynchus, a
+ species endemic to the Chiapas highlands. The rodent demand in Oxchuc is higher
+ for sets of small, cooked mice (Peromycus aztecus, P. levipes, and P. mexicanus)
+ than for large, raw species (N. mexicana, O. hispidus). The sale of cooked rodents
+ allows traders to keep their products in good condition for a longer period, facilitating
+ transportation from remote communities. The Mexican wood rat (N. mexicana) was the
+ species most frequently traded raw and skinned. These large-sized rats are preferred
+ by local consumers probably because they supply more meat per kilogram than
+ smaller species.
+ The rodent trade generated an estimated income of Pesos 51 841 as recorded in the
+ 10 month study period. The total amount of raw rodents sold generated an income
+ of Pesos 22 051, while cooked rodents produced an income of Pesos 29 790. The
+ average cost of a raw, small-sized mouse (around 100 g) was between Pesos 2.50
+
+
+
+
+42
+  CASE STUDY 7              Rodent trade in Oxchuc, Chipas, Mexico (Cont.)
+
+  and 5.00. Large-sized rats and pocket gophers (>100 g) were sold at Pesos 10–30
+  each. The three rodent species that generated most income for Oxchuc traders were
+  O. hispidus (Pesos 10 655), N. mexicana (Pesos 7 125), and P. zarhynchus (Pesos
+  1 761).
+
+  Source: Adapted from Barragán, F., Reetana, O.G. & Narnjo, E.J. 2007. The rodent trade of
+  Tzeltal Indians of Oxchuc, Chipas, Mexico, Journal of Human Ecology, 35, pp.769-773
+
+
+
+
+    Capybara meat, which tastes rather              cuisine and remains so in parts of the
+like pork and is of a similar colour, is            Far East. Turtles remain a part of the
+traditionally cooked in many ways by                traditional diet on the Grand Cayman
+boiling, frying, grilling and roasting              Island in the Caribbean, so much
+
+
+
+
+                                                                                                   Small animals for small farms
+but most is eaten in the dried and salted           so that when wild stocks became
+form. Traditionally this delicacy is                depleted a turtle farm was established
+served with rice and plantains. The                 specifically to raise them for their meat
+fresh carcass dresses out at about 52               (see Case Study 8). The farm also
+percent but this is reduced to about 17             releases specimens to the wild as
+percent of the initial live weight in the           part of an effort to repopulate the
+dried form.                                         Caribbean sea. Fat from turtles is also
+    The flesh of turtles has long                   used in the Caribbean and in Mexico
+been considered a delicacy in many                  as a main ingredient in cosmetics
+cultures. Turtle soup has been a                    marketed under its Spanish name of
+prized dish in Anglo-American                       ‘Crema de Tortuga’.
+
+  CASE STUDY 8              Grand Cayman Turtle Farm
+  The Cayman Islands government has set about conserving the green sea turtle in a
+  big way. The Grand Cayman Turtle Farm at Boatswain’s Bay is one of the ways they
+  do it. Conservation plays a big part in the effort to save the turtles and this facility sets
+  out to redress the supply part of the problem. Feeding is easy as visitors (adults pay
+  a US$60 entrance fee and it costs US$25 for children aged 2-12) happily buy a bag
+  of feed at the door and sprinkle it on the water (these are the world’s best fed turtles!).
+
+  Turtles mate, lay their eggs and hatch their young in safety unmolested by people
+  or predators. Unmolested in the worst sense they may be but not entirely free from
+
+
+
+
+                                                                                              43
+  CASE STUDY 8            Grand Cayman Turtle Farm (Cont.)
+  human interaction as baby turtles are subject to daily indignity as they are picked
+  up and fondled by adoring visitors. The turtles seem to thrive on this treatment as
+  they grow to a good size. A proportion of the turtles is killed for sale as meat but the
+  majority is released into the sea to live among the reefs and wrecks around Grand
+  Cayman. The Boatswain’s Bay farm also supports two other endangered turtle
+  species, the hawksbill and Kemp’s ridley turtle which is the world’s most endangered
+  sea turtle.
+
+  Source: Adapted from Grand Cayman Wonderer. 2009. Cuddle baby turtles at the Grand Cayman
+  turtle farm (Available at http://www.grand-cayman-wanderer.com/grand-cayman-turtle-farm.
+  html)
+
+
+
+
+Fur and skins                                   the growth of micro-organisms
+In addition to meat many small                  that can damage or cause defects
+animals produce fur and skins as                in fur and skins and will help to
+a primary or secondary product.                 ensure a quality product ( see FAO
+Fur can be harvested from some                  Diversification Booklet No.8 Higher
+live animals several times over a               value addition through hides and
+lifetime as well as being an end                skins).
+product at slaughter. Prime quality                Angora ‘wool’, pelts and skins
+products require prime quality                  are produced by rabbits in addition
+treatment.    Correct treatment of              to meat although meat production is
+live harvested fur and correct after            by far the largest output from rabbits
+slaughter treatment of fur and                  in general. Angora wool occupies a
+skins should adhere to standard                 special position in the world textile
+practices. Flaying of skins should              trade (see Figure 12). The People’s
+be carried out carefully to avoid               Republic of China is by far the largest
+cuts and other defects. Cleanliness             producer of Angora wool at about
+– avoiding contact with blood and               2 000 tonnes per year. Argentina,
+faeces for example – is an important            the Republic of Korea and India also
+consideration for ensuring that                 produce small amounts of Angora
+the end product is of the finest                wool. There is a very small Angora
+quality. Correct initial storage is             rabbit wool industry in Bolivia
+also important and products should              where yields of 100-150 g fibre are
+be kept free of insects and other               produced every 70 days with the
+vermin. Cool storage will slow down             product being sold for export. Rabbit
+
+44
+                                                                                      Small animals for small farms
+FIGURE 12 Angora rabbits at the Technical University, Oruro, Bolivia
+(Photo by R. T. Wilson)
+
+
+
+pelts – the skin with the hair attached      several colour varieties of chinchilla
+– are used for clothing but mainly           have been developed including
+for accessory items such as scarves          white, beige, violet, black velvet
+or hats. Rabbit skins are normally           and sapphire. These colours are
+used for small items of clothing but it      controlled by recessive genes. The
+should be noted that the best quality        colour is usually very even which
+skins derive from the middle level of        makes it ideal for small garments or
+husbandry as the skins of the fastest        the lining of large garments though
+growing rabbits are thin and do not          some large garments are made
+work well (see Box 3).                       entirely of chinchilla. A single full
+    International trade in chinchilla        length coat made from chinchilla
+fur goes back to the sixteenth century.      fur may require as many as 150
+The fur is popular in the speciality         pelts and at current prices might cost
+trade as a result of the extreme             US$100 000.
+softness of its feel which arises from          Capybara skin is tough and
+the 60 or so hairs that sprout from          hard wearing and produces a very
+each hair follicle. Since the 1950s          high quality and much esteemed
+
+                                                                                45
+leather. At least one outlet in the            glove making. Known as carpincho
+United Kingdom produces trouser                leather (‘carpincho’ is the vernacular
+belts from capybara leather which              name of the capybara in Argentina,
+it describes as “Gaucho belts of               Uruguay, Paraguay and southern
+the ultimate in luxury leather,                Brazil) it commands a very high
+similar to velvety smooth suede                price on world markets because it is
+with a unique tooled finish”. There            heat resistant and stretches in only
+are also luxury leather outlets for            one direction allowing gloves to
+capybara in Argentina. Capybaras               stretch sideways but not lengthways
+produce some of the best leather for           and thus becoming loose.
+
+  BOX 3 Rabbit pelts and skins
+
+  Production of quality fur pelts is not compatible with intensive meat rabbit production
+  techniques. Rabbits are often slaughtered at an age or in temperate regions at a time
+  of year when their coats have not fully developed. Slaughter at 10 to 12 weeks means
+  rabbits still have an infant coat or are beginning the subadult moult. These thin and
+  unstable coats are not suitable for furs. The only season when the adult (age older
+  than 5 months) coat is stable and homogenous is winter. At other times moult areas
+  of greater or lesser size mean the coat is uneven and the hair is not firmly attached
+  to the skin. Some summer coats can, however, be homogenous especially those of
+  rabbits that have completed the subadult moult but the coat is thinner than the winter
+  coat. This rather inflexible growth cycle and seasonal changes in the coat create the
+  problem of simultaneous fur and meat production. Fur is therefore only a by-product
+  in intensive production.
+
+  No research has been done on moulting patterns in hot climates but in extensive
+  production systems rabbits are slaughtered at 4-6 months. Quality skins could thus be
+  produced in the tropics if proper skinning and preserving techniques are used.
+
+  In an unsorted batch of rabbit skins valuable pelts can be found side together with
+  useless waste. Sorting and grading should be done as early as possible. Sorting
+  is the first operation and determines the future use of the skin. Skins are sorted into
+  three grades:
+  • pelts for dressing (the term ‘dressing’ instead of ‘tanning’ is used for fur) are the
+     best (flawless) skins with regular shape and an intact, homogenous, dense and
+     well formed coat;
+  • pelts for shorn hair usually lack the proper shape or are not homogenous enough
+     for fur products but the hair is sufficiently long and healthy – they are shorn by
+     machine and used for textiles or felting (though the millinery trade is declining in
+     many countries) and the skin is then cut into fine strips (vermicelli) and made into
+     glue (another declining industry) or fertilizer.
+
+
+
+
+46
+  BOX 3 Rabbit pelts and skins (Cont.)
+
+  • waste skins are unusable except for fertilizer with the hair being gnawed, cut,
+    soiled, sweaty and parasite-ridden.
+
+  The price of pelts for dressing may be 20 times that of ordinary-quality skins. These
+  last increase the costs of labour, processing and transport.
+
+  There are three types of juvenile coat: that of the newborn rabbit, infant coats and
+  subadult coats. The first two are so small as to be unusable. The coat of the newborn
+  rabbit stops growing when the animal reaches 0.4 kg (for an average size breed); it
+  weighs only 8 to 10 g. The subadult coat is produced usually after 5 months of age
+  after a long (4 to 5 weeks) moult and only begins when the rabbit reaches 1.7 to 1.9
+  kg. The weight of the coat, and hence the length of the hair and its density, depends on
+  the season in which the hair develops and is about 40 g in summer and 60 g in autumn
+  or in winter. It is very difficult to obtain pelts for fur in intensive production systems
+
+
+
+
+                                                                                                           Small animals for small farms
+  (slaughter at 11 weeks) but a breeder might attempt to produce acceptable pelts for
+  shorn hair by using simple measures (animal housing, precautions at slaughter and
+  skinning). It is possible to produce pelts for fur in an extensive production system in
+  which production techniques are strictly adhered to, especially with regard to hygiene,
+  habitat and feeding.
+
+  Source: FAO.2006.Technology for agriculture : proven technologies for smallholders. Rabbit:
+  Skin, slaughtering and production of quality pelts (Available at http://www.fao.org/teca/content/
+  rabbit-skin-slaughtering-and-production-quality-pelts)
+
+
+
+
+    International trade in reptile                    handbags (see Figure 14), garments,
+skins derives mostly from five                        luggage, briefcases, wallets, belts,
+species. These are the American                       watchstraps and other small leather
+alligator, Nile monitor, black and                    goods.
+white tegu, reticulated python and
+red tegu. The presence of the two                     Eggs
+tegu species and the Nile monitor                     Green sea turtles, as well as other
+in this list is encouraging for small                 species, have been commercially
+animal production as they are                         harvested for eggs and food for
+similar to or slightly smaller in size                centuries. Illegal collecting continues
+than the green iguana whose skin                      but many are now bred in captivity
+could almost certainly compete                        (see Figure 15). Reptile eggs are little
+in the same market. Reptile skin                      used in European and North American
+products are very varied but mostly                   cookery but are prized by Arabs and
+comprise shoes (see Figure 13),                       Indians. There is a potential market
+
+                                                                                                      47
+FIGURE 13 Industrial ‘Western’ boots made of reptile skin in the United States of America
+(Photo by R.T. Wilson)
+
+
+
+
+FIGURE 14 Cottage industry handbag made of reptile skin, Mali
+(Photo by R.T. Wilson)
+
+
+
+48
+                                                                                   Small animals for small farms
+FIGURE 15 Captive bred green pacific turtle, Guayaquil, Ecuador
+(Photo by R.T. Wilson)
+
+
+
+for reptile eggs from captive bred or       particularly so for the small animal
+farmed animals.                             species which are endangered in
+                                            the wild and against which there
+Breeding stock                              are international proscriptions on
+The production of breeding stock –          capture or hunting. Thus the best
+animals that are not reared simply          possibilities for breeding stock
+to produce meat, fur, skins or other        include chinchilla, turtles and
+end products but are destined to be         iguanas.
+used to provide a pool of animals,             Smallholders who specialise
+often of superior genetic merit –           in producing breeding stock are
+offers possibly the most lucrative          almost certainly amongst the
+return to farmers engaged in small          most efficient and knowledgeable
+animal production. Breeding stock           members of the small animal
+of all species is valuable but is           farming fraternity. They will have
+
+                                                                             49
+a deep if not necessarily formal            Turtle plastrons (the part of the
+or ‘book-learned’ understanding          shell that covers a tortoise from
+of the genetic merit of their stock      the bottom) together with other
+and their intrinsic worth in terms       animals parts and plants are used
+of improving the animal stock in         in traditional Chinese medicine.
+general and in their financial value.    Taiwan still imports hundreds
+                                         of tonnes every year. A popular
+Other uses                               medicinal preparation based on
+Rabbits are very good producers of       powdered turtle plastron and a
+manure and as their urine is high in     variety of herbs is Guilinggao jelly
+nitrogen it makes a good specialist      although nowadays it is typically
+fertilizer. Rabbit milk is sometimes     made with only herbal ingredients.
+considered to be of great medicinal      Efforts are being made in the
+and nutritional benefit as a result of   People’s Republic of China to
+its high protein content.                satisfy the increasing demand for
+    A dictionary definition of           turtle meat as gourmet food and
+Guinea pig is “something used as         traditional medicine to rear turtles
+a subject of scientific research,        on farms, of which there were more
+experimentation       or     testing”.   than one thousand in the People’s
+Many rodent species and other            Republic of China in 2007. Turtle
+small animals are indeed used,           farms in Oklahoma and Louisiana
+often controversially, as ‘animal        in the United States of America
+models’ for medical and veterinary       also rear turtles for export to the
+research and, perhaps even more          People’s Republic of China.
+controversially, for research into
+the effects of cosmetics. Other          ■ Adding value
+rodents are now being used in areas      Value can be added to the primary
+of armed conflict as sniffer animals     product – be it meat, fur, skin or
+to detect land mines and other           other commodity – by preserving
+explosive devices.                       or transforming it or directing it at
+    Up to four litres of oil can be      a speciality market. In this context
+obtained from the subcutaneous           many small animals already have
+fat of a capybara in good body           added value as in many areas
+condition. This oil is considered        and for many societies they are
+an excellent cure for asthma in          considered authentic delicacies and
+Argentina, Brazil and Uruguay.           highly appreciated by gourmets
+
+50
+according to local and traditional      need to be assessed. These include
+eating habits. Of the types of small    the:
+animal that are the subject of this
+booklet, species which fall in to       • quantitative demand for
+this category are grasscutters in           processed products;
+Western and Central Africa, Guinea      •   market demand in terms of
+pigs in the Andean countries,               price and quality;
+capybara in the flooded areas of        •   base products available for
+South America and green iguanas             processing in terms of quality
+in Central America. In their own            and quantity;
+areas of distribution but often also    •   tools and equipment available
+further a field these are excellent         and required for processing;
+examples of highly valued and           •   cost of tools and equipment and
+
+
+
+
+                                                                                Small animals for small farms
+choice foods.                               their maintenance and spare
+   Preservation and transformation          parts needs;
+of the base product, often referred     •   needs for raw materials
+to simply as processing, is carried         (salt, other chemicals and
+out for a number of reasons. It can         preservatives, water) for the
+be considered as a form of storage          processing operation;
+that enables perishable goods to be     •   hygiene and food safety
+kept over a longer time. It can allow       measures that need to be
+smallholders to sell their produce          observed;
+not only at harvest (slaughter or       •   skills that are needed for the
+shearing of fur) but over a much            processing operation and if
+longer period.      Processing also         training is needed; and
+creates differentiated products,        •   capital and recurrent processing
+moving them from being a mere               costs and if finance is available
+commodity to the higher standard            or can be obtained through
+of a product. It further leads to           credit.
+less dependence on a few items
+for marketing, a greater product        The advantages accruing            to
+portfolio, value added products and     processing include:
+the possibility of obtaining higher
+returns.                                • delayed or phased consumption
+   Before considering setting up a          of the primary product;
+processing business several issues      •   improved household nutrition;
+
+                                                                          51
+• longer storage periods or shelf-        management and effective and
+     life;                                efficient marketing.
+•    easier storage and often                 Some examples of processed
+     occupying less space;                or transformed products that add
+•    reduced post-harvest and             value to the basic ‘commodity’
+     storage losses;                      can illustrate the possibilities
+•    wider range of marketing options;    of small animal production. In
+     and                                  South America capybara meat has
+•    possibilities of better labelling    been used to make several types
+     and ‘branding’.                      of sausage. Value can be added
+                                          to most meats (and their shelf-
+Processing may also be accompanied        life extended) by drying, salting,
+by some disadvantages including:          smoking, shredding and by the
+                                          addition of some seasoning. The
+• competition from large-scale            last is especially useful for the
+     commercial processors who may        blander meats such as rabbit.
+     be able to sell processed goods at   Value can be added to hides and
+     a lower price; and                   skins by taking them beyond the
+•    high costs associated with setting   simple drying process and, for
+     up and operating a processing        example, doing some tanning.
+     operation.                               As already indicated, supplying
+                                          such niche markets as the Fair
+   Processing      is     probably        Trade movement and the organic
+best undertaken as a group or             consumer can create considerable
+cooperative activity. This will           additional value.      A possible
+involve sharing of costs, a greater       source of added value in the
+quantity of quality produce               future or where there is already
+being manufactured, consistency           a high degree of control is that
+of quality and the probability            of Protected Geographical Status
+of a better bargaining position           (PGS) and its derivatives including
+with     merchants,   middlemen,          Protected Designation of Origin
+wholesalers and retailers. An             (PDO), Protected Geographical
+associative enterprise however            Indication (PGI) or Traditional
+does require good cooperation             Speciality    Guaranteed     (TSG)
+among producers, appropriate              (see Box 4).
+
+
+52
+ BOX 4 Geographical indications and traditional specialities
+
+ Private, national and regional certification schemes for agricultural products and
+ foodstuffs provide assurance that aspects of the product or its production method,
+ as laid down in a specification, have been observed. They cover a wide range of
+ initiatives that function at different stages of the food supply chain. They can operate
+ at business-to-business (B2B) level or at business-to-consumer (B2C) level. They can
+ make use of logos but especially at the B2B-level many do not. Certification schemes
+ in the European Union range from compliance with compulsory production standards
+ to additional requirements relating to environmental protection, animal welfare, taste
+ qualities and ‘Fair Trade’. Scheme owners are equally varied and cover the whole
+ range from farmers and producers, through NGOs, interest groups and retailers to
+ public authorities. Three European Union schemes known as (Protected Designation
+ of Origin (PDO), Protected Geographical Indication (PGI) and Traditional Speciality
+ Guaranteed (TSG)) promote and protect names of quality agricultural products and
+ foodstuffs. These schemes encourage diverse agricultural production, protect product
+
+
+
+
+                                                                                                 Small animals for small farms
+ names from misuse and imitation and help consumers by giving them information
+ concerning the specific character of the products.
+
+ • PDO covers agricultural products and foodstuffs which are produced, processed
+   and prepared in a given geographical area using recognised know-how.
+ • PGI covers agricultural products and foodstuffs closely linked to a geographical
+   area and at least one of the stages of production, processing or preparation must
+   take place there.
+ • TSG highlights the traditional character of a product either in its composition or its
+   means of production
+
+ To register a product name a group of producers (in the EU in the case of the EU) must
+ define the product according to precise specifications. It then sends an application
+ for registration and recognition to its national authority. Producers outside the EU can
+ either complete an application form that is available on line and send it to the European
+ Commission via their national authority.
+
+ Source: Adapted from European Commission.2011. Geographical indications and traditional
+ specialties (Available at http://ec.europa.eu/agriculture/quality/schemes/index_en.htm)
+
+
+
+
+■ Marketing channels               processors,    wholesalers    and
+Marketing involves operations retailers. Small animal produce
+and tasks that enable a farmer to can be aimed directly at final
+sell farm produce. Sales can be consumer markets such as local
+‘direct’ to a market or ‘indirect’ village markets (see Figure 16) or
+through local traders, middlemen, at business markets where products
+
+
+                                                                                            53
+ FIGURE 16 Dried and smoked grasscutter carcasses at local market, Lomé, Togo
+ (Photo by R. T. Wilson)
+
+
+
+are bought for further use or for           small animal production are not
+selling to another intermediate or          exclusive to that enterprise but help
+final market.                               to meet general livelihood needs.
+   In extended marketing channels           These may include a transport and
+investment will be needed in market         communications          infrastructure,
+sheds, collection points, cold storage      clean water, energy and buildings
+facilities and, possibly, in laboratories   for shelter and storage. The more
+for testing produce. Buildings and          developed the infrastructure the
+good road access provide the security       easier will be the establishment and
+and capability that allow people            undertaking of the activities required
+to produce, transform, exchange             by the enterprise. Information on
+and consume goods. Smallholder              the physical infrastructure including
+producers in remote areas often lack        the transport network and its related
+access to markets because roads             costs and the availability of energy
+and transport facilities are poor or        are needed to evaluate the potential to
+possibly non existent. Many of the          move a product along the marketing
+physical assets needed to undertake         chain.
+
+54
+    Physical communication networks        The market appraisal already
+are also important for transmitting        described can be very helpful to small
+messages along the supply chain,           holders in guiding decision-making
+either in the form of prices for quality   for production and marketing. In
+and quantity or descriptions of how        planning production, for example,
+a product should be presented or           it can provide guidance on what to
+processed. It is important to consider     produce, when to produce it, how
+a variety of factors at collection sites   much to produce and how much it
+and the first points of trade within and   will cost. In planning marketing it
+outside the community as these may         can provide information on what
+be key determinants of a successful        quantities are required, where
+marketing strategy.                        products can be sold, when they
+    The supply chain for the trade         can be sold, to whom they can be
+
+
+
+
+                                                                                    Small animals for small farms
+in reptile skins is an example of an       sold and the price at which they
+integrated marketing channel. The          can be sold. Marketing does not,
+chain varies from species to species       therefore, and as most people think,
+and country to country but the general     only take place at slaughter time. It
+flow is from hunters/farmers who           starts when the farmer chooses the
+sell skins to tanneries either directly    small animal and the products that
+or via middlemen who then resell           will derive from it and commences
+to the tanneries. The tanneries are        breeding and rearing operations.
+sometimes located in the country of        This is because all production must
+harvest although the biggest ones are      be directed at what the market needs
+more usually located in developed          and wants. In marketing terms it is
+countries such as France, Italy or         a very good strategy to have sold
+Singapore. These tanneries transform       the output or at least identified the
+the raw or cured skins into leather        probable outlet before it has been
+that is then bought by manufacturers       produced.
+who turn it into goods. In the final           A major challenge to small
+step retailers sell the leather products   animal production is to create a
+to consumers.                              market niche for the product. This
+                                           may involve overcoming consumer
+■ Marketing strategies                     reluctance to try a product from an
+In small-scale commercial production       unfamiliar animal. Even in very
+the potential opportunities should be      affluent areas, health concerns
+identified with probable customers.        about the high fat content of highly
+
+                                                                              55
+domesticated animal protein are             widespread adoption by providing
+adding to consumer interest in              information, training, arbitration
+alternate protein sources.                  services       and       infrastructure.
+    Rewards that accrue from                Production for an overseas export
+successful commercial production            market has the potential for excellent
+and marketing depend on the skills of       rewards but production, processing
+the farmer and the particular market        and packaging standards must be
+or markets being targeted. In near          commensurately high.
+subsistence production the level                Farming to a contract may be a
+of skill is unlikely to be high and         useful marketing strategy. Contract
+productivity is low. In this situation it   farming can be defined as production
+is also unlikely that the consumer can      carried out according to a prior
+afford a high price. As production          agreement under which the farmer
+becomes more commercialized the             commits to producing a given
+skills required and the levels of           product of a given quality in a given
+investment increase. The potential          manner and the buyer commits to
+rewards are greater in terms of higher      purchasing it. This is now a common
+yields and better quality but the           practice in Europe whereby the major
+level of risk also increases. Post-         retail chains enter into contracts with
+slaughter and marketing methods             intermediate processors and primary
+become relevant since markets may           producers (although the system is far
+be a considerable distance from the         from perfect and sometimes subject
+place of production. Producers must         to abuse). In many cases the buyer
+therefore familiarize themselves            provides the farmer with technical
+with improved post-slaughter and            advice, breeding or growing stock,
+marketing skills.                           feed and other inputs on credit and
+    Grades and standards become             offers a guaranteed price for the
+increasingly important with the             output.     Proponents of contract
+development of high value markets.          farming argue that it links small-
+Standards can be set by private             scale farmers to lucrative markets
+companies, trader associations or           and reduces the constraints they
+public bodies but when common               face in diversifying into high value
+standards are absent the public sector      commodities and connecting to
+is required to develop them. Once           markets.     Contract production is
+standards have been set the public          not appropriate to all commodities
+sector can also encourage their             but it can be useful in making the
+
+56
+production of high value product for    only in mainland People’s Republic
+a quality sensitive market viable for   of China and Taiwan but also in
+small-scale farmers.                    Mexico (nearly 32 million turtles
+   New and unusual market areas         were exported from the United States
+can be sought and can prove to be       of America to these countries in
+very lucrative once they have been      the 3-year period 2002 and 2005).
+‘captured’. There are, for example,     Worldwide there is also a large
+huge markets for turtle meat not        demand for turtles as pets.
+
+
+
+
+                                                                               Small animals for small farms
+
+
+
+
+                                                                         57
+ Support services to promote small animals
+
+
+■ Technical support                         expertise required also increase. It is
+Training technical staff and producers      therefore essential that the capacity
+in     small    animal        production,   available for resource management,
+slaughtering and appropriate practices      production, processing, and product
+in processing is a challenge but the        promotion and marketing is assessed.
+economic, social and environmental          Where these need improving their
+benefits are such that it is undoubtedly    development should be facilitated to
+worth the effort (see Case Study 9).        encourage and promote the transition
+   Many societies have considerable         from subsistence into trade or to
+
+
+
+
+                                                                                      Small animals for small farms
+traditional knowledge and skills            expand existing trade.
+in regard to the production,                    Information on human resource
+management,                 slaughtering/   capacity can be used to evaluate
+harvesting, processing and use of           existing levels of technical skills and
+their farm products. They also              experience in production, processing
+have knowledge of the location and          and marketing, and can help identify
+identity of local or regional markets       potential interventions.         Other
+and traders. Development projects           required skills include the ability to
+that recognize these skills and             interpret market information. Some
+build on them in order to provide           areas of expertise that could have an
+more income and to ensure that the          influence on whether or not small
+enterprises are sustainable have a          animal activities are successful
+greater probability of success.             include:
+   The set of skills required, however,
+greatly depends on the level and scale      • knowledge of the impact of pests
+of the activities that are undertaken           and diseases on final output at all
+or envisaged. As activities develop             stages of the production cycle;
+to an extent that they require more         •   impact of welfare and slaughter
+sophisticated processing and as                 and processing techniques on
+trade moves from local to regional,             product quality;
+national or even international the          •   experience of various marketing
+skills, resources and entrepreneurial           strategies; and
+
+
+                                                                                 59
+• understanding the links between                   production practices and systems, find
+     variation in quality of the product            the problems involved, test possible
+     and the final price.                           solutions and as a consequence adapt
+                                                    the most suitable farming practises.
+    A common constraint in small                        The FFS approach is based on a
+animal production and marketing skills              ‘learning-by–doing’ approach where
+is the lack of appropriately trained                farmers learn directly in the ‘field’
+extension staff. Training of trainers can           working with small animals and each
+educate local extension staff, who then             activity that they carry out involves
+in turn train small-scale farmers and               action, observations, analysis and
+others in the small animal supply chain.            then taking a decision. The aspects
+In the particular case of small–scale               considered do not only focus on
+farmers small animal Farmer Field                   the ‘how’ but importantly on the
+Schools (FFSs) can be organized. The                ‘why’. Further information on FFSs
+objective of FFSs is to develop local               for livestock can be found in the
+small-scale farmer capacity with an                 Selected further reading section of
+intent off getting them to analyse their            this booklet.
+
+  CASE STUDY 9              Training at Joyce-Giwu grasscutter farm, Ghana
+
+  Ghana imports 80 percent of the estimated yearly national meat requirement of 200
+  000 metric tonnes. This figure suggests that there is the need to develop other sources
+  of acceptable meat in addition to conventional livestock. Grasscutter meat is a delicacy
+  in Ghana because of its high protein contents and low cholesterol level as compared
+  to beef and goat meat.
+
+  The Joyce-Giwu grasscutter farm obtained approval by the Ministry of Food and
+  Agriculture as a model training centre for grasscutter production and marketing.
+  Prospective grasscutter farmers (youth, unemployed, pensioners, single parents,
+  students, workers, school dropouts) are trained in production matters. Training for
+  workers lasts about three days and for non-workers last five days. Training sessions
+  are both theoretical and importantly practical. Specialist courses, such as farm
+  management and dealing with banks, are also organized. At the end of the course
+  prospective farmers can be provided with genetically improved breeds of grasscutters
+  and cages. Novice farmers are mentored for one year for monitoring purposes, so as
+  to ensure that they practice good grasscutter husbandry and refresher courses are
+  organized. Encouragement is also given to form grasscutter farmers’ associations.
+
+  Source: Adapted from Ministry of Agriculture and Food, Ghana, training centres website, Joyce-
+  Giwu grasscutter farms. (Available at http://www.mofa.gov.gh/training_centres.html)
+
+
+
+
+60
+■ Business, marketing and                about market conditions. If farmers
+    entrepreneurial skills training      were better informed about prices
+As with many farm enterprises a wide     and trends they would be in a
+range of skills are required and these   much better bargaining position
+are not only technical. Business and     and would be able to obtain higher
+marketing skills required may at         prices from traders. If traders were
+first sight appear to be simple but in   better informed, trading would be
+many cases they are only acquired by     less risky and they would be able to
+experience and learning by doing. In     reduce their ‘risk premium’. Both
+successful small animal production,      government and farmer organizations
+sound technical knowledge must           can play a useful role in collecting
+be linked to good business and           and disseminating prices and other
+marketing skills.                        important marketing information.
+
+
+
+
+                                                                                     Small animals for small farms
+    Specific needs for training          Moreover training and support to
+in entrepreneurial, business and         small-scale farmers on how to use
+marketing skills include:                such information is also important.
+                                             Producers, processors and traders
+• training in farm business              can gain access to market information
+    management;                          through good organization. This
+•   training in marketing;               will include contacts with traders,
+•   training in entrepreneurship;        knowledge of additional sales outlets
+•   linking farmers to markets:          and information on market trends.
+    supply chain and networks;           Market information should relate
+•   value adding though training in      to the quantity, quality and price of
+    processing;                          various products in various markets.
+•   encouraging and supporting           It is essential when attempting to
+    cooperation among producers,         enter new markets and in ensuring
+    processors and purchasers.           that market share is maintained.
+                                         Whereas information is essential,
+■ Market information                     information alone is not sufficient as
+A major reason for marketing             producers need to have the capacity to
+margins in developing countries          act upon it. Market information – or
+being high is that primary producers     the lack of it – is less of a barrier for
+have little information about current    short supply chains where generally
+prices in nearby markets. Many local     ungraded and raw produce is sold at
+traders have incomplete information      a local or regional level. Information
+
+                                                                               61
+becomes more important for trade in       can be formal or informal.          A
+processed or graded products that sell    regular characteristic, however,
+at different prices.                      is help and support from families
+    Supply chains are very vulnerable     and friends. Groups strengthen the
+where markets are concentrated            individual. They allow access to the
+in a monopoly or near monopoly            broader society and to information
+of information. Producers usually         of various kinds.       Social assets
+live and work in remote areas             such as networks and producer
+and middlemen are often the only          and marketing associations can be
+source of information between             extremely important in the success
+producers and markets. Community          of small enterprises involving
+organizations can allow producers         small animals. Local associations
+to offer sufficient produce to interest   should be able to provide marketing
+new traders or to negotiate improved      support (including dissemination of
+relations with existing traders.          marketing information) and legal
+    Small-scale farmers as well as        and policy advice. They should
+others involved in small animal           also be able to organize collectors
+supply chains can be supported in         and traders to increase their market
+establishing links and contacts not       power. A further function of groups
+only with marketing information,          is to provide or facilitate access to
+but with the promotion and                credit.
+support in formal organizations               Organizations of smallholder
+such as producer and marketing            farmers bring many benefits and
+organizations for small-scale farmers,    have many advantages. They are
+trader organizations, commodity           set up to serve the interests of the
+associations, etc.                        members and to be directed and
+                                          managed by them although in some
+■ Organizational options:                 cases professional staff may be hired
+    producer groups                       to manage an association. Service
+Individual producers, traders and         provision is driven by members’ and
+retailers have small voices that are      market needs. Associations provide a
+often not heard nor listened to. The      forum where all members have equal
+formation of groups can contribute        rights and can voice their concerns.
+to greater empowerment through            The formation of associations among
+making those voices stronger as           smallholder farmers enables donor
+well as speaking as one. Groups           sponsored projects to be delivered in
+
+62
+a far more cost effective manner and      and also generate employment
+training can be more easily provided.     opportunities,     strengthen     the
+Other advantages include the sharing      democratic process and encourage
+of knowledge, for example, the best       dialogue in the local community.
+species and breed characteristics             Creation of and participation in
+for a particular enterprise and the       networks through government, non-
+type and kind of feed that is best        governmental organizations (NGOs)
+for the enterprise and where it can       and the private sector can in turn
+be obtained. The sharing of risk is       lead to more formal and intimate
+another advantage as are the ability      contact with regional, national and
+to reduce the costs of feed, and of       international partners, identify and
+veterinary services.                      provide or find sources of training,
+    Associations not only provide an      identify new markets and improve
+
+
+
+
+                                                                                   Small animals for small farms
+effective means for self-realization      understanding of the industry.
+and capacity building of their            Cultural, social and organizational
+members but also have important           issues are important in determining
+spill over effects within the wider       the direct and indirect benefits of
+community. Associations can also          small animal production for various
+increase rural mobility and create        social groups and between men and
+a demand for associated services          women (see Figure 17).
+
+
+
+
+FIGURE 17 Woman member of Angora rabbit producer group, Simao, the People’s
+Republic of China
+(Photo by R T. Wilson)
+
+
+
+                                                                              63
+   A transparent legal basis              to develop credit services that can be
+is    required     for    participatory   used by smallholders in the context
+organizations in order for them to be     of the local production system as well
+able to conduct business development      as being profitable for the institutions
+on their behalf and for the benefit       themselves. Smallholders need to
+of their members. Establishing an         upgrade their financial management
+association is often complex and          skills, including business planning,
+expensive in many countries. In           understanding of cashflow and
+such countries there is a clear need to   simple bookkeeping.
+review and, if necessary, revise the          Credit may be necessary not only
+legislation related to the promotion      for individuals but also for producer
+of market-oriented development            and marketing associations. Finance
+by smallholder farmers. Existing          is needed for collection centres, for
+legislation is often a hindrance rather   quality control and product grading
+than a help to the development of         and to bulk up supply to a level where
+farmers’ associations and to their        traders will purchase it. Access
+business activities.                      to credit could enable small-scale
+                                          farmers to increase their income
+■ Financial services                      through higher volumes that can be
+Lack of or difficulty in obtaining        sold at remunerative prices. Longer
+financial services is often a major       term loans are needed for investments
+limiting factor for       smallholder     in animals and equipment but access
+farmers.      This is especially a        to such financial services is often
+problem as they begin their move          problematic for those who live in
+from subsistence to market oriented       rural and remote areas especially
+activities. Access to credit is one of    because, in most cases, they lack
+many conditions for investment in         adequate collateral.
+improved production methods and               Savings programmes should be
+systems. Government services have         developed in parallel with a credit
+been used in the past to provide          scheme as it has been shown that it
+smallholders with credit but they         is the savings option that is initially
+have rarely been effective.         A     used in preference to the borrowing
+sustainable credit scheme needs to        one.     Savings     facilities     help
+be linked to existing or new banking      households to build up assets over
+systems. Financial institutions need      time that can be used for investment,
+
+
+64
+consumption and to mitigate effects            and loans at reasonable interest
+of unforeseen events and risk. For             rates and;
+a credit scheme to be sustainable,         •   the willingness of entrepreneurs
+however, it is important to ensure             to invest in key components of
+that, in addition to access to markets,        the marketing chain.
+beneficiary households also have
+sufficient labour, knowledge, skills       ■ Veterinary services
+and access to feed and are able to         Both preventive and curative
+provide adequate care for animals.         veterinary services are required
+    Information       on       financial   for small animal production.
+capacity can be used to determine          Concurrently these services should
+the extent to which individuals and        be provided by both the public and
+communities are integrated into            private sectors in cooperation rather
+
+
+
+
+                                                                                    Small animals for small farms
+the cash economy, have access to           than in competition.
+different forms of financial services          The public sector has a role on
+and have an effective demand for           regulation, preventive veterinary
+investment capital. On a family or         services, food safety standards,
+individual basis there are likely to       research, laboratory work and some
+be differences in access to credit         aspects of training. The private
+and other financial facilities from        sector should be mainly if not
+both socioeconomic and gender              entirely responsible for clinical
+status points of view. Factors which       veterinary services and also for
+may influence whether or not small         some aspects of training. Clinical
+animal production activities are           services can be supplied by fully
+successful include:                        qualified veterinarians, by veterinary
+                                           assistants or by community animal
+• speed and rate at which money            health workers or para-veterinarians
+    and time invested in production        (see Case Study 10). This three
+    activities are returned;               tier system can be very effective
+•   compatibility between income           in reducing costs of health care,
+    generating and subsistence             making them more affordable to all
+    activities;                            and bringing health care closer to
+•   the availability of investment         the community, especially if private
+    capital and access to external         veterinary pharmacies are also set up
+    financial services such as credit      (see Figure 18).
+
+
+                                                                              65
+ CASE STUDY 10 Community animal health workers
+
+ MacDonald lives in Nzeluni village near Mwingi in the Eastern province of Kenya.
+ Trained as a community animal health worker by FARM-Africa, he was given a drug kit,
+ bicycle and mobile phone. He treats and gives advice on animal health to local farmers
+ in his community and these days his business is thriving. He has almost 80 clients and
+ earns around Kenyan Shillings TSh3 000 (US$231) a month. Not only is he now able
+ to get his basic needs met but he can also afford to build himself and his new wife a
+ larger house as well as employ someone else on his farm.
+
+ Since his training, he now helps people in his community with managing their poultry,
+ cows and goats. Joyce Mwanziu, a member of his community, says “what I have
+ learnt from MacDonald is a preventative approach -- as a result my animals can fetch
+ a better price in the market if they are in better condition”. According to Dr. James
+ Kithuka, FARM-Africa, Mwingi, “the level of awareness of animal health in farmers is
+ rising -- they are seeking more advice -- and that must translate into more healthy
+ animals”.
+
+ Community animal health workers are trained by FARM-Africa in basic animal
+ healthcare to be able to deliver services and drugs to farmers and to provide farmer
+ to farmer training. “A decentralised vaccination and animal health system is important
+ as this enables the community to take care of their own livestock, look for drugs, have
+ their own drug stores and treat the animals themselves” says Dr Joseph Wekundah,
+ Livestock Specialist, BioTechnology Trust Africa.
+
+ FARM-Africa has pioneered a ‘three-tier’ animal health system in Eastern Africa and
+ demonstrated that it is financially viable and capable of delivering quality and affordable
+ animal health services even to poor livestock keepers in remote areas. There is a
+ vet at the top, several veterinary paraprofessionals (animal health assistants) in the
+ middle who have usually received two to three years formal training, and a number
+ of Community-based Animal Health Workers (CAHWs) at the grassroots level who
+ have a few weeks basic training. According to Dr. Christie Peacock, CEO FARM-
+ Africa, “there is great potential to replicate this successful system of veterinary service
+ delivery and benefit millions of livestock keepers. FARM-Africa is looking at the
+ potential of doing this through a franchised service model. Franchising offers many
+ advantages including economies of scale, high quality standards and tried and tested
+ business management.” GALVmed, a charity and not-for-profit global alliance of
+ public, private and government partners, sees it as crucial to work with partners such
+ as FARM-Africa whose expertise, commitment to community engagement and local
+ distribution networks have forged trust and are improving the lives of poor people
+ who have access to local people and local networks for distribution of vaccines and
+ animal health care.
+
+ Source: Adapted from GALVmed.2009.MacDonald Munuve, community animal health worker
+ (Available at http://www.galvmed.org/path-to-progress/macdonald-munuve-community-animal-
+ health-worker)
+
+
+
+
+66
+                                                                                           Small animals for small farms
+FIGURE 18 Private veterinary pharmacy selling a range of drugs and small equipment,
+Kassala, Sudan
+(Photo by R. T. Wilson)
+
+
+
+Conventionally trained veterinarians        goods. Building roads and improving
+and animal health assistants are likely     the surface of existing roads reduces
+themselves to require specialized           both the time and cost of getting
+training in small animal production         produce to market.         Investment
+if they are to ensure effective animal      in the development of essential
+health care. In order to ensure a           infrastructure, such as roads and
+sustainable animal health system            communications, can be justified
+a mixture of public and private             partly on the economic benefit derived
+financing is required but all financial     from small animal production and on
+costs related to drugs and services         the expectations that more benefits
+should be paid for by the small animal      will follow from the development of
+producer.                                   other farm and non-farm businesses.
+                                                A key factor in establishing
+■ Transport infrastructure                  commercial production is access to
+One of the largest marketing costs          market. It is not advisable to develop
+farmers face is that of transporting        a commercial small animal production
+
+                                                                                      67
+enterprise unless it is physically          at all, are often based on standards
+possible to get the product to market.      from developed countries with a
+Whatever form of transport is used          modern livestock sector where home
+it must be adequate to maintain the         and small-scale processing have been
+quality of the product. For specialized     forced out of operation and have
+transport, such as that possibly            virtually disappeared. Many of these
+requiring a cold chain, market              policies are clearly inappropriate in
+intermediaries have a more pertinent        developing countries where very high
+and specialized role. Commercial            standards of processing and marketing
+transporters are likely to have better      cannot be maintained and especially
+access to financial and physical assets     where consumers are not willing or
+and are probably in a better position to    cannot afford a higher price for animal
+make up a bulk consignment with the         products.
+required quantity and quality.                  Formal and informal markets are
+    Transport costs are often one of        important in responding to consumer
+the highest outgoings in marketing.         demand. Realistic standards for both
+Transport therefore needs to be             need to be considered. Standards
+carefully planned and managed.              and food safety are important for
+Whereas small animal production             development of the formal market.
+would have difficulty in making a           The cost of processing, packing and
+case for new transport and transport        transport through the supply chain
+infrastructure it could, together with      require regulating to protect against
+other similar initiatives, apply pressure   unfair competition. The public health
+to local authorities to ensure that         hazards of transmission of zoonotic
+transport infrastructure is functional      and other diseases are real but need to
+and maintained so that vehicles can         be balanced against the complications
+move speedily and safely and not            and cost of control. Producers in urban
+suffer heavy maintenance and fuel           and peri-urban areas generally benefit
+costs. Roads that are badly maintained      most from an unregulated market
+and cause problems in connecting            whereas more distant producers suffer.
+rural to urban areas can be considered      Policy should aim to strike a balance.
+a major marketing constraint.               Public health concerns need to be
+                                            considered and addressed in ways that
+■ Public policy                             deal with the realities of local markets
+Livestock policies in general in            without threatening smallholder
+developing countries, if they exist         livelihoods.
+
+68
+   Policy      interventions       should       In many developing countries
+include:                                    participation by rural people in
+• promotion of village/household            the political process is virtually
+   processing systems for local             non-existent, in part because of
+   markets;                                 their low level of organization. To
+• guidelines for quality control and        realize the full benefits of small
+   food hygiene appropriate and             animal production strong producer-
+   directly applicable to producers,        managed organizations need to
+   collectors and processors in both        be established and developed at
+   the formal and informal parts of         local and higher levels in order to
+   the private sector (it is perfectly      maximize the impact of the small
+   possible to develop a guide for          amount of product produced by each
+   good hygiene practices(GHPs)             farmer. History has demonstrated
+
+
+
+
+                                                                                    Small animals for small farms
+   for all participants that strike a       that strong producer organizations
+   balance between the economics            based on the production and
+   of smallholder production and            marketing of farm goods also
+   marketing and public health              empower the community in other
+   issues);                                 aspects of life. This can help the
+• promotion of systems in which             community to have considerably
+   producers benefit economically           more influence on policy decisions
+   from the added value of better           associated with their daily life.
+   quality (quality is an important             Improved, more efficient and
+   factor in setting prices); and           sustainable livestock production
+• provision of information and              leading to improved livelihoods
+   education for all stakeholders           can pressurise public services
+   in the chain from producer to            into providing additional support.
+   consumer as this is important to         Infrastructure development in many
+   ensure the proper quality of the         rural areas has generally been very
+   products. Licensing of traders and       slow and participation in decision
+   processors to allow monitoring of        making by the rural poor has been
+   quality and handling procedures          limited. When, however, smallholders
+   could be a means to achieve              provide increased revenues to local
+   this but licensing in itself is not      authorities they have a right and can
+   sufficient and further training is       expect a response to demands for
+   essential for improving product          greater investments in infrastructure
+   quality.                                 and services.
+
+                                                                              69
+■ Sustainable services for all           especially in terms of wireless
+Services provided need to be             communication technology and all
+accessible and appropriate to all        its advantages that its operation can
+those involved in small animal           provide to rural and remote regions.
+production and marketing. This           Media can also be very effective
+means, for example, that small-scale     in making services sustainable and
+farmers can access training as well      accessible, radio is a prime example
+as small animal traders. Very much       of this.
+the same is valid for other services         Embedded        within     support
+required by this particular sector:      services there is the need to promote
+access is fundamental. Further           humane treatment of animals as
+services need to be sustainable:         well as sustainable production that
+services are provided for the long-      considers environmental impact, use
+term and resources and planning          of natural resources, and careful use
+are devoted to this goal. There is       of hazardous inputs. Materials and
+little or any use in having services     resources required for production
+up front that only operate efficiently   need to be sourced locally and local
+and effectively for a short period of    alternatives found. For example
+time and then cannot continue as a       equipment and tools should be
+result of resources. Services need to    obtained, maintained and repaired
+be seen from a long term perspective     locally. This contributes to the
+and importantly consider the need        livelihoods of others in the locality.
+for constant improvements and            The more sustainable projects will
+updating of services.                    strive to use available assets and not
+    Dissemination of information         depend on imported resources or
+through training and extension is        equipment.
+one of the fundamental aspects of            Sustainable production does
+support services for small animals       require sustainable services.       In
+and those involved. However, and         the environmental and economic
+as stated previously, services need      contexts of the twenty first
+to incorporate improvements and          century there is a need for a mix
+updates that, for example may derive     of service providers, for public-
+from research and development            private technical partnerships and
+in improved animal breeds. The           collaboration, and for a combination
+use of technology should also            of public-private and individual
+be considered as a viable option,        financing (see Table 3).
+
+70
+   The design of support strategies            financial, technical and managerial
+mainly depends on the intentions               abilities and the general economic
+of the organizing agency and                   and political framework in which
+responsible   authorities,    their            the strategy is to be embedded.
+
+  TABLE 3 Matrix of services and providers for sustainable service
+          provision for small animal production
+
+  Service          Provider       Financing    Supervision    Comments
+
+  Base             Private        Private/     Private/       Species endangered in
+  breeding                        Individual   Public         wild should be obtained
+  stock                                                       from captive bred/farmed
+                                                              animals
+
+
+
+
+                                                                                                  Small animals for small farms
+  Preventive       Public         Public/      Public         Some services could be
+  veterinary                      Private                     contracted to private sector
+  services
+  Clinical/        Private        Private/     Public/
+  Curative                        Individual   Veterinary
+  veterinary                                   Associations
+  services
+  Food safety      Public         Public       Public
+  Advisory/        Private/       Private      Private/       Some public financing
+  Extension        Public                      Public         possibly justified
+  services
+  Feed             Private/       Individual   Private/       Public responsibility for
+  supplies         Individual                  Public         quality standards/feed
+                                                              description
+  Processing/      Private/       Private/     Private/       Public oversight of quality/
+  Marketing        Associations   Individual   Public         hygiene standards
+  Research/        Public/        Public/      Public         Some services possibly
+  Laboratory       (Private)      Private                     contracted from public to
+  services                                                    private
+  Financial        Private        Private      Private        Fully recoverable at
+  services                                                    realistic interest rates
+  Training/        Private        Private/     Public/
+  education                       Individual   private
+  Infrastructure   Public         Public       Public         Roads/Markets; cost
+                                                              recovery should be in place
+
+
+
+
+                                                                                             71
+■ Role of the advisor                      • Determine the financial
+Relevant, effective and demand-                institutions in the area of
+driven agricultural advisory services          interest, credit availability
+are essential if small holder producers        and accessibility, terms and
+are to supply the quality products             conditions, etc.
+that consumers are demanding. Good         •   Advise on profitability and costs
+advisory services are required to              for a small animal enterprise.
+promote and advise on production and       •   Provide production and
+marketing matters as well as understand        marketing advice.
+the small animal subsector and overall     •   Promote the formation of
+agricultural sector and related trade.         associations.
+
+   Areas advisors need to address
+are:
+
+• Understand the small animal
+     sector at the national level and in
+     the local area of interest.
+•    Collect information on
+     opportunities and challenges in
+     the short and long term in the
+     particular sector.
+•    Estimate the potential of various
+     small animal breeds in the
+     geographical area of interest.
+•    Feasibility of small animal
+     enterprises in the geographical
+     area of interest as related to
+     small-scale farmers and other
+     actors in the supply chain.
+•    Ascertain the required input
+     supply chain for the area and
+     materials required, along with
+     prices, suppliers, etc.
+•    Appraise local supply chains in
+     the livestock sector.
+
+72
+             Opportunities and challenges
+
+
+■ Opportunities                           farmed small animals both in their
+Given the economic and ecological         countries and even among those who
+advantages of small animal farming it     have immigrated overseas. This
+deserves considerably more attention      trend helps to promote peri-urban and
+than it has so far received. The          urban farming of these small species.
+need to produce animal protein for a      The fact that this type of activity has
+relatively modest investment is more      its own name shows that researchers
+pressing than ever at a time when the     and livestock experts are at last ready
+price of other animal proteins such       to recognise local species long prized
+
+
+
+
+                                                                                    Small animals for small farms
+as fish and meat from large animals       by communities in many tropical
+is soaring in most countries. Small       countries. The keeping of small
+animal keeping should not be seen         animals is an affordable solution for
+as a rival to classic livestock rearing   women, young people and landless
+but as a complement to other farming      farmers since it requires little space
+activities. Small-scale farming of        and needs only basic equipment that
+small animals that can easily be          is cheap and easy to make.
+managed by women should be more               The major problems facing
+widely seen as a valuable weapon          increased use of small animals are
+in the fight against malnutrition         conventional attitudes to change
+and poverty. It provides protein to       and to the unknown. The types of
+the poorest families and especially       husbandry discussed in this booklet
+children who would otherwise eat no       are already accepted by many small-
+meat at all in cultures where tradition   scale and poor farmers and others
+dictates that the head of the family      who are faced with little choice in
+should take priority.                     the activities they undertake. A
+    In many parts of the world            small sample of the possibilities for
+consumers prefer so-called bush meat      managing and reaping the benefits
+which is considered a much greater        of a wide range of ‘livestock’ types
+delicacy than beef or sheep meat. In      and ‘species’ has already been
+many large towns clients nostalgic        discussed. There are almost limitless
+for the flavours of their home villages   opportunities for developing other
+are prepared to pay a premium for         species. Research on and development
+
+                                                                              73
+of these opportunities will support              organic and fair trade variants;
+an effective contribution of tropical        •   domesticate and regularly produce
+livestock to sustainable production,             marketable wild species. Shifting
+environmental conservation and                   from collecting and hunting
+the maintenance or enhancement of                to breeding not only avoids
+biodiversity.                                    ecological damage but also creates
+    The main opportunities lie in                jobs, as for example with the
+recognising the potential of products            West African grasscutter which
+and markets. Strategies aimed at                 provides an excellent case of an
+sustainable development need to build            emerging industry with breeders
+on real growth potential that enables            and craftsmen making cages;
+people to generate at least part of the      •   target high value market segments.
+funds to pay for the necessary services.         Even in developing countries
+Among the main opportunities are:                there are increasing numbers of
+                                                 supermarkets and hotels that offer
+• using the comparative advantages               new outlets for high value local
+     of smallholders;                            fresh products.
+•    targeting local markets that are
+     well known by smallholders;             ■ Challenges
+•    build on existing market links to       Providing sufficient food of sufficient
+     explore the possibilities for adding    quality is one of the world’s major
+     value through cottage industries,       challenges in the twenty first century.
+     including the development of            Producing this food will lead to food
+     non-traditional products from           security, improved human health
+     conventional raw materials and the      and a higher plane of nutrition. To
+     potential that lies in the transport,   achieve the result sustained increases
+     packaging and marketing services        in animal production and productivity
+     related to agriculture;                 will be required.
+•    promote product differentiation
+     within established markets                 Among the major constraints for
+     rather than establishing new            successful development of the small
+     products in a tough food market,        animal subsector are:
+     strategies should look for
+     product differentiation in already      • inadequate attention in both
+     established markets, for example,           the public and private sectors
+
+
+74
+    to research and training for          • finding or providing financial
+    small animal producers and               support in the initial stages of the
+    production;                              enterprise.
+•   inadequate services for inputs
+    including feed and finance and
+    animal health;
+•   weak producer organizations that
+    suffer from poor management
+    and lack of political influence;
+•   poor or non-existent
+    infrastructure (which is a general
+    constraint for economic growth
+    in rural areas); and
+
+
+
+
+                                                                                    Small animals for small farms
+•   unreliable and costly access to
+    profitable markets and lack of
+    market information.
+
+   Developing a technically and
+economically viable small animal
+subsystem is a complex and long
+term process. Challenges litter the
+route to success. These include
+technological, economic, social and
+political challenges at both the micro-
+and macro-scale. Amongst the final
+major challenges are:
+
+• identifying small producers’
+    objectives (subsistence, semi-
+    commercial, commercial);
+•   identifying market opportunities
+    and ensuring that they are
+    evaluated correctly before
+    commercial production begins;
+    and
+
+
+                                                                               75
+                Selected further reading
+
+
+Adu, E.K., Alhassan, W.S. & Nelson, F.S. 1999. Smallholder farming
+of the greater cane rat, Thryonomys swinderianus, Temminck, in
+southern Ghana: A baseline survey of management practices, Tropical
+Animal Health and Production 31, pp. 223-232.
+
+Ajayi, S.S. 1977. Live and carcass weights of giant rat Cricetomys
+gambianus Waterhouse and domestic rabbit Oryctolagus cuniculus ,
+East African Wildlife Journal 15, pp. 223-227.
+
+
+
+
+                                                                           Small animals for small farms
+Baptiste, R. & Mensah, G.A. 1986. The cane rat – farm animal of the
+future? World Animal Review 60, pp. 2-6.
+
+Barragán, F., Reetana, O.G. & Narnjo, E.J. 2007. The rodent trade of
+Tzeltal Indians of Oxchuc, Chipas, Mexico, Journal of Human Ecology
+35, pp.769-773.
+
+CIRAD. 2003. Les élevages non conventionnels : Le Mémento de l’Agronome,
+Centre de coopération internationale en recherche agronomique pour
+le développement, Montpellier, France, pp. 1617-1646.
+
+Díaz, D.E.P. 2001. Proyecto de Conservación, Manejo y Aprovechamiento de
+las Iguanas en México, Dirección General de Vida Silvestre, SEMARNAP,
+IV Taller Nacional sobre Manejo de Iguanas en Cautiverio, Puerto
+Ángel, Oaxaca, Mexico.
+
+European Commission. 2011. Geographical indications and traditional
+specialties (Available at http://ec.europa.eu/agriculture/quality/
+schemes/index_en.htm).
+
+FAO. 2007. A guide to marketing costs and how to calculate them, by
+A.W. Shepherd, FAO Marketing Extension Guide, Rome.
+
+
+                                                                     77
+FAO. 2006. Technology for agriculture: proven technologies for smallholders.
+Rabbit: Skin, slaughtering and production of quality pelts (Available at
+http://www.fao.org/teca/content/rabbit-skin-slaughtering-and-
+production-quality-pelts).
+
+FAO. 2005. Talking about money, by J.Heney, Rome.
+
+FAO. 2004. Good practices for the meat industry, No.2, Rome.
+
+FAO. 2000a. Understanding and using market information, by
+A.W. Shepherd, FAO Marketing Extension Guide No. 2, Rome.
+
+FAO. 2000b. Enhancing farmers’ financial management skills, by
+J.Heney, Agricultural Finance Revisited No. 6, Rome.
+
+FAO. 1997a. The Rabbit - husbandry, health and production, by F.
+Lebas, P. Coudert, H. de Rocambeau, & R.G. Thébault, Animal
+Production and Health Series No. 21, Rome.
+
+FAO. 1997b. Agricultural and food marketing management, by
+I.M. Crawford, AGS Marketing and Agribusiness Text Volume 2, Rome.
+
+FAO. 1997c. Marketing research and information systems, by
+I.M. Crawford, AGS Marketing and Agribusiness Text Volume 4, Rome.
+
+FAO. 1997d. Principles for rational delivery of public and private veterinary
+services with reference to Africa, Rome.
+
+FAO. 1995. The group enterprise book, Rome.
+
+FAO. 1994a. A manual for the primary animal health care worker, Rome.
+
+FAO. 1994b. The group promoter’s resource book, Rome.
+
+FAO. 1994c. Management of rural income-generating activities, Rome.
+
+
+78
+FAO. 1994d. Simple bookkeeping and business management skills, by R.
+Meijernik, Rome.
+
+FAO. 1994e. El capibara (Hydrochoerus hydrochaeris) – Estado actual
+de su producción, Estudio FAO producción y sanidad animal No. 122,
+Rome.
+
+FAO. 1990a. Manual on simple methods of meat preservation, FAO
+Animal production and health paper No. 79, Rome.
+
+FAO. 1990b. Strategies for sustainable animal agriculture in developing
+countries, FAO Animal Production and Health Paper No. 107, Rome.
+
+
+
+
+                                                                                   Small animals for small farms
+Food and Wine. 2009.The ubiquitous rat, by P.Brunning, International
+Wine & Food Society Europe & Africa Committee, Issue 98.
+
+GALVmed. 2009. MacDonald Munuve, community animal health
+worker (Available at http://www.galvmed.org/path-to-progress/
+macdonald-munuve-community-animal-health-worker).
+
+González-Jiménez, E. 1977. The capybara, an indigenous source of
+meat in tropical America, World Animal Review 21, pp. 24-30.
+
+Grand Cayman Wonderer. 2009. Cuddle baby turtles at the Grand Cayman
+turtle farm (Available at http://www.grand-cayman-wanderer.com/
+grand-cayman-turtle-farm.html).
+
+ILO. 2000. Rapid market appraisal, International Labour Organization, Geneva.
+
+ILRI. 2006. Livestock farmer field school, guidelines for facilitation and field
+manual, by G. Buyu & D. Romney, International Livestock Research
+Institute, Nairobi.
+
+Jenkins, M. & Broad, S. 1994. International Trade in Reptile Skins. A Review
+and Analysis of the Main Consumer Markets, 1983–91, A TRAFFIC Network
+Report, TRAFFIC International, WWF, Cambridge, United Kingdom.
+
+                                                                             79
+Karikari, P.K. & Asare, K. 2009. An economic analysis of a smallholder
+meat rabbit production system, Journal of Applied Sciences Research
+5(8), pp. 969-973.
+
+Koopmans, R. 2006. Starting a cooperative: farmer controlled economic
+initiatives, Agrodok 38, CTA, Wageningen.
+
+Lavorenti, A. 1989. Domestication and potential for genetic
+improvement of capybara, Revista brasiliana do genetica, 12(2 suppl),
+pp. 137-44.
+
+Manjell, Y., Tchoumboué, J., Njwe, R.M. & Teguia, A. 1998. Guinea-
+pig productivity under traditional management, Tropical Animal Health
+and Production 30, pp. 115-122.
+
+Miller, A. 2009. Saving Costa Rica’s Green Iguanas (Available at http://
+teacher.scholastic.com/scholasticnews/indepth/endangered_
+species/news/index.asp?article=gr).
+
+Minot, N. & Hill, R. 2007. Developing and connecting markets for poor
+farmers, 2020 focus brief on the world’s hungry people, International Food
+Policy Research Institute, Washington D.C.
+
+National Research Council. 1991. Microlivestock: Little- known small
+animals with a promising economic future, National Academy Press,
+Washington D.C.
+
+Nuwanyakpa, M., Lukefahr, S.D., Gudahl, D. & Ngoupayou, J.D.
+1997. The current stage and future prospects of guinea pig production
+under smallholder conditions in West Africa; 2. Cameroon case,
+Livestock Research for Rural Development 9(5).
+
+Oseni, S.O., Ajayi, B.A., Komolafe, S.O., Siyanbola, O., Ishola, M.&
+Madamidola, G. 2008. Smallholder rabbit production in southwestern
+Nigeria: current status, emerging issues and ways, forward, 9th World
+Rabbit Congress ,June 10-13, Verona, Italy.
+
+80
+Owen, E., Smith, T., Steele, M.A., Anderson, S., Duncan, A.J.,
+Herrero, M., Leaver, J.D., Reynolds, K.C., Richards, J.I. & Ku-
+Vera,J.C. (Eds.). 2004. Responding to the Livestock Revolution: the role of
+globalisation and implications for poverty alleviation, BSAS Publication 33,
+Nottingham University Press, Nottingham, United Kingdom.
+
+Payne, W.J.A. & Wilson, R.T. 1999. Microlivestock, In, An Introduction
+to Animal Husbandry in the Tropics, Fifth Edition, Blackwell Science Ltd,
+Oxford, United Kingdom, pp. 687-705.
+
+Rastogi, R. K. 1989. Rabbit production in the Caribbean with special reference
+to Trinidad (West Indies), Proceeding of 6th International conference
+of the Institute of Tropical Veterinary Medicine, Wagnengen, the
+
+
+
+
+                                                                                 Small animals for small farms
+Netherlands, pp. 252-255.
+
+Schiere, J.B. 2004. Backyard rabbit farming in the tropics, Agrodok 20,
+CTA.
+
+Spore. 2008. Mini-livestock keeping: Think big with minilivestock, No. 133
+(Available at http://spore.cta.int/index.php?option=com_content&ta
+sk=view&id=343&Itemid=99999999).
+
+Uhl, J.N. & Kohls, R.L. 2001. Marketing of agricultural products, 9th
+edition, Prentice Hall.
+
+Valle Zárate, A., Cahill, J. & Horst, P. 1994. Inventory of Andean local
+guinea pig subpopulations as a model case for genetic resource evaluation,
+paper presented at the Third Global Conference on the Conservation
+of Domestic Animal Resources, 1-4 August, 1994 at Kingston, Ontario,
+Canada.
+
+Wilson, R.T. 2009 Fit for purpose: the right animal in the right place,
+Tropical Animal Health and Production 41, pp. 1081-1090.
+
+
+
+
+                                                                           81
+           Sources of further information
+                    and support
+
+
+Bureau pour l’Echange et la Distribution de l’Information sur le Mini-
+Elevage (BEDIM)
+c/o Prof. A. Buldgen
+Faculté universitaire des Sciences agronomiques de Gembloux
+Unité de Zootechnie
+Passage des Déportés,
+2B-5030 Gembloux
+
+
+
+
+                                                                         Small animals for small farms
+Belgique
+Fax :+32(0)81-62 21 15
+E-mail:bedim@fsagx.ac.be
+Web site:http://bedim.org
+
+Food and Agriculture Organization of the United Nations
+Animal Production and Health Division
+Viale delle Terme di Caracalla
+00153 Rome
+Italy
+Tel:+39 06 5701
+Fax:+39 06 57053152
+Web site:http://www.fao.org/ag/aga/index_en.htm
+
+Green Iguana Society
+c/o Desiree Wong
+PO Box 1733
+Redondo Beach
+CA 90278
+USA
+Web site:http://www.greenigsociety.org/
+
+
+
+
+                                                                   83
+Institute of Tropical Medicine Antwerp (Prince Leopold Institute of
+Tropical Medicine)
+Nationalestraat 155
+B-2000 Antwerpen
+Belgium
+Tel:+32 3 247.66.66
+Fax:+32 3 216.14.31
+E-mail:info@itg.be
+
+International Iguana Foundation
+1989 Colonial Parkway
+Fort Worth
+Texas 76110
+USA
+Tel:+1 817 7597177
+Web site:http://www.iguanafoundation.org/contact.php
+
+National Chinchilla Society
+Paul Spooner
+Honorary Secretary
+Tel: +44 1457 856945
+e-mail:chillaquip@freeuk.com
+Web site:http://www.natchinsoc.co.uk/contact.htm
+
+World Chelonian Trust
+PO Box 1445
+Vaccaville
+California 95696
+USA
+Web site:www.chelonia.org
+
+
+
+
+84
+World Rabbit Science Association
+c/o Dr Thierry Gidenne
+INRA, Unité de recherches TANDEM
+Toulouse Research Centre
+BP 52637
+31326 Castanet Tolosan Cedex
+France
+Fax:+33 561 28 53 19
+E-mail:4-gidenne@toulouse.inra.fr
+
+
+
+
+                                         Small animals for small farms
+
+
+
+
+                                    85
+Notes
+Notes
+6PDOO DQLPDOV KDYH D ODUJH SRWHQWLDO DQG SURYLGH QXPHURXV
+RSSRUWXQLWLHVWRVXSSRUWVPDOOKROGHUIDUPHUVDQGWKHLUOLYHOLKRRGV
+7KH\UHTXLUHPLQLPDOLQSXWVDVDIDUPHQWHUSULVHDQGÀWZHOOLQWR
+IDUPLQJV\VWHPV)HHGFDQEHVRXUFHGORFDOO\PLQLPDOODERXU
+DQGFDSLWDODUHUHTXLUHGDQGWKH\DUHDGDSWDEOHWRUXUDOSHUL
+XUEDQ DQG XUEDQ IDUP VHWWLQJV 7KHLU VPDOO VL]H IDFLOLWDWHV KHUG
+PDQDJHPHQW DQG PDUNHWLQJ 6PDOO DQLPDOV SURYLGH PHDW
+DW ORZ FRVW IRU VPDOOVFDOH IDUPHUV DQG DW DIIRUGDEOH SULFHV
+WR FRQVXPHUV HQDEOLQJ DFFHVV WR DQLPDO SURWHLQ HYHQ WR WKH
+SRRUHVWPHPEHUVRIDFRPPXQLW\7KHLUIXUVKLGHVDQGVNLQVFDQ
+DOVREHVXFFHVVIXOO\WUDGHG
+
+,WLVKRSHGWKDWGHYHORSPHQWZRUNHUVSROLF\PDNHUVDQGRWKHUV
+LQYROYHG ZLWK VPDOOVFDOH IDUPHUV UHFRJQLVH WKH RSSRUWXQLWLHV
+DQGEHQHÀWVWKDWFDQGHULYHIURPVPDOODQLPDOHQWHUSULVHVDQG
+LPSOHPHQW SURMHFWV DQG GHYHORSPHQW SODQV WKDW IRVWHU VXFK
+HQWHUSULVHVDQGLPSURYHVPDOOVFDOHIDUPHUV·OLYHOLKRRGV
+
+
+
+
+                                                   ISBN 978-92-5-107067-3   ISSN 1810-0775
+
+
+
+
+                                                       9   7 8 9 2 5 1   0 7 0 6 7 3
+                                                                             I2469E/1/11.11
+

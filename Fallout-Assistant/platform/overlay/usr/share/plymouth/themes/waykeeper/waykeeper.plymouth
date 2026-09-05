@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=WayKeeper
+Description=WayKeeper offline field terminal boot screen
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/waykeeper
+ScriptFile=/usr/share/plymouth/themes/waykeeper/waykeeper.script
+

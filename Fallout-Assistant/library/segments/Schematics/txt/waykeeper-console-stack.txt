@@ -1,0 +1,32 @@
+WAYKEEPER TOUCH CONSOLE STACK
+=============================
+
+  TOUCH PANEL / USB HID
+            |
+            v
+  +--------------------+       +--------------------+
+  | LINUX INPUT EVENTS |------>| WVKBD QWERTY       |
+  +--------------------+       | ON-SCREEN KEYBOARD |
+                               +----------+---------+
+                                          |
+                                          v
+  +--------------------+       +--------------------+
+  | CAGE KIOSK SESSION |------>| FOOT TERMINAL      |
+  +---------+----------+       +----------+---------+
+            |                             |
+            |                             v
+            |                  +--------------------+
+            +----------------->| WAYKEEPER ANSI     |
+                               | SHELL              |
+                               +--------------------+
+
+  DISPLAY OUTPUT
+       ^
+       |
+  +----+-----+       +-------------+       +----------------+
+  | PANEL /  |<------| DRM / KMS   |<------| LINUX DISPLAY  |
+  | HDMI     |       | COMPOSITOR  |       | DRIVER         |
+  +----------+       +-------------+       +----------------+
+
+The terminal remains the application boundary. Touch input supplies ordinary
+keyboard events; the ANSI shell does not depend on a desktop environment.

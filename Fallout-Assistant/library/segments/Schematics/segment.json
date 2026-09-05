@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "segment_id": "schematics.amazing1-archive",
+  "segment_name": "Schematics",
+  "title": "Information Unlimited / Amazing1 Schematic Archive",
+  "generated_on": "2026-08-17",
+  "source_catalog": "../../../../amazing1-plasma-revival/app/catalog.ts",
+  "entrypoint": "INDEX.md",
+  "catalog": "catalog.tsv",
+  "sources": "sources.tsv",
+  "low_energy_candidates": "LOW-ENERGY-CANDIDATES.md",
+  "record_root": "records",
+  "counts": {
+    "total_records": 64,
+    "linked_or_traced": 19,
+    "restricted_metadata": 45,
+    "low_energy_redesign_candidates": 4,
+    "local_text_schematics": 4
+  },
+  "content_policy": "Restricted records contain identity, provenance, and non-operational concept metadata only.",
+  "offline_content": "Metadata and record cards are local; third-party diagrams remain external links until rights and authenticity are verified."
+}

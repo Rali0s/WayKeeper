@@ -1,0 +1,26 @@
+[Unit]
+Description=WayKeeper touch ANSI kiosk
+After=systemd-user-sessions.service seatd.service
+Conflicts=getty@tty1.service
+
+[Service]
+User=waykeeper
+Group=waykeeper
+SupplementaryGroups=input video render seat
+PAMName=login
+WorkingDirectory=/opt/waykeeper
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+Environment=OFFGRID_HOME=/opt/waykeeper
+Environment=OFFGRID_STATE_DIR=/var/lib/waykeeper
+Environment=WLR_LIBINPUT_NO_DEVICES=1
+ExecStart=/usr/bin/cage -- /usr/local/libexec/waykeeper-cage-session
+Restart=always
+RestartSec=1
+TTYPath=/dev/tty1
+StandardInput=tty-force
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=graphical.target
+

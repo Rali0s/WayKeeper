@@ -1,0 +1,23 @@
+WAYKEEPER // OFFLINE READER ADAPTATION
+========================================================================
+TITLE: The Moral Equivalent of War
+AUTHOR: William James
+SHELF: Philosophy-War-Peace
+STATUS: SOURCE REVIEW REQUIRED
+SOURCE: https://www.gutenberg.org/ebooks/search/?query=Moral+Equivalent+of+War+William+James
+
+EDITORIAL NOTE
+Civic discipline without militarism.
+
+This source is presented as a paginated plain-text reader, not a survival card. Its historical
+claims and assumptions should be evaluated critically.
+========================================================================
+
+ACQUISITION RECORD
+
+An automated search did not identify a sufficiently exact public-domain plain-text edition. No
+substitute or uncertain text was downloaded. Review the source search, confirm the title,
+author, edition, and rights, then rerun or install the verified text manually.
+
+REASON: Previously unresolved; source review still required
+QUERY: Moral Equivalent of War William James

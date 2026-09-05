@@ -1,0 +1,299 @@
+                                                                                              HCM-00952
+
+                                                           UNIVERSITY OF ALASKA FAIRBANKS
+
+ UNIVERSITY OF ALASKA FAIRBANKS
+
+
+
+   Building Challenges in Alaska
+INTRODUCTION                                                   shown in Table 1. More is preferable.
+Special considerations for building in Alaska are           b. A required R-value for crawl space wall insu-
+recommended that are normally not included in                  lation should be maintained for the full height
+structures designed for milder climates in the Lower           of the wall.
+48 states. New construction techniques are being de-
+                                                            c. Exterior insulation may extend in a hori-
+veloped as the climate continues to change through-
+                                                               zontal or diagonal manner out from a wall
+out the Arctic.
+                                                               provided the length of insulation meets or
+FOUNDATIONS                                                    exceeds that which would be placed in a verti-
+1. Consult with an architect, engineer or contractor           cal manner.
+   before building on soils subject to discontinu-          d. An insulation material should be kept dry
+   ous permafrost. These soils, frozen for at least 24         and should have appropriate weather resistant
+   consecutive months, traditionally have included             properties for the intended use and should
+   most of Interior Alaska and areas west and north            be applied as recommended by the insulation
+   of the Alaska Range. Wood posts, mud sills or               manufacturer.
+   engineered foundations with open crawl spaces
+   are suggested in permafrost soil.                     FLOORS
+2. In areas where masonry or concrete foundations        1. In permafrost areas, floors should be con-
+   are used, reinforce against seismic action in            structed over open crawl spaces and insulated to
+   accordance with local or state codes. Reinforce          minimize heat loss and permafrost melting and
+   masonry chimneys against earthquakes, also.              to avoid uneven settling of the building. Also,
+   Other materials than masonry should be utilized          the closer the floor surface temperature ap-
+   for chimneys.                                            proaches room ambient temperature, the greater
+                                                            the comfort level.
+3. Consult with your local insurance agent and
+   make sure you understand all the definitions in       2. Floor insulation:
+   your home policy before building in areas sub-           a. A thermal envelope floor should be insulated
+   ject to flooding.                                           to at least the minimum R-value shown in
+                                                               Table 1. More is preferable.
+4. Foundations should be closed in and the build-
+   ing heated to avoid excessive heaving and settle-        b. A rim joist area of a thermal envelope floor
+   ment of footings during the winter.                         should be insulated to the same requirement
+                                                               as given for an envelope floor.
+5. All masonry and concrete foundations should
+   be properly reinforced to minimize cracking due          c. A rim joist area of a non-thermal envelope
+   to heaving and settling of frozen ground and to             floor (such as where a crawl space wall is
+   avoid radon intrusion.                                      insulated but the floor is not, or a second
+                                                               story floor) should be insulated to the same
+6. Foundation Insulation
+                                                               requirement as given for an above-grade or
+   a. A below-grade thermal envelope wall should               below-grade envelope wall.
+      be insulated to at least the minimum R-value
+SLAB-ON-GRADE FLOORS                                       2. A polyethylene vapor barrier at least 3 mil in
+1. A concrete slab-on-grade floor of a conditioned            thickness, depending if you are using single or
+   space or enclosed semiconditioned space should             double extruded product, should be placed on
+   be insulated to the minimum R-value shown in               the interior faces of the studs directly over the
+   Table 1.                                                   insulation (warm side). Be careful to seal all
+                                                              openings made to accommodate plumbing vent
+2. A closed cell insulation material should have
+                                                              stacks, chimneys, electrical wiring, etc.
+   appropriate weather-resistant properties for
+   below-grade application and should be applied           3. The vapor barrier should be installed on the ceil-
+   as recommended by the manufacturer. Insula-                ing first, before any interior partitions are in-
+   tion damaged during construction should be                 stalled. Place the wall vapor barrier on the inside
+   replaced.                                                  (warm side) on ceiling lap.
+3. Insulation for a thickened edge or grade beam           4. Use acoustical or equivalent flexible adhesive
+   concrete slab floor should extend downward                 caulk whenever sealing polyethylene vapor re-
+   from the top of the slab to the bottom of the              tarder to wood or when joining seams.
+   footing, then horizontally beneath the footing
+   for its full width. Alternatively, insulation may       CEILING
+   extend downward from the top of the slab to the         1. Ceiling insulation: A thermal envelope ceiling
+   bottom of the footing, then diagonally out from            should be insulated to at least the minimum R-
+   the footing.                                               value shown in Table 1. More is preferable.
+4. Horizontally placed insulation under the pe-            2. To minimize condensation stains on the ceil-
+   rimeter of a basement concrete slab floor should           ing and glaciering on eaves and valleys, the roof
+   be continuous around the entire perimeter of               cavity must be kept cool and free of moisture by
+   the slab and should be a minimum of 24 inches              combining adequate vapor barrier, insulation
+   wide. Additionally, a thermal break should be              and vents.
+   provided between the foundation wall and the            3. A polyethylene vapor barrier should be placed
+   slab edge.                                                 on interior surfaces of the ceiling directly under
+5. An uninsulated concrete slab on-grade floor is             the insulation, prior to erecting partitions. Leave
+   not recommended for the main living area, as               8 to 12 inches overhang on the walls for connec-
+   ground temperatures in Alaska are near 33 de-              tion to the wall vapor barriers.
+   grees F. If used as the living area, the entire floor   4. Be careful to seal all openings in the vapor bar-
+   should be insulated with at least two inches of            rier that may be caused by installing plumbing,
+   rigid foam plastic insulation. Perimeter insula-           electrical outlets, chimneys, etc., with special red
+   tion is not adequate for Alaska. More than mini-           tape for vapor barriers.
+   mum insulation is always preferable.                    5. The roof cavity should be ventilated by a combi-
+6. A polyethylene vapor barrier should be placed              nation of vented soffits and louvres at the gable.
+   under all concrete floors poured on grade, or              This prevents a "hot roof," which can cause ice
+   laid on the ground of closed crawl spaces, to              dams.
+   minimize the migration and evaporation of               6. All effort should be made to avoid flat roofs. If a
+   excessive moisture from the soil and to prevent            flat roof is unavoidable, be sure the underneath
+   possible radon intrusion.                                  area is insulated and has a vapor barrier.
+WALLS                                                      7. Framing of scuttle openings or stairways into
+1. Above-Grade Walls: An above-grade thermal                  uninsulated attics should be avoided as it will
+   envelope wall should be insulated to the mini-             eventually lead to condensation and frosting
+   mum R-value shown in Table 1. This includes                problems.
+   the floor rim joist area.
+
+
+2
+RESIDENTIAL ENERGY EFFICIENCY
+
+IICC 2006 Sections 402.1 through 402.3 describe the prescriptive method for compliance and establish minimum
+thermal envelope insulation requirements for buildings. Exceeding these minimums is encourage. IECC 2006
+Tables 402.1.1 and 402.1.3 shall be replaced with Tables A402.1.1 and A402.1.3, respectively. In these replacement
+tables, only the zones applicable to Alaska are given. These zones are defined in Chapter 3. When using the Pre-
+scriptive Method as the means of compliance, all mandatory measures specified in Section 403 shall also be accom-
+plished.
+
+
+
+
+          a. The smaller value may be used with a properly sized, energy-heel truss.
+          b. The first R-value applies to continuous insulation, the second to framing cavity insulation;
+             either meets the requirement.
+          c. R-5 shall be added to the required slab edge R-values for heated slabs.
+
+
+
+
+           a. The larger factor of 0.0263 (0.0192 for the Arctic Slope) may be used with a properly sized
+              energy-heel truss.
+           b. The first U-factor applies to continuous insulation, the second to framing cavity insulation;
+              either meets the requirement.
+           c. See below-grade wall factors.
+           d. Nonglazing U-factors shall be obtained from measurement, calculation or an approved source.
+
+
+
+
+                                                                                                                 3
+8. Openings into a cold attic outside are more con-                         ceilings of cold roof cavities.
+   venient than an attic hatch opening.
+9. If an attic must be accessible from the interior of                  INSULATION
+   the house for storage purposes, then it should be                    The Prescriptive Method establishes minimum ther-
+   adequately insulated, vapor proofed, ventilated                      mal envelope insulation requirements for buildings.
+   and heated to avoid condensation and frosting                        Exceeding these minimums is encouraged.
+   problems.                                                            The Prescriptive Method does not require extensive
+10. Make sure that there is adequate insulation at                      calculations. It is the least flexible of the four pos-
+    the eaves of gable roofs when using thick insula-                   sible compliance methods. Remember, insulation in
+    tion in the ceiling.                                                the ceiling does not decrease the required insulation
+11. The trusses may be cantilevered so that they ex-                    in the wall.
+    tend over the wall 18 to 24 inches on both sides.                   The Prescriptive Method does not dictate specific
+    This allows 12 to 18 inches between the roof                        building methods or materials. Any method of
+    deck and the wall plate, providing 9 to 12 inches                   constructing a building may be used provided clear
+    of clear space over the top for insulating the roof                 compliance with the minimum insulation require-
+    cavity.                                                             ments is shown. For example, to meet a mini-mum
+12. Lumber sizes of conventional rafters may be                         R-18 wall insulation requirement, R-19 fiberglass
+    increased to provide sufficient ventilation space                   batt in a 2x6 framed wall may be used, or R-13 fiber-
+    over the insulation at the eaves. The rafters                       glass batt in a 2x4 framed wall with R-5 rigid insula-
+    may also be raised up on a special header and                       tion over the framing, or R-18 urethane foamed-in-
+    notched into the ceiling joists instead of setting                  place between 2x4 framing.
+    the rafter onto the wall plate.
+                                                                        Insulation Minimums
+13. Do not taper the insulation at the eaves or pull                    R-value minimums given in this chapter are for in-
+    the insulation back from the wall plate, as this                    sulation installed between or over structural mem-
+    increases the heat conduction through the plate,                    bers. Only the insulation R-value is counted. R-value
+    joists and rafters. Condensation and staining of                    for an air film or a material such as sheetrock, panel-
+    interior finished surfaces may occur adjacent to                    ing, plywood, siding, or earth backfill, for example,
+    the header and under the ceiling framing mem-                       should not be included.
+    bers.
+                                                                        R-value minimums refer to the installed R-value.
+14. Whenever possible, it is recommended that the
+                                                                        Compression of some insulating products results
+    installation of concealed wiring be avoided in
+                                                                        in a lower R-value. For example, placing a standard
+                                                                        R-30 batt into a 2x8 wall compresses the batt from
+
+TABLE 2: R-value and Thickness.
+
+                                        Initial R-value and thickness
+
+    Nominal				               R-38   R-30       R-22		R-19               R-13        R-11
+    Lumber          Actual 12  9½     6¾        6-1⁄8  3-5⁄8                    3½
+      Size Width
+    (inches)     (inches)            Installed R-value at final thickness
+
+    2 x 12          11½        37
+    2 x 10           9¼        32     30                                                    Example of resultant R-values when
+    2x8              7¼        27     26                                                    fiberglass batt insulation is compressed
+    2x6              5½		21                       20        18                              into a confined space such as in wall stud
+    2x4              3½		14                       13        13                              or floor joist spaces. Insulation thickness
+                                                                                            and density differ among manufactur-
+    2x3              2½					10                                                       9
+                                                                                            ers and therefore resultant R-values also
+    2x2              1½					 6                                                       6      differ slightly.
+
+4
+9 inches down to 7¼ inches. This results in a de-         2. Storm-type windows fitted onto the window
+creased R-value from the listed R-30 down to ap-             frames are not suitable for prolonged periods of
+proximately R-26. Table 2 shows nominal examples             subzero temperatures, as migration of moisture
+of resultant R-values when fiberglass batts are              around weather-stripping condenses out onto
+compressed.                                                  the storm window and will obscure the glass
+                                                             with heavy frost.
+INSPECTION                                                3. Window Insulation
+A polyethylene vapor barrier at least 6 mil in thick-        a. An exterior window RO-value (overall R-
+ness should be installed over all interior surfaces             value, including the frame) should not be less
+directly over the insulation prior to installation of           than specified in Table 1.
+partitions and interior finishes.
+                                                             b. A sliding glass door should be considered a
+It is recommended that no interior finished floor,              window for the purpose of determining total
+wall or roof covering be installed until the insula-            allowable glazed area percentage and required
+tion, vapor barrier, concealed plumbing and electri-            R-value.
+cal wiring have been approved by the prospective             c. Total window and sliding glass door area
+homeowner or his authorized representative, con-                should not exceed 15 percent of the total
+sisting of either the building inspector, the finance           gross above-grade thermal envelope wall area.
+agency, the energy rater and/or the architect.
+                                                             d. A window for special architectural or decora-
+                                                                tive purpose may have an R-value less than
+VENTILATION
+                                                                required by Table 1 provided it is (1) double
+1. Ventilation fans should be installed in the kitch-
+                                                                glazed or more and (2) total decorative
+   en, bathroom and laundry room. Do not vent
+                                                                window area does not exceed 5 percent of
+   fans directly into the roof or crawl space cavities.
+                                                                the allowable window area specified up to a
+   Instead, vent out of the exterior of the house.
+                                                                maximum of 16 square feet.
+2. If electricity is not available, a simple exhaust
+   duct installed over the cook stove and vented          DOORS
+   through the roof to the outdoors should be             1. Storm doors and closed entries are desirable for
+   provided. The air flow may be controlled by an            arctic climates.
+   adjustable damper.                                     2. Metal doors with an insulated core and special
+3. Automatic clothes dryers whether electric or gas          thermal separators between the inside and the
+   heated, should be vented outdoors by an ap-               outside shells are excellent for arctic condi-
+   proved vent pipe.                                         tions. Adjustable door frames may be necessary
+4. Mechanical ventilation, such as a heat recovery           to compensate for the continual heaving and
+   ventilation (HRV) unit, is now the norm for new           settling of the active frost layer of the soils of
+   energy efficient housing in Alaska.                       interior Alaska.
+                                                          3. Insulation
+WINDOWS
+                                                             a. Door glazing should be minimum double
+1. Windows for homes in Alaska should be con-
+                                                                glazed with a ½-inch minimum air space.
+   structed with wood, vinyl or fiberglass frames
+   and sash and fitted with gas-filled double- or            b. A sliding glass door should be considered as
+   triple-sealed glass. Single glass may be glazed              a window for the purpose of determining R-
+   into the sash and fitted on the outside of the sash          value and area requirements.
+   with a second removable glass pane. Modern en-
+   ergy efficient windows should be used whenever
+   now construction is undertaken.
+
+
+
+                                                                                                                  5
+STORAGE SPACES                                            HEATING
+1. The placement of closets, kitchen cabinets, and        All hot water heating plans should provide for ap-
+   other built-in storages on exterior walls should       proved zone control valves and balancing cocks for
+   be installed at modified heights and depths for        each heating zone. All hot air heating plans should
+   potential wheelchair- or walker-bound residents        provide for adjustable dampers on each branch duct
+   and ventilated well to minimize condensation           and adjustable blower pulleys for proper balancing
+   and frosting problems.                                 of the air flow to each register. If the prime con-
+2. If storage space must be placed along exterior         tractor or subcontractor does not maintain service
+   walls, provide adequate ventilation with lou-          personnel in Alaska during the winter season, then
+   vered doors, drapes or other openings. A section       a local heating contractor should be designated
+   of baseboard radiation placed on exterior walls        to correct any normal deficiencies in the heating
+   would be a positive aid in maintaining the stor-       system, such as excess noise, improper balancing,
+   age above the dew-point temperature.                   excessive fuel consumption, etc.
+3. Avoid storing boxes, magazines and clothing
+   tightly against exterior walls. Install 1-inch x       SEPTIC TANK
+   1-inch firring strips on 2-inch centers on the         All septic and alternative on-site waste disposal
+   wall and floor to facilitate natural ventilation.      systems are subject to Department of Environmental
+                                                          Conservation regulations and should be installed by
+CHIMNEY                                                   a DEC-certified installer. Aerobic compost systems
+1. The chimney must be tightly sealed at the ceiling      exist that are a low water use, very beneficial alterna-
+   penetration to minimize migrating moisture and         tive to standard septic tank and leach field systems.
+   infiltrating excess heat into the roof cavity.
+2. Gas furnaces should be provided with an ap-            FOR MORE INFORMATION, contact Art Nash, at
+                                                          UAF Cooperative Extension, 907-322-2309.
+   proved masonry chimney or all-fuel pre-fabri-
+   cated metal chimney.
+3. Lightweight uninsulated metal gas vents can re-
+   sult in excess heat formation in a poorly vented
+   roof cavity, particularly a gable roof, resulting in
+   excessive glaciering at the eaves.
+4. Beware of using tall masonry chimneys in areas
+   of high seismic risk, which includes much of
+   Alaska.
+
+
+
+
+6
+7
+                                             www.uaf.edu/ces or 1-877-520-5211
+
+
+
+Art Nash, Extension Energy Specialist. Originally prepared by Axel Carlson, professor of Extension, emeritus.
+                   Published by the University of Alaska Fairbanks Cooperative Extension Service in cooperation with the United States Department of
+                   Agriculture. UAF is an AA/EO employer and educational institution and prohibits illegal discrimination against any individual:
+                   www.alaska.edu/nondiscrimination
+                   ©2021 University of Alaska Fairbanks.
+                   08-72/AC/11-21                                                                                        Revised November 2021
+

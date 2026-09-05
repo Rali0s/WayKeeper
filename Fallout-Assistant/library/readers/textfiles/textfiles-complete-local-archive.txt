@@ -1,0 +1,17 @@
+WAYKEEPER // COMPLETE TEXTFILES.COM LOCAL ARCHIVE
+========================================================================
+SOURCE CLASS: UNDERGROUND / HISTORICAL / UNVERIFIED
+RIGHTS: LOCAL PERSONAL ARCHIVE ONLY / REDISTRIBUTION NOT CLEARED
+FILES: 33,009
+SOURCE BYTES: 1,108,596,438
+INDEX BYTES: 75,407,907
+LOCAL ROOT: /Users/premise/Documents/HRF-H2/DEPLOY_TO_H2/COUNTER_INTEL_v2.4.0s_NOT_HARDWARE_TEST
+ED/SDCARD/COUNTER/TEXTFILES
+
+The complete archive is already installed beside WAYKEEPER's source tree and remains
+available through its COUNTER-SVX-1 search index. The F9 Underground branch imports
+only the survival-relevant selection into the main evidence reader, preventing 33,000
+unreviewed texts from contaminating emergency search results.
+
+WARNING: THIS ARCHIVE CONTAINS MATERIAL THAT MAY BE FALSE, ILLEGAL, DANGEROUS,
+OFFENSIVE, MALICIOUS, OR COPYRIGHTED. PRESERVATION IS NOT ENDORSEMENT.

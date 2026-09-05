@@ -1,0 +1,916 @@
+                                                                                                                       January 2020
+
+
+
+                     Natural Resources Conservation Service
+     Guide to Pasture Condition Scoring
+                                                               Desirable Plants
+
+                                              n                                                Per
+                                           sio                                                    cen
+                                      E ro                                                           tL
+                                 re                                                                    eg
+                                                                                                             um
+                           stu
+                        Pa                                                                                        es
+
+
+
+
+                                                                                                                                     Cover
+    Vigo
+                                                                                                                                 ant
+        r
+ Plant                                                                                                                       e Pl
+                                                                                                                          Liv
+
+
+
+
+eration
+
+ Regen                                                                                                                      Plan
+                                                                                                                                t Di versi
+                                                                                                                                           ty
+          &
+     tion
+          ac
+            mp
+          Co
+
+                 s
+                 Area
+                     on
+                         kC
+                           o nc                                                                              So
+                                                                                                        er
+                               en                                                                     ov
+                                 t ra
+                                     ti                                                           il C
+                                              Li vesto
+                                                      c
+                                                                   ion and Severity
+                                                           Utilizat
+
+                                         USDA is an equal opportunity provider, employer and lender.
+Contents
+Introduction .......................................................................................................................................... 1
+Indicator Descriptions .......................................................................................................................... 2
+   Percent Desirable Plants .................................................................................................................. 2
+       Desirable Plants ........................................................................................................................... 2
+       Intermediate Species .................................................................................................................... 2
+       Undesirable Species ..................................................................................................................... 2
+   Percent Legume ............................................................................................................................... 3
+   Live Plant Cover (includes dormant) ............................................................................................... 5
+   Plant Diversity ................................................................................................................................. 6
+   Plant Residue and Litter as Soil Cover ............................................................................................ 7
+   Grazing Utilization and Severity ..................................................................................................... 8
+   Livestock Concentration Areas ........................................................................................................ 9
+   Soil Compaction and Soil Regenerative Features .......................................................................... 11
+   Plant Vigor ..................................................................................................................................... 12
+   Erosion ........................................................................................................................................... 13
+       Sheet and Rill ............................................................................................................................. 13
+       Streambank, Shoreline ............................................................................................................... 13
+       Wind........................................................................................................................................... 14
+       Gullies ........................................................................................................................................ 14
+References .......................................................................................................................................... 14
+                                         Introduction
+Pasture condition scoring (PCS) is a systematic way to assess how well a pasture is being managed
+and resources protected. A pasture rated with a high score is well-managed with productivity (plant
+and animal) being sustained or enhanced. By rating the key indicators common to all pastures,
+pasture condition can be evaluated and the primary reasons for a low condition score can be
+identified. A low rating typically means the pasture has one or more challenges, such as poor plant
+growth, weedy species invasion, poor animal performance (low forage quantity and quality), visible
+soil loss, increased runoff, and impaired water quality in or adjacent to the pasture.
+
+The PCS should be performed several times a year during critical management periods throughout
+the grazing season. The revised “Pasture Condition Score Sheet” (PCSS) should be used to rate
+individual pastures. Regardless of the time of year selected to do the PCS, the best time to score a
+pasture is just before it is grazed.
+
+The PCS should be performed—
+
+    •   As a benchmark condition of the pasture.
+    •   Early in the growing season before grazing events occur.
+    •   At peak forage supply periods.
+    •   At low forage supply periods.
+    •   At plant stress periods such as drought or very wet conditions.
+    •   When conservation practices (management) have been fully applied.
+
+For best results, the livestock manager and conservation planners should evaluate the pastures the
+same time each year to note changes in the condition of the pasture.
+
+PCS results can be useful in deciding when to move livestock or planning other management
+actions. It assists in identifying which improvements are most likely to improve pasture condition
+or livestock performance.
+
+The PCS is not a replacement for doing a forage inventory or forage production estimates. The
+pasture planner should consider other available data
+such as pasture state information in an ecological site
+description, forage suitability groups, or pasture and
+hay suitability groups.
+
+PCS involves the visual evaluation of 10 indicators,
+listed and described below, which rate the pasture
+vegetation and soils. Rating subjectivity can be
+reduced by incorporating quantitative measures. For
+example, using the step-point method for evaluation
+can provide measured results for five of the indicators
+(percent desirable plants, percent legume, live plant
+cover, plant diversity, and plant residue). Also, by
+pacing to measure the livestock concentration areas and
+using a shovel to quickly evaluate the soil compaction      The step-point method can provide data
+and soil regenerative indicator, the user of the PCSS       for five indicators.
+1
+and guide can have confidence in each indicator rating and the total score.
+
+On the PCSS, each indicator or factor has five possible ratings, ranging from lowest (poorest)
+condition (1) to highest (best) condition (5). This objectively identifies the extent of any pasture
+challenges and helps determine the likely causes. Evaluate each indicator separately. The
+indicators can then be combined into an overall score for the pasture unit or utilized as individual
+scores and compared with the other nine indicators. Indicators receiving the lowest scores can be
+targeted for corrective action. The plant vigor indicator is rated one of the last because previous
+indicators in the assessment give insight into the plant health and productivity of the pasture.
+
+                                 Indicator Descriptions
+Percent Desirable Plants
+These are the key species that provide most of the
+quality forage ingested by the grazing animal being
+fed. The percent is calculated by dry matter weight.
+
+Desirable Plants
+Desirable species are well-adapted to the site, are
+readily consumed, show persistence, and provide
+high tonnage and quality, with sufficient fertility, for
+a significant part of the growing season. The most
+desirable species may be grazed first and close to the
+ground in poorly managed systems and therefore,
+may decline in prevalence. Meanwhile, other less-
+palatable species that can avoid grazing impacts may increase. These less-desirable species can
+eventually displace the desirable ones since they are grazed less, if at all. This replacement is
+important to this indicator and should not be overlooked when the desirability score is low. Some
+examples of desirable species are orchardgrass, white clover, Kentucky bluegrass, and big bluestem.
+Refer to your State or regional desirable plant list, and ideally, by grazing livestock type (cattle,
+sheep, goats) for scoring this indicator. Desirable, intermediate, and undesirable species will
+depend upon geographic region and livestock type
+
+Intermediate Species
+These are adapted to the prevailing site conditions; just as desirable species are. Intermediate
+species are those which, while eaten, provide low production or lose quality fast, are only eaten by
+certain species, and often have a short-lived grazing-use period. Intermediates increase as desirable
+species are selectively grazed out but will be the next set of species to decrease if grazing
+management doesn’t intervene. When adequate forage allotments are presented to livestock, the
+utilization rate of these species will be less than that of the desirable species. Examples of
+intermediates are dandelions, wild plantains, barnyard grass, and hop clover.
+
+Undesirable Species
+Those that typically are not eaten (rejected) by most livestock, cause undesirable side effects when
+eaten, or have little or no forage value. They include some woody invaders, noxious weeds, toxic
+plants, and plants that crowd out more desirable species. A few forages are undesirable during a
+specific growth stage when they produce toxins. On severely overstocked sites, such as exercise
+
+                                                                                                       2
+lots, undesirable species will become the only surviving plants. Examples of undesirable species
+are nimblewill, wild garlic, horsenettle, and buttercup. Record notes in the comment section of the
+scoresheet for invasive species creating plant pest pressure concerns. Some woody plants such as
+brush species may be present in the ratings of 1, 2, or 3 on this indicator in amounts economically
+impacting the herbaceous desirable species and should be noted in the rating.
+
+In this indicator assessment, determine the type and amount of plants within the pasture that the
+livestock will readily graze that are desirable and intermediate. Estimate visually the proportion
+(percent) of desirable species present in the entire sward by dry matter weight and score
+accordingly. The technique of estimating dry weight through visual assessment requires training
+and knowledge of plant identification. The use of the step-point method is highly recommended for
+this indicator.
+
+Percent Legume
+This indicator measures the average amount (percent) of legume present in a forage stand during the
+growing season expressed as dry matter weight. The percent legume present at a given time during
+the growing season can vary considerably, depending upon climate (especially heat), stability, and
+seasonal growth cycle of the legumes being assessed, the timing and severity or laxity of grazing
+events, and the timing and level of agronomic inputs.
+
+Legumes are important sources of nitrogen for pastures and improve the forage quality of the
+pasture mix when they comprise at least 20 percent of total air-dry weight of forage. Deep-rooted
+legumes also provide grazing during hot, dry periods in midsummer.
+
+Pastures can sometimes be limited in nitrogen, especially ones lacking enough legumes and low in
+organic matter. Nitrogen excreted by animals often is not distributed well due to lack of pasture
+management or the location of water, mineral, or shade except in some types of grazing systems
+such as high-density short-duration grazing. Pastures with few or no legumes will need added
+nitrogen for increased forage production. Legumes growing along with grasses in pastures have
+been shown to improve animal intake and performance.
+
+If the proportion of legumes is too high, especially legumes with bloat potential, forage
+consumption can cause bloat and thus be detrimental to ruminant livestock health. Legume cells
+rupture easily after ingestion, causing a high fermentation rate to occur in the rumen. This causes
+the formation of gas bubbles in a stable foam, which can lead to the rumen distending and causing
+lung malfunction. When bloating legumes, such as clovers and alfalfa (see your State’s plant list
+for additional species), are greater than 40 percent of total forage dry weight, bloat incidence in
+ruminants is likely without preventative steps.
+
+
+
+
+                                                                                                      3
+To perform this indicator, visually estimate the percentage of legume present in the total forage
+biomass. When conducting the visual assessment on most introduced cool-season legumes (except
+red clover which has a higher dry weight (90%) and alfalfa (100%)), the estimate will need to be
+reduced by approximately 50 percent of the visual estimate when converting to a dry matter weight
+basis. Most legumes have their leaves in the upper part of the plant with only stems below. Thus,
+the upper part of the plant appears denser visually when compared to grasses which are denser at the
+base of the plants. For rare cases where legume percentages are greater than 40 percent of the
+stand, but still are less than 40 percent bloat-type legumes, rate as a 5.
+
+
+
+
+ Legumes at 6% by dry weight                         Legumes at 15% by dry weight
+ (approximately 10% visual wet).                     (approximately 30% visual wet).
+
+
+
+
+ Legumes at 27% by dry weight
+ (approximately 50% visual wet).
+
+
+
+
+                                                                                                  4
+Live Plant Cover (includes dormant)
+The percentage of the soil surface covered by live plants is important for pasture production, and
+soil and water protection. This indicator rates how well your plant solar panel is working. The
+higher the leaf area, the higher the photosynthetic activity. A dense stand (high-stem count) of live
+leaf area ensures, when properly grazed, high animal intake and high sunlight interception for best
+forage growth. Bare, open spots allow for weed encroachment, increased water runoff during
+intense rains, soil erosion, and lost production. Attached, standing dead plant material can reduce
+forage quality, photosynthesis, and new tillering depending on the amount and height.
+
+Live cover assessment can be determined at any time
+on continuously grazed pastures but is best done
+closer to optimal grazing heights. On rotational
+pastures, ideally estimate canopy cover of the
+paddock the day prior to livestock entry. This will
+represent the best possible condition. If cover rates
+fair or lower at this growth stage, management
+changes are recommended. It can also be used to
+assess postgrazing events to determine if adequate
+residual is left or not.
+Several things can influence live plant cover,
+especially time of year, rest period prior to review,       How good is my solar panel?
+forage present, weather conditions, and management.
+Forages can be easily placed into three different stages.
+
+   •   Stage one plants are short and immature, having high quality but low production. Stage one
+       plants are good for being a solar panel, but they lack the surface area of stage two, which
+       generally ends right at the early boot stage for grasses.
+   •   Stage two has the greatest live leaf surface area and normally the best forage quality.
+   •   The third stage has maturing vegetation of lower quality and dormant vegetation. Although
+       this stage has the greatest volume of forage available, mature and dormant plants are
+       performing less photosynthesis and forage quality is less.
+The management factor in live plant cover is very important. Frequency of grazing, length of
+grazing period, stop-grazing height, stocking rates and density, length of rest period and nutrient
+management are factors to be managed to achieve the highest production of quality forage for
+animal growth.
+
+There are times when letting the forage mature longer can certainly be a positive move, especially
+to grow deeper roots and potentially build soil organic matter. Dormant forage and stockpiled
+forage may not be the best collector of sunlight but shouldn’t be scored as the 5-point category but
+could still score moderately well on the PCS scoresheet if everything else is met.
+
+Forage stands with dead or dying intact material should be rated lower accordingly, this includes
+attached standing dead plant material. This material is not collecting sunlight, and it is not desirable
+for the livestock, although there is some fiber benefit early in the season. Too much standing dead
+material may cause the forage to be rejected by the grazing animal or lead to other forages being
+selectively grazed. Note when forage is dormant stockpile for future reference.
+
+                                                                                                        5
+Visually estimate percent live cover of all species. Assign a value based on live green leaf canopy.
+If the estimate is inconclusive, or difficult to complete because of the complexity of species or stage
+of growth, then use the step-point method to estimate or use a camera-based, accurate green canopy
+cover measurement tool.
+
+Plant Diversity
+This indicator is done by dry matter weight. Forage production varies throughout the grazing
+season because of changing weather, growing degree days, management, and insect or disease
+pressures. Increasing diversity can help moderate negative changes. Having multiple dominant
+desirable forage species in a pasture offers some “insurance” and it’s more likely that there is
+something that can be productive under a wide range of conditions. Warm season grasses for
+example, can provide quality forage during hot, dry summer periods for areas where adapted, when
+most cool-season forage tend to go dormant. Low species diversity makes pastures more vulnerable
+to stress and to changing conditions.
+
+The plant diversity score describes the number and abundance of well-represented forage plants and
+plant functional groups. For the PCS scoresheet rating, desirable forage species must comprise
+more than 50 percent of the total biomass to score above a 1. Any time there are more undesirable
+than desirable plant species, the score will be 1. Refer to your State or regional desirable plant list
+and ideally by grazing livestock type (species).
+
+The PCSS considers a dominant species to be one
+that makes up at least 15 percent of the pasture
+biomass by dry weight. Dominant species
+contribute substantially to the total forage biomass,
+and having several similar dominant desirable
+species helps to spread the production and lower the
+risk.
+A functional group includes plant species that have
+similar management requirements, biological
+contributions, and attributes. For most of the
+United States, the four basic functional groups for
+improved pastures are cool-season grasses, warm-         Warm-season grasses are a functional group
+season grasses, legumes, other grazable                  that when present in the system can ease
+nonleguminous forbs (e.g., brassicas, forage             summer slump periods.
+chicory, dandelion), or a functional group
+designated by the State. A functional group is counted even if it has no dominant species, if the
+group collectively makes up at least 15 percent of the pasture biomass.
+
+Plants from different functional groups are most compatible when they can be successfully managed
+together. Mixed species pastures with at least two functional groups and three or more well-
+represented forage species are generally the most productive. Higher total diversity within a
+functional group does not ensure higher productivity and may cause animals to avoid some species
+and graze others heavily, as species differences in palatability and maturity are more likely. The
+greatest benefit for the grazing system is often achieved by the addition of another functional group.
+
+Adding legumes to the stand increases protein and energy improving forage quality, boosts
+
+                                                                                                      6
+production, fixes nitrogen for the grasses in the stand, are agronomically sound, environmentally
+friendly, and economically advantageous. The addition of forbs can provide plants with deeper
+roots that can bring up nutrients from deeper in the soil profile, provide some additional drought
+tolerance to the pasture, and often provide highly preferred species that livestock desire.
+
+Some climates may have other functional groups to assess to accomplish the desired outcomes of
+this indicator.
+
+The PCS scoresheet rating for diversity balances the number of dominant desirable species within a
+functional group and the number of functional groups to provide a score that indicates general
+forage productivity and manageability.
+
+Plant Residue and Litter as Soil Cover
+Soil cover is important to slow evaporation, maintain and stabilize ideal soil temperatures, be a
+carbon and food source for soil life, deter erosion, and to help with water infiltration. Residue is
+dead plant material in varying states of decay.
+
+                                              Decomposing surface residue is detached plant
+                                              material that typically creates a light duff layer directly
+                                              on the soil surface. It is highly subject to microbial
+                                              activity and is in constant flux. Litter is generally the
+                                              uppermost layer of detached residue on the soil surface
+                                              including freshly fallen or slightly decomposed
+                                              vegetative material. This can include flattened plant
+                                              material from a recent grazing event with high stock
+                                              densities that may still be attached. Litter is slightly
+                                              more stable for a longer period depending on the
+                                              presence and amount of biological activity.
+
+In a well-managed system, there should always be some plant residue and litter present. Extremely
+active biological systems, such as an intensely grazed dairy or a beef finishing operation, where
+vegetation is consistently grazed in the vegetative stage, often lack enough residue and litter most of
+the season. This can be resolved if needed by increasing the rest period and thus allows more
+trampling of mature forages onto the soil surface.
+
+Excessively high amounts of residue, especially litter, can interfere and slow down new tiller
+growth, and tie up nitrogen. These systems often lack enough biological activity. This can be
+resolved if needed by shortening the rest period, adding more diversity, especially legumes, and
+increasing stock density.
+
+Grazing events, grazing systems, soil biology and life, weather, and management are constantly
+changing and often quite fluid. The percentage of ideal cover is not exact but should be in most
+cases a minimum of 60 percent with good soil biological activity. The higher the requirements of
+microbial life, the higher amount of residue and litter is needed to support it.
+
+
+
+
+                                                                                                        7
+First assess the amount of bare soil. Cover is
+easily assessed during the step-point method by
+gently moving the aboveground plant cover to
+one side with your hand or foot if needed to see
+if soil cover is provided between plants and
+under the canopy. The soil should be covered by
+either live plants and tillers or residue. Visually
+estimate the percent cover between live plants in
+the stand; the step-point method is a good
+quantitative way to do this.
+
+Grazing Utilization and Severity
+                                                      Estimate the amount of bare soil. When bare soil is
+The proper amount and frequency of grazing are        easily seen it is rated a 1. This should not be
+critical in maintaining productive pastures.          common.
+Close and frequent grazing causes loss of vigor,
+reduces density of desired species and yield, can promote erosion, and have impact on bite size and
+intake. Differences in species, plant maturity, stocking rate, location and distance to water, shade,
+and mineral availability may cause uneven grazing to occur.
+
+Grazing utilization and severity are directly related to uniformity of grazing by livestock, except
+when continually overgrazing. Though an overgrazed pasture may look uniform, the impact of this
+severity places such pastures in the lowest rating. Uniform grazing results in almost all desirable
+and intermediate species being grazed to a targeted residual or “stop-grazing” height or slightly
+higher. Uniform grazing, without overgrazing, usually only exists when proper grazing
+management techniques are employed and especially where smaller allocations are made.
+
+Nonuniformity is spotty or patterned grazing that appears uneven throughout a pasture, with some
+plants or parts of paddocks grazed heavily and others grazed lightly or not at all. Individual forage
+species are being selected by the livestock based on their palatability, nutritional value, amount of
+other forages available, and location in the pasture.
+
+Selectivity is also affected by differences in stage of maturity among species, amount of forage
+offered to livestock, their length of stay in the paddock, and the livestock stocking density. In most
+instances, livestock will readily select younger plants over more mature ones. Livestock will also
+usually refuse to graze where manure and urine have recently been deposited. This leads to a
+continuing cycle of uneven grazing patterns and reduced efficiency.
+
+Zone grazing occurs when one end of the pasture is heavily grazed, and the other end is lightly
+grazed or ungrazed. It often occurs on pastures with long walking distances from one end to the
+other, especially when shady areas, windbreaks, hay, creep, or mineral feeding and watering sites
+are a long distance from some parts of the field. Pastures with abrupt topography changes can also
+cause zone grazing.
+
+For this indicator solely visually assess. When zone grazing is occurring, along with some uneven
+grazing throughout, rate it a 3. Rate the pasture a 4 if the pasture is uniformly grazed to target
+residual heights but there is some zone grazing occurring.
+
+While understocking will lead to more selectivity and the potential for uneven grazing, continual
+                                                                                                        8
+overstocking can result in pastures being uniformly grazed (mowed lawn appearance) but to heights
+that are too low to maintain all the desirable species. These uniformly overgrazed pastures should
+be rated low on the score sheet.
+
+Livestock Concentration Areas
+Concentration areas are places in pastures where livestock return frequently and linger near feeding
+areas, gates, water, mineral or salt, or shade. These areas may have reduced vegetative cover,
+increased bare ground, and have concentrated animal waste. Livestock trails to and from these
+preferred areas can create pathways that may increase erosion and become conduits for sediment,
+nutrients, and pathogens to nearby water bodies.
+
+This indicator addresses the potential impacts on water quality by assessing the size of the disturbed
+areas and the connectivity to adjacent water bodies through trailing and location. Livestock
+concentration areas near water sources or with direct conveyance to surface water can create
+resource concerns. Additionally, these areas on pervious soils over shallow ground water can also
+create water quality problems from introduced contaminants when close to adjacent waterbodies.
+
+For estimates and comparisons, one square acre is 208’ by 208’ and 10 percent of that or 0.1 of an
+acre is 66’ by 66’. When assessing pastures that are less than 1 acre, use 10 percent of grazing unit
+area as an alternative to 0.1 acres, to determine score.
+
+Pace unknown distances and assess the amount of concentration area for this indicator.
+
+
+
+
+ Example of a 2-point rating.
+ Concentration areas are within100 feet
+ of water body and less than .1 acre in
+ size.
+
+
+
+
+  Example of a 1-point rating.                            Example of a 2-point rating.
+  Concentration areas are within 100 feet                 Concentration areas are within 100 feet
+  of water body and more than .1 acre in                  of water body and less than .1 acre in
+  size.                                                   size.
+
+
+
+                                                                                                        9
+                                           Example of a 3-point rating.
+                                           Concentration areas are greater than 100
+Example of a 2-point rating where the      feet of water body and more than .1 acre
+field is less than 1 acre. It receives a   in size.
+rating of a 2.
+
+
+
+
+ Example of a 4-point rating.
+ Concentration areas are greater than
+ 100 feet of water body and less than .1
+ acre in size.
+
+
+
+
+                                                                                      10
+Soil Compaction and Soil Regenerative Features
+Soil compaction is the diminished pore space between soil aggregates that hold air and water.
+Compaction reduces a pasture’s ability to infiltrate water by minimizing pore space and increasing
+bulk density of the soils, negatively affecting hydrologic function, nutrient cycling, and the energy
+flow throughout the pasture ecosystem. Compaction affects the ability of plant roots to access
+water and nutrients. Increased runoff resulting from soil compaction creates the potential to
+transport contaminants such as sediment, nutrients, and pathogens to surface water, degrading water
+quality.
+
+Roots can be diminished by not only compacted
+layers, but also from overgrazing and haying.
+Shallow or sparse roots that do not move deeper in
+the soil profile, especially when there are no limiting
+layers, are good indicators these possible
+management activities are occurring.
+
+Soil regenerative features focus on the condition of
+plant roots and the abundance of soil life, both of    Compaction is one of the most detrimental
+which can improve important soil attributes like       resource concerns.
+structure and organic matter. Soils with roots
+growing deep and downward have the potential to feed a large and diverse population of soil life.
+These soil organisms can improve water-holding capacity, nutrient cycling, plant productivity, plant
+health, and nutrient density.
+
+To evaluate, use a shovel to dig a hole in the pasture, large enough to see the indicator features.
+
+If a comparison is needed or desired, locate one hole in a protected area, such as a fence line where
+grazing can occur, but soil is not adversely affected by hoof action, and the other within the pasture
+away from the protected area and on the same soil type to compare differences in soil features.
+
+Soil features to observe and or to compare in the soil of each hole are —
+
+       •   Ease of getting the shovel into the soil.
+       •   Soil structure—look for platiness and aggregates in the top twelve inches.
+       •   Rooting depth.
+       •   Root morphology and direction of growth—roots should be growing downward through
+           the soil profile.
+       •   Color—contrasting color changes in the soil with darker soil in the more biotically active
+           upper layer.
+       •   Worms, tunnels, or other biotic presence and activity.
+
+
+
+
+                                                                                                      11
+When rating this indicator, begin with the primary
+subindicators (compaction layer, then root
+characteristics) and use these two subindicators as
+the main scoring factors, with the most adverse
+factor of the two subindicators determining the
+score. Soil color and soil life subindicators are
+secondary indicators and can be considered where
+applicable but used primarily for discussion with
+the manager and planning for improving soil health.
+When rating the compacted or platy layer, consider
+if the layer is within a zone where primary forage
+roots would typically extend to (not potentially).
+                                                         Healthy pasture soils should have good
+Plant Vigor                                              aggregates, vertical roots, and soil life.
+
+In simplest terms, plant vigor refers to the health of a plant. Another interpretation is the plant’s
+robustness in comparison to others of the same species, relative to the size and age of the plant
+within the environment and weather where it is growing. A loss of plant vigor can cause a loss in
+desirable species and plant cover. Primary things to consider when rating plant vigor are color and
+rate of regrowth (recovery) following a grazing event, but also taking into consideration the grazing
+height of plants, size (density) of plants, and productivity. This indicator is purposely placed as one
+of the last indicators to score doing this PCS. The scorer can then use the earlier indicator scores
+information to better score plant vigor.
+
+Color is a major indicator of plant vigor. Yellowing plants indicate drought, insect damage, or
+prolonged heavy usage (continuous grazing). Pale green grass plants can be indicative of low
+fertility or cool, wet, and poor soils and growing conditions. Fields where nitrogen-starved grasses
+exist will be obvious and have dark green spots under dung or urine patches with the rest of the
+pasture area or unit being pale in comparison. Frost-damaged plants will turn yellow or to a blue-
+gray cast depending on the severity of the cold damage.
+
+Leaf color can also change due to age. Older, lower leaves of plants turn yellow as they become
+more shaded and nutrients are translocated from them to the younger leaves higher in the canopy.
+This type of progressive vigor decline on a single
+plant is critical to the producer timing the rotation of
+livestock from one pasture to the next. In general,
+color is a visual indicator of either mineral
+deficiencies or, occasionally, of over-fertilization.
+Over-fertilization is not separated out in this indicator
+but should be annotated in the notes when observed
+and rated a 1 if an issue. Excess applications of
+nitrogen can cause some major nitrate toxicity issues.
+A lush, lodged, very dark green-to-bluish-green grass
+can be indicative of over-fertilization especially by
+nitrogen. It can also occur where livestock have
+concentrated on a pasture such as at a permanent
+water trough or feed bunk. These spot areas are often     Recovery and forage color are good
+ungrazed by livestock due to taste, smell, or             indicators of plant health.
+
+                                                                                                      12
+postingestive feedback caused by low level nitrate poisoning.
+
+Growth rate is a key trait of plant vigor, which is greatly affected by the management of the plant
+community. Plant recovery should be evaluated based on average growth rates for the plant
+community involved at the time of the season being rated. This is easier to evaluate on rotational
+pastures, because the last time an individual plant was grazed is likely to be known.
+
+Too often, the recovery period for the plants is too short. Ideally, when growth is slow, longer
+recovery is needed, and when growth is fast, shorter recovery is needed. Recovery is influenced by
+the time of year, the type of plants, and even manager goals, such as if it is planned to be used for
+stockpiled forage or not. It is highly influenced by how severely the pasture was used the last time
+it was grazed. The more severe the grazing (below recommended stop-grazing heights), the longer
+the recovery required. Most severe grazing occurs when a pasture is overstocked. Pasture plants
+when continuously grazed have little or no recovery. In contrast are pastures that are rarely grazed
+below stop-grazing heights and management is initiated at prime plant recovery and intake amounts.
+Make notes on any disease or insect stresses (pressure) on the plants. Using color as a plant vigor
+indicator may be difficult during a plant’s dormant season. Under such conditions, use the ratings
+of all indicators along with overall plant health and remaining leaf area to assist in a vigor score.
+
+Erosion
+Soil erosion involves the detachment, transport, and redistribution of soil particles by forces of
+water, wind, or gravity. The types of erosion evaluated for pasture condition score are below.
+
+Sheet and Rill
+Soil loss caused by water drop impact, drip splash from water dropping off plant leaves and stems
+onto bare soil, and a thin sheet of runoff water flowing across the soil surface. Sheet and rill erosion
+increases as cover decreases. Evidence of sheet erosion appears as small debris dams of plant
+residue that build up at obstructions or span between obstructions. Some soil aggregates or worm
+castings may also be washed into the debris’ dams. Rills are small, incised channels in the soil that
+run parallel to each other downslope. When rills appear, serious soil loss is occurring. This erosion
+type includes most irrigation-induced erosion.
+
+Streambank, Shoreline
+When in pastures, channels or shorelines can have heightened erosion problems and loss of
+vegetative cover that typically grows on them. These accelerated damages can result from grazing
+animal traffic in or on them. Open channels may be intermittent or perennial flowing streams or dry
+washes. The factors that affect the extent of disturbance livestock cause to streambanks, shorelines,
+and their associated vegetation include—
+
+   •   Livestock traffic patterns.
+   •   Frequency, duration, and intensity of use.
+   •   Attractiveness of these channels or banks as sunning, dusting, travel lanes, watering,
+       grazing, or rubbing areas.
+   •   Channel shape and steepness of banks.
+   •   Water flow characteristics (frequency, depth, sediment load, velocity, and turbulence).
+   •   Only consider erosion caused or influenced by livestock use.
+                                                                                                      13
+Wind
+Wind is the transport and deposition of soil from one
+location to another, occurring when heavier, windblown
+soil particles abrade, exposing soil and causing particles to
+become airborne. Deposition of the heavier soil particles
+occurs downwind of obstructions, such as fence lines,
+buildings, and vegetation. Often vegetative debris is
+windrowed against obstructions and in extreme cases soil
+will abrade and smother vegetation.
+
+Gullies
+Gullies are an advanced stage of water erosion, developing
+in situations where rill erosion has not been addressed.
+Concentrated, fast-moving water can cause gully                 There are at least two types of erosion on
+expansion through both mass soil caving along sides and         this field. Circle both on the PCSS. The
+head-cutting upslope, creating deep channels in the             lowest rating score which accounts for the
+ground. Both ephemeral and advanced classic gullies             worst erosion present should be given.
+should be addressed under this subindicator.
+
+Circle or mark all erosion types found within the planning unit. Rate the indicator with the score for
+overall erosion as the lowest scoring point value of the erosion types.
+
+                                          References
+USDA NRCS. 2019. National Resources Inventory Grazing Land On-Site Data Collection,
+Handbook of Instructions, Chapter 13, Dry Weight Rank Method, Page 13-8. Iowa State University
+of Science and Technology. https://grazingland.cssm.iastate.edu/reference-materials.
+
+USDA NRCS. 2003. Title 190, National Range and Pasture Handbook. Washington, D.C.
+https://directives.sc.eov.usda.gov/.
+
+
+
+
+                                                                                                      14
+  U.S. Department of Agriculture
+  Natural Resources Conservation Service
+
+
+
+
+                                                                                             Pasture Condition Score Sheet
+
+           Operator:                                                                                                                                        Date:
+       Evaluator:                                                                                                                                      Pasture ID:
+                                                 Soil(s), ESD(s) and or FSG(s):                                                                    Livestock type:
+                                         Current Season's Precipitation (check one) Above Normal           Normal                   Below Normal
+                                          Seasonal Temperature Trend (check one) Above Normal              Normal                   Below Normal
+
+Evaluate the site and rate each indicator based upon your observations. Scores for each indicator may range from 1 to 5. Sum the indicator scores to
+determine overall pasture condition score.
+                                                                                                                                                                                              Score
+   Indicator                                                 1 Point                           2 Points             3 Points                   4 Points                      5 Points         Points
+
+
+    Percent                                         Desirable species                 Desirable species       Desirable species         Desirable species              Desirable species
+   Desirable                                         <20% of stand.                   20 – 40% of stand.      41 – 60% of stand.       61 – 80% of stand.            exceed 80% of stand.
+  Plants* (Dry
+   Weight; for
+Livestock Type)
+                                                          <5%                         5-10% legumes           11-20% legumes.           21-30% legumes.              31-40% legumes. No
+   Percent                                                 OR                              OR                                                                        grass loss; grass may
+Legume by Dry                                         >50% bloating                >40% bloating legume.                                                                 be increasing.
+   Weight
+                                                        legumes.
+
+                                                 Less than 40% is live   40-65% is live leaf    66-80% live leaf     81-95% live leaf   More than 95% live
+                                                     leaf canopy.      canopy. Remaining is canopy. Remaining is canopy. Remaining is    (non-dormant) leaf
+Live (includes                                    Remaining is either   either dead standing either dead standing either dead standing canopy. Remaining is
+dormant) Plant
+    Cover
+                                                    dead standing         material, or bare    material, or bare    material, or bare   either dead standing
+                                                   material, or bare           ground.              ground.              ground.          material, or bare
+                                                        ground.                                                                                ground.
+
+                                                Diversity: Very low                Diversity: Low          Diversity: Moderate      Diversity: High                  Diversity: Very high
+
+                                                     <50% desirable                 2 dominant desirable 3 dominant desirable 4 dominant desirable 4 dominant desirable
+                                                        species                    species in 1 functional species in 1 functional species in 2 functional species in 3 functional
+                                                                                           group                   group                  groups                  groups
+
+
+
+      Plant Diversity by Dry Weight
+                                                           OR                    OR                     OR                      OR                   OR
+                                                 1 dominant desirable    2 functional groups 2-3 dominant desirable 3 dominant desirable 4 dominant desirable
+                                                species in 1 functional each represented by species in 2 functional species in 3 functional species in 2 functional
+                                                         group          minor species totaling        groups                  groups           groups AND 1
+
+
+
+     (*See footnote at bottom of page)
+                                                                                ≥15%                                                         additional functional
+                                                           OR                                           OR                      OR
+                                                No dominant desirable                           3 functional groups   3 dominant desirable group represented by
+                                                species and all minor                          each represented by species in 2 functional minor species totaling
+                                                    species in each                            minor species totaling    groups AND 1               ≥15%
+                                                   functional group                                    ≥15%            additional functional
+                                                     totaling <15%                                                    group represented by
+                                                                                                                      minor species totaling
+                                                                                                                              ≥15%
+                                                 Bare soil is very easily Openings of bare soil Small openings of bare No bare soil is easily                         No bare soil is seen;
+                                                         seen;             can be seen fairly    soil can be seen, but        seen;
+                                                                                easily;                 minimal;
+ Plant Residue
+ and Litter as                                   There is <20% cover Soil cover is 21-40%.                  Soil cover is 41-60%.    Soil cover is 61-80%.             Soil cover is >80%
+Soil Cover (Pull                                on the soil surface or it                                                                                             with good biological
+ back canopy )                                  is excessive, and slow                                                                                                     activity and
+                                                    to break down.                                                                                                   decomposition of older
+                                                                                                                                                                             residue.
+
+                                                 Pasture is overgrazed    Pasture consists     Pastures show uneven Pasture grazed evenly Pasture grazed evenly
+                                                      throughout.      primarily of overgrazed grazing throughout        throughout with    throughout with no
+                                                                        and/or refused areas    with heavier grazing   minimal overgrazing     overgrazing.
+    Grazing
+Utilization and
+                                                                        (former dung areas, near water or feeding        with some under
+    Severity                                                           older plants, undesired areas, or distinct zone grazed small areas
+                                                                               plants).               grazing.         and heavier use near
+                                                                                                                          water sources.
+
+*Use NRCS plant list for livestock species. Functional groups are as appropriate for your state (cool-season grasses, legumes, warm-season
+grasses, non-leguminous forbs). Any time there are more undesirables than desirables, it will be 1 point. Desirable species must total more than
+50% of the total biomass. Dominant species are ≥15%. Functional groups must be ≥15% of stand to be counted.
+
+
+
+
+                                                                                                                                                                                              1/28/2020
+ U.S. Department of Agriculture
+ Natural Resources Conservation Service
+
+
+    Indicator                                                         1 Point                    2 Points                     3 Points                     4 Points                 5 Points           Points
+
+
+                          Livestock              Livestock                 Livestock               Livestock                                                                       Livestock
+                    concentration areas     concentration areas      concentration areas    concentration areas                                                              concentration areas,
+   Livestock       are within 100 feet of, are within 100 feet of, are farther than 100     are farther than 100                                                              including trails, not
+ Concentration         or are a direct         or are a direct     feet from and are not a    feet and are not a                                                                    present.
+Areas (If field <1 conveyance to surface conveyance to surface direct conveyance to         direct conveyance to
+  acre, see **
+                   water, and cover more water, and cover less        surface water, and     surface water, and
+    footnote)
+                       than 0.1 acre,          than 0.1 acre,        cover more than 0.1     cover less than 0.1
+                      including trails.       including trails.     acre, including trails. acre, including trails.
+
+                                                             Compaction: Dense Compaction: Dense Compaction: Thin                                  Compaction: Minor        Compaction: No
+                                                             or thick platy layer very or moderate platy layer dense or platy layer                dense or platy layer;    dense or platy layers;
+
+
+
+
+       Soil Compaction and Soil Regenerative
+                                                             distinct;                 noticeable;             still present;                      good aggregates          crumbly soil
+                                                                                                                                                   common (crumbly          throughout;
+                                                                                                                                                   soil);
+
+                                                             Roots: Dominantly         Roots: Numerous              Roots: Some          Roots: Few                         Roots: Abundant
+                                                             horizontal; most          horizontal; moderate         horizontal with      horizontal, more                   growth primarily
+                                                             shallow/sparse;           amount                       increasing downward; downward through the               downward through the
+
+
+
+
+      Features (***See footnote at bottom of page)
+                                                                                       shallow/sparse;                                   soil profile;                      soil profile;
+                                                             Color: Surface                                         Color: Surface                                          Color: Surface
+                                                             horizon same as                                        horizon moderately                                      horizon dramatically
+                                                             subsoil;                                               darker than subsoil;                                    darker than subsoil;
+                                                             Soil Life: Few or no      Soil Life: Signs             Soil Life: Signs               Soil Life: Signs     Soil Life: Signs
+                                                             signs.                    scattered in surface         scattered throughout.          numerous throughout. abundant throughout.
+                                                                                       layer.
+                                                             No plant recovery after    Some recovery.               Adequate recovery of    Good recovery of      Rapid recovery of
+                                                             grazing/harvest. Pale,     Yellowish green                desirable forage.  desirable forage. Light desirable forage. All
+                                                               yellow or brown, or   forage, or moderately            Yellowish and dark   green and dark green healthy green forage.
+  Plant Vigor
+                                                               severe stunting of     or slight stunting of           green areas due to      forage present.
+                                                                desirable forage.       desirable forage.             manure and urine
+                                                                                                                           patches.
+
+                                                             Sheet and Rill: Plant     Sheet and Rill: Plant Sheet and Rill: Plant                 Sheet and Rill: Plant Sheet and Rill: Plant
+                                                             density is insufficient   density slows runoff.  density good and                     density high, runoff     density high, no runoff,
+                                                             to stop runoff, with      Erosion present and    runoff moderate. If                  low, good infiltration. good infiltration. No
+                                                             poor infiltration.        easily seen on steeper present, erosion                     May have evidence of evidence of present or
+                                                             Erosion easily visible    terrain;               concentrated on                      past erosion if present; past erosion;
+
+
+
+
+       (Circle all that apply; the overall indicator score
+                                                             throughout pasture;                              heavily used areas;
+
+
+                                                             Wind: Severe scoured Wind: Scoured areas Wind: Occasional                             Wind: Minimal soil      Wind: No exposed
+                                                             areas and deposition common, deposition  scoured areas, litter                        exposed, some           soil;
+                                                             throughout;          effecting plants;   windrolled;                                  detatched vegetation
+                                                                                                                                                   windrolled, minor plant
+ Erosion
+                                                                                                                                                   damage;
+
+
+
+
+              will be the lowest rating indicated)
+                                                             Streambank and/or         Streambank and/or            Streambank and/or              Streambank and/or       Streambank and/or
+                                                             Shoreline: Banks          Shoreline: More than         Shoreline: Less than           Shoreline: Eroding at Shoreline: Vegetation
+                                                             bare, major sloughing,    half the bank                half the bank                  crossings, entrances; intact and stable,
+                                                             no bank vegetation;       vegetation trampled;         vegetation trampled;           all the bank vegetation hardened crossings
+                                                                                       sloughing.                   eroding at                     is intact and banks are and alternative water
+                                                                                                                    crossing/entrances.            stable.                 sources used;
+
+                                                             Gully: Very large         Gully: Advancing             Gully: Not all active          Gully: Stable with       Gully: None, drainage
+                                                             mass movement,            upslope, increasing          but extensions                 vegetative cover.        ways vegetative.
+                                                             caving sides.             fingering extensions.        present.
+** If field size is less than 1 ac. Use 10% of field size in place of 0.1 acre. ***Use a shovel. Root and Compaction subindicators are primary and
+should be considered first. Soil color and soil life are secondary subindicators which can be considered where applicable.
+ Overall Pasture                                                      Individual
+ Condition Score                                                   Indicator Score
+                                                                                                                     Management Change Suggested                                  Overall Pasture
+     45 to 50                                                            5             No changes in management needed at this time.                                            Condition Score =
+     35 to 45                                                            4             Minor changes would enhance, do most beneficial first.
+     25 to 35                                                            3             Improvements would benefit productivity and/or environment.
+     15 to 25                                                            2             Needs immediate management changes, high return likely.
+     10 to 15                                                            1             Major effort required in time, management and expense.
+Comments/Notes:
+
+
+
+
+                                                                                                                                                                                                       1/28/2020
+                                                          Acknowledgments
+Kevin Ogles, NRCS East National Technology Support Center (ENTSC) Grazing Specialist, North Carolina (Revision Team Lead)
+      Victor Shelton, NRCS State Agronomist/Grazing Specialist, Indiana (Contributing Author and Scoresheet Editor)
+                       Kris Vance, NRCS Public Affairs Specialist, Indiana (Contributing Design Editor)
+
+
+                                     Contributing Authors and Reviewers:
+                                Greg Brann, Retired NRCS State Grazing Specialist, Tennessee
+                               Brendan Brazee, NRCS State Rangeland Conservationist, Idaho
+                          Marty Chaney, NRCS State Pasture Management Specialist, Washington
+                                  Jill Claasen, Retired NRCS State Specialist, South Carolina
+                                  J.B. Daniel, NRCS State Conservation Agronomist, Virginia
+                         Sarah Goslee, Agriculture Research Service (ARS) Ecologist, Pennsylvania
+                           Justin Morris, NRCS Northeast Region Soil Health Specialist, Wisconsin
+                                Susan Parry, NRCS Natural Resource Specialist, Pennsylvania
+     Johanna Pate, NRCS Central National Technology Support Center (CNTSC) Rangeland Management Specialist, Texas
+                                   Brian Pillsbury, NRCS State Grazing Specialist, Wisconsin
+                              Karin Sonnen, NRCS State Range Management Specialist, Alaska
+                                          Roger Staff, NRCS Grazing Specialist, Illinois
+        David Toledo, Agriculture Research Service (ARS) Research Rangeland Management Specialist, North Dakota
+           Steve Woodruff, NRCS East National Technology Support Center (ENTSC) Agronomist, North Carolina
+
+
+                Authors extend their thanks to Extension and NRCS reviewers for their input on technical content.
+
+    This publication and the Pasture Condition Score Sheet that accompanies it were adapted from the Guide to Pasture
+                   Condition Scoring, May 2001. Dennis Cosgrove; Dan Undersander; and James Cropper.
+
+
+
+
+In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices,
+and employees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national
+origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, family/parental status, income
+derived from a public assistance program, political beliefs, or reprisal or retaliation for prior civil rights activity, in any program or activity conducted or
+funded by USDA (not all bases apply to all programs). Remedies and complaint filing deadlines vary by program or incident.
+
+Persons with disabilities who require alternative means of communication for program information (e.g., Braille, large print, audiotape, American
+Sign Language, etc.) should contact the responsible Agency or USDA’s TARGET Center at (202) 720-2600 (voice and TTY) or contact USDA through the
+Federal Relay Service at (800) 877-8339. Additionally, program information may be made available in languages other than English. To file a program
+discrimination complaint, complete the USDA Program Discrimination Complaint Form, AD-3027, found online at How to File a Program Discrimination
+Complaint and at any USDA office or write a letter addressed to USDA and provide in the letter all of the information requested in the form. To request a
+copy of the complaint form, call (866) 632-9992. Submit your completed form or letter to USDA by: (1) mail: U.S. Department of Agriculture, Office of the
+Assistant Secretary for Civil Rights, 1400 Independence Avenue, SW, Washington, D.C. 20250-9410; (2) fax: (202) 690-7442; or (3) email: program.intake@
+usda.gov.
+
+USDA is an equal opportunity provider, employer, and lender.
+

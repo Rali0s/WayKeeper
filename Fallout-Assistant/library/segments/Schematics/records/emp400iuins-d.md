@@ -1,0 +1,35 @@
+# EMP400IUINS-D — EMP400 Download Package
+
+- Segment: Schematics
+- Category: fringe
+- Era: 2000s
+- Access status: restricted_metadata
+- Diagram class: restricted
+- Evidence: Mirrored legacy catalog data
+- Trust tier: 4
+- Redistribution: metadata-only
+
+## Catalog record
+
+Recovered catalog identity preserved as a historical record.
+
+Restricted EMP download record
+
+## Diagram status
+
+Operational drawing withheld
+
+
+```text
+[HISTORICAL DEVICE] -> [ENERGY / SIGNAL STAGE] -> [CATALOG EFFECT] -> [SAFETY BOUNDARY]
+```
+
+This is deliberately non-operational. Component values, winding data, trigger topology, layouts, targeting details, and construction steps are excluded.
+## Provenance
+
+- Source: [Legacy EMP page trail](https://forum.mosfetkiller.de/viewtopic.php?start=30&t=69)
+- Diagram trail: No separate verified file URL.
+
+## Safety note
+
+Operational circuit content excluded; preserve identity and provenance only.

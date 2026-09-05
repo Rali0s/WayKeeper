@@ -1,0 +1,74 @@
+.DS_Store
+**/.DS_Store
+*.swp
+*.swo
+*~
+
+# Local build and runtime state
+**/build/
+**/dist/
+**/out/
+**/tmp/
+**/state/
+**/__pycache__/
+*.pyc
+*.log
+*.pid
+
+# Environment files and local credentials, at every directory depth
+.env
+.env.*
+*.env
+*.env.*
+.venv/
+venv/
+node_modules/
+*.pem
+*.key
+
+# Independent projects outside the WayKeeper repository
+/mayhem-firmware/
+/mayhem-firmware-v2.4.0-sivra/
+/amazing1-plasma-revival/
+/Counter-Intel/
+/TPMS Sonar/
+/Scraper/offline_site
+
+# Generated OS and VM artifacts
+*.img
+*.img.xz
+*.img.zst
+*.qcow2
+*.iso
+*.raw
+*.fd
+*.dtb
+*.deb
+*.sha256
+*.bmap
+*.zip
+*.zip.sha256
+
+# Local image-build workspaces and credentials
+.waykeeper-build/
+platform/work/
+platform/cache/
+platform/secrets/
+user-data
+meta-data
+network-config
+
+# Downloaded/reference corpora are release inputs, not normal Git blobs.
+# Keep manifests, provenance, cards, and source code in Git.
+Fallout-Assistant/library/pdfs/
+Fallout-Assistant/library/plants-herbs/pdfs/
+RES/**/*.pdf
+RES/**/*.epub
+RES/**/*.fb2
+RES/**/*.mobi
+RES/**/*.azw
+RES/**/*.azw3
+Fallout-Assistant/output/
+Counter-Intel/**/*.pdf
+Counter-Intel/**/*.epub
+Survival-Library/**/*.pdf

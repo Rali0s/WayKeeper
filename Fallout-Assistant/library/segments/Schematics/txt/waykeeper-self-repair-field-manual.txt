@@ -1,0 +1,237 @@
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 1 OF 10
+================================================================================
+SCOPE
+  Concept-level field service for the Orange Pi Zero 2 WayKeeper architecture:
+  enclosure, display/touch, storage, USB peripherals, radios, cooling, connectors,
+  and replaceable power modules. The final BOM and board revision always control.
+
++----------------------------- STOP FIRST ---------------------------------+
+| Shut down cleanly. Disconnect solar/external power. Isolate the battery using |
+| the designed service disconnect or remove the approved battery module. Wait.  |
+| Work dry, with ESD precautions, and photograph every connector before removal.|
++----------------------------------------------------------------------------+
+
+EVACUATE / ISOLATE - DO NOT FIELD REPAIR
+  Swollen, punctured, leaking, wet, smoking, hissing, unusually hot, or sweet-
+  smelling battery; burned charger/BMS; melted wire; active corrosion; arcing.
+  Move people away, follow local battery/fire guidance, and use trained service.
+
+NO LIVE RESISTANCE OR CONTINUITY TESTS. NO BMS BYPASS. NO LARGER FUSE.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 2 OF 10
+================================================================================
+SERVICE ZONES - LOGICAL, NOT A CONNECTOR PINOUT
+
+  FIELD POWER / USB-C
+          |
+          v
+  +----------------+     +------------------+     +-----------------------+
+  | PROTECTION AND |---->| BATTERY / UPS /  |---->| REGULATED BOARD POWER |
+  | INPUT MODULE   |     | CHARGE MODULE    |     +-----------+-----------+
+  +----------------+     +------------------+                 |
+                                                              v
+  +----------------+     +------------------+     +-----------------------+
+  | DISPLAY/TOUCH  |<--->| ORANGE PI ZERO 2 |<--->| USB HID / UART / I/O  |
+  +----------------+     +--------+---------+     +-----------------------+
+                                  |
+                         +--------+---------+
+                         | microSD / RADIO  |
+                         | COOLING / CASE   |
+                         +------------------+
+
+BOUNDARY
+  These blocks describe replaceable functions. They do not define wire color,
+  connector order, voltage, fuse value, polarity, battery chemistry, or pinout.
+  Verify those values from the exact shipped unit record before touching them.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 3 OF 10
+================================================================================
+FIELD KIT
+
+  SAFE ESSENTIALS                         CONTROLLED / BOM-DEPENDENT
+  --------------------------------------  --------------------------------------
+  Eye protection and insulated work mat  Known-good WayKeeper recovery microSD
+  ESD strap and ESD-safe spudger          Exact approved USB-C supply/cable
+  Correct precision drivers               Approved replacement gasket/fasteners
+  Plastic tweezers and connector labels   Exact-thickness thermal pad
+  Magnifier and non-metallic brush        Known-good display/touch module
+  90%+ isopropyl for UNPOWERED boards     Voltage-correct isolated UART adapter
+  Multimeter with intact fused leads      Current-limited supply only per BOM
+  Small bags for labeled fasteners        Exact-rated replacement fuse/module
+
+BEFORE OPENING
+  [ ] Export/back up state if the unit still boots.
+  [ ] Record image version, symptoms, battery state, and recent impact/water event.
+  [ ] Photograph all sides, seals, fasteners, cable routing, and connector keys.
+  [ ] Prepare a clean, nonconductive tray; keep screws grouped by location.
+
+Never improvise a battery, charger, fuse, thermal pad thickness, or power polarity.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 4 OF 10
+================================================================================
+TRIAGE - CHANGE ONE THING AT A TIME
+
+       +-------------------+
+       | VISUAL / SMELL OK? |
+       +---------+---------+
+                 | YES                         NO -> ISOLATE; TRAINED SERVICE
+                 v
+       +-------------------+
+       | EXTERNAL CABLE AND |
+       | SOURCE VERIFIED?   |
+       +---------+---------+
+                 |
+                 v
+       +-------------------+       NO BOOT -> RECOVERY microSD, THEN UART LOG
+       | MINIMAL BOOT WITH  |-----------------------------+
+       | KNOWN-GOOD IMAGE?  |                             |
+       +---------+---------+                             v
+                 | YES                         SAVE EVIDENCE; DO NOT GUESS
+                 v
+       +-------------------+
+       | ADD ONE MODULE AT  | -> DISPLAY -> TOUCH -> USB -> RADIO -> ACCESSORIES
+       | A TIME AND RETEST  |
+       +-------------------+
+
+Do not erase the original microSD. Label it and preserve it for logs/recovery.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 5 OF 10
+================================================================================
+FAULT MATRIX
+
+  SYMPTOM             FIRST SAFE CHECKS                    NEXT CONTROLLED STEP
+  ------------------  -----------------------------------  ------------------------
+  No power            Approved cable/source; debris;      Isolate battery; inspect
+                      service disconnect; visible damage  input/power modules
+  Boots, no display   Brightness; cable; external console Power off; reseat keyed
+                                                           display connector once
+  Display, no touch   USB/HID status; clean dry surface    Reseat/replace touch lead
+  Boot loop           Remove accessories; storage image;  Capture UART boot log
+                      power sag indication
+  No Wi-Fi/Bluetooth  Airplane/radio state; antenna lead;  Reload known-good image;
+                      firmware/service status              replace approved module
+  Overheating         Stop load; vents; fan if fitted;     Clean; renew exact pad
+  Water ingress       POWER OFF; isolate battery; blot     Trained inspection; do not
+                      exterior; no charging                heat or power to "test"
+  UART absent         Adapter/cable/path; RX/TX; baud      Follow UART manual
+  Loose enclosure     Correct fasteners/posts/gasket      Replace damaged shell part
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 6 OF 10
+================================================================================
+SAFE MODULE PROCEDURES
+
+ENCLOSURE / STRAP / GASKET
+  Remove power. Photograph routing. Replace cracked shell, strap, or exact gasket.
+  Hand-start fasteners; use the controlled torque pattern. Pinched gaskets, cables,
+  and overtightened inserts destroy ingress protection. Never claim a field-opened
+  unit is waterproof; perform the approved seal check before exposure.
+
+DISPLAY / TOUCH
+  Confirm the system boots through UART or an external display first. Power off
+  and isolate battery. Release the connector latch correctly; pull the stiffener,
+  not the flex. Reseat once, square and fully inserted. Replace torn or creased
+  flex cables; do not bridge them with foil or field solder.
+
+STORAGE / BOOT
+  Preserve the original microSD. Boot a verified WayKeeper recovery image on a
+  known-good card. If recovery succeeds, copy only inspected state/data. Do not
+  copy damaged system files blindly. Record image hash and card identity.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 7 OF 10
+================================================================================
+RADIO, THERMAL, AND INPUT SERVICE
+
+WI-FI / BLUETOOTH
+  Check STATUS, rfkill/service state, firmware, and the known-good image before
+  opening the unit. With all power isolated, inspect approved antenna connectors.
+  Press micro-coax connectors vertically with the correct tool; never twist or
+  pry sideways. Do not alter antenna length, routing, shielding, or transmit power.
+
+COOLING
+  Stop the load if the enclosure is unusually hot. Remove dry dust with a soft
+  brush while unpowered. Replace only with the exact pad thickness and placement;
+  a thinner pad may not touch and a thicker pad may bend the board. Do not fill
+  designed air gaps with paste. Confirm vents remain open after assembly.
+
+BUTTONS / KEYBOARD / TOUCH INPUT
+  Check software input enumeration first. Substitute one known-good USB HID device.
+  Clean external keys dry. Replace a sealed input module rather than flooding it
+  with cleaner. Verify no stuck key prevents the ESC-W-K-ENTER wake sequence.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 8 OF 10
+================================================================================
+POWER SYSTEM BOUNDARY
+
+FIELD-REPLACEABLE ONLY WHEN THE FINAL BOM DEFINES THE MODULE
+  * Approved external USB-C cable and source
+  * Protected input daughterboard
+  * Battery/UPS pack with matching chemistry, connector, BMS, and rating
+  * Exact-rated fuse or fused module
+  * Approved regulator or charger module
+
+DO NOT FIELD-REPAIR
+  * Battery cells, spot welds, protection PCB/BMS, charger, MPPT, or swollen pack
+  * Burned/corroded multilayer PCB, cracked board, lifted USB-C power pads
+  * Unknown fuse, polarity, connector pinout, or improvised cell substitution
+  * Any modification that bypasses thermal sensing, cutoff, interlock, or BMS
+
+USB-C LATER-RELEASE UART NOTE
+  A USB-C connector does not make raw UART electrically compatible. Route future
+  UART only through the documented USB device/bridge design. Never attach UART to
+  USB D+/D-, CC, SBU, or VBUS based on connector shape or an unverified cable.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                                CARD 9 OF 10
+================================================================================
+POST-REPAIR TEST - CASE OPEN, THEN CLOSED
+
+  [ ] Inspect for loose hardware, conductive debris, pinched cable, reversed plug.
+  [ ] Check resistance/continuity only while fully unpowered and as BOM directs.
+  [ ] Use the approved source. Current limit only to a documented safe BOM value.
+  [ ] First power briefly; watch current, heat, smell, smoke, display, and boot log.
+  [ ] Stop immediately on abnormal current, heat, odor, sound, reset, or swelling.
+  [ ] Boot known-good image; check storage, display, touch, keys, USB, radios, UART.
+  [ ] Test battery and charge behavior under supervision; never leave it unattended.
+  [ ] Shut down, close with correct cable routing, gasket, fasteners, and torque.
+  [ ] Repeat functional test. Perform only the approved non-destructive seal check.
+  [ ] Update journal with fault, cause, parts, image hash, tests, and remaining risk.
+
+RETURN-TO-FIELD GATE
+  The unit boots repeatedly, shuts down cleanly, charges normally without heat,
+  holds all connectors, passes input/radio checks, and has no unresolved damage.
+  Otherwise label it OUT OF SERVICE and preserve it for trained repair.
+
+
+WAYKEEPER (TM) HARDWARE SELF-REPAIR MANUAL                               CARD 10 OF 10
+================================================================================
+SERVICE RECORD AND MAINTENANCE
+
+  RECORD EACH REPAIR
+  Unit ID / board revision / enclosure revision / image version and hash
+  Date / operator / symptom / trigger event / observations / captured UART log
+  Power source / battery module ID / parts removed / parts installed / test result
+
+  ROUTINE INSPECTION
+  BEFORE TRIP   Cable, caps, shell, strap, display, charge, recovery card, lock test
+  AFTER IMPACT  Power off; shell, battery, connector, display, mounts, water seal
+  AFTER WATER   Do not charge; isolate; dry exterior; trained internal inspection
+  PERIODIC      Vent/dust, fastener witness marks, gasket, cable wear, storage backup
+
+RELATED ANSI CARDS
+  WayKeeper Power Domain Flow
+  WayKeeper Touch Console Stack
+  Orange Pi ARM64 Boot Flow
+  WayKeeper Wi-Fi and Bluetooth Service Flow
+  WayKeeper UART Scout Field Manual
+
+DOCUMENT CONTROL
+  Concept images are not manufacturing drawings. The final BOM, exact Orange Pi
+  Zero 2 revision manual, battery/UPS data, controlled schematics, and service
+  bulletins supersede this card wherever they differ.

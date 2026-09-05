@@ -1,0 +1,86 @@
+WAYKEEPER // PRODUCT MANUAL ARCHIVE INTELLIGENCE
+CHECKED 2026-08-16
+
+PURPOSE
+
+Find exact operating, installation, parts, and service documentation without
+trying to mirror the entire public Internet. Counts change continually. Free
+online access does not automatically grant redistribution rights.
+
+MANUALSLIB
+
+Live site claim: 10,522,811 PDF manuals, 7,292,332 products, 141,039 brands,
+and 3.2 TB of data indexed. This is the clearest published storage estimate.
+A complete copy exceeds a 1 TB field unit and is more than twelve times a
+256 GB card before filesystem overhead or a search index.
+
+Source: https://www.manualslib.com/
+
+INTERNET ARCHIVE MANUALS
+
+The collection search returned 3,038,231 items. An item may contain an original
+scan plus OCR, thumbnails, metadata, and other derivatives, so item count is not
+equal to PDF count and does not reveal a trustworthy total byte size. A complete
+mirror is not a practical WayKeeper target. Rights and reuse terms vary by item.
+
+Source: https://archive.org/details/manuals
+
+IFIXIT
+
+The home page displayed 580,425 free step-by-step guides. iFixit states that its
+content is licensed CC BY-NC-SA 3.0: attribution, noncommercial use, and
+share-alike terms apply. This makes it attractive for a personal/offline repair
+pack, but not automatically suitable for a future commercial WayKeeper product.
+
+Sources:
+https://www.ifixit.com/
+https://about.ifixit.com/Info/Licensing
+
+MANUALSONLINE AND MANUALS+
+
+ManualsOnline advertises search over 700,000 products and thousands of free
+manuals. Manuals+ is useful as a discovery layer for manufacturer manuals and
+other repositories, but no reliable total archive size was located. Prefer the
+original manufacturer's current PDF whenever possible.
+
+Sources:
+https://www.manualsonline.com/
+https://manuals.plus/about-us
+
+RECOMMENDED WAYKEEPER ARCHITECTURE
+
+1. Keep a small catalog: manufacturer, model, year/revision, category, manual
+   type, language, source URL, rights/license, SHA-256, local path, and date
+   checked.
+2. Cache only manuals for equipment actually owned plus high-value common tools,
+   generators, radios, solar controllers, inverters, chargers, pumps, vehicles,
+   and medical devices.
+3. Prefer manufacturer sources, government/public-domain manuals, and clearly
+   licensed repair guides.
+4. Mark every manual with revision status. Safety bulletins and model-specific
+   service information can supersede an older document.
+5. Design storage tiers: a small field pack for 256 GB media and a larger personal
+   archive for the 1 TB unit. Do not promise a universal offline mirror.
+
+IMPLEMENTED DISCOVERY CONTROL
+
+The F2 Technical Workshop now includes ONLINE MANUAL RESOURCES. It searches the
+Internet Archive Manuals collection and iFixit's official guide API, creates a
+direct ManualsLib provider search, and hands ManualsOnline to its own search
+interface. Results may be staged as metadata for later review. There is no bulk
+download control; source content remains untouched until exact model, revision,
+rights, safety, storage, and checksum review is complete.
+
+PRACTICAL CAPACITY ANSWER
+
+A full ManualsLib-scale collection alone is stated as 3.2 TB, so it does not fit
+on either target. A curated 10-25 GB core repair library plus model-specific local
+manuals is realistic. Metadata-only indexes for millions of records can remain
+compact, while PDF downloads are selective and checksum-verified.
+
+SAFETY
+
+Use the exact current model manual for torque specifications, lifting points,
+load charts, lockout, battery isolation, high-voltage systems, refrigerants,
+airbags, pressurized systems, and firmware/service procedures. A nearby manual
+for a similar product is not an acceptable substitute.

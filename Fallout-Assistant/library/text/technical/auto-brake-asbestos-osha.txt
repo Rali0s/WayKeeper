@@ -1,0 +1,252 @@
+                      U.S. Department of Labor
+                      Occupational Safety and Health Admistration
+                      Directorate of Science, Technology & Medicine
+                      Office of Science Technology Assessment
+
+                        Asbestos-Automotive Brake and Clutch Repair Work
+
+                                  Safety and Health Information Bulletin
+
+                                                                                                SHIB 07-26-06
+Purpose                                                       This Safety and Health Information Bulletin is not
+                                                              a standard or regulation, and it creates no new legal
+OSHA is issuing this Safety and Health Information            obligations. The Bulletin is advisory in nature,
+Bulletin to inform employees and employers in the             informational in content, and is intended to assist
+automotive brake repair industry of the precautions           employers in providing a safe and healthful
+that must be taken when working with automotive               workplace. Pursuant to the Occupational Safety
+brakes and clutches containing asbestos. In the case of       and Health Act, employers must comply with
+                                                              hazard-specific safety and health standards
+do-it-yourselfers*, OSHA does not have jurisdiction,
+                                                              promulgated by OSHA or by a state with an OSHA-
+and OSHA does not require theses practices to be              approved state plan. In addition, pursuant to Section
+followed. To reduce the potential exposure to                 5(a)(1), the General Duty Clause of the Act,
+asbestos, EPA strongly recommends that all                    employers must provide their employees with a
+automotive brake and clutch repair work be done by            workplace free from recognized hazards likely to
+professional auto mechanics. Although the use of              cause death or serious physical harm. Employers
+asbestos in friction products is declining annually, it       can be cited for violating the General Duty Clause
+remains a substantial source of potential exposure. In        if there is a recognized hazard and they do not take
+addition, there is still potential exposure to asbestos       reasonable steps to prevent or abate the hazard.
+contained in automotive brakes and clutches on older          However, failure to implement any recommendations
+vehicles in need of service. Exposure to asbestos, if         in this Safety and Health Information Bulletin is not,
+                                                              in itself, a violation of the General Duty Clause.
+not properly controlled can cause mesothelioma, lung
+                                                              Citations can only be based on standards, regulations,
+cancer, and asbestosis. Symptoms may not appear               and the General Duty Clause.
+for years, even decades, after contact with asbestos
+fibers.1
+                                                             OSHA’s asbestos standard requires the use of
+Background                                                   controls and safe work practices when employees
+                                                             work with brake shoes and clutches that contain
+Many brakes and clutches used in new and recent              asbestos. These requirements are detailed in 29 CFR
+model automobiles do not contain asbestos.                   1910.1001 and specifically 1910.1001(f)(3) and
+However, it has not been totally eliminated. Some            Appendix F of the standard - Work Practices and
+reports have indicated that many mechanics and               Engineering Controls for Automotive Brake and
+employees in the automotive repair shops as well as          Clutch Inspection, Disassembly, Repair and
+do-it-yourselfers are unaware that asbestos may be           Assembly (http://www.osha.gov/sltc/asbestos/
+present in both old and replacement brakes and               index.html.). The requirements also are discussed in
+clutches.                                                    the Federal Register at 59 FR 40964, 40985-87
+                                                             (August 10, 1994) and 60 FR 33983 (June 29,
+1
+  Asbestos in Brakes Exposure and Risk of Disease, Richard A. Lemen, PhD, MSPH, American Journal of Industrial Medicine
+45: 229-237 (2004)
+* Non-employees outside the automotive repair industry who typically repair or replace their own brakes at home. These
+individuals are not subject to the OSHA requirements in this Safety and Health Information Bulletin.
+ For more information about EPA’s asbestos program, do-it-yourselfers may visit EPA’s website at www.epa.gov/asbestos or
+ you may call the asbestos ombudsman’s hotline/clearing house at 1-800-368-5888.
+1995), as well as in OSHA Directive CPL 2-2.63                     clutch inspection, disassembly, repair, and
+(revised).                                                         reassembly operations. Use a transparent
+                                                                   enclosure with impermeable sleeves.
+OSHA Work Practices and Engineering Controls
+/ OSHA Methods                                                 2. Seal the enclosure tightly and thoroughly,
+                                                                  inspect for leaks before beginning work.
+All automotive brake and clutch repair facilities in the
+United States must comply with the OSHA asbestos               3. The enclosure must be transparent so that the
+standard. The proper use of engineering controls and               employee can clearly see the operation during
+work practices by properly trained employees                       brake or clutch inspection, disassembly, repair,
+working on automotive brakes and clutches will                     and reassembly. The enclosure must also have
+reduce their asbestos exposure below the permissible               impermeable sleeves to allow the employee to
+exposure level of 0.1 fiber per cubic centimeter of air,           handle the brake and clutch assembly without
+expressed as an 8-hour time-weighted average.                      penetrating the enclosure. The integrity of the
+Respiratory protection is not required during brake                sleeves and ports must be inspected before
+and clutch jobs where the control methods described                work begins.
+below are used.
+                                                               4. Use a HEPA-filtered vacuum to keep the
+The two preferred OSHA methods to control                         enclosure under negative pressure
+asbestos dust during brake and clutch repair and                  throughout the operation. Compressed air
+service are: (1) a negative pressure enclosure/                   may be used to remove asbestos fibers or
+HEPA (high-efficiency particulate air) vacuum                     particles from the enclosure.
+system, and (2) the low pressure/wet cleaning
+method. The employer may use other methods (in                 5. Use the HEPA-filtered vacuum first to
+conjunction with written procedures), to reduce                   loosen asbestos residue from the brake and
+exposure to levels equivalent to the negative                     clutch parts, then evacuate the loosened
+pressure enclosure/HEPA vacuum system. For                        material from the enclosure into a vacuum
+facilities that inspect, disassemble, reassemble and/             filter.
+or repair five or fewer brake or clutch jobs per
+week, the wet method (described in paragraph D                 6. When the vacuum filter is full, spray it with a
+of Appendix F) can be used. The spray can/                        fine mist of water before removing it.
+solvent system method can be used as an                           Immediately place it in a labeled,
+alternative preferred method since it meets the                   impermeable container and dispose of it as
+equivalency criterion of the negative pressure                    asbestos waste in accordance with federal,
+enclosure/HEPA vacuum system method. Proper                       state, and local regulations and in
+training is essential to ensure that employees use                compliance with 1910.1001(k)(6). The
+the methods in an effective manner.                               label must include the following information:
+                                                                  “DANGER, CONTAINS ASBESTOS
+Negative pressure enclosure/HEPA vacuum                           FIBERS, AVOID CREATING DUST,
+system method                                                     CANCER AND LUNG DISEASE
+                                                                  HAZARD.”
+The negative pressure enclosure/HEPA vacuum
+system method includes the following steps:                    7. Immediately clean spills or releases of
+                                                                  asbestos containing waste material from
+    1. Enclose the brake or clutch assembly to                    inside the enclosure or vacuum hose or filter.
+       prevent release of asbestos fibers into the                Properly dispose of waste as asbestos waste.
+       employee’s breathing zone during brake or
+
+                                                           2
+Vacuum enclosure units should be large enough to fully             5. Thoroughly wash the brake support plate,
+enclose and remove the brake drum with enough room                    brake shoes, and other parts before
+for hammering if the drums are difficult to remove                    removing the old brake shoes.
+because of wear, rust, or other reasons. Enclosure
+systems should have good interior lighting to illuminate           6. If your system uses a filter, wet the filter when
+the work area. The enclosure should completely                        it becomes full and before removal, with a fine
+enclose the brake drum, and form a tight seal behind                  mist of water, and place immediately in an
+the backing plate. Air guns should never be aimed                     impermeable container. Label the container
+towards the seal as this may reduce or eliminate its                  and dispose of it as asbestos waste.
+protective ability.
+                                                                   7. Immediately clean spills of asbestos-containing
+After cleaning with compressed air, the inside surfaces               liquid or asbestos-containing waste material
+of the enclosure should be HEPA vacuumed to keep                      using a HEPA-filtered vacuum and/or wet
+the inside clean and maintain visibility. Each brake                  methods. Properly dispose of waste as
+component should be vacuumed as it is removed and                     asbestos waste.
+the backing plate should be vacuumed after all the
+components have been removed. Rags used to wipe                    8. Dry brushing is prohibited.
+or clean used brake parts, should not be used to wipe
+hands. Mechanics should wear an appropriate                        9. The brake washer solution should be changed
+NIOSH-approved respirator for asbestos when                           regularly for maximum efficiency of the unit.
+changing vacuum unit filters.
+                                                               Wet method
+Low pressure/wet cleaning method
+                                                               For shops that perform infrequent brake work and
+The low pressure/wet cleaning method involves                  clutch repair work, OSHA allows the use
+the following steps:                                           of a wet method as a “preferred” method. Therefore,
+                                                               in facilities in which five (5) or fewer brake “jobs” (five
+    1. Position a catch basin under the brake                  brake “jobs” are equivalent to five vehicles) or 5
+       assembly to avoid splashes and spills.                  clutches, or some combination totaling 5, are
+                                                               inspected, disassembled, reassembled and/or repaired
+    2. Gently flood the brake assembly with water              per week, the mechanic/technician may control
+       containing an organic solvent or wetting                potential asbestos exposure through the use of a spray
+       agent to prevent asbestos-containing brake              bottle, hose nozzle, or any implement capable of
+       dust from becoming airborne.                            delivering a fine mist of water or amended water at
+                                                               low pressure to wet down the drum or clutch
+    3. For drum brakes, ensure that the water                  housing before removing it and to control asbestos
+       solution flows between the brake drum and               fiber release during subsequent activities. However,
+       the brake support before removing the brake             any wastewater generated must be captured and
+       drum.                                                   properly disposed of without allowing it to dry on any
+                                                               surfaces. OSHA anticipates that using a spray bottle
+    4. After removing the brake drum, thoroughly               will adequately control dust without generating a large
+       wet the wheel hub and back of the brake                 volume of wastewater.
+       assembly with the water solution to suppress
+       dust.                                                   The wet method requires the following steps:
+
+
+
+
+                                                           3
+    1. Brake and clutch parts must be wetted with          The following method, spray can/solvent system,
+       water or amended water before taking any            may be used as an “equivalent” method. The spray
+       other action.                                       can/solvent system may be used when proper work
+                                                           practices are followed. At a minimum, the spray can/
+    2. Wipe the brake and clutch parts clean with a        solvent system method must follow detailed written
+       cloth.                                              procedures including the following:
+
+    3. Place contaminated cloth into an impermeable,          1. Wet the brake and clutch parts with the spray
+       properly labeled container, and then dispose              can/solvent before taking any other action.
+       of it as asbestos waste. Alternatively, the cloth
+       can be laundered to prevent the release of             2. Wipe the brake and clutch parts clean with a
+       asbestos fibers in excess of 0.1 fiber per cubic          cloth.
+       centimeter of air, expressed as an 8-hour time-
+       weighted average.                                      3. Place contaminated cloth into an impermeable,
+                                                                 properly labeled container, and then dispose
+    4. Any spilled water or amended water or                     of it as asbestos waste. Alternatively, the cloth
+       asbestos-containing waste material must be                can be laundered to prevent the release of
+       cleaned immediately with a cloth or HEPA-                 asbestos fibers in excess of 0.1 fiber per cubic
+       filtered vacuum and not allowed to dry.                   centimeter of air, expressed as an 8-hour time-
+                                                                 weighted average.
+    5. Do not dry brush.
+                                                              4. Immediately clean any spilled solvent or
+The simplicity of the wet control does not eliminate the         dispersed asbestos with a cloth or HEPA
+need for correct work practices. For example,                    vacuum.
+holding the spray nozzle too close to the brake surface
+may cause asbestos fibers to become airborne. Brake           5. Dry brushing during spray can/solvent
+components should be sprayed to saturate the parts as            system operations is prohibited.
+they are removed from the assembly.
+                                                           The solvents typically used in brake and clutch
+Equivalent methods                                         work are hazardous chemicals, which requires the
+                                                           employer to comply with the Hazard
+Like the preferred methods, an equivalent method           Communication standard. If the solvents are
+must include a detailed description of the practices       flammable, appropriate precautions against fire
+that must be followed when the method is used.             and explosion must be taken.
+An employer who uses such a method must have a
+written description of the method that contains            Best Practices
+sufficient detail that the method can be reproduced.
+The employer must provide information demonstrating        Mechanics should assume that all brakes have
+that the exposures resulting from an equivalent method     asbestos-type shoes. Worn nonasbestos-type brake
+are equal to or less than exposures from the negative      shoes cannot be readily distinguished from asbestos-
+pressure enclosure/HEPA vacuum system method.              type shoes. If a mechanic assumes incorrectly that a
+For purposes of equivalency, employee exposures            shoe is a nonasbestos-type and fails to utilize brake
+must not exceed 0.016 f/cc, as measured by the             dust control procedures, increased asbestos exposure
+OSHA reference method and averaged over at least           may result.
+18 personal samples.
+                                                           Mechanics must be trained in the correct and most
+                                                           effective way to use the control system selected by
+
+                                                       4
+the facility manager or owner. The danger of                    work provides additional protection against bringing
+increased exposure to asbestos as the result of                 asbestos into the home environment. A laundry service
+improper work practices should be explained.                    with facilities for cleaning asbestos contaminated
+Examples of improper work practice include: directing           clothing must be provided for any asbestos-
+an air nozzle at an enclosure seal, placing the nozzle of       contaminated work clothes.
+a spray mist too close to the work surface, not placing
+the vacuum nozzle close enough to the contaminated
+surface, turning on the vacuum pumps before
+positioning the vacuum enclosure over the wheel and             Conclusion
+leaving them on when removing the enclosure, and
+splashing or spilling contaminated solutions on the             Engineering controls and good work practices must be
+floor. A control system must always be used and                 implemented throughout the process of performing
+consistent work procedures are essential.                       brake and clutch inspection, disassembly, repair, and
+                                                                assembly. The four types of control systems or
+Use pre-ground, ready-to-install parts when possible.           methods described here can effectively reduce
+If asbestos-containing friction materials must be               employees’ asbestos exposure below the OSHA
+drilled, grooved, cut, beveled, or lathe-turned, low            permissible exposure level.
+speeds should always be used to keep down the
+amount of dust created. All machinery should have an            Information about job hazards must be disseminated
+adequate, HEPA equipped local exhaust dust                      through a training program that describes how to do
+collection system to prevent asbestos exposures and             properly perform a task, how each work practice
+shop contamination. Immediately clean spills of brake           reduces potential exposure, and how employees can
+dust or contaminated solutions by HEPA vacuuming or             benefit from these practices. No matter, which control
+wet mopping.                                                    system, is used, employees must be trained in how to
+                                                                properly use it. Employees (and do-it-yourselfers
+A regular maintenance program for the system                    who choose not to have brake and clutch work
+used to control brake dust is essential.                        conducted by professional mechanics) who can
+Maintenance should include checking and                         recognize and control hazards are better equipped to
+replacing seals, nozzles, other hardware,                       protect themselves from asbestos exposure. Training
+contaminated filters and solutions. Any                         and work practices should be frequently reinforced.
+deficiencies such as ineffective seals, or air nozzles
+should be repaired. Disposal of asbestos                        Business owners who are concerned about the cost
+contaminated material, whether it is filters or                 of professional help can contact the OSHA
+solutions, must be in accordance with federal and state         Consultation Project Office in their state for free
+regulations and in compliance with 1910.1001(k)(6).             consultation service. Priority is given to busi-
+Periodic cleaning will help reduce the possibility of           nesses with fewer than 250 employees at a
+asbestos contamination of workbenches, floors, etc.             worksite, with further consideration given to the
+Mechanics should perform brake and clutch work in               severity of the worksite problem. The Consultation
+an area isolated from other work areas. Signs should            Program can help the employer evaluate and prevent
+be posted informing employees not to eat, drink, or             hazardous conditions in the workplace that can cause
+smoke in the brake and clutch work area. Asbestos               injuries and illness.
+and other potentially toxic materials can be ingested or
+inhaled during these activities.
+
+Personal hygiene, such as frequent hand washing with
+soap or detergent, should be stressed. Changing from
+soiled work clothes into clean clothes before leaving
+
+                                                            5
+

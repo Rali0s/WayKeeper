@@ -1,0 +1,19 @@
+device	format	path	status
+PortaPack H1	KiCad legacy	../mayhem-firmware/hardware/portapack_h1/portapack_h1.sch	registered
+PortaPack H1 power	KiCad legacy	../mayhem-firmware/hardware/portapack_h1/power.sch	registered
+PortaPack H1 LCD/SD	KiCad legacy	../mayhem-firmware/hardware/portapack_h1/lcd_sw_sd.sch	registered
+PortaPack H1 audio	KiCad legacy	../mayhem-firmware/hardware/portapack_h1/audio.sch	registered
+PortaPack H1 GPS	KiCad legacy	../mayhem-firmware/hardware/portapack_h1/gps.sch	registered
+PortaPack H1 HackRF interface	KiCad legacy	../mayhem-firmware/hardware/portapack_h1/hackrf_if.sch	registered
+PortaPack H4M power switch	PDF	../mayhem-firmware/hardware/portapack_h4m/Power_Switch_Schematic.pdf	registered
+PortaPack H4M LCD/TF	PDF	../mayhem-firmware/hardware/portapack_h4m/LCD_TF_Schematic.pdf	registered
+PortaPack H4M CPLD	PDF	../mayhem-firmware/hardware/portapack_h4m/CPLD_Schematic.pdf	registered
+PortaPack H4M audio	PDF	../mayhem-firmware/hardware/portapack_h4m/Audio_Schematic.pdf	registered
+PortaPack H4M HackRF connector	PDF	../mayhem-firmware/hardware/portapack_h4m/To_HackRF_Connector_Schematic.pdf	registered
+HackRF One top level	KiCad modern	../mayhem-firmware/hackrf/hardware/hackrf-one/hackrf-one.kicad_sch	registered
+HackRF One MCU	KiCad modern	../mayhem-firmware/hackrf/hardware/hackrf-one/mcu.kicad_sch	registered
+HackRF One baseband	KiCad modern	../mayhem-firmware/hackrf/hardware/hackrf-one/baseband.kicad_sch	registered
+HackRF One frontend	KiCad modern	../mayhem-firmware/hackrf/hardware/hackrf-one/frontend.kicad_sch	registered
+Opera Cake	KiCad legacy	../mayhem-firmware/hackrf/hardware/operacake/operacake.sch	registered
+Unknown schematic-site clone	unknown	/replace/when/discovered	quarantined
+Information Unlimited / Amazing1 archive	WayKeeper segment	library/segments/Schematics/segment.json	registered-metadata

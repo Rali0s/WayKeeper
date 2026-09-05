@@ -1,0 +1,42 @@
+PRESENT-DAY PREP // BUY + ROTATE + STORE
+
+PURPOSE
+Build ordinary emergency capacity before an incident. This is a planning and rotation guide,
+not a shopping endorsement. Official alerts, product labels, recalls, expiration dates, local
+law, medical requirements, and the needs of the people and animals in your household control.
+
+BUILD IN LAYERS
+1. Carry layer: identification, essential medicine, contact card, light, water, charging lead.
+2. Vehicle/work layer: weather-appropriate clothing, water, shelf-stable food, first aid,
+   visibility gear, local paper map, power bank, and a way to receive official alerts.
+3. Home layer: water, food requiring little fuel or water, sanitation, lighting, radio,
+   first aid, prescription planning, fire safety, documents, cash, tools, and pet supplies.
+4. Evacuation layer: portable copies of the most critical home supplies and records.
+
+WHERE TO BUY
+Prefer established local grocers, pharmacies, hardware stores, outdoor suppliers, and the
+manufacturer or an authorized dealer for safety-critical equipment. Compare the item against
+an official checklist before buying. Avoid mystery batteries, counterfeit medical products,
+unrated fuel containers, and equipment without an accessible manual or replacement parts.
+
+ROTATION AND STORAGE
+Mark acquisition and replace-by dates. Use the oldest suitable stock first. Inspect quarterly
+and before hazard seasons. Store food, water, medicine, fuel, and batteries according to their
+labels; separate incompatible materials. Keep supplies dry, cool where required, pest-resistant,
+and off flood-prone floors. Never store fuels or combustion equipment in occupied living space.
+
+DISTRIBUTED KITS
+Do not put every essential in one container or one room. Keep deliberately smaller lawful kits
+at home, work, and in vehicles, and record their location in Inventory. A distributed kit is for
+availability and resilience, not concealment. Tell responsible household members where critical
+supplies, utility shutoffs, fire extinguishers, and medical information are located.
+
+FIREARMS AND AMMUNITION
+This shelf addresses lawful safe storage only. Use a secure storage device accessible only to
+authorized responsible adults. Store unloaded firearms locked; store ammunition locked and
+separately; keep keys and combinations controlled. Maintain identifying records apart from the
+firearm. Follow current federal, state, and local law and the ATF source in this shelf.
+
+REVIEW LOOP
+Count -> inspect -> test -> rotate -> document -> train. Record shortages and dates in F10
+Inventory, then use F8 Captain's Log for drills, sleep, health condition, and daily travel.

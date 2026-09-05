@@ -1,0 +1,425 @@
+                          Complete Guide to
+                          Home Canning
+Revised 2015
+Agriculture Information
+Bulletin No. 539
+Acknowledgments
+The creation of an Extension Service Center for Excellence at the Penn State University in the
+1980s made it possible to conduct the research necessary to revise four previously published
+bulletins for canning foods in the home. The Center was the cooperative effort of the
+Extension Service, Cooperative State Research Service, and the Penn State University with
+Gerald D. Kuhn, PhD, of the Penn State University as Director. A National Center for Home
+Food Processing and Preservation was established in 2000 as a cooperative effort of the
+National Institute of Food and Agriculture (formerly the Cooperative State Research, Education,
+and Extension Service) and the University of Georgia as the lead institution in a multi-state
+activity with Elizabeth L. Andress, PhD, as Project Director. This Center conducted research that
+made it possible to include some new products in this revised guide.
+
+
+The National Institute of Food and Agriculture wishes to credit the primary development of
+this guide to Gerald D. Kuhn (Penn State University), Elizabeth L. Andress (University of Georgia),
+and Thomas S. Dimick (Penn State University). USDA staff who assisted in preparing the original
+Complete Guide to Home Canning include Milton P. Baldauf, Catherine E. Adams, Nancy T. Sowers, and
+Vincent G. Hughes. Others who have assisted in later revisions include Kenneth N. Hall (University
+of Connecticut), Thomas W. Poore (USDA), Judy A. Harrison, Elaine M. D’sa and Mark A. Harrison
+(all at the University of Georgia). Research for the smoked fish recommendation was conducted
+by Carolyn Raab and Ken Hilderbrand (Oregon State University) with partial funding from the
+OSU Extension Sea Grant Program. Research for the fish in quart jars recommendation was
+conducted by Kristy Long and Chuck Crapo (University of Alaska). Research for six of the salsa
+recommendations was conducted by Richard H. Dougherty and Virginia N. Hillers (Washington
+State University). The research on acidification of home canned Asian pears and figs was conducted
+by Margy Woodburn (Oregon State University). All have contributed significant ideas and time in
+making this guide a truly up-to-date research-based publication.
+
+
+This project was partially funded through a grant from the National Integrated Food Safety
+Initiative (Grant No. 00-51110-9762) of the National Institute of Food and Agriculture,
+U.S. Department of Agriculture.
+
+
+December 2009
+Revised 2015
+Agriculture
+Information
+              Complete Guide to
+Bulletin
+No. 539
+              Home Canning
+              Caution: All home-canned foods should be canned according
+              to the procedures in this Guide. Low-acid and tomato foods not
+              canned according to the recommendations in this publication
+              or according to other USDA-endorsed recommendations pres-
+              ent a risk of botulism. If it is possible that any deviation from the
+              USDA-endorsed methods occurred, to prevent the risk of
+              botulism, low-acid and tomato foods should be boiled in a
+              saucepan before consuming even if you detect no signs of
+              spoilage. At altitudes below 1,000 ft, boil foods for 10 minutes.
+              Add an additional minute of boiling time for each additional
+              1,000 ft elevation. However, this is not intended to serve as a
+              recommendation for consuming foods known to be significantly
+              underprocessed according to current standards and recommended
+              methods. It is not a guarantee that all possible defects and
+              hazards with non-recommended methods can be overcome by
+              this boiling process. The recommendation is to only can low-acid
+              and tomato foods according to the procedures in this Guide.
+
+
+              Reference to commercial products and services is made with the
+              understanding that no discrimination is intended and no endorse-
+              ment by the U.S. Department of Agriculture is implied. Clear Jel® and
+              Splenda® are mentioned because they are the only suitable products
+              presently available to the general public for the stated purposes in
+              given products.
+
+
+              The U.S. Department of Agriculture (USDA) prohibits discrimination
+              in all its programs and activities on the basis of race, color, national
+              origin, age, disability, and where applicable, sex, marital status, familial
+              status, parental status, religion, sexual orientation, genetic information,
+              political beliefs, reprisal, or because all or part of an individual’s
+              income is derived from any public assistance program. (Not all prohib-
+              ited bases apply to all programs.) Persons with disabilities who require
+              alternative means for communication of program information (Braille,
+              large print, audiotape, etc.) should contact USDA’s TARGET Center at
+              202-720-2600 (voice and TDD). To file a complaint of discrimination,
+              write to USDA, Director, Office of Civil Rights, 1400 Independence
+              Avenue, S.W., Washington, DC 20250-9410, or call 800-795-3272
+              (voice) or 202-720-6382 (TDD). USDA is an equal opportunity provider
+              and employer.
+
+
+
+
+                                                                                             i
+     Preface
+     Home canning has changed greatly in the 180 years since it was introduced as a way to preserve
+     food. Scientists have found ways to produce safer, higher quality products. The first part of this
+     publication explains the scientific principles on which canning techniques are based, discusses
+     canning equipment, and describes the proper use of jars and lids. It describes basic canning
+     ingredients and procedures and how to use them to achieve safe, high-quality canned products.
+     Finally, it helps you decide whether or not and how much to can.
+
+     The second part of this publication is a series of canning guides for specific foods. These guides
+     offer detailed directions for making sugar syrups; and for canning fruits and fruit products,
+     tomatoes and tomato products, vegetables, red meats, poultry, seafoods, and pickles and relishes.
+     Handy guidelines for choosing the right quantities and quality of raw foods accompany each set
+     of directions for fruits, tomatoes, and vegetables. Most recipes are designed to yield a full canner
+     load of pints or quarts. Finally, processing adjustments for altitudes above sea level are given for
+     each food.
+
+     This publication contains many new research-based recommendations for canning safer and
+     better quality food at home. It is an invaluable resource book for persons who are canning food
+     for the first time. Experienced canners will find updated information to help them improve their
+     canning practices.
+
+     Research is continually being conducted in areas that affect food preservation recommendations.
+     Make sure your food preservation information is always current with up-to-date tested guidelines.
+
+
+
+
+     This publication supersedes four USDA Home and Garden Bulletins: Number 8—”Home Canning of Fruits and
+     Vegetables”; Number 56—”How to Make Jellies, Jams, and Preserves at Home”; Number 92—”Making Pickles and
+     Relishes at Home”; and Number 106—”Home Canning of Meat and Poultry.”
+
+
+ii
+For Safety’s Sake
+Pressure canning is the only recommended method for canning meat, poultry, seafood, and
+vegetables. The bacterium Clostridium botulinum is destroyed in low-acid foods when they are
+processed at the correct time and pressure in pressure canners. Using boiling water canners for
+these foods poses a real risk of botulism poisoning.
+
+If Clostridium botulinum bacteria survive and grow inside a sealed jar of food, they can produce a
+poisonous toxin. Even a taste of food containing this toxin can be fatal. Boiling food 10 minutes at
+altitudes below 1,000 ft should destroy this poison when it is present. For altitudes at and above
+1,000 ft, add 1 additional minute per 1,000 ft additional elevation. Caution: To prevent the risk of
+botulism, low-acid and tomato foods not canned according to the recommendations in this pub-
+lication or according to other USDA-endorsed recommendations should be boiled as above, in a
+saucepan before consuming, even if you detect no signs of spoilage. This is not intended to serve
+as a recommendation for consuming foods known to be significantly underprocessed according
+to current standards and recommended methods. It is not a guarantee that all possible defects
+and hazards with other methods can be overcome by this boiling process. All low-acid foods
+canned according to the approved recommendations may be eaten without boiling them when
+you are sure of all the following:
+         Food was processed in a pressure canner.
+         Gauge of the pressure canner was accurate.
+         Up-to-date researched process times and pressures were used for the size of jar, style of 		
+         pack, and kind of food being canned.
+         The process time and pressure recommended for sterilizing the food at your altitude
+         was followed.
+         Jar lid is firmly sealed and concave.
+         Nothing has leaked from jar.
+         No liquid spurts out when jar is opened.
+         No unnatural or “off” odors can be detected.
+
+Do Your Canned Foods Pass This Test?
+Overall appearance
+        Good proportion of solid to liquid
+        Full pack with proper headspace
+        Liquid just covering solid
+        Free of air bubbles
+        Free of imperfections—stems, cores, seeds
+        Good seals
+        Practical pack that is done quickly and easily
+
+Fruit and vegetables
+        Pieces uniform in size and shape
+        Characteristic, uniform color
+        Shape retained—not broken or mushy
+        Proper maturity
+
+Liquid or syrup
+        Clear and free from sediment
+
+                                                                                                        iii
+     Determining Your Altitude Above Sea Level
+     It is important to know your approximate elevation or altitude above sea level in order to
+     determine a safe processing time for canned foods. Since the boiling temperature of liquid is
+     lower at higher elevations, it is critical that additional time be given for the safe processing of
+     foods at altitudes above sea level.
+
+     It is not practical to include a list of altitudes in this guide, since there is wide variation within a
+     State and even a county. For example, the State of Kansas has areas with altitudes varying
+     between 75 ft to 4,039 ft above sea level. Kansas is not generally thought to have high altitudes,
+     but there are many areas of the State where adjustments for altitude must be considered.
+     Colorado, on the other hand, has people living in areas between 3,000 and 10,000 ft above sea
+     level. They tend to be more conscious of the need to make altitude adjustments in the various
+     processing schedules. To list altitudes for specific counties may actually be misleading, due to the
+     differences in geographic terrain within a county.
+
+     If you are unsure about the altitude where you will be canning foods, consult your county
+     Extension agent. An alternative source of information would be your local district conservationist
+     with the Soil Conservation Service.
+
+
+
+
+iv
+Table of Contents
+Section . ................................................................................................................. Page
+
+Acknowledgments. .............................................................................................................................. not numbered
+Preface. ................................................................................................................................................................................ ii
+For Safety’s Sake.............................................................................................................................................................. iii
+Do Your Canned Foods Pass This Test?. ................................................................................................................... iii
+Determining Your Altitude Above Sea Level . ......................................................................................................iv
+
+Guide 1. Principles of Home Canning. ................................................................... 1-3
+Why can foods? ............................................................................................................................................................1-5
+How canning preserves foods ................................................................................................................................ 1-5
+Ensuring safe canned foods .................................................................................................................................... 1-6
+Ensuring high-quality canned foods . ................................................................................................................1-11
+Jars and lids .................................................................................................................................................................1-13
+Recommended canners . ........................................................................................................................................1-17
+Selecting the correct processing time . .............................................................................................................1-22
+Cooling jars . ................................................................................................................................................................1-25
+Testing jar seals ..........................................................................................................................................................1-25
+Reprocessing unsealed jars ...................................................................................................................................1-26
+Storing canned food ................................................................................................................................................1-26
+Identifying and handling spoiled canned food . ............................................................................................1-26
+Preparing pickled and fermented foods . .........................................................................................................1-27
+Preparing butters, jams, jellies, and marmalades ..........................................................................................1-29
+Canned foods for special diets .............................................................................................................................1-31
+Canning fruit-based baby foods ..........................................................................................................................1-31
+How much should you can? ..................................................................................................................................1-32
+
+Glossary of Terms . ................................................................................................. 1-33
+
+Index of Foods . ...................................................................................................... 1-36
+
+Guide 2. Selecting, Preparing, and Canning Fruit and Fruit Products................. 2-3
+General . ..........................................................................................................................................................................2-5
+Preparing and using syrups . ................................................................................................................................... 2-5
+Apple butter . ................................................................................................................................................................2-6
+Apple juice . ...................................................................................................................................................................2-6
+Apples—sliced .............................................................................................................................................................2-7
+Applesauce ....................................................................................................................................................................2-7
+Spiced apple rings ......................................................................................................................................................2-8
+Spiced crab apples . ....................................................................................................................................................2-9
+Apricots—halved or sliced . ..................................................................................................................................... 2-9
+Berries—whole ..........................................................................................................................................................2-10
+Berry syrup . .................................................................................................................................................................2-10
+Cantaloupe pickles ...................................................................................................................................................2-11
+Cantaloupe pickles, no sugar added . ................................................................................................................2-12
+Cherries—whole . ......................................................................................................................................................2-12
+
+                                                                                                                                                                                               v
+     Cranberry orange chutney . ...................................................................................................................................2-13
+     Figs . ................................................................................................................................................................................2-14
+     Fruit purees . ................................................................................................................................................................2-14
+     Grapefruit and orange sections ...........................................................................................................................2-15
+     Grape juice . .................................................................................................................................................................2-15
+     Grapes—whole ..........................................................................................................................................................2-16
+     Mango chutney . ........................................................................................................................................................2-16
+     Mango sauce . .............................................................................................................................................................2-17
+     Mixed fruit cocktail ...................................................................................................................................................2-18
+     Nectarines—halved or sliced . ..............................................................................................................................2-18
+     Peaches—halved or sliced . ...................................................................................................................................2-19
+     Pears—halved ............................................................................................................................................................2-19
+     Pears, Asian—halved or sliced . ............................................................................................................................2-20
+     Pineapple .....................................................................................................................................................................2-21
+     Plums—halved or whole ........................................................................................................................................2-21
+     Rhubarb—stewed . ...................................................................................................................................................2-22
+     Zucchini-pineapple ..................................................................................................................................................2-22
+     Fruit Salsas ................................................................................................................................2-23
+     Spicy cranberry salsa . ..............................................................................................................................................2-23
+     Mango salsa . ...............................................................................................................................................................2-24
+     Peach salsa . .................................................................................................................................................................2-24
+     Peach apple salsa ......................................................................................................................................................2-25
+     Pie Fillings .................................................................................................................................2-25
+     Apple pie filling . ........................................................................................................................................................2-26
+     Blueberry pie filling ..................................................................................................................................................2-27
+     Cherry pie filling ........................................................................................................................................................2-27
+     Festive mincemeat . ..................................................................................................................................................2-28
+     Green tomato pie filling . ........................................................................................................................................2-29
+     Peach pie filling . ........................................................................................................................................................2-30
+     Process times for some acid foods in a dial-gauge pressure canner ......................................................2-31
+     Process times for some acid foods in a weighted-gauge pressure canner ..........................................2-32
+
+     Guide 3. Selecting, Preparing, and Canning Tomatoes and Tomato Products.... 3-3
+     General . ..........................................................................................................................................................................3-5
+     Tomato juice . ................................................................................................................................................................3-5
+     Tomato and vegetable juice blend ....................................................................................................................... 3-6
+     Tomatoes—crushed . .................................................................................................................................................3-7
+     Standard tomato sauce . ...........................................................................................................................................3-8
+     Tomatoes—whole or halved (packed in water) ............................................................................................... 3-9
+     Tomatoes—whole or halved (packed in tomato juice) ...............................................................................3-10
+     Tomatoes—whole or halved (packed raw without added liquid) . .........................................................3-11
+     Tomatoes with okra or zucchini ...........................................................................................................................3-12
+     Tomatillos . ...................................................................................................................................................................3-13
+     Spaghetti sauce without meat .............................................................................................................................3-13
+     Spaghetti sauce with meat ....................................................................................................................................3-14
+     Mexican tomato sauce ............................................................................................................................................3-15
+     Easy hot sauce ............................................................................................................................................................3-16
+     Cayenne pepper sauce . ..........................................................................................................................................3-17
+
+vi
+Tomato ketchup . .......................................................................................................................................................3-17
+Country western ketchup . .....................................................................................................................................3-18
+Blender ketchup ........................................................................................................................................................3-18
+Salsa Recipes .............................................................................................................................3-19
+Selection and preparation of ingredients ........................................................................................................3-19
+Chile salsa (hot tomato-pepper sauce) .............................................................................................................3-21
+Chile salsa II .................................................................................................................................................................3-22
+Tomatillo green salsa ...............................................................................................................................................3-22
+Tomato salsa using paste tomatoes ...................................................................................................................3-23
+Tomato salsa using slicing tomatoes..................................................................................................................3-24
+Tomato/green chile salsa . ......................................................................................................................................3-24
+Tomato/tomato paste salsa ...................................................................................................................................3-25
+Tomato taco sauce ....................................................................................................................................................3-26
+
+Guide 4.
+Selecting, Preparing, and Canning Vegetables and Vegetable Products ........... 4-3
+Asparagus—spears or pieces. ................................................................................................................................. 4-5
+Beans or peas—shelled, dried . .............................................................................................................................. 4-5
+Beans, baked .................................................................................................................................................................4-6
+Beans, dry, with tomato or molasses sauce ....................................................................................................... 4-6
+Beans, fresh lima—shelled . ..................................................................................................................................... 4-7
+Beans, snap and Italian—pieces ............................................................................................................................ 4-8
+Beets—whole, cubed, or sliced . ............................................................................................................................ 4-9
+Carrots—sliced or diced .........................................................................................................................................4-10
+Corn—cream style ....................................................................................................................................................4-10
+Corn—whole kernel .................................................................................................................................................4-11
+Mixed vegetables ......................................................................................................................................................4-12
+Mushrooms—whole or sliced . .............................................................................................................................4-13
+Okra . ..............................................................................................................................................................................4-14
+Peas, green or English—shelled ..........................................................................................................................4-14
+Peppers .........................................................................................................................................................................4-15
+Potatoes, sweet—pieces or whole . ....................................................................................................................4-16
+Potatoes, white—cubed or whole ......................................................................................................................4-17
+Pumpkins and winter squash—cubed . ............................................................................................................4-18
+Soups .............................................................................................................................................................................4-18
+Spinach and other greens . ....................................................................................................................................4-19
+Squash, winter—cubed ..........................................................................................................................................4-20
+Succotash .....................................................................................................................................................................4-20
+
+Guide 5. Preparing and Canning Poultry, Red Meats, and Seafoods................... 5-3
+Chicken or rabbit . .......................................................................................................................................................5-5
+Ground or chopped meat ........................................................................................................................................ 5-6
+Strips, cubes, or chunks of meat ............................................................................................................................ 5-6
+Meat stock (broth) . .....................................................................................................................................................5-7
+Chile con carne . ...........................................................................................................................................................5-8
+Clams ...............................................................................................................................................................................5-9
+King and Dungeness crab meat . ........................................................................................................................... 5-9
+Fish in pint jars . ..........................................................................................................................................................5-10
+
+                                                                                                                                                                                            vii
+       Fish in quart jars . .......................................................................................................................................................5-11
+       Oysters ..........................................................................................................................................................................5-12
+       Smoked fish . ...............................................................................................................................................................5-13
+       Tuna . ..............................................................................................................................................................................5-14
+       Guide 6. Preparing and Canning Fermented Foods and Pickled Vegetables...... 6-3
+       Selection of Fresh Cucumbers . .............................................................................................................................. 6-5
+       Low-temperature pasteurization treatment ..................................................................................................... 6-5
+       Suitable containers, covers, and weights for fermenting food . ................................................................. 6-6
+       Salts used in pickling .................................................................................................................................................6-7
+       Fermented Foods ........................................................................................................................6-7
+       Dill pickles . ....................................................................................................................................................................6-7
+       Sauerkraut . ....................................................................................................................................................................6-8
+       Cucumber Pickles . ......................................................................................................................6-9
+       Bread-and-butter pickles . ........................................................................................................................................ 6-9
+       Quick fresh-pack dill pickles . ................................................................................................................................6-10
+       Sweet gherkin pickles . ............................................................................................................................................6-10
+       14-day sweet pickles . ..............................................................................................................................................6-11
+       Quick sweet pickles ..................................................................................................................................................6-12
+       Other Vegetable Pickles ...........................................................................................................6-13
+       Pickled asparagus . ....................................................................................................................................................6-13
+       Pickled dilled beans . ................................................................................................................................................6-14
+       Pickled three-bean salad ........................................................................................................................................6-14
+       Pickled beets . .............................................................................................................................................................6-15
+       Pickled carrots ............................................................................................................................................................6-16
+       Pickled baby carrots .................................................................................................................................................6-16
+       Pickled cauliflower or Brussels sprouts .............................................................................................................6-17
+       Chayote and jicama slaw . ......................................................................................................................................6-17
+       Bread-and-butter pickled jicama . .......................................................................................................................6-18
+       Marinated whole mushrooms ..............................................................................................................................6-18
+       Pickled dilled okra . ...................................................................................................................................................6-19
+       Pickled pearl onions .................................................................................................................................................6-20
+       Marinated peppers ...................................................................................................................................................6-20
+       Pickled bell peppers . ...............................................................................................................................................6-21
+       Pickled hot peppers .................................................................................................................................................6-22
+       Pickled jalapeño pepper rings . ............................................................................................................................6-23
+       Pickled yellow pepper rings ..................................................................................................................................6-24
+       Pickled sweet green tomatoes .............................................................................................................................6-24
+       Pickled mixed vegetables . .....................................................................................................................................6-25
+       Pickled bread-and-butter zucchini .....................................................................................................................6-26
+       Pickled Vegetable Relishes ......................................................................................................6-26
+       Chayote and pear relish ..........................................................................................................................................6-26
+       Piccalilli . ........................................................................................................................................................................6-27
+       Pickle relish . ................................................................................................................................................................6-28
+       Pickled corn relish .....................................................................................................................................................6-28
+       Pickled green tomato relish . .................................................................................................................................6-29
+       Pickled horseradish sauce . ....................................................................................................................................6-30
+       Pickled pepper-onion relish ..................................................................................................................................6-30
+
+viii
+Spicy jicama relish . ...................................................................................................................................................6-30
+Tangy tomatillo relish ..............................................................................................................................................6-31
+Pickled Foods for Special Diets . ..............................................................................................6-32
+No sugar added pickled beets . ............................................................................................................................6-32
+No sugar added sweet pickle cucumber slices ..............................................................................................6-33
+Reduced-sodium sliced dill pickles . ...................................................................................................................6-34
+Reduced-sodium sliced sweet pickles . .............................................................................................................6-34
+
+Guide 7. Preparing and Canning Jams and Jellies................................................ 7-3
+Making jelly without added pectin . ..................................................................................................................... 7-5
+Extracting juices and making jelly ........................................................................................................................ 7-5
+Making jam without added pectin ....................................................................................................................... 7-6
+Making jams and jellies with added pectin ............................................................................. 7-7
+Pear-apple jam .............................................................................................................................................................7-8
+Strawberry-rhubarb jelly .......................................................................................................................................... 7-8
+Blueberry-spice jam . ..................................................................................................................................................7-9
+Grape-plum jelly . ......................................................................................................................................................7-10
+Golden pepper jelly . ................................................................................................................................................7-10
+Making reduced-sugar fruit spreads . .................................................................................... 7-11
+Peach-pineapple spread . .......................................................................................................................................7-11
+Refrigerated apple spread (made with gelatin) .............................................................................................7-12
+Refrigerated grape spread (made with gelatin) . ...........................................................................................7-12
+Remaking soft jellies ................................................................................................................................................7-13
+
+
+
+
+                                                                                                                                                                                  ix
+

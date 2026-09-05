@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+export OFFGRID_HOME="${OFFGRID_HOME:-/opt/waykeeper}"
+export OFFGRID_STATE_DIR="${OFFGRID_STATE_DIR:-/var/lib/waykeeper}"
+export OFFGRID_COLOR_MODE="${OFFGRID_COLOR_MODE:-256}"
+cd "$OFFGRID_HOME"
+exec /usr/local/bin/waykeeper ui
+

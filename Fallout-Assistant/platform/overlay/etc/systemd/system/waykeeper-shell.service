@@ -1,0 +1,23 @@
+[Unit]
+Description=WayKeeper ANSI shell on tty1
+After=network.target systemd-user-sessions.service
+Conflicts=getty@tty1.service
+
+[Service]
+User=waykeeper
+Group=waykeeper
+WorkingDirectory=/opt/waykeeper
+Environment=TERM=linux
+Environment=OFFGRID_HOME=/opt/waykeeper
+Environment=OFFGRID_STATE_DIR=/var/lib/waykeeper
+ExecStart=/usr/local/libexec/waykeeper-tty
+Restart=always
+RestartSec=1
+TTYPath=/dev/tty1
+StandardInput=tty-force
+StandardOutput=tty
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,42 @@
+WAYKEEPER POWER DOMAIN FLOW
+===========================
+
+               FIELD POWER SOURCE
+                       |
+                       v
+             +-------------------+
+             | PROTECTED USB-C   |
+             | POWER INPUT       |
+             +---------+---------+
+                       |
+                       v
+             +-------------------+
+             | BATTERY / UPS /   |
+             | CHARGE MANAGEMENT |
+             +---------+---------+
+                       |
+                       v
+             +-------------------+
+             | REGULATED BOARD   |
+             | POWER DOMAIN      |
+             +---------+---------+
+                       |
+             +---------+-------------------+
+             |                             |
+             v                             v
+     +---------------+             +---------------+
+     | ORANGE PI     |             | DISPLAY +     |
+     | ZERO 2        |             | TOUCH DOMAIN  |
+     +-------+-------+             +-------+-------+
+             |                             |
+             +-------------+---------------+
+                           |
+                           v
+                 +-------------------+
+                 | WAYKEEPER BATTERY |
+                 | STATUS RAIL       |
+                 +-------------------+
+
+BOUNDARY: This is a domain map, not a wiring or charging design. The selected
+UPS, cell chemistry, fuse, cable gauge, connector, and Orange Pi revision must
+control the final electrical implementation.

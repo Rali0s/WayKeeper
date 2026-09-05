@@ -1,0 +1,22 @@
+id	title	category	relative_path	note
+textfiles-survival-keyword	The Key Word SURVIVAL	Underground-TEXTFILES-Survival	survival/survive.txt	Historical field notes; compare against current reviewed manuals.
+textfiles-survival-planning	Planning for Survival	Underground-TEXTFILES-Survival	survival/plansurv.txt	Historical preparedness article; law, medicine, and product information may be obsolete.
+textfiles-survival-homestead	One Effort, Multiple Results: Survival Homestead	Underground-TEXTFILES-Survival	survival/hmestead.txt	Historical homestead planning article; verify current codes and regulations.
+textfiles-emergency-water	Emergency Water	Underground-TEXTFILES-Survival	survival/ewater.txt	Historical archive source; use current reviewed water guidance for safety decisions.
+textfiles-shelter	Shelter Reference	Underground-TEXTFILES-Survival	survival/shelter.txt	Historical shelter notes; inspect site, fire, ventilation, weather, and structural hazards.
+textfiles-fire-basics	Campfire Basics	Underground-TEXTFILES-Survival	survival/firebas.txt	Historical firecraft article; obey current fire restrictions and extinguish fully.
+textfiles-firewood	Firewood Reference	Underground-TEXTFILES-Survival	survival/firewood.txt	Historical fuel-wood reference.
+textfiles-trail-foods	Make Your Own Trail Foods	Underground-TEXTFILES-Survival	survival/trlfds.txt	Historical food article; verify current preservation and food-safety guidance.
+textfiles-wool	Wool Field Reference	Underground-TEXTFILES-Survival	survival/wool.txt	Historical clothing and material reference.
+textfiles-winter-driving	Winter Driving	Underground-TEXTFILES-Survival	survival/wintdriv.txt	Historical driving notes; current official road and vehicle guidance takes priority.
+textfiles-travel	Survival Travel Notes	Underground-TEXTFILES-Survival	survival/travel.txt	Historical travel reference; current closures, boundaries, and hazards take priority.
+textfiles-communications	Survival Communications	Underground-TEXTFILES-Survival	survival/commo.txt	Historical communications reference; radio operation remains subject to current law.
+textfiles-tap-code	Tap Code	Underground-TEXTFILES-Signals	survival/tapcode.txt	Historical low-technology communication reference.
+textfiles-underground-communications	Underground Communications	Underground-TEXTFILES-Signals	survival/undgcomm.txt	Historical archive source; identity and claims are not independently verified.
+textfiles-quick-fixes	Quick Fixes	Underground-TEXTFILES-Repair	survival/quickfix.txt	Historical household repair article; assess electrical, structural, and chemical hazards first.
+textfiles-beer	How to Brew Your Own Beer	Underground-TEXTFILES-Fermentation	food/beer.txt	Historical brewing text; sanitation, pressure, alcohol law, licensing, and sales rules apply.
+textfiles-ginger-beer	Kelleye's Home Ginger Beer	Underground-TEXTFILES-Fermentation	food/gingbeer.txt	Historical recipe with bottle-pressure risk; use pressure-rated containers and current food-safety guidance.
+textfiles-brewing-faq	Rec.Crafts.Brewing FAQ	Underground-TEXTFILES-Fermentation	internet/FAQ/faq-brew.txt	Historical community FAQ; suppliers, addresses, methods, and laws may be obsolete.
+textfiles-homebrew-bibliography	Homebrewing Bibliography and Resources	Underground-TEXTFILES-Fermentation	food/homebrew.txt	Historical bibliography; many referenced works remain copyrighted.
+textfiles-phone-phantom-beer	How to Brew Your Own Beer - Phone Phantom	Underground-TEXTFILES-Fermentation	food/ppbeer.txt	Underground historical text; sanitation, pressure, licensing, and sales rules apply.
+textfiles-home-alcohol	Homemade Alcohol, Version 2	Underground-TEXTFILES-Distilling-Regulated	uploads/homealcohol.txt	Contains distillation instructions. Beverage-spirit distillation requires federal approval and may violate state/local law; fire, pressure, and toxic-fraction hazards can kill.

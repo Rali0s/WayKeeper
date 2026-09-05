@@ -1,0 +1,36 @@
+WAYKEEPER WI-FI + BLUETOOTH SERVICE FLOW
+========================================
+
+  +--------------------------+
+  | ORANGE PI RADIO HARDWARE |
+  +------------+-------------+
+               |
+               v
+  +--------------------------+
+  | KERNEL BUS + RADIO DRIVER|
+  +------------+-------------+
+               |
+               v
+  +--------------------------+
+  | DEBIAN FIRMWARE BLOBS    |
+  | + BOARD-SPECIFIC SUPPORT |
+  +------------+-------------+
+               |
+       +-------+--------+
+       |                |
+       v                v
+  +----------+      +----------+
+  | NETWORK- |      | BLUEZ    |
+  | MANAGER  |      | SERVICE  |
+  +----+-----+      +----+-----+
+       |                 |
+       +--------+--------+
+                |
+                v
+  +--------------------------+
+  | WAYKEEPER STATUS +       |
+  | ORDINARY LINUX UTILITIES |
+  +--------------------------+
+
+WayKeeper does not embed a custom RF stack. Linux services own radio state and
+firmware loading; the ANSI shell remains usable when both radios are offline.

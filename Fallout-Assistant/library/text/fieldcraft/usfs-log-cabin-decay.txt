@@ -1,0 +1,680 @@
+PROTECTING LOG CABINS
+FROM DECAY
+
+USDA Forest Service
+Forest Products Laboratory
+General Technical Report
+FPL-11
+1977
+
+
+U. S. Department of Agriculture
+Forest Service
+Forest Products Laboratory
+Madison, Wis.
+                             ABSTRACT
+     This report answers the questions most
+often asked of the Forest Service on the pro-
+tection of log cabins from decay, and on prac-
+tices for the exterior finishing and mainte-
+nance of existing cabins.
+     Causes of stain and decay are discussed,
+as are some basic techniques for building a
+cabin that will minimize decay. Selection and
+handling of logs, their preservative treatment,
+construction details, descriptions of preserv-
+ative types, and a complementary bibliography
+are also included.
+
+
+
+
+                        CONTENTS
+
+
+INTRODUCTION.. . . . . . . . . . . . . . . . . . . .               1
+CAUSES AND CONTROL OF DECAY .                                      1
+    Fungal and Insect Damage . . . . . . . .                       1
+    Preservative Treatments . . . . . . . . . .                    2
+        Selection of Preservatives . . . . .                       2
+        Methods of Application . . . . . . .                       2
+        Treatment of Cut Surfaces . . . .                          2
+BUILDING TO PREVENT DECAY . . . . .                                3
+    Selection and Handling of Logs . . .                           3
+        Type of Wood . . . . . . . . . . . . . . . .               3
+        Log Preparation . . . . . . . . . . . . . .                3
+        Preservative Treating of Logs .                            3
+    Construction Details . . . . . . . . . . . . . .               4
+        Foundation . . . . . . . . . . . . . . . . . . .           4
+        Walls . . . . . . . . . . . . . . . . . . . . . . . .      5
+        Roof . . . . . . . . . . . . . . . . . . . . . . . . .     5
+FINISHING DETAILS . . . . . . . . . . . . . . . . .                6
+    Interior . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+    Exterior.. . . . . . . . . . . . . . . . . . . . . . . . .     6
+RESTORING AND MAINTAINING
+    EXISTING CABINS . . . . . . . . . . . . . . .                  7
+BIBLIOGRAPHY: OTHER HELPFUL
+    PUBLICATIONS . . . . . . . . . . . . . . . . . .               7
+APPENDIX: PRESERVATIVE
+    SOLUTIONS.. . . . . . . . . . . . . . . . . . . .              8
+    Preservative I . . . . . . . . . . . . . . . . . . . . .       8
+    Preservative I I . . . . . . . . . . . . . . . . . . . .       8
+    Preservative I I I . . . . . . . . . . . . . . . . . . .       8
+    Preservative IV . . . . . . . . . . . . . . . . . . .          9
+    Preservative V . . . . . . . . . . . . . . . . . . . .         9
+    Preservative VI . . . . . . . . . . . . . . . . . . .          10
+PROTECTING LOG CABINS
+FROM DECAY1
+By
+
+R. M. ROWELL, Research Chemist
+J. M. BLACK, Research Chemist
+L. R. GJOVIK, Research Technologist
+and
+W. C. FEIST, Research Chemist
+                           2
+Forest Products Laboratory, Forest Service
+U. S. Department of Agriculture
+
+
+
+             INTRODUCTION                                acquaintance with the skills of cabin building
+                                                         are essential. A few helpful publications on log
+      The Forest Service gets many questions             cabin construction, decay control, and insect
+on the protection of log cabins from decay.              damage are listed in the bibliography at the
+They come mainly from three groups of people             end of this report.
+who want to build log cabins: Retirees wanting               The cabin must be designed for dryness,
+a retirement home, people wanting a second or            for protection from rain and ground moisture.
+summer home, and young people wanting an                 Where moisture can accumulate, decay fungi
+inexpensive first home. Many who inquire live            can flourish. Many moisture problems can be
+on timbered land and want to build a cabin               eliminated with proper roof overhang, roof
+from that timber. Whatever the situation, no             vents, and concrete, brick or stone founda-
+one wants to build a log cabin that will begin to        tions with good drainage. Moisture usually
+deteriorate in a short time.                             becomes a problem due to poor design, care-
+      Numerous inquiries about the preserva-             less workmanship, and poor maintenance.
+tion of log cabins are received from people              DRY WOOD DOES NOT DECAY. Therefore,
+interested in restoring or maintaining cabins            the main principles of preventing deterioration
+built many years ago. Their problems are                 are to use construction techniques that reduce
+somewhat different from those of new-cabin               water wetting to a minimum and that keep the
+builders, but they, too, want to know what to            cabin dry. When this is impossible, the use of
+do about decay.                                          preservative-treated wood is recommended.
+      Building with logs is slower and more
+difficult than building with lumber, but it offers       CAUSES AND CONTROL OF DECAY
+several advantages: Using logs requires no
+processing energy for conversion to boards;                     Fungal and Insect Damage
+logs represent a renewable building material
+available, in some cases, on the builder’s prop-              Deterioration of wood by decay fungi is
+erty; and building with logs can create an               the threat to the longevity of a log cabin. There
+ inexpensive livable home.                               are several classes of fungal damage:
+       Many log cabins are built in such a way              1
+                                                              This publication supersedes FPL Report Number
+ that decay is almost certain because the build-            982, “Making Log Cabins Endure: Suggestions on
+ er overlooked simple basic construction prac-              Construction, Log Selection, Preservation, and
+ tices. A cabin should be well planned before               Finishing.” Forest Products Laboratory. 1974.
+                                                            2
+  the building starts. A good set of plans and an            Maintained at Madison, Wis., in cooperation with
+                                                            the University of Wisconsin.
+
+                                                     1
+     Sapstains cause almost no strength losses         rophenol carried in a light petroleum solvent
+in wood, but create objectionable color                results in the least change in log color. Creo-
+changes in wood. They also cause increased             sote mixtures are very dark in color and copper
+permeability in the logs, allowing moisture to         naphthenate is green, making both unfavora-
+settle and inviting more decay organisms.              ble for a natural appearance. Creosote and
+Sapstains may go deep into the log and cannot          pentachlorophenol have odors which may be
+be removed easily.                                     objectionable and toxic, particularly in freshly
+     Mold discolorations, on the other hand,           treated logs. Most waterborne preservatives
+are usually a surface stain and can be removed         have little odor, but some of them leave the
+by brushing or shallow planing.                        wood a light blue or green.
+     Soft-rot fungi cause a more severe type
+of wood degradation. As they grow, they cause          Methods of Application
+a slow surface deterioration which is charac-               Pressure impregnation is a rapid and
+terized by breaks across the surface fibers.           thorough method of treating wood with
+The transition between the rotted wood and             preservatives. Arrangements for pressure
+the sound wood beneath is very abrupt.                 treatment of logs can be made with
+     Typical brown- and white-rot fungi are the        commercial wood-preserving plants. A variety
+most severe types of wood rotters and can              of water-borne wood preservatives can be
+cause extensive damage. They cause rapid               applied by pressure to meet different use
+decay with great reduction in the strength of          requirements. Whole-log pressure treatments
+the wood and often with little visible outward         with pentachlorophenol or creosote will create
+sign. It is these wood-deteriorating fungi that        an odor which is toxic inside the log cabin.
+necessitate the use of preservative treatment          PENTACHLOROPHENOL AND CREOSOTE
+of wood for specific parts of the log cabin.           SHOULD NEVER BE USED INSIDE THE
+     Insects, especially termites, can cause           CABIN FOR ANY REASON. For treatment
+damage, too. Proper treatment against fungal           of all the whole logs used in the construc-
+decay will help a cabin resist insect damage.          tion of cabins, only waterborne salts are
+Further information on protection from insects         recommended.
+is included in the bibliography.                            Diffusion process can be used to treat
+                                                       logs with waterborne preservatives. “Simple
+        Preservative Treatments                        diffusion” consists of soaking the wood for a
+                                                       period of 1 to 2 weeks in the preservative
+     If a log cabin is properly designed, con-         solution and can be used if the wood is dry.
+structed, and maintained, it should give satis-             Double-diffusion is slower than simple
+factory service with a minimum of preservative         diffusion but very thorough. The wood is
+treatment. This is especially true in the colder       soaked first in one chemical solution, then in a
+and drier parts of the country. The appropriate        second. The two chemicals meet in the wood
+chemical(s) for treatment and the appropriate          and react with each other to form a
+treatment procedure depend on the design of            preservative that water cannnot leach out. By
+the structure, geographic location, drainage,          varying the soaking times, the chemical
+and wood species used. For example, if the             concentrations, and the temperatures of the
+foundation logs involve direct ground contact,         solution, different degrees of treatment can be
+specified ground contact retention with a              obtained.
+commercial preservative is generally used;                  Soaking or dipping the outside ends of
+if a masonry foundation is used, then a short          logs or small pieces in a water-repellent pre-
+soaking procedure with a waterborne salt               servative containing pentachlorophenol can
+                                                       provide adequate protection to most exterior
+solution on the lowest two or three logs is
+                                                       parts of a cabin.
+satisfactory.
+
+Selection of Preservative                              Treatment of Cut Surfaces
+      Although many preservatives effectively                Logs treated by any of the methods
+prevent decay, some of them may not be consi-          described may need to be cut and trimmed to
+                                                       fit into the structure or to form millwork such as
+dered suitable due to their color, odor, or tox-
+icity. Among the oil preservatives, pentachlo-         window sills. Such cut surfaces will expose
+                                                       untreated wood, which will provide entrance
+                                                   2
+for decay fungi. All cut surfaces that will be     ration over long periods of time. The bark
+exposed to the weather must be treated onsite      slows down drying of the logs to such an extent
+by brushing or dipping in a water-repellent        that some decay in the interior is almost certain
+preservative solution.                             to occur before the log becomes fully
+                                                   seasoned.
+  BUILDING TO PREVENT DECAY                        Furthermore, bark encourages the attack of
+                                                   such insects as bark beetles and some wood
+    Selection and Handling of Logs
+                                                   borers. Because of these insects and loosen-
+Type of Wood                                       ing by shrinkage, the bark usually falls off or is
+                                                   easily knocked off in patches after a short
+      Cedar, spruce, pine, fir and larch in the    period of time. For these reasons, unpeeled
+order named, are the most desirable species        logs are not recomended for log cabin
+for log cabin construction because of              construction.
+uniform diameters, slight taper and availabil-          Peeled. --Practically all log structures are
+ity. Other species commonly available in           built with peeled or debarked logs because of
+local areas may also be adaptable. Many of         the ease of building and maintenance, easier
+the logs available on the market today are ob-     preservative treatment, greater durability, and
+tained from small trees and consist primarily      aesthetic appearance. The remainder of this
+of sapwood which has very little natural            report presupposes that peeled logs are being
+resistance to decay. The heartwood of some         used.
+species, such as cedar, has a natural decay             Cutting and peeling of the logs should be
+resistance, but usually only old-growth, slow-     done during the cold months so that some dry-
+grown trees contain heartwood. Other               ing can take place before the warm weather.
+species whose heartwood is known to have           Although logs are usually more difficult to peel
+such natural durability include redwood,           in winter than in spring or early summer, the
+baldcypress, black walnut, osage-orange,           protection afforded against fungi and insects
+white oak, and Pacific yew. These woods,           by winter peeling more than offsets the extra
+however, are generally not used for logs in        labor.
+buildings because of their high value for               The peeled logs should be piled off the
+                                                   ground in the open so that air can circulate
+other products, their scarcity, or their small
+                                                   freely around each piece. Six months of air
+or irregular log shape. This lack of natural
+                                                   drying is recommended. If possible, the logs
+durability of many logs used today requires
+                                                   should be stored in an open shed or shelter
+certain precautions to give the structures the
+                                                   that protects against driving rains. This is most
+necessary added resistance to decay. Low
+                                                   important when drying those hardwood logs
+wall logs, foundation logs, and sill logs
+                                                   that have little or no natural decay resistance.
+should be pressure treated with a preserva-
+tive. This precautionary measure will give the     Preservative Treating of Logs
+ log structure extra protection in crucial areas
+                                                        To avoid stain and mold during the warm
+ prone to decay. Local lumber dealers should
+                                                   part of the year or in mild climates, the freshly
+ be able to provide pressure treated logs or       peeled logs should be treated by spraying or
+ know where such logs can be obtained.             brushing all surfaces with a 1 to 3 percent
+                                                   solution of sodium pentachlorophenate in
+Log Preparation                                    water (see preservative I in the appendix). This
+     Green logs.--A log cabin can be built with    treatment should be done within a day of
+green logs, but construction techniques are        peeling, as staining usually begins quickly
+limited. Mixed horizontal and vertical log         under warm weather conditions. The logs
+placement cannot be done due to the differ-        should remain piled and properly separated by
+ences in final dried dimensions. Windows and       stickers until seasoning is complete.
+doors should not be fitted until the logs have     Additional application of the antistain
+dried to an equilibrium moisture content. It is    preservative solution may be necessary. As
+recommended that logs be dried before              logs begin to dry, they may ‘check’--develop
+construction begins.                               lengthwise splits that run through several
+     Unpeeled. --Logs with the bark left intact    annular rings--opening up fresh wood to
+are almost impossible to protect from deterio-     decay. When the logs start to check, a
+ reapplication of sodium pentachlorophenate
+ in water will control decay and sapstain
+ (preservative I in appendix).
+      If the logs are to be treated by a diffusion
+process, the freshly cut green logs can be
+treated directly, then piled for air drying.
+     The “simple diffusion” process (preserva-
+tive II) can be used on freshly cut, unseasoned,
+or partially seasoned wood. It works best on
+dry wood. Double diffusion (preservative Ill),
+though slower, is more thorough than simple
+diffusion and more variable. It is desirable for
+logs that will be used as sill logs or low wall
+logs. A commercial treatment (IV) may also be
+available.
+     As logs are cut and trimmed to fit or to
+form millwork, new exposed surfaces become
+susceptible to decay fungi. Such surfaces, as
+they are cut, should be brushed with a water-
+repellent, preservative solution (V).
+       Construction Details                              Figure 1.--Good construction techniques work
+Foundation                                                   together to keep a cabin dry and free from
+                                                             decay.                           (M 144 767)
+     Of first importance in protecting a log
+cabin from decay or insect damage is the foun-           the wood dry. Foundation posts or piers allow
+dation (Figure 1).                                       good ventilation unless the spaces between
+     Drainage.--Good drainage will help keep             them are filled solid. Screen or latticework
+the foundation dry. Storm water should not be             between the piers will improve the appearance,
+allowed to accumulate around the foundation               keep animals out, and still allow good ventila-
+or under the building. The cabin site should be          tion. Wood lattice, unless it is made of decay-
+graded or ditched so that water drains away              resistant or treated wood, should not touch the
+from the building. Eave troughs, downspouts,             ground.
+and wide eaves will direct the water away from                If solid foundation walls are preferred to
+the cabin and, therefore, help greatly in keep-          piers, generous openings should be provided
+ing the foundation dry.                                  at frequent intervals to allow good air circula-
+     Piers and posts.--All too often, log cabin          tion. When solid foundation walls are used on
+builders take the course of least resistance and         damp sites, a soil cover of heavy grade roll
+lay the bottom logs directly on or close to the          roofing or polyethylene sheeting will help to
+ground. Placing untreated wood in direct con-            prevent moisture evaporation from the soil and
+tact with the ground is one of the surest ways of        thereby reduce the decay hazard.
+hastening its decay. When wood is placed in                   If the building is used throughout the year
+contact with the ground, the soil moisture has           in the colder parts of the United States, good
+direct access to the wood and keeps it con-              ventilation will cause cold floors in the winter.
+stantly damp. This dampness sets up condi-               This may be prevented by insulating the floor
+tions that are most favorable for growth of the          under the cabin and boarding up the openings
+fungi that cause decay.                                  in cold weather. Openings should be un-
+     Unless the logs are treated in accordance           covered during the rest of the year.
+with preservatives III or IV (appendix), good                 Termites.--In some parts of the country,
+building practice dictates that bottom logs or           termites cause considerable trouble to log
+sills be placed 12 to 18 inches above the                cabins. The ground-inhabiting termites are the
+ground on foundations that will keep the wood            most plentiful and most important type in the
+dry. Stone or concrete foundations or piers are          United States. These termites leave an outside
+excellent.                                               shell of wood intact when working above
+      Ventilation. --Good ventilation beneath the        ground, and may do a great deal of damage
+floor is important because it keeps the soil and         before being discovered. A common method of
+
+                                                     4
+protection is the application of a soil poison            place with the end of a board about 3/8 inch
+around the foundation with an EPA-registered              thick and 6 inches wide. Varnish or linseed oil
+pesticide. Wood properly treated with preserv-            is applied to the exposed surface of the rock
+atives is protected against termites, so                  wool by sweeping the brush over the surface
+thorough treatment of the foundation timbers,             quickly to avoid deep penetration of the liquid.
+at least, is desirable. Masonry or similar foun-          Brown rock wool can be used on the outside
+dations, 18 to 24 inches high and free from               and white on the inside of the building. This
+cracks, will offer only limited protection from           chinking adheres tenaciously to the logs. It has
+termite attack. In using bricks, the joints               enough elasticity to compensate for log
+should be filled with a cement mortar dense               shrinkage except where the logs have twisted
+enough that termites cannot tunnel through it.            badly. Where the chinking has broken loose
+Hollow block foundations should be capped                 because of such twisting, it can easily be
+with a layer of reinforced concrete at least 4            tamped back into place. Insects and rodents
+inches thick. If termites are very active, they           are not inclined to attack chinking of this kind.
+may build mud tunnels over the treated wood                     Other methods of chinking include the use
+or masonry foundation, until they can enter the           of oakum or moss driven tightly between the
+untreated wood above.                                     logs, and the use of commercial calking or
+                                                          filling compounds.
+Walls                                                           Tight joints may also be obtained by cut-
+     In putting up the walls of a log cabin and in        ting deep grooves accurately in the top and
+framing the window and door openings, care                bottom surfaces of each log and inserting a
+should be taken to avoid forming crevices                 spline, or by hollowing out the underside of
+where water can accumulate and soak into the              each log carefully to fit the log beneath
+wood. Fittings should be made as tight as prac-           (Figure 2).
+ticable, and they should be supplemented by
+calking at places most likely to take up water.           Roof
+Storm water does little harm to the cabin if it                 A wide roof overhang is one of the most
+can run off quickly. However, if the water is             effective features to be built into a log cabin. It
+caught in joints, crevices, or checks, it will soak       helps combat decay in walls and foundations
+into the wood and dry out very slowly. Decay              and around doors and windows. Good pro-
+may easily start in these damp areas. In con-             jection of eaves and slope of the roof will divert
+structing the cabin, major cracks or checks in            much rainwater that would otherwise flow over
+the logs should be placed down so they will not           the walls. The greater the pitch of the roof, the
+entrap water.                                             faster the rainwater moves down, projecting
+     The joints between logs are of special con-          the water farther away from the house. Recom-
+cern as possible water-trapping zones. It is               mended projection is not less than 18 inches
+important, therefore, that they be suitably                (preferably 24 in.) for a one-story house, and
+chinked.                                                  not less than 24 inches (preferably 36 in.) for a
+     One of the most practical methods of                 two-story house. The wider overhangs are par-
+chinking is to staple 2-inch strips of metal lath         ticularly desirable in areas of high rainfall.
+on the outside of the cracks and to chink with                  Roof-supporting members of logs or of
+standard chimney mortar. The mortar consists              sawn lumber should not project beyond the
+of two parts of cement, one part of dry hydra-            eaves. If they do, they will become easily wet-
+ted lime, and six parts of clean, sharp,                  ted and susceptible to decay.
+screened sand. This mortar must be mixed in
+small batches to keep it from hardening before                       FINISHING DETAILS
+it can be applied.
+     The Oklahoma State University of Agricul-                 For the cabin builder or the cabin buyer,
+ture and Applied Science, Stillwater, Okla., has          the price for a sound, enduring cabin is good
+reported a successful method of chinking with             care. A finish on the inside and outside sur-
+spar varnish, linseed oil, and mineral wool of            faces of a brand new cabin completes the
+the kind sold in batts for insulation. Exterior           decay-resistant construction. An older cabin,
+varnish is brushed on the joints between the              too, profits from an occasional coat of preserv-
+logs. Before it dries, rock wool is tamped into           ative. Also, throughout the service life of the
+
+
+                                                      5
+                                                        trating oils, or lacquers, however, can also be
+                                                        used. When staining of the wood is desired, it is
+                                                        advisable to seal the wood first, then apply the
+                                                        stain and follow with another coat of clear
+                                                        sealer or varnish. Stain may be combined with
+                                                        the sealer in the second application.
+
+                   SPLINE-TYPE                                             Exterior
+                   JOINTS                                     The preferred finishes for log cabins are
+                                                        those that are generally referred to as the
+                                                        natural type of finish. These are either the
+                                                        penetrating water-repellent preservatives or
+                                                        the penetrating pigmented stains. Penetrating
+                                                        finishes have the very distinct advantage of not
+                                                        failing by blistering or peeling like varnish or
+                                                        paint and are, therefore, very easily maintained
+                                                        or refinished.
+                                                              Preservative-type finishes contain a fungi-
+                                                        cide and inhibit the growth of fungus (mildew),
+                                                        which is the primary cause of graying of wood.
+                                                        These finishes allow the wood to weather to a
+                                                        very natural light brown or tan color. An effec-
+                                                        tive practical treatment includes thoroughly
+                  HOLLOWED-OUT                          brushing the exterior of the cabin with a water-
+                                                        repellent preservative solution after erection
+                  JOINTS                                (preservative V in the appendix).
+                                                              Because the joints between logs, exposed
+                                                        end grain, and any drying cracks that develop
+                                                        are common water-trapping zones, particular
+                                                        attention should be given to these areas and
+                                                        heavy application of the water-repellent solu-
+                                                        tion is advised every other year as a mainte-
+                                                        nance procedure. This finish usually lasts
+Figure 2. --Various joint techniques will help
+                                                        about 2 years before small gray spots of fungal
+    keep water from settling between logs.
+(M 144 766)
+                                                        growth start to appear on surfaces, indicating a
+                                                        need for refinishing.
+                                                              Penetrating pigmented stains (preserva-
+cabin, all cracks, crevices, and joints should be       tive VI) are also very effective natural finishes
+inspected as possible starting points for decay.        for log cabins. These finishes change the color
+                                                        of wood, obscure part of the grain, and are less
+                   Interior                             natural in appearance than the preservative
+     Except for sills and the lower rail in win-        finishes. These stains, when applied as de-
+dows, there is no need for interior application         scribed in the appendix, can last 10 years or
+of preservative solutions. Because the inside is        longer.
+exposed to relatively constant low moisture                   Film-forming exterior varnishes, even
+conditions, the inside surfaces are not sus-             marine or spar varnish grades, are not recom-
+ceptible to mold growth.                                mended because of their short life when fully
+     A good finish for the interior of log cabins       exposed to the direct sun and because of the
+should prevent soiling or staining, provide for         difficulty in refinishing.
+good cleanability, and enhance the natural
+color and grain of wood. A non-yellowing
+alkyd varnish based on safflower or soybean
+oil would serve exceptionally well. Other con-
+ventional interior varnishes, floor seals, pene-
+                                                    6
+   RESTORING AND MAINTAINING                           repellent preservative solution. To facilitate
+        EXISTING CABINS                                treatment of hard-to-get-to areas which may
+                                                       have some decay, 1/4-inch holes can be drilled
+      Once a cabin has been built, it is imprac-       in the wood and filled with the preservative
+tical to disassemble it and retreat the logs by        solution; the hole should be plugged with a
+soaking. To maintain existing cabins, the out-         treated wood dowel. These critical areas
+side surfaces of critical decay areas should be        should be treated every 2 years by a liberal
+treated by preservative brushing methods               application of a water-repellent preservative
+every 2 years. The critical areas are the lower        solution (see preservative V in the appendix).
+portions of windows and doors, joints between          The water-repellent preservative solutions are
+boards, exposed end grain, and the lowest two          widely distributed through most paint stores
+or three logs (ground splash zone).                    and lumberyards.
+      Decayed wood should be removed and
+the exposed wood liberally treated with water-
+
+
+
+
+ BIBLIOGRAPHY: OTHER HELPFUL                                 house. USDA For. Serv. Gen. Tech. Rep.
+         PUBLICATIONS                                        SO-l. South. For. Exp. Sta., New
+                                                             Orleans, La.
+               Insect Control                          U.S. Department of Agriculture, Forest Service
+St. George, R. A.                                          1969. Wood decay in houses: How to pre-
+     1973. Protecting log cabins, rustic work,               vent and contol it. USDA Home & Gar-
+       and unseasoned wood from injurious                    den Bull. 73.
+       insects in the Eastern United States.           U.S. Department of Agriculture, Forest Ser-
+       USDA Farmers Bull. 2104.                            vice, Forest Products Laboratory
+Williams, L. H., and H. R. Johnston                        1973. Wood finishing: Water repellent
+     1972. Controlling wood-destroying bee-                   preservatives. USDA For. Serv. Res.
+       tles in buildings and furniture. USDA                  Note FPL-0124. For. Prod. Lab., Madi-
+       Leaflet 558.                                           son, Wis.
+Johnston, H. R., J. K. Smith, and R. H. Beal           DeGroot, R. C.
+    1972. Subterranean termites--their pre-               1976. Your wood can last for centuries.
+      vention and control in buildings. USDA                USDA For. Serv. Washington, D.C.
+      Home & Garden Bull. 64.
+Haverty, M. I.                                                 Log Cabin Construction
+    1976. You can protect your home from               Carlson, Axel
+      termites. USDA For. Serv. South- For.                 1971. Building a log house in Alaska.
+      Exp. Sta., New Orleans, La.                             Univ. Alaska Coop. Ext. Serv., P-50A,
+                                                              Fairbanks, Alaska.
+               Decay Control
+                                                       Angier, B.
+Scheffer, T. C., and A. F. Verrall                         1957. How to build your home in the
+    1973. Principles for protecting wood                      woods. Hart Publishing Co., New York.
+      buildings from decay. USDA For. Serv.
+      Res. Pap. FPL 190. For. Prod. Lab.,              Aldrich, C. D.
+      Madison, Wis.                                         1934. The real log cabin. The MacMillan
+                                                              Co., New York.
+Gjovik, L. R., and H. L. Davidson
+    1973. Comparison of wood preservatives             Bowman, A. B.
+       in stake tests. USDA For. Serv. Res. Note          1941. Log cabin construction. Mich. State
+       FPL-02. For. Prod. Lab., Madison, Wis.               Col. Ext. Bull. 222, East Lansing, Mich.
+Biesterfeldt, R. C., T. L. Amburgey, and L. H.         Dunfield, J. D.
+    Williams                                               1974. Log cabin construction. 2d ed., J. D.
+    1973. Finding and keeping a healthy                       Dunfield, Ottawa, Ont.
+
+                                                   7
+           APPENDIX:                                    then in a second. The two chemicals meet to
+     PRESERVATIVE SOLUTIONS                             form a compound that cannot be leached out.
+     Wood preservatives come in a variety of                 The process described here uses two solu-
+forms, concentrations, and trade names. They            tions made up with water at air temperature.
+are usually available at paint and hardware             This should be done outdoors when the tem-
+stores and lumberyards. The chemicals that              perature is not below 60° F.
+comprise various preservatives, the solvents            First Solution
+that carry them, their colors, smells, and tox-
+icity all help to determine their safest, most                Mix 16 pounds of commercial grade cop-
+effective, and practical use.                           per sulfate (CuS04 • 5H2O) with 10 gallons
+     The text of this report has provided some           (84 lb) water.
+of the why’s and wherefore’s of the uses of                  Because copper sulfate dissolves slowly,
+various preservatives. This appendix lists              the solution should be mixed a day or two in
+recommended solutions, instructions for their           advance, using warm water. The solution
+preparation, and safe and efficient application.        should be stirred very thoroughly to make sure
+Amounts of preservative necessary should be             all the salt is dissolved. Logs should soak for
+carefully figured. It is better to mix another          2 to 3 days in this first solution.
+small batch than to have to dispose of left-                 An iron tank cannot be used for the copper
+overs.                                                  sulfate solution.
+
+  Preservative l--Stain Preservatives                   Second Solution
+    Freshly peeled logs will tend to stain al-               First: Mix 7 pounds of commercial grade
+most immediately. This antistain solution can           70 percent arsenic acid (H3AsO4) solution with
+prevent that.                                           11 gallons (93 lb) water.
+                                                             In a separate container: Mix 21 pounds
+    Mix 1 to 3 pounds of sodium pentachloro-            of commercial grade sodium chromate (Na 2
+phenate with 12 gallons (approx. 100 lb) of             CrO4) with 9-1/2 gallons (79 lb) of water.
+water. Brush solution on logs within 1 day of                When the two separate solutions are com-
+peeling, especially in warm weather.                    pletely dissolved, mix them together to form
+   Preservative II-Simple Diffusion                     the second solution.
+                                                             The freshly peeled logs are soaked 2 to 3
+      Preservative protection is especially de-         days in the copper sulfate solution and then
+sirable for the lowest two or three logs of a           transferred for soaking for 2 or 3 days in the
+cabin. Logs can be treated when they are                second solution. The treated logs should be
+freshly peeled or after they have been air dried        piled to dry for several days. When the cabin is
+for some months. The “simple diffusion”                 to be constructed, any residual chemicals on
+process is relatively easy to use.                      the surface of the dry logs should be washed
+      Many different compounds can be used              off.
+for a simple diffusion preservative; a 10 percent            The amount of solution required for each
+solution is recommended. Mix 10 pounds of               of the diffusion treatments (preservatives II
+zinc chloride with 12 gallons (approx. 100 lb)          and III) depends on log size and tank size. To
+water.                                                  determine the amount of liquid (gallons) re-
+      Whole logs should soak in the solution for        quired, the length of the tank should be multi-
+1 to 2 weeks. Any small parts such as steps,            plied times the depth and the width, in either
+rails, or window sills can be soaked for half           feet or inches:
+that time. Treated logs should be allowed to                          1 foot3 = 7.5 gallons
+dry for 1 to 2 weeks after the soaking process                      1 inch3 = 0.0043 gallons
+and before construction begins.                         Example
+   Preservative Ill--Double Diffusion                       If the solution tank is 20 feet long, 2 feet
+     “Double-diffusion” is a more time-con-             wide, and the largest log is 8 inches in dia-
+suming treatment but provides greater protec-           meter, volume is:
+tion. The double-diffusion process involves
+soaking wood first in one chemical solution,                      20 X 2 X 2/3 feet = 26.4 feet3
+
+
+                                                    8
+ Then, the amount of liquid preservative re-                  Preservative IV--Commercial
+ quired is:                                                       Pressure Treatment
+   26.4 feet3 X 7.5 gallon/feet3 = 198 gallons             Logs used as sill logs, especially those
+                                                      placed on the ground, need to be treated more
+ Or, if tank volume is:                               heavily to withstand fungal attack. Treat-
+                                                      ments most commonly recommended are
+ (20 ft X 12 in/ft =)240 X (2 ft X 12 in/ft =)24      ammoniacal copper arsenate (ACA) and
+            X 8 inches = 4608 inches3                 chromated copper arsenate (CCA). Commer-
+                                                      cial treating plants apply these preservatives
+ Then the amount of liquid preservative re-
+                                                      according to nationally recognized standards,
+ quired is:                                           for maximum protection.
+4608 inches3 X 0.0043 gallon/inch3 = 198 gallons
+
+    No more solution than necessary should
+be prepared at one time. Too little mixture can
+be supplemented. Too much mixture has to be
+disposed of.
+
+
+
+
+                                Preservative V--Water-Repellent
+                                          Preservative
+                               Ingredients             For 1 gallon    For 5 gallons
+                     40 percent pentachlorophenol 1-3/4 cups           2 quarts
+                       (10:1 concentrate)
+                     Boiled linseed oil                1-1/2 cups      1-3/4 quarts
+                     Paraffin wax                      1 ounce         4-5 ounces
+                     Solvent (mineral spirits,         Add to make     Add to make
+                      turpentine, or paint thinner)      1 gallon       5 gallons
+
+                                 Melt the paraffin in a container heated with
+                            hot water. Be sure the solvent is at room
+                            temperature. Slowly pour the hot paraffin into
+                            the solvent mixing the new combination
+                            vigorously to keep the wax from solidifying at
+                            the bottom of the container. When the wax has
+                            been added, add the linseed oil and then the
+                            penta. Stir until the mixture is uniform.
+                                 Brush the mixture into cracks or joints.
+                                 If the solution is held at low or freezing
+                            temperatures, the ingredients may separate.
+                            Should this happen, the solution can be
+                            reheated to room temperature and stirred to a
+                            uniform mixture once again.
+               Preservative VI--Natural Finish
+                        (Pigmented)
+               For exterior surfaces of the finished log
+          cabin, for decay resistance and color, the pig-
+          mented natural finish provides a durable, rela-
+          tively inexpensive treatment. The following
+          solution should be applied at the rate of about
+          150 square feet per gallon.
+
+Ingredients for approximately 5 gallons     Quantity
+
+40 percent pentachlorophenol
+   (10:1 concentrate)
+Boiled linseed oil
+Paraffin wax
+Solvent (mineral spirits, turpentine,
+    or paint thinner)
+Tinting colors (according to list below)
+Zinc stearate
+    If available, can be added to reduce
+    the tendency of the pigment to cake
+    during storage.
+
+    Some suggested colors are:
+
+Desired color         Pigment(s)           Pigment quantities
+                      required             for 5 gallons of stain
+  Cedar               Burnt sienna
+                      Raw umber
+  Light redwood       Burnt sienna
+  Chocolate brown Burnt umber
+  Fruitwood brown Raw sienna
+                  Raw umber
+                  Burnt sienna
+  Tan                 Raw sienna
+                      Burnt umber
+  Green gold          Chrome oxide
+                      Raw sienna
+  Forest green        Medium chrome
+                       green
+  Smoky gray          White house paint
+                      Raw umber
+                      Lamp black
+These are available from hardware stores.
+
+
+
+
+                                10
+       Pigmented stains are the most durable
+when applied to rough or weathered surfaces.
+When two coats are applied to a rough surface,
+the second coat should be applied before the
+first has dried so that both coats can penetrate.
+Stain that remains on the surface after 3 or 4
+hours should be wiped up or rubbed in to pro-
+vide a uniform flat appearance. To avoid lap
+marks in the application of penetrating stain,
+the full length of a log should be finished with-
+out stopping for more than 5 minutes. The
+finish should also be stirred frequently to
+maintain uniform suspension of the pigments.
+60-11-6-77
+      CAUTION: Wood preservatives can be
+injurious to man, animals, and plants. There-
+fore, for safe and effective usage, it is essential
+to follow the directions and heed all precau-
+tions on the labels. The wood preservative
+pentachlorophenol, for example, is toxic to
+animals and humans and is a strong root
+poison and defoliant. It is, therefore, advisable
+to wear rubber gloves and protective masks
+and to cover nearby plant life when using any
+material containing pentachlorophenol.
+Pentachlorophenol and creosote-containing
+preservative solutions should never be applied
+to the inside of a cabin.
+     Store preservatives in original containers
+under lock and key--out of reach of children
+and pets--and away from foodstuff. Use all
+preservatives selectively and carefully. Follow
+recommended practices for the disposal of
+surplus preservatives and preservative con-
+tainers.
+     NOTE: Registrations of preservatives are
+under constant review by the Environmental
+Protection Agency and the Department of
+Agriculture. Use only preservatives that bear a
+Federal registration number and carry direc-
+tions for home and garden use. Since the
+registration of preservatives is under constant
+review by State and Federal authorities, a
+responsible State agency should be consulted
+as to the current status of any preservative.
+                  COVER
+     This duplex cabin at the Lincoln Village in
+New Salem, III., exhibits remarkable crafts-
+manship and a high degree of development. If
+the reconstruction can be assumed to be
+reasonably authentic, the chimney detailing
+indicates that the cabin was built not by the
+frontiersmen, but by a skilled log house
+builder. Photograph by Gunard Hans.
+
+
+
+                                     U.S. GOVERNMENT PRINTING OFFICE: 1979–651-060
+

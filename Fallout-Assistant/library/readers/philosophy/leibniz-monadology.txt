@@ -1,0 +1,23 @@
+WAYKEEPER // OFFLINE READER ADAPTATION
+========================================================================
+TITLE: The Monadology
+AUTHOR: Gottfried Wilhelm Leibniz
+SHELF: Philosophy-Logic-Knowledge
+STATUS: SOURCE REVIEW REQUIRED
+SOURCE: https://www.gutenberg.org/ebooks/search/?query=Monadology+Leibniz
+
+EDITORIAL NOTE
+Metaphysical units, perception, and order.
+
+This source is presented as a paginated plain-text reader, not a survival card. Its historical
+claims and assumptions should be evaluated critically.
+========================================================================
+
+ACQUISITION RECORD
+
+An automated search did not identify a sufficiently exact public-domain plain-text edition. No
+substitute or uncertain text was downloaded. Review the source search, confirm the title,
+author, edition, and rights, then rerun or install the verified text manually.
+
+REASON: Previously unresolved; source review still required
+QUERY: Monadology Leibniz

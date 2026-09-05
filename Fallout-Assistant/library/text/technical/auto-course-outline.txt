@@ -1,0 +1,1253 @@
+                         DOCUMENT RESUME
+
+ED 034 037                                         VT 009 590
+TITLE            Automotive Mechanic Entry; A Suggested
+                 Guide fcr a Training Course.
+INSTITUTION      Office of Education (EHEW) , Washington,
+                 E.C. Bureau cf Adult, Vccaticnal, and
+                 Library Programs.
+Repert No        0E-87041
+Pub Date         69
+Note             27p.
+Available from   Superintendent of Documents, B.S.
+                 Gcvernment Printing Office, Washington,
+                 E.C. 20402 (FS5.287:87041, $.3E)
+
+EDRS Price       EEFS Price MF-$0.25 BC Not Available from
+                 EDRS.
+Descriptors      Audiovisual Aids, *Auto Mechanics, *Auto
+                 Mechanics (Occupation), Bibliographies,
+                 Course Ccntent, *Curriculum Guides,
+                 Educaticnal Facilities, *Trade and
+                 Industrial Educaticn
+
+Abstract
+                 This guide, prepared for the Division of
+Manpower Develcpment and Training, is to assist
+administrators and teachers in organizing courses and
+develcping ccurse content. The guide contains 14 major
+units covering 1,764 hours cf instruction in the classroom
+and the laboratory. The ccurse covers 252 days at a rate of
+7 hours per day fcr 5 days a week. Each unit contains: (1)
+suggested training tine, (2) unit objectives, (3) unit
+outline, (4) suggested activities or shop exercises, and
+(5) a list of references. Supplementary materials include a
+suggested list cf machines, tools, equipment, supplies,
+textbooks, films, and a floor plan of the training
+facility. (GR)
+                          IMPV"
+                                                          ,
+
+
+
+                                                                              ED 034037
+
+     9-
+
+
+
+
+                                                                                          ,
+
+
+
+
+                                                     CD              a)
+                                                          3
+                                                     I               d
+
+
+
+
+                                                                     cm
+t4
+
+
+
+
+            _.                                 ..1                  UI
+     _?1,                                                                 N
+
+                                  .       .1
+                 S.                   1
+
+
+
+
+      -
+
+
+
+
+                                                              "4t
+                      -
+                                                                              ,
+DISCRIMINATION PROHIBITEDTitle VI of the Civil Rights
+Act of 1964 states: "No person in the United States shall, on the ground
+of race, color, or national origin, be excluded from participation in, be
+denied the benefits of, or be subjected to discrimination under any pro-
+gram or activity receiving Federal financial assistance." Therefore, the
+Vocational and Technical Education and the Manpower Development
+and Training programs, like all other programs or activities receiving
+financial assistance from the Department of Health, Education, and
+Welfare, must be operated in compliance with this law.
+N.
+IN
+Q
+IN
+CD                                                                               0E-87041
+Ca
+w
+
+ AUTOMOTIVE MECHANIC ENTRY
+                (D.O.T. Occupational Code 620.281
+                   Automobile Mechanic, Entry)
+
+
+     A Suggested Guide for a Training Course
+
+
+
+
+                   U.S. DEPARTMENT Of HEALTH, EDUCATION IL WELFARE
+
+                                  OFFICE Of EDUCATION
+
+
+
+
+         THIS DOCUMENT HAS BEEN REPRODUCED EXACTLY AS RECEIVED FROM THE
+
+         PERSON OR ORGANIZATION ORIGINATING IT.   POINTS Of VIEW OR OPINIONS
+         STATED DO NOT NECESSARILY REPRESENT OFFICIAL OFFICE Of EDUCATION
+
+         POSITION OR POLICY.
+
+
+
+
+      U.S. DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE
+                                OFFICE OF EDUCATION
+                               ROBERT H. FINCH, Secretary
+        JAMES E. ALLEN, JR., Assistant Secretary and Commissioner of Education
+                  Bureau of Adult, Vocational, and Library Programs
+                         Grant Venn, Associate Commissioner
+                    Manpower Development and Training Program
+        Superintendent of Documents Catalog No. FS 5.287 : 87041
+              U.S. GOVERNMENT PRINTING OFFICE
+                      WASHINGTON : 1969
+
+For sale by the Superintendent of Documents, U.S. Government Printing Office
+                   Washington, D.C. 20402 - Price 35 cents
+                                    Foreword
+
+        The Purpose of this guide is to assist administrators and teachers in organizing
+    courses and developing course content. It was prepared for the Division of Manpower
+    Development and Training, under the supervision of its director, Howard A.
+.   Matthews. Recognition is given to Maurice W. Roney, Professor of Industrial
+    Education, Oklahoma State University, for supervising the development of content;
+    to L. Carl Love, Oregon State University, for his assistance as consultant during the
+    preparation of this guide; and to Dennis N. Chapman, Head of Automotive Depart-
+    ment, Oklahoma State Technical Institute, for gathering the technical content of
+    this guide.
+         The guide contains 14 major units covering 1,764 hours of instruction in the
+    classroom and the laboratory. The sequence of instructional material and the hours
+    assigned are suggestions; therefore, both time and content may be adjusted to meet
+    local needs.
+         A suggested list of machines, tools, equipment, supplies, textbooks, films, and a
+    floor plan of the training facility have been included for reference in organizing the
+    course. The assistance of local advisory groups should be sought for guidance in
+    selecting equipment which will best serve local conditions. Modification of the
+    suggested shop layout should follow advisory committee recommendations.
+
+                                                                GRANT VENN,
+                                                          Associate Commissioner for
+                                                 Adult, Vocational, and Library Programs.
+
+
+
+
+k
+                                Contents
+                                                                 Page
+FOREWORD                                                           III
+
+BACKGROUND
+      Purpose of the Guide                                            1
+      Job Description                                                 1
+
+      Length of Course and Course Units..                           2
+      Qualifications of Trainees                                    2
+      Teacher Qualifications                                        2
+      Suggestions for the Organization of Instruction               2
+
+COURSE UNITS
+    I. Introduction                                                 3
+  II. Basic Electrical Theory                                       3
+ III. Automotive Electrical Systems                                 3
+  IV. Fuel Systems....                                             4
+   V. Tune-up                                                      4
+  VI. Brake Systems                                                5
+ VII. Suspensions and Steering                                     5
+VIII. Wheel Balance                                                6
+  IX. Transmissions,Standard                                       6
+   X. ClutchS ystems                                               6
+ XI. Differential and Rear Axle .                                  7
+XII. Transmissions, Automatic                                      7
+XIII. Engines                                                      8
+XIV. Ventilating Systems                                           8
+
+TEACHING THE COURSE
+      Planning the Lesson                                          9
+      Training Facility Considerations                             9
+      Criteria for Evaluating Trainee Readiness for Employment     9
+
+TEXTBOOKS AND REFERENCES                                          11
+FILMS                                                             12
+APPENDIXES
+  A. Suggested List of Machines                                   14
+  B. Suggested List of Tools                                      15
+  C. Suggested List of Equipment                                  17
+  D. Suggested List of Expendable Materials                       19
+  E. Suggested List of Sets for Servicing                        20
+  F. Suggested Training Facility                                 21
+                                            Background
+
+Purpose of the Guide                                             The automotive mechanic is responsible for me-
+                                                               chanical systems such as: electrical, fuel, braking,
+  This training guide has been prepared to assist in           suspension, power, transmission, and accessory sys-
+planning and developing a course of training for               tems. Also, the mechanic is responsible for the road-
+workers in the automotive field and allied industry            ability of the vehicle and the control of factors such
+who may be concerned with the maintenance and                  as vibrations, road noises, and rattles.
+rebuilding of automotive systems. The guide has                   The automotive mechanic must be able to diagnose
+been organized to be of maximum value to school                mechanical troubles, frequently with only a minimum
+administration personnel who may not be specialists            of symptoms, and correct the cause of these troubles.
+in the occupation.                                             He performs such activities as disassembling and over-
+   No attempt has been made to cover every detail of           hauling engines, transmissions, clutches, rear ends,
+instruction, but rather to suggest a universal approach        and other assemblies, replacing worn or broken parts,
+in the training of automotive mechanics. The sequence          grinding valves, adjusting brakes, tightening body
+of presentation as well as the final selection of topics       bolts, and aligning wheels. He uses hoists, wrenches,
+for special emphasis should be determined by in-               gauges, drills, grinding wheels, and other general or
+structional specialists and will vary, depending upon          specialized machines and tools. Since the mechanic's
+the needs and background of the trainee group.                 time is usually charged to the customer on an hourly
+Supplemental material may be found in the recom-               or flat rate basis, it is essential that he eliminate
+mended textbooks, references, and films.                       mistakes and the costly delays that come from a trial
+   Although this training guide has been developed             and error method of troubleshooting.
+primarily for use by the Manpower Development and                Generally the work involves contact with grease
+Training Program, it includes instructional material           and dirt; consequently, the worker must learn to
+that will help the trainees to develop and advance             tolerate these conditions.
+beyond the basic skill requirement for job applica-               The automotive mechanic with good qualifications
+tion. Much of the related material included in the             can expect job opportunities in almost any locality.
+course outline has been added specifically for the             There are an estimated 750,000 automotive mechanics
+purpose of assisting the trainee to progress beyond            employed today making this one of the larger voca-
+the entry level classification.                                tions in the technical field. Earnings, which depend
+                                                               upon skill and speed, average from $2.50 to $4.00 per
+                                                               hour. Automotive mechanics are sometimes paid on a
+Job Description
+                                                               flat rate plus a specified percentage of the cost of
+  The work of the automotive mechanic consists of              certain jobs.
+those jobs which require a knowledge of mechanical,              According to a recent (1968) survey of job facts,
+electrical, and hydraulic systems; plus the ability to         there are 12,000 job openings for automotive me-
+maintain, r .pair, and rebuild automotive equipment.           chanics. This does not include mechanic jobs in
+In the lard r shops, the workers may specialize in             truck, tractor, aircraft, motorcycle, and allied fields.
+certain phases of work. However, many mechanics,                  The opportunities for automotive mechanics are
+especially in organizations with few employees, may            expected to increase. One reason for this increase is
+be required to be competent enough to do all of the            the increase in vehicle registrations. One of the
+distinctly different types of jobs generally accepted by       automotive trade journals identified approximately
+this type of service industry. If the automotive me-           87 million privately owned vehicles in the United
+chanic has a broad knowledge of a complete mecha-              States in 1965. This was reported to be a gain of
+nism, he can improve the performance of a specific             approximately 4.5 percent over 1964. Another reason
+part by virtue of his understanding of the operation           for greater opportunities in the field of automotive
+of this part as an integral unit of the system.                maintenance and repair is the rise of the national
+                                                           1
+income which creates a much greater potential                           A high school diploma is not mandatory, although
+market.                                                               certain high school courses will help the trainee make
+ It can be concluded that with a shortage of trained                  more rapid progress during training. Since many of
+mechanics, an increase in the number of vehicles, and                 the automotive systems are quite complex, persons
+the retirement of existing service department per-                    applying for this training program should be able to
+sonnel, the industry will experience a continuous                     solve basic arithmetic and physics problems. The
+need for well-trained automotive mechanics.                           trainee should receive satisfactory scores in the U.S.
+  Training and experience in the automotive industry                  Employment Service General Aptitude Test Battery
+can also prepare workers for rewarding job oppor-                     for Automotive Mechanic, B-276.
+tunities in such fields as service management, sales,
+merchandising, technical advising, and technical
+                                                                       Teacher Qualifications
+training.
+                                                                         The instructor for this program must have experi-
+                                                                      ence as an automotive mechanic and, preferably,
+Length of Course and Course Units                                     should have business experience as an operator or
+   The training course covers a period of 252 days                    supervisor of an automotive repair shop.
+and includes a total of 1,764 hours of class instruction                If the person selected for this teaching assignment
+and closely supervised shop practice. The training is                 has no teaching experience, he should take funda-
+intended to progress at a rate of 7 hours per day, 5                  mental courses in teaching, and lesson planning and
+days a week.                                                          presentation.
+
+                     MAJOR DIVISIONS
+                                             Sug-     Sug-            Suggestions for the Organization of Instruction
+                                            gested   gested
+                                             class   shop               The course presented in this training guide is in-
+ Unit                   Title               hours    hours
+     I. Introduction                            14
+                                                                      tended to develop a skill level which will qualify
+                                                              7
+    II. Basic Electrical Theory.                21       50           individuals for employment. While this is the major
+  III. Automotive Electrical Systems           40       120           objective, the course is also designed to encourage
+   IV. Fuel Systems                            21       112
+   V. Tune-up.                                 49       170           the trainee to learn related material that may help
+  VI. Brake Systems                            24       100           him excel in automotive mechanics.
+ VII. Suspensions and Steering                 28       135
+VIII. Wheel Balance                             6        20             Shop experience as well as classroom instruction
+  IX. Transmissions, Standard                   9       100           should be carefully chosen to give the trainee as many
+   X. Clutch Systems                            7        25
+  XI. Differential and Rear Axle               14       100           varied experiences as possible. When a local course is
+ XII. Transmissions, Automatic                 49       220           organized, the instructor should evaluate the total
+XIII. Engines                                  52       200
+XIV. Ventilating Systems                       21        50           experiences listed in this program in view of current
+             Subtotal
+                                                                      occupational requirements. If some special equip-
+                                              355     1, 409
+                                                         355          ment is not available to the instructor, he may plan
+                                                                      visits to local related industries in order to provide
+             Total
+                                ..11                  1, 764
+                                                                      well-rounded training.
+                                                                        The allocation of hours to each unit of instruction
+Qualifications vof Trainees                                           serves to indicate the relative emphasis to be placed on
+                                                                      these areas. However, this course is designed to rep-
+  Although no reliable method has been found to                       resent a typical situation, and changes in the dis-
+determine the type of person who can be the most                      tribution of time may be necessary to adapt this pro-
+successful in this field, there are some selection factors            gram to local conditions and the background of the
+that may significantly reduce the number of people                    group in training. Furthermore, the ratio of class-
+who will drop out before finishing the course.                        room to shop time should be left to the discretion of
+  The person most likely to succeed in this training                  the instructor.
+program must have both an interest in automotive                        It should be noted that this training guide was
+work and a determination to learn. Manual dexterity                   designed for a class of 20 persons, while the optimum
+and a willingness to do a job that will produce quality               trainee-teacher ratio in the shop would be about
+results are of great significance if the trainee is to                10 to 1. A great deal of individual instruction and
+advance to positions with greater responsibility and                  close supervision is required to teach the skills,
+pay.                                                                  especially in the early stages of the course.
+                                                                  2
+                                            Course Units
+
+                       Unit I                               Objectives
+
+                 INTRODUCTION
+                                                            To develop an understanding of basic electrical
+                                                              theory and the use of electrical testing equipment.
+Training Time                                               Unit Outline
+Classroom, 14 hours; shop, 7 hours                          A. Electrical terms and symbols
+                                                                1. Volts
+Objectives                                                     2. Ohms
+To orient trainees to the nature and scope of the              3. Resistance
+  automotive mechanic's work.                                  4. Fuse
+To develop skills in the use and maintenance of tools          5. Ground
+  and equipment.                                               6. Power source
+                                                               7. Switch
+Unit Outline                                                B. Circuit requirements
+                                                            C. Conversion factor
+A. Orientation
+                                                            D. Magnetism
+   1. Class procedure
+                                                                1. Theory
+   2. History of the automobile
+                                                                2. Application
+   3. Opportunities in the trade (local)
+B. Tools and equipment
+                                                            E. AC and DC
+                                                                1. Theory
+    1. Types normally used
+                                                                2. Application
+   2. Proper use
+                                                            F. Use of electrical circuit testing equipment
+   3. Maintenance
+                                                                1. Ohmmeter
+C: Tool room procedure
+D. Parts manual                                                 2. Wattmeter
+                                                                3. Battery tester
+E. Shop safety practices
+                                                                4. Battery hydrometer
+                                                                5. Battery charger
+Suggested Activities
+Demonstration on use of tools of special equipment.         Suggested Shop Exercises
+Maintenance of tools and equipment.                         Problems in solving circuits.
+Make out requisitions for parts.                            Testing model circuits.
+                                                            Practice working for schematic and sketches.
+References
+ABC's of Hand Tools. General Motors Co.
+Basic Hand Tools. Government Printing Office.                                     Unit III
+Chilton's Flat Rate and Parts Manual. Chilton Books.          AUTOMOTIVE ELECTRICAL SYSTEMS
+
+                                                            Training Time
+                       Unit II
+                                                            Classroom, 40 hours; shop, 120 hours
+             BASIC ELECTRICAL THEORY
+                                                            Objectives
+
+Training Time                                               To develop skills in analyzing electrical systems and
+                                                              provide practice in making adjustments and
+Classroom, 21 hours; shop, 50 hours                           replacement of parts.
+                                                        3
+      849-462-69-2
+ Unit OuttZ:te                                                                      Unit IV
+A. The charging circuit                                                       FUEL SYSTEMS
+    1. Battery
+    2. Generator
+    3. Alternator                                           Training Time
+    4. Voltage regulator
+                                                           Classroom, 21 hours; shop, 112 hours
+B. The starting circuit
+    1. Battery
+                                                            Objectives
+    2. Switch (starting)
+    3. Starter motor                                       To develop skills in the repair and adjustment of fuel
+C. Ignition system                                            systems.
+    1. Primary circuit
+       a. Battery                                           Unit Outline
+       b. Coil (primary winding)
+       c. Condenser                                        A. Operation of component parts
+       d. Distributor (contact points)                     B. Symptoms of inefficient system
+       e. Ground                                           C. Servicing procedures
+   2. Secondary circuit                                        1. Fuel lines
+       a. Coil (secondary winding)                            2. Fuel pump
+       b. Distributor (rotor and cap)                         3. Fuel filter
+       c. Spark plugs                                         4. Sediment bowl
+       d. Ground                                              5. Air cleaner
+D. Lighting and accessory circuits                            6. Carburetor
+    1. Safety group
+       a. Horns                                            Suggested Shop Exercises
+       b. Lights
+       c. Turn signals                                     Troubleshoot fuel system.
+       d. Switches and relays                              'Test, assemble, clean, and adjust all major components
+       e. Windshield wipers (electric)                       of the fuel system.
+   2. Convenience group
+       a. Lights                                           References
+          (1) Glove compartment
+                                                           Automotive Fuel System. Automotive Electrical Associa-
+          (2) Trunk
+                                                             tion.
+          (3) Map reading
+                                                           Glenn. Glenn's New Auto Repair Manual.
+          (4) Courtesy
+                                                           Graham. AudeP s New Automobile Guide for Mechanics,
+       b. Radio
+                                                             Operators, and Servicemen.
+      c. Heater
+                                                           Smith. Tuning for Speed and Tuning for Economy.
+      d. Cigarette lighter
+                                                           Sun Tune-up Handbook. Sun Electric Corp.
+Suggested Shop Exercises
+Analyze service efficiency of the principal parts of                               Unit V
+  the electrical system.
+Make adjustments to and replacements of components                               TUNE-UP
+  of all circuits.
+Troubleshooting procedures.                                Training Time
+References                                                 Classroom, 49 hours; shop, 170 hours
+
+Automotive Electrical Systems. Automotive Electrical
+                                                           Objectives
+  Association.
+Blanchard and Ritchen. Auto Engines and Electrical         To provide practice and develop skills in motor
+ Systems.                                                    tune-up.
+
+                                                       4
+Unit Outline                                                    b. Hydraulic brakes
+A. Fundamentals of the internal combustion engine           4. Disc brakes
+       (for tune-up purposes)                            B. Braking principles
+    1. Cycle                                                 1. Define braking action
+   2. Compression ratio                                     2. Define friction
+   3. Compression pressures                                 3. Explain stopping distances
+   4. Valves and cam shaft functions                     C. Components of brake systems
+   5. Cooling                                               1. Brake pedal and linkage
+B. Review of fuel system principles                         2. Master cylinder
+    1. Carburetor fundamentals                              3. Wheel cylinders
+      a. Air-fuel ratio                                     4. Brake drums
+      b. Air and fluid pressure vs. vacuum                  5. Brake shoes
+         (1) Venturi action                                 6. Brake lining
+          (2) Types of venturi                              7. Backing plate
+   2. Carburetor venting                                    8. Brake springs
+   3. Carburetor circuits
+C. Electrical system                                     Suggested Shop Exercises
+    1. Spark plugs                                       Troubleshoot brake systems.
+   2. Vacuum advance                                     Maintenance and repair of brake system components.
+   3. Centrifugal advance                                Replace brake linings.
+   4. Timing                                             Grind brake drums.
+D. Principle equipment required for tune-up.
+                                                         Reference
+Suggested Shop Exercises
+                                                         Venk et al. Automotive Suspensions, Steering, Alignment,
+Visual check of electrical and mechanical systems.         and Brakes.
+Use of instruments for testing engine compression,
+  electrical components, and the fuel system.
+                                                                                Unit VII
+References
+                                                                 SUSPENSIONS AND STEERING
+Smith. Tuning for Speed and Tuning for Economy.
+Sun Tune-up Handbook. Sun Electric Corp.
+                                                         Training Time
+                                                         Classroom, 28 hours; shop, 135 hours
+                       Unit VI
+                BRAKE SYSTEMS                            Objectives
+                                                         To provide training to develop skills in the repair and
+Training Time                                              alignment of automotive suspension and steering
+                                                           systems.
+Classroom, 24 hours; shop, 100 hours
+                                                         Unit Outline
+Objectives
+                                                         A. History and evolution of suspension and steering
+To develop skills in the repair and adjustment of
+                                                               systems
+  automotive brakes.
+                                                         B. Types and function of suspension systems
+                                                             1. Front-end suspension
+Unit Outline
+                                                            2. Rear-end suspension
+A. Evolution of brake operating systems                  C. Types of steering systems
+    1. Early types                                           1. Mechanical
+   2. External contracting mechanical brakes                2. Power
+   3. Internal expanding brakes                          D. Purpose of wheel alignment
+       a. Mechanical brakes                              E. Factors governing wheel alignment
+
+                                                     5
+F. Maintenance of suspension and steering systems                                     Unit IX
+G. Corrective procedures for suspension and steering
+     system troubles
+                                                                         TRANSMISSIONS, STANDARD
+Suggested Shop Exercises
+                                                               Training Time
+Analyze and replace defective springs.
+Adjust and replace torsion bars and sway eliminators.          Classroom, 9 hours; shop, 100 hours
+Inspect and replace shock absorbers.
+Check and align front-end and steering.                        Objectives
+Replace mechanical and power steering parts.
+                                                               To develop skills in the troubleshooting and repair
+                                                                 of standard transmissions.
+References
+Graham. Audel's New Automobile Guide for Mechanics'            Unit Outline
+  Operators, and Servicemen.
+                                                               A. Types of transmissions
+Venk et al. Automotive Suspensions, Steering, Alignment,
+  and Brakes.                                                      1. Selective sliding spur gears
+                                                                  2. Constant mesh
+                                                                  3. Synchromesh
+                                                               B. Function of transmissions
+                       Unit VIII                                  1. Torque
+                                                                  2. Speed
+                 WHEEL BALANCE                                    3. Powerflow
+                                                                  4. Attachments
+Training Time                                                  C. Construction and nomenclature
+                                                                  1. Housing
+Classroom, 6 hours; shop, 20 hours                                2. Gears and shafts
+                                                                  3. Shifting mechanisms
+Objective                                                         4. Bearings
+To develop skills in the balancing of wheels.
+                                                               Suggested Shop Exercises
+Unit Outline                                                   Troubleshooting exercises.
+A. Purpose of wheel balance                                    Disassemble and reassemble complete transmission
+B. Methods of wheel balance                                      unit.
+    1. Static
+   2. Dynamic                                                  Reference
+C. Balancing equipment                                         Venk and Spicer. Automotive Maintenance and Trouble-
+   1. On-auto balancing                                          shooting.
+   2. Off -auto balancing
+D. Symptoms of wheel balance trouble
+                                                                                      Unit X
+Suggested Shop Exercises
+Diagnose wheel balance requirements by visual in-                             CLUTCH SYSTEMS
+  spection and road testing.
+Balance wheels using both the on-auto and off-auto
+  balancer.
+                                                               Training Time
+                                                               Classroom, 7 hours; shop, 25 hours
+References
+Automobile Trouble Shooter. Motor Book Dept.                   Objectives
+Graham. Audel's New Automobile Guide for Mechanics,            To develop skills in troubleshooting, repair, and
+  Operators, and Servicemen.                                     adjustment of clutch systems.
+
+                                                           6
+Unit Outline                                               Suggested Shop Exercises
+
+A. Principle and function of the clutch                    Troubleshoot differential and rear axle.
+13. Types of clutches                                      Disassemble, assemble, and repair the components of
+    1. Helical coil spring                                   a differential.
+   2. Diaphragm spring                                     Remove and install rear axle.
+   3. Single coil spring
+C. Nomenclature and operation of clutch com-               References
+      ponents                                              Automobile Trouble Shooter. Motor Book Dept.
+   I. Pressure plate assembly                              Crouse. Automotive Mechanics.
+   2. Fly wheel                                            Glenn. Automechanics.
+   3. Clutch driven disk assembly                          Graham. Audel's New Automobile Guide for Mechanics,
+D. Diagnosis procedures for                                  Operators, and Servicemen.
+    I. Slips                                               Venk and Spicer. Automotive Maintenance and Trouble-
+    2. Grabs                                                 shooting.
+    3. Noises
+   4. Drags
+E. Clutch maintenance and adjustments                                             Unit XII
+Suggested Shop Exercises                                        TRANSMISSIONS, AUTOMATIC
+Analyze defective systems.
+Remove and replace components.                             Training Time
+References                                                 Classroom, 49 hours; shop, 220 hours
+
+Crouse. Automotive Mechanics.                              Objectives
+Glenn. Automechanics.
+Glenn. Glenn's New Auto Repair Manual.                     To provide a basic understanding of automatic trans-
+Venk and Spicer. Automotive Maintenance and Trouble-         missions and develop skills in their maintenance
+  shooting.                                                  and repair.
+
+                                                            Unit Outline
+                       Unit XI                             A. Function and operating characteristics of an auto-
+                                                                 matic transmission
+       DIFFERENTIAL AND REAR AXLE                              1. Planetary gear system
+                                                              2. Fluid coupling
+                                                              3. Torque converter
+ Training Time                                                4. Control valves and servo-mechanisms
+Classroom, 14 hours; shop, 100 hours                       B. Nomenclature of components and typical repair
+                                                                 requirements
+ Objectives                                                C. Testing and inspecting procedures
+To develop skills in troubleshooting, replacement of       Suggested Shop Exercises
+  parts, and maintenance of differentials and rear
+   axles.                                                  Troubleshooting procedures.
+                                                           Maintenance and service procedures.
+ Unit Outline                                              Adjust, repair, and replace components of an auto-
+                                                              matic transmission.
+A. Description and functions of the differential
+B. Types of differentials                                   References
+   1. Conventional
+   2. Limited slip                                          Crouse. Automotive Mechanics.
+C. Lubrication and service of a differential                Glenn. Automechanics.
+D. Description and function of the rear axle                Glenn. Glenn's New Auto Repair Manual.
+
+                                                       7
+Graham. Audel's New Automobile Guide for Mechanics,                               Unit XIV
+  Operators, and Servicemen.
+Venk and Spicer. Automotive Maintenance and Trouble-                     VENTILATING SYSTEMS
+  shooting.
+
+                                                           Training Time
+                                                           Classroom, 21 hours; shop, 50 hours
+                      Unit XIII
+                                                           Objectives
+                      ENGINES
+                                                           To develop an understanding of the principles of air
+                                                             conditioning and heating systems and provide ex-
+Training Time                                                perience in testing and servicing these systems.
+Classroom, 52 hours; shop, 200 hours
+                                                           Unit Outline
+Objectives                                                 A. Theory of refrigeration cycle
+To develop skills in troubleshooting, repair, and          B. Types of refrigerants
+  adjustment of automotive engines.                        C. Components of an air conditioning system and
+                                                                 their functions
+Unit Outline                                                   1. Compressor
+                                                               2. Condenser
+A. Principles of engine operation                             3. Receiver dehydrator
+    1. Water cooled                                           4. Expansion valve
+    2. Air cooled                                             5. Evaporator
+B. Major components of automobile engines                     6. By-pass and auction valves
+    1. Pistons                                             D. Principle of the heating system
+    2. Cylinder block, head                                E. Major components of the heating system
+    3. Valves
+   4. Crankshaft                                           Suggested Shop Exercises
+   5. Bearings
+                                                           Troubleshoot air conditioning and heating systems.
+C. Principle of engine lubricating system
+                                                           Repair and replace defective components of air
+D. Proper inspecting procedures
+                                                             conditioning and heating systems.
+                                                           Charge and/or evacuate refrigerant within an air
+Suggested Shop Exercises
+                                                             conditioning system.
+Troubleshooting to achieve engine efficiency.
+Assemble, disassemble, repair, and adjust engine           References
+  components.
+                                                           Glenn. Glenn's New Auto Repair Manual.
+                                                           Graham. Audel's New Automobile Guide for Mechanics,
+Reference
+                                                             Operators, and Servicemen.
+Blanchard and Ritchen. Auto Engines and Electrical         Venk and Spicer. Automotive Maintenance and Trouble-
+  Systems.                                                   shooting.
+
+
+
+
+                                                       8
+                                         Teaching the Course
+Planning the Lesson                                                 have shelf space for a reference library and a quiet
+                                                                    place to read to encourage greater use of reference
+  The best guide or lesson plan is, of course, one that             materials.
+has been prepared by the teacher, based on his                        The parts and tool room, as shown, can be stocked
+experience and manner of teaching. Although                         with a few commonly used parts and specialty tools
+teachers differ in their ways of organizing and                     selected to give trainees experience in making out
+coordinating important parts of their presentations,                requisitions. A service counter open to the parts
+they agree that the purpose of a lesson is effective                room will facilitate the handling of tools and special
+and meaningful classroom instruction.                               equipment.
+  Written plans may be brief; but before the class                     Items of personal comfort include lighting, heating,
+starts the good teacher will establish:                             cleanliness, and control of contaminated air. Optimum
+The goals or objectives of the lessonthe kind of learning           lighting conditions require an illumination of 50
+  desired                                                           foot-candles 30 inches above floor level. Radiant
+The outline and suggested time schedule for the lesson,
+  including:
+                                                                    heating in the floor is recommended for severely
+    An interest approacha way to introduce the lesson, and          cold geographical areas. However, any environmental
+       capture the interest of the trainees and direct their        control system capable of maintaining 68°F (plus
+       attention to the lesson's goals or objectives                or minus 4°F) for the cold season and a summer
+    Activities which will involve the trainees in discovering       temperature control which provides good ventilation
+     new facts and principles, solving realistic problems, or
+       practicing skills
+                                                                    will suffice. An exhaust system capable of evacuating
+    A way to summarize the lessonto help trainees arrive at         vehicle exhaust when all of the stalls are filled should
+      some valid conclusions and/or to evaluate the extent to       be provided by either an in-the-floor or overhead
+       which lesson goals have been achieved                        system. Furthermore, a system of floor drains or
+The subject matter contentthe facts and principles or main          gutters (not shown) is conducive to good house-
+  ideas to be brought out in the lesson
+The teaching materials and references to be used
+                                                                    keeping.
+                                                                      In maintaining the policy of indicating a minimum
+                                                                    facility, no space has been designated for an air
+Training Facility Considerations                                    compressor or a parts cleaning tank It would be
+                                                                    highly desirable to have room for these two pieces
+  It is the purpose of this training guide to describe              of equipment although it is not mandatory. The
+typical training facilities that may be adapted to                  parts cleaning tank should have at least a 100-gallon
+meet local requirements. Also, all buildings and                    capacity and a circulating pump and filter.
+equipment lists should be considered minimum re-                       In the lists of equipment, prices have been included
+quirements for an optimum program. The shop floor                   to indicate quality requirements. Here, again, con-
+plan, as shown in this guide, represents what might                 siderable flexibility must be recommended. More
+be done with a minimum size physical plant; if                      detailed specifications will be needed should these
+existing buildings are utilized, however, the ac-                   lists be used for writing purchase orders.
+cessibility of vehicle stalls must be considered. The
+building should be wide enough to allow for a center
+driveway 25 feet wide. If locating the working stalls               Criteria for Evaluating Trainee Readiness for
+on a 45-degree angle is not objectionable, the aisle                   Employment
+width could be reduced to 16 feet.
+  The classroom facilities for this program should be                 The criteria which serve as guides in determining
+separated from the shop. It is difficult to concentrate             whether the trainee is ready for employment as an
+in the environment of the working area where many                   automotive mechanic may not be as clearly defined
+distractions may exist. Also, the classroom should                  as in some other occupations. However, some under-
+
+                                                                9
+standing and insight into how to provide various                     Acceptable appearancegrooming, cleanliness, and neatness;
+services are of such importance that every attempt                     sensible choice of clothing
+                                                                     Good personal habits in speech, mannerisms, cleanliness, and
+should be made to evaluate trainee progress.                          method of work
+  The use of various evaluative devices is necessary                 Acceptable attitudescalmness in disorganized situations,
+                                                                      cooperativeness, willingness to work with others
+for the teacher and the trainee to accumulate objec-                 Understanding the role of the automotive mechanic
+tive information about the growth of the trainee.                    Knowledge of automotive mechanic work
+The following personal qualities and competencies are                Ability to understand and conform to instructions and directions
+important to develop or strengthen during the training               Ability to work with minimum immediate supervision
+program.                                                             Ability to keep repair facilities clean and orderly
+                                                                     Ability to use and maintain hand tools properly and to test
+                                                                      equipment used in automotive mechanic work
+Courtesy, friendliness, and tact in dealing with supervisors,        Ability to develop and follow a work plan or schedule
+  fellow workers, and the general public                             Understanding and observance of basic safety precautions
+
+
+
+
+                                                                                   a
+
+
+
+
+                                                                10
+                            Textbooks and References
+
+ABC's of Hand Tools. Detroit: General Motors Com-               Glenn, H. T. Automechanics. Peoria, Illinois: Chas. A.
+  pany, 1968.                                                     Bennett Co., Inc., 1962.
+Anderson, Edwin P. Audel's Domestic Compact Auto                Glenn, H. T. Glenn's New Auto Repair Manual. Phil-
+  Repair Manual. lst ed. Indianapolis: T. Audel, 1963.            adelphia: Chilton Books, 1965.
+Automobile Trouble Shooter. 5th ed. New York: Motor             Graham, Frank Duncan. Audel's filew Automobile Guide
+  Book Dept. 1960.                                               for Mechanics, Operators, and Servicemen. New York:
+Automotive Electrical Systems. Detroit: Automotive Elec-          T. Audel, 1963.
+  trical Association, 1967.                                     Smith, Phillip Hubert. Tuning for Speed and Tuning for
+Automotive Fuel System. Detroit: Automotive Elec-                 Economy. Rev. ed. Cambridge, Mass.: R. Bentley,
+  trical Association, 1967.                                       1962.
+Basic Hand Tools. NavPers 10085A. Washington,                   Sun Tune-up Handbook. Chicago: Sun Electric Corp.,
+  D.C. : Government Printing Office, 1963.                        1968.
+Blanchard, Harold Frederick and Ritchen, Ralph.                 Venk, Ernest, Billiet, Walter E., and Alley, Jr.,
+  Auto Engines and Electrical Systems. 3d ed. New York:           Walter V., Automotive Suspensions, Steering, Alignment,
+  Motor Book Dept., 1963.                                         and Brakes. Chicago: American Technical Society,
+Chilton's Flat Rate and Parts Manual. Philadelphia:               1962.
+  Chilton Books, 1965.                                          Venk, Ernest and Spicer, Edward. Automotive Main-
+Counterman's Handbook. Detroit: Automotive Electrical             tenance and Troubleshooting. Chicago: American
+  Association, 1967.                                              Technical Society, 1963.
+Crouse, W. H. Automotive Mechanics. New York:
+  McGraw-Hill Book Co., Inc., 1960.
+
+
+
+
+                                                           11
+                              Films
+
+       Title                                   Subject Matter
+ABC's OF HAND TOOLS                    Basic mechanics and engines.
+16 mm., sound, 33 minutes
+General Motors Corp..
+Film Library
+GM Building
+Detroit, Mich. 48202
+CASE OF THE SLIPPERY OIL               Basic mechanics and engines.
+16 mm., sound, 40 minutes
+Perfect Circle Corp.
+School Department
+Hagerstown, Ind. 47346
+COOLING SYSTEM                         Maintenance.
+16 mm., sound, 9 minutes
+Union Carbide Corp.
+270 Park Avenue
+New York, N.Y. 10017
+DIESEL STORY, THE                      History and comparison.
+16 mm., sound, 19 minutes
+Shell Oil Co.
+Flushing, N.Y. 11355
+FILL 'ER UP                            Basic mechanics and tune-up.
+16 mm, sound, 12 minutes
+DuPont De Nemours and Co.
+Wilmington, Del. 19898
+HANDLE WITH CARE                       Basic mechanics.
+16 mm., sound, 25 minutes
+General Motors Corp.
+Film Library
+GM Building
+Detroit, Mich. 48202
+INTRODUCTION TO THE HEAT ENGINE        History and engines.
+16 mm., sound, 23 minutes
+Shell Oil Co.
+Flushing, N.Y. 11355
+LET 'ER ROLL                           Basic mechanics.
+16 mm., sound, 50 minutes
+Timken Roller Bearing Co.
+1835 Dueber Avenue S.W.
+Canton, Ohio 44706
+LEVEL AGE                              Transmissions.
+16 mm., sound, 21 minutes
+Shell Oil Co.
+Flushing, N.Y. 11355
+
+                                  12
+     Title                                         Subject Matter
+LUBRICATION.                            Basic mechanics and engines.
+16 mm., sound, 30 minutes
+Bureau of Mines
+Graphic Services                                                       2
+480 Forbes Avenue
+Pittsburgh, Pa. 15219
+ROUGE, THE                              History.
+16 mm., sound, 20 minutes
+Ford Motor Co.
+Ford Film Library
+Dearborn, Mich. 48121
+SECRET DOOR, THE                        Basic mechanics.
+16 mm., sound, 22 minutes
+Ford Motor Co.
+Ford Film Library
+Dearborn, Mich. 48121
+SECURITY CLEARANCE                      Brake training.
+16 mm., sound-silent, 21 minutes
+Modern Talking Picture Service
+3 East 54th Street
+New York, N.Y. 10022
+SPARK IN TIME ON THE FIRING LINE        Tune-up.
+16 mm., sound, 22 minutes
+Champion Spark Plug Co.
+900 Upton Avenue
+Toledo, Ohio 43607
+STORY OF THE MODERN SPARK PLUG          Tune-up.
+16 mm., sound, 27 minutes
+Champion Spark Plug Co.
+900 Upton Avenue
+Toledo, Ohio 43607
+WHAT MAKES IT GO                        Basic mechanics.
+16 mm., sound, 14 minutes
+Modern Talking Picture Service
+3 East 54th Street
+New York, N.Y. 10022
+
+
+
+
+                                                                           t
+
+
+
+
+                                   13
+                                                        Appendixes
+
+                                                              Appendix A
+
+                                             SUGGESTED LIST OF MACHINES
+
+        Quantity                                                  Description                                   Estimated cost1
+1 .   . .. .                   Aligning station, front end, complete with accessories                              $3, 250. 00
+1. ..          ......          Aiming machine, head light.2                                                             17. 50
+1. ...         . .             Lathe, for turning starter and generator armatures.2                                    120. 00
+1                              Compressor, air, 5 h.p., 26 cu. ft. displacement capacity, opreating pressure-          985. 00
+                                 150 psi.
+1. ...                     .   Arbor Press, hydraulic, 25-ton capacity.2                                               325. 00
+2. .                 . .       Chargers, battery, selenium rectifier type, complete with automatic charge              390. 00
+                                 control.2
+1                     Grinder, brake lining                                                                            255. 00
+1. .       .....      Lathe, brake drum, with brake drum micrometer.2                                                   875. 00
+1                     Relining machine, brake, complete with combination reviter and grinder.2. . . .                   200. 00
+1                     Drill press, chuck capacity W1.2                                                                  450. 00
+1. .                  Honing machine, electric, complete with attachments for honing up to 2%"                       1, 129. 00
+                        I. D. hone.2
+2                     Meters, generator and regulator testing.2                                                        240. 00
+1                     Lathe, bench type, 9" swing, back geared with % h.p. motor?                                       550.00
+1.             ...... Distributor tester, portable type complete for static and dynamic tests.2. . ...                  735. 00
+1.                    Tester, motor analyzer, complete with accessories.2                                            1, 360. 00
+1.                    Cleaner and tester, spark plug                                                                     67. 00
+1.                    Refacer, valve, complete                                                                          537. 00
+1.                    Grinder, valve seat, complete.2                                                                   247. 00
+
+       1 Costs in appendixes A, B, C, D, and E were estimated during 1966.
+       2 Portable machines.
+
+
+
+
+                                                                     14
+                                                          Appendix B
+
+                                            SUGGESTED LIST OF TOOLS
+                                                                                                        Estimated
+                                                              Description                                 cost I
+          Quantity .
+
+                          Detector, leA, for testing air conditioning systems..                            $125. 00
+1
+
+                          Hydrometer, battery...                                                              2. 50
+1
+
+2                         Syringes and water containers, battery                                                   3.00
+                          Voltmeters, battery, complete with resistance load test                              20. 00
+2
+                          Drill set, twist, w to %" by 64                                                      38. 00
+1
+                                                                                                               80. 00
+10 doz .                  Files, assorted
+                           Hydrometers, 1 for storage battery, 1 for radiator coolant                          16. 00
+2.
+                           Pullers, bearing and gear, universal..                                              47.00
+2
+                           Calipers, one inside, one outside, 6" capacity                                      10.00
+2 pr
+                           Tool kit, carburetor                                                               170.00
+1
+                                                                                                 3///         143. 00
+1                          Tap and die set, complete to cut any size (N C. or N.F.) from Y411 to /4
+                           Tool, flaring, %is" to %" O.D. tubing                                                7.50
+1
+                           Gauge, brake shoe and drum..                                                        20.00
+1
+                           Gauges, automotive tire, 5 to 45 lbs                                                 4.50
+2
+                           Gauge, screw pitch. 9 to 40 threads per inch, for 60-degree threads                     3. 15
+1
+
+                           Hammer, sledge
+                                                                                                                6.50
+1
+                           Micrometer, inside, set complete to measure holes from 2" to 8"                     27.50
+1
+                           Micrometers, outside, sizes 0-1", 1-2", 2-3", 3-4"                                  80. 00
+4
+                           Compressors, piston ring, universal type                                                 7.00
+2
+                           Cleaners, ring groove                                                                   16.00
+4
+                           Rules, steel, 6" long with "T" clip                                                      7.00
+4
+                           Rules, steel, 12" long                                                                   4.00
+4
+                           Soldering iron, 300-watt .                                                              13.00
+1
+                           Soldering gun, 250 - watt..                                                             12.00
+1
+                           Square, combination, 12"                                                                 2.50
+1
+                           Taps and dies, machine screw, from 4-40 N.C. to %-20 N.F                                12.00
+1 set
+                           Wrenches, adjustable, one each, 4", 6", 10", and 12"                                    16.00
+I set.
+                           Wrenches, spanner, set of 3, capacity %" to 43;"                                        10. 00
+I set
+                           Wrenches, electrical, set of 9, 1%4" to Na"                                             15. 00
+2 sets
+                                                                                                                   20. 00
+1 set                      Wrenches, metric
+                           Drills, portable, electric, %" capacity                                                 60.00
+2
+                           Drill, portable, electric %" capacity                                               50. 00
+    1
+                           Lights, timing                                                                     120.00
+3
+                           Compressors, valve spring.                                                              30.00
+2.
+                           Wrench, torque, r drive with swivel head                                                15.00
+    1
+                           Drag link and shock arm tool .                                                           3.50
+    1
+                                                                                                                    7.50
+2                          Pliers, brake spring
+        See footnote at end of table.
+
+
+
+
+                                                                 15
+     Quantity                                              Description                                   Estimated costi
+
+20                  Individual hand tool sets to be checked out to students for entire class session..      $4, 300. 00
+                      Sixty-one-piece set consisting of:
+                        %" square drive socket wrench set
+                        6-piece phillips screw driver set
+                        6-piece standard schank screw driver set
+                         4 pairs of pliers (5" ignition, 6" common, 7" diagonal side cutting,
+                            6" needle nose)
+                         12-piece punch and chisel set
+                         7-piece pin punch set
+                         17-piece Y4" square drive socket set
+                         14-piece combination open-end box-end wrench set (%'' to 1%" openings)
+                            putty knife, air blow gun
+                         12" sheet metal snip with 2 %" jaw
+                         thickness gauge set
+                         3 hammers (1 ball pein, 1 3 -lb. sledge, 1 plastic tip)
+                         hacksaw frame and 6 blades
+                         spark plug gauge (8-wire sizes)
+     1 Costs in appendixes A, B, C, D, and E were estimated during 1966.
+
+
+
+
+                                                              16
+                                                         Appendix C
+
+                                            SUGGESTED LIST OF EQUIPMENT
+
+         Quantity                                            Description                                 Estimated cost'
+
+4                       Hoses, air, 25' length, X" I.D                                                          $25.00
+7                       Benches, work-metal 6' x 30"                                                            630.00
+1                       Dispenser, hydraulic brake fluid, with controls for pressurizing system 2                60.00
+1                       Charging station, complete with pump for charging air conditioners 2                    198.00
+4                       Hoses, %" I.D. x 25' long, for water                                                     32.00
+4                       Pans, for draining water and oil..                                                       12.00
+4                       Chucks, air line                                                                         10.00
+1                       Jig, aligning, connecting rod                                                           150.00
+2                       Carriers, battery                                                                          2.50
+1                       Bonder and remover, brake lining                                                          42.00
+2                       Cans, gasoline storage                                                                     6.00
+4                       Cans, waste, complete with spring lift cover                                              28.00
+1                       Welding unit, oxyacetylene, complete with hand truck, pressure regulators,               175.00
+                           25' of hose, welding torch and 8 tips, cutting attachment, welding goggles,
+                           and igniter.2
+4                       Extinguisher, fire, approved by local code                                              200.00
+2                       Cabinets, steel, 36" x 18" x 72"                                                        300.00
+1                       Cabinet, first aid container complete                                                      6.00
+1                       Can, oil measuring, 2-qt. with spout                                                       5.00
+4                       Cans, oil, 5-oz. capacity                                                                  6.00
+8                       Clamps, "C," 6" capacity                                                                  52.00
+10                      Lockers, personnel, steel, double compartment, 6' high, 18" deep, 2' long                400.00
+1                       Stone, oil                                                                                  1.00
+1                       Hoists, chain, 3-ton capacity. complete with overhead monorail system                    370.00
+1                        Cleaner, steam                                                                          584.00
+12                       Creepers, with universal casters                                                         52.00
+1                       Degreaser, complete with drum, filter, and circulating pump                              240.00
+4                       Jacks, hydraulic, floor                                                                  740.00
+1                       Jack, transmission, mechanical                                                           185.00
+1                        Ammeter, 30-ampere capacity, fused to protect movement 2                                  22.00
+                         Voltmeters, 16-volt scale, fused to protect movement 2                                    22.00
+12
+12                       Stands, automobile, 2-ton capacity 2                                                    180.00
+2                        Stands, engine rebuilding, supported to swing through 360° 2                            240.00
+    1                    Tester, coil and capacitor 2                                                            130.00
+    10                   Lights, extension, with rubber handle, light guard, and 50' cord                          40.00
+24                       Covers, fender, sponge rubber back                                                       120.00
+2                        Indicators, dial                                                                          45.00
+    1                    Gauge, compression                                                                        15.00
+    1                    Magnet, permanent, bar type, %" x 1" x 6"                                                  5.00
+    1                    Scale, brush and point spring tension, 0-48 oz                                             8.00
+    1                    Scale, steering gear checking, 0-8 lbs                                                     8.00
+    1                     Dispenser, chassis grease 2                                                             185.00
+    1                     Dispenser, differential grease 2                                                         75.00
+           See footnotes at end of table.
+
+                                                                 17
+        Quantity                                              Description                            Estimated cost I
+
+1                     Desk, instructor's, 30" x 60" top, 5 drawers                                         $120.00
+2                     Cabinets, file, 4-drawer, legal size                                                  140.00
+1                     Chair, office                                                                           60.00
+1                     Table, demonstration 30" x 62" top                                                      60.00
+4.                    Ignition sets                                                                           20.00
+20.                   Chairs, folding tablet arm                                                             280.00
+1                     Projector, motion picture, 16 mm., sound                                               280.00
+1..      . ........ Projector, still, for slides                                                             135.00
+1                     Projector, overhead                                                                    120.00
+1                     Screen, movie, 6' x 8' size.                                                            56.00
+1                     Stand, tripod, for showing charts                                                       27.00
+20                    Chests, mechanics', 6-drawer, with top opening                                         700.00
+20                    Cabinets, roller, with 3 drawers and storage compartment heavy duty casters,           900.00
+                        cylinder lock.
+
+     1 Coats in appendixes A, B, C, D, and E were estimated during 1966.
+     2 Portable equipment.
+
+
+
+
+                                                                 18
+                                                 Appendix D
+
+                    SUGGESTED LIST OF EXPENDABLE MATERIALS
+                                                      Description                                      Estimated cost
+     Quantity
+                                                                                                            $10. 00
+Assortment        Shim stock assortment, .002" to .015"
+                                                                                                             40.00
+110 gal           Solvent, cleaning
+                                                                                                             36.00
+30 gal            Oil, lubricating
+                                                                                                             18.00
+10 gal            Grease, chassis
+                                                                                                              4.00
+Assortment. . . . Compound, valve grinding                                                                   45.00
+2 gal             Fluid, hydraulic brake
+                                                                                                               2. 90
+2 lbs             Solder, wire, Ys" diameter resin core
+                                                                                                               2. 90
+5 lbs             Solder, wire, Ys" diameter acid core
+                  Allowance for small parts such as nuts, bolts, machine screws, cotter pins, spark         500.00
+                    plugs, light bulbs, etc.
+                  Allowance for periodic overhead charges such as wiping towel service, tanks               400.00
+                    of oxygen and acetylene, transparencies, film rental, slide film purchases, etc.
+
+
+
+
+                                                           19
+                                                       Appendix E
+                          SUGGESTED LIST OF SETS FOR SERVICING
+
+      Quantity                                              Description                        Estimated costi
+
+20                  Carburetors (used)                                                              $100. 00
+20                  Brake assemblies, 10 front, 10 rear (used)                                        50. 00
+4                   Differentials (used)                                                             160. 00
+6                   Distributors (used)                                                                18.00
+8                   Engines (used)                                                                    600.00
+4                   Pumps, fuel (used)                                                                  12. 00
+4                   Generators, direct current, 6- and 12-volt (used)                                   16. 00
+4                   Alternators, complete with rectifier and regulator (used) .                        60. 00
+6                   Coils, ignition (used)                                                              18. 00
+20                  Capacitors, distributor (used)                                                      10. 00
+6                   Regulators, voltage (used) .                                                       36. 00
+4                   Motors, starting, complete with starting switch                                    40.00
+4                   Gear assemblies, steering, 3 manual types and 1 power type complete with          100. 00
+                      pump and connecting lines (used).
+6                   Transmissions, 4 standard shift and 2 automatic (used)                            300. 00
+
+     1 Costs in appendixes A, B, C, D, and E were estimated during 1966:
+
+
+
+
+                                                              20
+                                                    Appendix F
+                       SUGGESTED TRAINING FACILITY
+
+  BOOK                                                               11113E11211:11211:10M1
+ CO THILVA                       SPARE PARTS                         ra        1
+
+         L_I                                                                       BENCH         Ia1
+                                                                     El                          El
+               Dz           4' DOORWAY                               El            REST          El
+                                                                          LI       ROOM
+                                                                     El   2w       ier X 22'
+   Erryclii                           TOOL AND
+                                      PARTS ROOM
+                                                                     o    sp
+
+
+   01-E6D§                                 16' X 22'
+       ElD =.
+    0 .0 D
+   CHALKBOARD
+ ---6           LiCHlo co
+
+                                                                          DEGREASER '019_
+                                            I- rZ
+                                            CC D
+                                            Cl. 0
+
+
+
+      DASHED LINES                                                                             QI
+     INDICATE PAINT LINESI law
+     UNLESS OTHERWISE      til I
+      IDENTIFIED           [Etc                                 us
+                                      4                         Z
+         WATER
+         CONNECTIONS - 2     I         0 SJ
+                                                                O
+                                                                z                              (111)
+
+
+
+                                                                O
+                                                                Ir
+
+
+
+
+                                                        co
+                                                    G
+
+                                                        O
+
+
+
+
+     romi. .    .
+           WATER-
+                                 4' WALL
+                                                             1 DROP CURTAIN
+           CONNECTIONS - 2
+                                  I
+
+                                 us
+                                                    b
+                                      tv            0
+         TWIN POST LIFT          Ft
+                                 20
+                                           L                         TWIN POST LIFT
+                                                                                   STEAM
+                                  o                                                CLEANER
+                                                                                                  )K
+                        DRILL tRESSD
+
+
+
+
+                                             48'- 0"
+
+
+
+(1) FLOOR DRAIN                                0 110 VOLT OUTLET W/ GNO.
+   (GUTTER TYPE OPT.)
+                                                    EXHAUST OPENING
+      UNITED STATES
+GOVERNMENT PRINTING OFFICE
+   DIVISION OF PUBLIC DOCUMENTS
+ WASHINGTON, D.C. 20402
+                                                     POSTAGE AND FEES PAID
+     OFFICIAL BUSINESS                         U.S. GOVERNMENT PRINTING OFF WE
+
+
+
+
+U.S. DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE / Office of Education
+                                                                        OE-87041
+

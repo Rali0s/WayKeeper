@@ -1,0 +1,290 @@
+                                            Topographic Map
+                                                    Symbols
+What is a Topographic Map?
+                                            Reading Topographic Maps
+A map is a representation of the Earth,
+or part of it. The distinctive character-   Interpreting the colored lines, areas, and other symbols is the first
+istic of a topographic map is that the      step in using topographic maps. Features are shown as points, lines,
+shape of the Earth’s surface is shown       or areas, depending on their size and extent. For example, individual
+by contour lines. Contours are imag-        houses may be shown as small black squares. For larger buildings,
+inary lines that join points of equal       the actual shapes are mapped. In densely built-up areas, most indi-
+elevation on the surface of the land        vidual buildings are omitted and an area tint is shown. On some
+above or below a reference surface,         maps, post offices, churches, city halls, and other landmark buildings
+such as mean sea level. Contours            are shown within the tinted area.
+make it possible to measure the             The first features usually noticed on a topographic map are the
+height of mountains, depths of              area features, such as vegetation (green), water (blue), and densely
+the ocean bottom, and steep-                built-up areas (gray or red).
+ness of slopes.
+                                            Many features are shown by lines that may be straight, curved,
+A topographic map shows                     solid, dashed, dotted, or in any combination. The colors of the lines
+more than contours. The                     usually indicate similar classes of information: topographic contours
+map includes symbols                        (brown); lakes, streams, irrigation ditches, and other hydrographic
+that represent such fea-                    features (blue); land grids and important roads (red); and other roads
+                                            and trails, railroads, boundaries, and other cultural features (black).
+tures as streets, buildings,                At one time, purple was used as a revision color to show all feature
+streams, and vegetation.                    changes. Currently, purple is not used in our revision program, but
+These symbols are con-                      purple features are still present on many existing maps.
+stantly refined to better
+relate to the features they                 Various point symbols are used to depict features such as buildings,
+represent, improve the                      campgrounds, springs, water tanks, mines, survey control points,
+appearance or readability of                and wells. Names of places and features are shown in a color cor-
+the map, or reduce production               responding to the type of feature. Many features are identified by
+cost.                                       labels, such as “Substation” or “Golf Course.”
+
+                                            Topographic contours are shown in brown by lines of different
+Consequently, within the same               widths. Each contour is a line of equal elevation; therefore, contours
+series, maps may have slightly dif-         never cross. They show the general shape of the terrain. To help
+ferent symbols for the same feature.        the user determine elevations, index contours are wider. Elevation
+Examples of symbols that have               values are printed in several places along these lines. The narrower
+changed include built-up areas, roads,      intermediate and supplementary contours found between the index
+intermittent drainage, and some letter-     contours help to show more details of the land surface shape. Con-
+ing styles. On one type of large-scale      tours that are very close together represent steep slopes. Widely
+topographic map, called provisional,        spaced contours or an absence of contours means that the ground
+                                            slope is relatively level. The elevation difference between adjacent
+some symbols and lettering are hand-        contour lines, called the contour interval, is selected to best show
+drawn.                                      the general shape of the terrain. A map of a relatively flat area may
+                                            have a contour interval of 10 feet or less. Maps in mountainous
+                                            areas may have contour intervals of 100 feet or more. The contour
+                                            interval is printed in the margin of each U.S. Geological Survey
+                                            (USGS) map.
+
+                                            Bathymetric contours are shown in blue or black, depending on
+                                            their location. They show the shape and slope of the ocean bottom
+                                            surface. The bathymetric contour interval may vary on each map and
+                                            is explained in the map margin.
+  U.S. Department of the Interior
+  U.S. Geological Survey
+BATHYMETRIC FEATURES                                          COASTAL FEATURES
+  Area exposed at mean low tide; sounding                        Foreshore flat
+  datum line***
+
+  Channel***                                                     Coral or rock reef
+
+  Sunken rock***
+                                                                 Rock, bare or awash; dangerous
+BOUNDARIES                                                       to navigation
+  National                                                       Group of rocks, bare or awash
+  State or territorial
+                                                                 Exposed wreck
+  County or equivalent
+                                                                 Depth curve; sounding                                      18
+  Civil township or equivalent                                                                                                      23
+
+
+  Incorporated city or equivalent                                Breakwater, pier, jetty, or wharf
+
+  Federally administered park,                                   Seawall
+  reservation, or monument (external)
+  Federally administered park,                                   Oil or gas well; platform
+  reservation, or monument (internal)
+                                                              CONTOURS
+  State forest, park, reservation, or
+                                                              Topographic
+  monument and large county park
+                                                                 Index                                                    6000
+  Forest Service administrative area*
+  Forest Service ranger district*                                   Approximate or indefinite
+  National Forest System land status,                            Intermediate
+  Forest Service lands*
+                                                                    Approximate or indefinite
+  National Forest System land status,
+  non-Forest Service lands*                                      Supplementary
+  Small park (county or city)
+                                                                 Depression
+BUILDINGS AND RELATED FEATURES
+  Building                                                       Cut
+  School; house of worship
+  Athletic field                                                 Fill
+
+  Built-up area                                                  Continental divide
+                                                              Bathymetric
+  Forest headquarters*
+                                                                 Index***
+  Ranger district office*
+                                                                 Intermediate***
+  Guard station or work center*
+                                                                 Index primary***
+  Racetrack or raceway
+                                                                 Primary***
+  Airport, paved landing strip,
+  runway, taxiway, or apron                                      Supplementary***
+
+                                                              CONTROL DATA AND MONUMENTS
+  Unpaved landing strip                                         Principal point**
+  Well (other than water), windmill or wind generator           U.S. mineral or location monument                         USMM 438
+
+                                                                                                                                 Mile
+  Tanks                                                         River mileage marker                                             69
+
+  Covered reservoir                                           Boundary monument
+                                                                 Third-order or better elevation,        BM
+  Gaging station                                                 with tablet                                      9134
+
+  Located or landmark object (feature as labeled)                Third-order or better elevation,
+                                                                                                                                  5628
+                                                                 recoverable mark, no tablet
+  Boat ramp or boat access*                                      With number and elevation                                 67
+                                                                                                                                  4567
+
+  Roadside park or rest area                                  Horizontal control
+                                                                 Third-order or better, permanent mark            Neace
+  Picnic area                                                    With third-order or better elevation      BM
+                                                                                                                    52
+  Campground                                                     With checked spot elevation                                       1012
+
+
+  Winter recreation area*                                        Coincident with found section corner    Cactus
+
+  Cemetery                                              Cem      Unmonumented**
+CONTROL DATA AND MONUMENTS – continued                                 PROJECTION AND GRIDS
+Vertical control
+                                                                          Neatline                                           39˚15’
+   Third-order or better elevation, with tablet         BM
+                                                               5280                                                    90˚37’30”
+   Third-order or better elevation,                                       Graticule tick                                           55’
+                                                                528
+   recoverable mark, no tablet
+                                                                          Graticule intersection
+   Bench mark coincident with found                      BM
+   section corner                                              5280
+                                                                          Datum shift tick
+   Spot elevation                                               7523   State plane coordinate systems
+GLACIERS AND PERMANENT SNOWFIELDS                                         Primary zone tick                         640 000 FEET
+
+   Contours and limits                                                    Secondary zone tick                       247 500 METERS
+                                                                          Tertiary zone tick                        260 000 FEET
+   Formlines
+                                                                          Quaternary zone tick                      98 500 METERS
+   Glacial advance
+                                                                          Quintary zone tick                        320 000 FEET
+   Glacial retreat                                                     Universal transverse metcator grid
+
+LAND SURVEYS                                                              UTM grid (full grid)
+                                                                                                                             273
+Public land survey system
+   Range or Township line                                                 UTM grid ticks*                                     269
+
+    Location approximate                                               RAILROADS AND RELATED FEATURES
+    Location doubtful                                                     Standard gauge railroad, single track
+    Protracted                                                            Standard gauge railroad, multiple track
+    Protracted (AK 1:63,360-scale)
+                                                                          Narrow gauge railroad, single track
+    Range or Township labels                      R1E T2N R3W T4S
+                                                                          Narrow gauge railroad, multiple track
+   Section line
+    Location approximate                                                  Railroad siding
+    Location doubtful                                                     Railroad in highway
+    Protracted                                                            Railroad in road
+                                                                          Railroad in light duty road*
+    Protracted (AK 1:63,360-scale)
+    Section numbers                                1 - 36     1 - 36      Railroad underpass; overpass
+   Found section corner                                                   Railroad bridge; drawbridge
+   Found closing corner                                                   Railroad tunnel
+                                                                WC
+    Witness corner
+                                                                          Railroad yard
+   Meander corner                                              MC
+
+
+
+    Weak corner*                                                          Railroad turntable; roundhouse
+
+Other land surveys                                                     RIVERS, LAKES, AND CANALS
+   Range or Township line                                                 Perennial stream
+   Section line                                                           Perennial river
+Land grant, mining claim, donation land
+                                                                          Intermittent stream
+claim, or tract
+Land grant, homestead, mineral, or
+                                                                          Intermittent river
+other special survey monument
+Fence or field lines
+                                                                          Disappearing stream
+MARINE SHORELINES
+                                                                          Falls, small
+   Shoreline
+   Apparent (edge of vegetation)***                                       Falls, large
+   Indefinite or unsurveyed                                               Rapids, small
+MINES AND CAVES                                                           Rapids, large
+   Quarry or open pit mine
+   Gravel, sand, clay, or borrow pit
+   Mine tunnel or cave entrance                                           Masonry dam
+   Mine shaft
+   Prospect
+   Tailings                                                               Dam with lock
+   Mine dump
+   Former disposal site or mine                                           Dam carrying road
+RIVERS, LAKES, AND CANALS – continued                                     SUBMERGED AREAS AND BOGS
+  Perennial lake/pond                                                      Marsh or swamp
+
+  Intermittent lake/pond                                                   Submerged marsh or swamp
+
+  Dry lake/pond                                                            Wooded marsh or swamp
+  Narrow wash
+                                                                           Submerged wooded marsh or swamp
+  Wide wash
+  Canal, flume, or aqueduct with lock
+  Elevated aqueduct, flume, or conduit
+                                                                           Land subject to inundation
+  Aqueduct tunnel
+  Water well, geyser, fumarole, or mud pot
+  Spring or seep
+                                                                          SURFACE FEATURES
+ROADS AND RELATED FEATURES
+Please note: Roads on Provisional-edition maps are not classified          Levee
+as primary, secondary, or light duty. These roads are all classified as
+improved roads and are symbolized the same as light duty roads.            Sand or mud
+  Primary highway
+                                                                           Disturbed surface
+  Secondary highway
+  Light duty road                                                          Gravel beach or glacial moraine
+  Light duty road, paved*
+  Light duty road, gravel*
+  Light duty road, dirt*                                                   Tailings pond
+  Light duty road, unspecified*
+                                                                          TRANSMISSION LINES AND PIPELINES
+  Unimproved road
+  Unimproved road*                                                         Power transmission line;
+  4WD road                                                                 pole; tower
+  4WD road*                                                                 Telephone line
+  Trail
+                                                                           Aboveground pipeline
+  Highway or road with median strip
+                                                                           Underground pipeline
+  Highway or road under construction
+                                                                          VEGETATION
+  Highway or road underpass; overpass                                      Woodland
+
+  Highway or road bridge; drawbridge                                       Shrubland
+  Highway or road tunnel                                                   Orchard
+  Road block, berm, or barrier*
+                                                                           Vineyard
+  Gate on road*
+                                                                      T    Mangrove
+   Trailhead*                                                         H
+
+
+
+   * USGS-USDA Forest Service Single-Edition                                ** Provisional-Edition maps only.
+   Quadrangle maps only.                                                    Provisional-edition maps were established to expedite
+   In August 1993, the U.S. Geological Survey and the                       completion of the remaining large-scale topographic
+   U.S. Department of Agriculture’s Forest Service signed                   quadrangles of the conterminous United States. They
+   an Interagency Agreement to begin a single-edition                       contain essentially the same level of information as the
+   joint mapping program. This agreement established the                    standard series maps. This series can be easily recognized
+   coordination for producing and maintaining single-edition                by the title “Provisional Edition” in the lower right-hand
+   primary series topographic maps for quadrangles containing               corner.
+   National Forest System lands. The joint mapping program
+   eliminates duplication of effort by the agencies and results
+   in a more frequent revision cycle for quadrangles containing             *** Topographic Bathymetric maps only.
+   National Forests. Maps are revised on the basis of jointly
+   developed standards and contain normal features mapped
+   by the USGS, as well as additional features required for effi-           Topographic Map Information
+   cient management of National Forest System lands. Single-                For more information about topographic maps
+   edition maps look slightly different but meet the content,               produced by the USGS, please call:
+   accuracy, and quality criteria of other USGS products.                   1-888-ASK-USGS or visit us at http://ask.usgs.gov/
+
+
+
+
+   Printed on recycled paper
+

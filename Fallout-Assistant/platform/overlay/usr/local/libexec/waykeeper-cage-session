@@ -1,0 +1,16 @@
+#!/bin/sh
+set -eu
+export OFFGRID_HOME="${OFFGRID_HOME:-/opt/waykeeper}"
+export OFFGRID_STATE_DIR="${OFFGRID_STATE_DIR:-/var/lib/waykeeper}"
+export OFFGRID_COLOR_MODE="${OFFGRID_COLOR_MODE:-truecolor}"
+settings="$OFFGRID_STATE_DIR/settings.ini"
+touch_keyboard=1
+if [ -r "$settings" ]; then
+    configured="$(sed -n 's/^touch_keyboard=//p' "$settings" | tail -n 1)"
+    if [ -n "$configured" ]; then touch_keyboard="$configured"; fi
+fi
+if [ "$touch_keyboard" = 1 ] && command -v wvkbd-mobintl >/dev/null 2>&1; then
+    wvkbd-mobintl -L 240 >/dev/null 2>&1 &
+fi
+exec foot --config=/etc/waykeeper/foot.ini --title=WAYKEEPER /usr/local/libexec/waykeeper-tty
+

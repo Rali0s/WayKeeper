@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#173d35"/></pattern><marker id="m" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#f5b942"/></marker><style>.o{fill:none;stroke:#62e68a;stroke-width:2.5}.a{fill:none;stroke:#f5b942;stroke-width:2.5}.t{fill:#e7f7ec;font:18px monospace}.s{fill:#9fc8b0;font:14px monospace}.h{fill:#f5b942;font:bold 28px monospace}.d{fill:none;stroke:#f5b942;stroke-width:1.5;marker-start:url(#m);marker-end:url(#m)}</style></defs>
+  <rect width="1200" height="800" fill="#071814"/><rect width="1200" height="800" fill="url(#g)"/>
+  <text x="45" y="52" class="h">WAYKEEPER WK-W1 // DETACHABLE FOREARM COMPUTER</text>
+  <text x="45" y="78" class="s">FOREARM LOAD-BEARING BRACE // NOT A WRISTWATCH // QUICK RELEASE REQUIRED</text>
+  <rect x="90" y="140" width="620" height="340" rx="65" class="o"/>
+  <rect x="180" y="185" width="390" height="220" rx="14" class="a"/><text x="287" y="305" class="t">5-IN RUGGED LCD</text>
+  <rect x="590" y="190" width="80" height="100" rx="8" class="o"/><text x="605" y="225" class="s">3 W</text><text x="601" y="248" class="s">SOLAR</text><text x="601" y="271" class="s">TRICKLE</text>
+  <rect x="590" y="315" width="80" height="55" rx="8" class="a"/><text x="608" y="349" class="s">KEYS</text>
+  <path d="M120 170V450M145 155V465" class="a"/><text x="100" y="510" class="s">OUTER FINNED THERMAL SPINE</text>
+  <line x1="90" y1="535" x2="710" y2="535" class="d"/><text x="350" y="565" class="t">190 MM</text>
+  <line x1="55" y1="140" x2="55" y2="480" class="d"/><text x="30" y="355" class="t" transform="rotate(-90 30 355)">105 MM</text>
+  <text x="780" y="140" class="h">INTERNAL STACK</text>
+  <rect x="790" y="180" width="310" height="55" rx="8" class="a"/><text x="840" y="215" class="t">POLYCARBONATE LENS</text>
+  <rect x="805" y="255" width="280" height="55" rx="8" class="o"/><text x="865" y="290" class="t">5-IN DISPLAY</text>
+  <rect x="820" y="330" width="250" height="55" rx="8" class="o"/><text x="853" y="365" class="t">CUSTOM CARRIER</text>
+  <rect x="835" y="405" width="105" height="85" rx="8" class="a"/><rect x="955" y="405" width="105" height="85" rx="8" class="a"/>
+  <text x="847" y="445" class="s">2 TB</text><text x="847" y="465" class="s">NVMe</text><text x="967" y="445" class="s">2 TB</text><text x="967" y="465" class="s">NVMe</text>
+  <rect x="850" y="515" width="195" height="65" rx="8" class="o"/><text x="892" y="555" class="t">60 Wh 21700</text>
+  <text x="780" y="625" class="h">51 Wh USABLE</text>
+  <text x="780" y="660" class="t">SCREEN OFF .... 5.7 H</text><text x="780" y="693" class="t">READ / NAV .... 3.6 H</text><text x="780" y="726" class="t">LOCAL AI ...... 2.1 H</text>
+  <text x="90" y="650" class="h">BRACE</text><text x="90" y="687" class="t">4-POINT FOREARM LOAD PATH</text><text x="90" y="720" class="t">ONE-PULL MECHANICAL RELEASE</text><text x="90" y="753" class="s">TARGET MASS 0.85-1.15 KG // ERGONOMIC TEST FIRST</text>
+</svg>

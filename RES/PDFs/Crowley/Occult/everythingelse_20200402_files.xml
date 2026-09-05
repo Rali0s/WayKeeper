@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="everythingelse_20200402_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>293f099bd99488e8d770b9c282ae9909</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="everythingelse_20200402_meta.sqlite" source="original">
+    <mtime>1674683778</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>29a8084928fa0db21cfbe27ca849130c</md5>
+    <crc32>b7856569</crc32>
+    <sha1>d490701f66aab72fa64e4e10c994724760bfc2d3</sha1>
+  </file>
+  <file name="everythingelse_20200402_meta.xml" source="original">
+    <mtime>1613334988</mtime>
+    <size>1055</size>
+    <format>Metadata</format>
+    <md5>f312c57d567ee4cf315225d3595dbc07</md5>
+    <crc32>c8c4040d</crc32>
+    <sha1>cfa9b1500a9b4b98022ec50f4e691b2a79c793f0</sha1>
+  </file>
+</files>

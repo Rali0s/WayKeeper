@@ -1,0 +1,15 @@
+id	title	format	source_url	status	redistribution_status	trust_tier	linked_records
+src-1	Related single-electrode patent figures	HTML/PDF patent record	https://patents.google.com/patent/US4742278A/en	external-linked	public-record-link	1	PVM12,PFS20,PFS2K,DNE10,DNE1K,STIK
+src-2	Related single-electrode patent figures	HTML/PDF patent record	https://patents.google.com/patent/US5089745A/en	external-linked	public-record-link	1	PVM400,PVM300,DPL20,DPL2K
+src-3	Related cold-cathode patent figures	HTML/PDF patent record	https://patents.google.com/patent/US6724154B2/en	external-linked	public-record-link	1	NEONUL,NEON21
+src-4	Basic schematic filename located; original now missing	archive trace	https://web.archive.org/web/*/http://www.amazing1.com/download/PVM500BASICSCHEMATIC.pdf	trace-unverified	link-only-unverified-redistribution	4	PVM500
+src-5	Period article includes circuit drawings	periodical PDF	https://www.worldradiohistory.com/Archive-Radio-Electronics/80s/1988/Radio-Electronics-1988-03.pdf	external-linked	link-only-unverified-redistribution	2	PLASMA1,PTG1,PTG1K,PTG10
+src-6	Operational drawing withheld	metadata source	https://www.worldradiohistory.com/Archive-DX/Ham%20Radio/80s/Ham-Radio-198406.pdf	restricted-metadata	metadata-only	4	IOG3,HT9,PPF1,IPG5,PSP3,MFT1,INF1
+src-7	Instruction filename located; original availability unverified	archive trace	https://www.worldradiohistory.com/Archive-Poptronics/00s/02/PP-2002-06.pdf	trace-unverified	link-only-unverified-redistribution	4	NEONX8,PPP1,PPP10,COMBOX,COMBOP,GRA3,HOVER
+src-8	Operational drawing withheld	metadata source	https://www.worldradiohistory.com/Archive-Modern-Electronics/Modern-Electronics-1986-03.pdf	restricted-metadata	metadata-only	4	LC5,RUB3,MFT1K,INF1K,SNP20,GRA1
+src-9	Operational drawing withheld	metadata source	https://www.worldradiohistory.com/Archive-Poptronics/Experimenters-Handbook/Electronic-Hobbyist-Handbook-1989.pdf	restricted-metadata	metadata-only	4	LC7,RUB4,MFT3K,LIST10,TAT30,EML1
+src-10	Operational drawing withheld	metadata source	https://www.worldradiohistory.com/CANADA/Technology-Today/Electronics-Today-1985-10.pdf	restricted-metadata	metadata-only	4	LRG3
+src-11	Archived worksheet locator	archived PDF locator	https://web.archive.org/web/*/http://www.amazing1.com/download/COLMIN1.pdf	external-linked	link-only-unverified-redistribution	3	COLMIN1
+src-12	Operational drawing withheld	metadata source	https://www.worldradiohistory.com/Archive-Radio-Electronics/Specials/Radio-Electronics-Special-Projects-1982-Summer.pdf	restricted-metadata	metadata-only	4	HUG1
+src-13	Operational drawing withheld	metadata source	https://electronicsandbooks.com/edt/manual/Magazine/R/Radio%20Electronics%20US/90s/1998/EN-1998-06%20c20150705%20%5B112%5D.pdf	restricted-metadata	metadata-only	4	HEP1,HEP1K,HEP10,HEP3,HEP3K,HEP30,HEPCAP
+src-14	Operational drawing withheld	metadata source	https://forum.mosfetkiller.de/viewtopic.php?start=30&t=69	restricted-metadata	metadata-only	4	EMP1,EMP1-D,EMP400IUINS,EMP400IUINS-D,CAP08-100KV,GAP150,GAP200,GAP400,HVOLT1,HVOLT1K,HVOLT10

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#173d35"/></pattern><marker id="m" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#f5b942"/></marker><style>.o{fill:none;stroke:#62e68a;stroke-width:3}.a{fill:none;stroke:#f5b942;stroke-width:3}.t{fill:#e7f7ec;font:18px monospace}.s{fill:#9fc8b0;font:14px monospace}.h{fill:#f5b942;font:bold 28px monospace}.c{fill:none;stroke:#f5b942;stroke-width:4;stroke-dasharray:8 6;marker-end:url(#m)}</style></defs>
+  <rect width="1200" height="900" fill="#071814"/><rect width="1200" height="900" fill="url(#g)"/>
+  <text x="45" y="52" class="h">WAYKEEPER WK-J1 // DISTRIBUTED JACKET BLUEPRINT</text>
+  <text x="45" y="78" class="s">TORSO CARRIES COMPUTE + BATTERY // FOREARM CARRIES DISPLAY + CONTROLS</text>
+  <circle cx="325" cy="155" r="55" class="o"/><path d="M245 225Q325 185 405 225L460 520L395 555L375 780H275L255 555L190 520Z" class="o"/>
+  <path d="M245 240L145 520L195 545L275 355M405 240L505 520L455 545L375 355" class="o"/>
+  <text x="270" y="825" class="t">FRONT</text>
+  <circle cx="825" cy="155" r="55" class="o"/><path d="M745 225Q825 185 905 225L960 520L895 555L875 780H775L755 555L690 520Z" class="o"/>
+  <path d="M745 240L645 520L695 545L775 355M905 240L1005 520L955 545L875 355" class="o"/>
+  <text x="770" y="825" class="t">BACK / SERVICE SIDE</text>
+  <rect x="740" y="245" width="170" height="105" rx="12" class="a"/><text x="765" y="285" class="t">7 W COMPUTE</text><text x="765" y="312" class="s">EXTERNAL FIN SPINE</text>
+  <rect x="755" y="505" width="140" height="80" rx="12" class="a"/><text x="780" y="538" class="t">128 Wh</text><text x="775" y="560" class="s">BELT BATTERY</text>
+  <path d="M825 350V505" class="c"/>
+  <path d="M825 350Q965 360 975 475" class="c"/>
+  <rect x="930" y="450" width="120" height="85" rx="10" class="a"/><text x="949" y="483" class="t">5-IN</text><text x="945" y="508" class="s">WRIST LCD</text>
+  <rect x="937" y="545" width="105" height="55" rx="8" class="o"/><text x="952" y="577" class="s">5-KEY HID</text>
+  <text x="80" y="655" class="h">HARNESS RULES</text>
+  <text x="80" y="695" class="t">01  REPLACEABLE SEAM CHANNELS</text><text x="80" y="728" class="t">02  BREAKAWAY AT SHOULDER + CUFF</text><text x="80" y="761" class="t">03  AIR GAP BETWEEN HEAT SINK + BODY</text>
+  <text x="700" y="655" class="h">128 Wh RUNTIME</text>
+  <text x="700" y="695" class="t">READ / NAV .... 7.8 H</text><text x="700" y="728" class="t">LOCAL AI ...... 4.5 H</text><text x="700" y="761" class="t">SCREEN OFF .... 12.0 H</text>
+  <text x="700" y="855" class="s">ELECTRONICS 1.4-2.0 KG DISTRIBUTED // WRIST 250-400 G TARGET</text>
+</svg>

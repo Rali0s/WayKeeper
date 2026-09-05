@@ -1,0 +1,1772 @@
+Table of Contents
+
+
+INTRODUCTION ............................................................................................................................................................................... 3
+OPEN POLLINATED VARIETIES & HYBRIDS: Know how to choose a variety that produces offspring like its parents..... 4
+ANNUALS & BIENNIALS: Know how long it will take for your crop to produce seed ............................................................. 4
+BOTANY VOCABULARY: Know some basic botanical terms..................................................................................................... 5
+INBREEDING AND OUTBREEDING: Know your crop’s mating system................................................................................... 5
+POLLINATION AND FERTILIZATION: Know how to promote a good seed set ...................................................................... 6
+ISOLATION, POPULATION SIZE AND ROGUING: Know how to maintain your crop’s genetics........................................ 7
+    Isolation methods............................................................................................................................................................................ 7
+    Population size ................................................................................................................................................................................ 8
+    Roguing ........................................................................................................................................................................................... 9
+SOIL AND CULTIVATION: Know the in-field needs of your seed crop ..................................................................................... 9
+    Soil preparation............................................................................................................................................................................... 9
+    Spacing............................................................................................................................................................................................ 9
+    Staking and Trellising .................................................................................................................................................................... 9
+    Managing disease ......................................................................................................................................................................... 10
+    Managing weeds........................................................................................................................................................................... 11
+HARVEST AND PROCESSING: Know about wet seeded and dry seeded crop methods of harvesting and processing ....... 11
+    Dry Seeded Crops......................................................................................................................................................................... 11
+    Wet Seeded Crops ........................................................................................................................................................................ 14
+SEED STORAGE: Know how to protect your seed and keep it viable......................................................................................... 16
+GERMINATION: Know your seed’s germination rate .................................................................................................................. 18
+SPECIFIC CROPS: Seed saving tips for common vegetable crops. ............................................................................................ 19
+CROP SPECIFIC CHART: ............................................................................................................................................................. 25
+RESOURCES .................................................................................................................................................................................... 28
+    Books............................................................................................................................................................................................. 28
+    Web ...............................................................................................................................................................................................28
+    Sources of seed cleaning equipment ........................................................................................................................................... 29
+    Seed Saving Organizations .......................................................................................................................................................... 29
+Introduction to the Guide
+Organic Seed Alliance supports the ethical development and stewardship of the genetic resources of agricultural seed.
+Teaching farmers and home gardeners to produce and save their own seed is an important component of that work. We teach
+seed saving skills in workshops around the country, and through publications such as this. In doing so, we aim to help
+preserve crop biodiversity, diversify farm income, and increase farmers and gardeners involvement and investment in
+regional seed systems.
+
+This guide outlines most of the things you need to know to grow seed successfully. It covers the basics of seed growing from
+choosing appropriate varieties for seed saving to harvesting, processing, and storing seed. It assumes that you have basic
+knowledge of vegetable growing.
+
+The information contained in this guide was gleaned from numerous print and web resources, as well as from conversations
+with many prominent seed experts. We have endeavored to provide you with the best and most reliable information, but this
+guide is in no way a rigid formula for seed growing perfection. As you gain seed growing experience, you will find that your
+own personal knowledge of “reality on the ground” is just as important as recommendations from experts. Only through
+experimentation can you learn which practices work best in your climate and farming system.
+
+This publication was made possible through generous contributions to Organic Seed Alliance from private donors who
+support regional seed systems by preserving the art, history and science of seed saving.
+
+So, without further ado, we welcome you to the wonderful world of seeds. May this guide help you on your way to many
+seasons of delight and discovery in your gardens and fields.
+
+
+
+
+The research and education staff at Organic Seed Alliance
+
+April 2010
+
+
+
+
+             Organic Seed Alliance ~ PO Box 772, Port Townsend, WA, 98368 ~ 360.385.7192
+
+          For PDF versions of this and other seed publications, please visit us at www.seedalliance.org
+Open Pollinated Varieties and Hybrid
+                                                                              Third, the plant must survive the winter. Successful
+Varieties: Know how to choose a variety that
+                                                                              overwintering mainly depends on cool (but not too cold)
+produces offspring like its parents.                                          temperatures. In areas where winter temperatures do not
+                                                                              regularly drop below 14F (-10C), most biennial crops may
+Open pollinated (OP) varieties produce offspring that closely                 remain in the field over the winter. In this case, it is especially
+resemble the parent. For example, if a gardener grows the OP                  important that the plants be small (i.e. hardy) enough to
+bean variety ‘Kentucky Wonder’ and saves seed, she will find                  withstand cold temperatures. Where temperatures do regularly
+that when she grows out her seed next season, her ‘Kentucky                   drop below 14F (-10C) the crop must be lifted and stored in a
+Wonder’ beans will look very much like what she grew last                     cool (but not freezing) location. Digging up the crop for
+year. OP varieties result from the combination of parents that                storage offers an opportunity to discard any plants that show
+are genetically similar and share specific traits that distinguish            undesirable characteristics in root shape, flavor, size and
+the variety.                                                                  texture, and to check for insect or disease infestations. Storing
+                                                                              your crop over the winter may also provide better protection
+Hybrid varieties result from the controlled crossing of                       from pests and disease. Replant your stored roots in the spring.
+genetically distinct parents. They produce offspring very
+different than their parents. For example, if a gardener grows                Storing biennial crops over winter
+the hybrid tomato variety ‘Early Girl’ and saves seed, she will               Biennial plants are commonly trimmed in some manner prior
+find that when she grows this seed next season, there will be                 to storing over winter. Trimming is done to reduce the rate of
+very few plants that closely resemble ‘Early Girl.’ In general,               transpiration and reduce the amount of vegetative material
+unless you are interested in a long term breeding project, avoid              subject to rotting. For biennial root crops (also called
+saving seeds of hybrids.                                                      stecklings) the tops are commonly trimmed to !-1in. Once
+                                                                              prepared for storage your biennial should ideally be stored at
+Annuals and Biennials:                                                        between 35-38F (1.5-3C) and at 90-95% relative humidity.
+Know how long it takes for your crop to                                       For this, you can use an electric cooler with a humidity
+produce seed, and how to manage crops that                                    control. In the cooler, place wooden totes packed with clean,
+                                                                              sound stecklings. The totes should have slotted planks that
+take two growing seasons to set seed.
+                                                                              allow air and humidity to flow freely around the roots. Under
+                                                                              high humidity conditions, standing water can accumulate on
+An annual crop requires only one growing season to produce
+                                                                              the surface of the uppermost layer of roots. Covering the totes
+seed and complete its lifecycle. Examples of annual seed crops
+                                                                              with a two to three inch layer of clean wood shavings (not
+include corn, beans, squash, tomatoes, and broccoli.
+                                                                              sawdust!) will help absorb this extra moisture and reduce rot
+                                                                              problems. We recommend cedar wood shavings, if available,
+A biennial crop requires 2 growing seasons to produce seed
+                                                                              as cedar is reported to have a higher level of anti-microbial
+and complete its lifecycle. Examples of biennial crops include
+                                                                              factors than most other types of wood.
+carrots, beets, chard, rutabaga, and cabbage. In the first
+season, a biennial grows into the plant that we normally eat. If
+                                                                              You can also store stecklings in traditional root cellars, which
+the following three criteria are met, a biennial will flower and
+                                                                              benefit from cold temperatures and high humidity. In root
+set seed in the second season.
+                                                                              cellars, carrot stecklings are traditionally stored in moist, clean
+                                                                              sand or clean, undecayed deciduous leaves (in New England
+First, over winter, the plant must go through an important
+                                                                              growers sometimes use maple leaves). The roots are laid
+period of vernalization (exposure to cold) before it will
+                                                                              carefully between layers of this material so as not to touch
+flower. The specific amount of time that biennial crops need to
+                                                                              each other.
+become vernalized varies by crop and variety. But exposure to
+temperatures below 50F (10C) for at least 8 to 12 weeks is
+                                                                              Days to harvest
+adequate for all common biennial vegetable crops.
+                                                                              Whether a crop is an annual or a biennial, it is also important
+                                                                              to consider how many days of warm weather it needs before it
+Second, by the fall of the first season, the plant must be
+                                                                              will produce harvestable seed. Some crops like cilantro can
+appropriately sized. Plants that are too small in the fall may
+                                                                              require only 100 days to produce seed. Other crops like dry
+not reach full size before flowering, resulting in lower seed
+                                                                              beans can require 4-5 months or more to complete maturity. If
+yields. In other cases, very small plants may not respond to
+                                                                              you live in a region with a cool and/or short growing season,
+vernalization; never flowering and setting seed. Plants that are
+                                                                              you will need to experiment to see which crops can produce
+too large may not be hardy enough to survive in the field over
+                                                                              good yields of seed in your climate. Starting plants early in a
+the winter. For crop specific information on appropriate sizing
+                                                                              greenhouse will help give your crops a head start.
+of some biennials and other overwintering tips, see Crop
+Specific Seed Saving Tips in this guide.
+                                                   Organic Seed Alliance · www.seedalliance.org
+
+                                                                         4
+Botany Vocabulary:
+Know some basic botanical terms                                              Pistil. The pistil is the female reproductive structure of a
+                                                                             flower. It is made up of; 1) the stigma which receives pollen,
+                                                                             2) the style, which connects the stigma to the ovary, 3) the
+                                                                             ovary, which matures into a fruit, and contains 4) ovules that
+                                                                             fuse with sperm to become seeds.
+
+                                                                             Inbreeding and Outbreeding:
+                                                                             Know your crop!s mating system.
+
+                                                                             The way that a plant mates can be described as falling along a
+                                                                             spectrum between “strongly inbreeding” and “strongly
+                                                                             outbreeding.” One end of the spectrum begins with plant
+                                                                             species with bisexual flowers that remain closed, therefore
+                                                                             largely self-pollinating and strongly inbreeding. Then there are
+                                                                             crops with bisexual flowers that remain closed, though not as
+                                                                             tightly as the former category, and have a significant rate of
+Bisexual flower: A flower that contains both types of                        outbreeding. Moving to the outbreeding plant types are the
+reproductive organs, i.e. both the stamen and the pistil. Also               many crop species that have bisexual flowers that open at
+called a “perfect” flower.                                                   sexual maturity allowing high levels of outbreeding from wind
+                                                                             and pollinating insects, but that will inbreed when self-
+Unisexual flower: A flower that contains only one type of                    pollinated. Some of these crops with open bisexual flowers
+reproductive organ, i.e. either the stamen or the pistil. Also               will inbreed at a lower rate as the male and female sexual parts
+called an “imperfect” flower.                                                will mature at different times. Monoecious crops are even
+                                                                             more likely to cross as the staminate and the pistilate
+Monoecious: In monoecious ,crops each plant will house both                  unisexual flowers are physically separated, although they still
+kinds of reproductive structures separately in different                     can inbreed when self-pollinated. A notable minority of crop
+unisexual flowers, i.e. separate male and female flowers on the              species have mechanisms that prevent inbreeding and enforce
+same plant Monoecious means “one house” in Latin.                            outbreeding. Some crops have self-incompatibility, a
+Examples include corn, cucumbers and squash.                                 biochemical system that won’t allow them to accept their own
+                                                                             pollen, thereby preventing inbreeding under most
+Dioecious: In dioecious crops half of the plants will house                  circumstances. The most powerful system for outbreeding is
+only staminate flowers (stamens only), while the other half                  dioecy, where dioecious plants only have unisexual flowers of
+will house only pistilate flowers (pistils only). Dioecious crops            one sex or the other on individual plants. A plant’s place on
+only have imperfect flowers. Dioecious means “two houses”                    this spectrum has several implications for its management as a
+in Latin. Examples include asparagus, spinach and date palms.                seed crop.
+
+Pollination: Pollination is the process by which pollen is                   Inbreeding. In plants, inbreeding (also called self-fertilization
+transferred from staminate to pistilate flowers in plants,                   or selfing) occurs when the sperm of an individual plant
+thereby enabling subsequent fertilization and reproduction.                  fertilizes an ovule of the same plant. Essentially, the plant
+                                                                             mates with itself. An inbreeding plant’s offspring receive all
+Pollen tube: The pollen tube forms from a germinating pollen                 of their genes from that one parent, thus the progeny is very
+grain on the stigma and acts as a conduit to transport sperm                 similar to its parent.
+cells to the ovules.
+                                                                             Two important advantages of inbreeding include:
+Fertilization: Fertilization is the process by which sperm cells             a) In plants that have evolved to become extremely well
+travel through the pollen tube to the ovary. Fertilization is                adapted to their environment, inbreeding offers a way to
+complete when the sperm fuses with an ovule, eventually                      ensure that a plant’s offspring will be just as well adapted as
+leading to the formation of a seed                                           its parents. In other words, it is a way of replicating success.
+                                                                             b) Inbreeding helps to ensure reproduction in varying
+Stamen. The stamen is the male reproductive structure of a                   circumstances, as it does not require the presence of wind,
+flower. It is made up of; 1) the anther, which produces pollen,              insects, or animals to transfer pollen from one plant to another.
+which contains the plant’s sperm, 2) the filament which                      Strong Inbreeders. The plants that we call “strong inbreeders”
+supports the anther.                                                         rely almost completely on self-fertilization to reproduce. The
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        5
+flowers of these plants have ways of excluding pollen from                    other plants of the same species decreases. For example, if a
+other flowers of the same species. For example, in the flowers                corn plant is isolated from other corn plants, all of its offspring
+of most modern tomato varieties, the anthers form a cone                      will be inbred.
+around the pistil, effectively sealing off the flower’s stigma
+from any pollen besides its own. In peas, the petals of the                   The Plants In-Between
+flower are typically closed during the period of time that the                Between the “strong inbreeder” side of the mating spectrum
+stigma is receptive to pollen, giving pollen from its own                     and the “strong outbreeder” side of the mating spectrum are
+anthers exclusive access for pollination. When the pea flower                 plants that will self-fertilize some of the time and cross-
+opens, it is already fertilized. Other examples of strongly                   fertilize some of the time. For example, in an average field of
+inbreeding plants include lettuce, common beans, and wheat.                   fava beans, it is likely that about 50-75% of the flowers will be
+                                                                              self-fertilized and 25-50% of the flowers will be cross-
+Even a strong inbreeder, however, will occasionally cross with                fertilized, thanks mainly to bees.
+another plant of the same species. For example, bees can eat
+through or tear open a strong inbreeder’s flower petals and                   Classifications in the Crop Specific Chart
+deposit pollen from a different plant. Also, under certain                    In the Crop Specific Chart of this guide we have classified
+climatic conditions, an inbreeder’s flower will open while it is              many major crops into the following five categories: Strongly
+receptive and the stigma will receive pollen from another plant               inbreeding; Generally inbreeding; Both inbreeding and
+before it has been self-pollinated by its own anthers. And, of                outbreeding;     Generally      outbreeding;   and    Strongly
+course, a human with the intention of creating a new cross can                outbreeding. In reality, the place of many plant species in one
+transfer pollen from one strongly inbreeding plant to another.                of these categories is mutable, as many species’ level of
+                                                                              selfing or outcrossing varies greatly depending on
+Outbreeding. In plants, outbreeding occurs when the sperm of                  environmental conditions. Nevertheless, these classifications
+one plant fertilizes an ovule of a different plant of the same                are a good way to help you get familiar with the tendencies of
+species (also called cross-pollination or outcrossing). In other              your seed crop.
+words, a plant mates with another plant of the same species.
+When plants outbreed, they produce offspring that are                         Pollination and Fertilization:
+genetically different than both parents. In general, all plants               Know how to promote a good seed set
+have the potential to outbreed, because every plant can be
+fertilized by another plant of the same species.                              If your crops are not adequately pollinated and fertilized, they
+                                                                              will not produce viable seed. Your plants must overcome two
+The central advantage of outbreeding is that it facilitates a                 hurdles for fertilization to occur: First, pollen must land on the
+plant species’ ability to adapt to changing environments. Plant               stigma (pollination), second, the plant’s sperm must travel to
+species that constantly mix their genes into new combinations                 and fuse with the ovule (fertilization).
+increase the likelihood that a few individuals within the
+progeny in any generation will have a certain combination of                  Pollination needs for strong inbreeders: While the journey of
+genes to withstand any new environmental challenges.                          the pollen of a strong inbreeder is undoubtedly short (usually
+                                                                              from an anther to a stigma within the same flower) good
+Strong Outbreeders. The plants that we call “strong                           pollen coverage of the stigma often requires some external
+outbreeders” rely completely or almost completely on cross-                   movement. The movement caused by wind, and in some cases
+fertilization to reproduce. Dioecious plants and plants that are              insect visitation (even when the insect is unable to open the
+self-incompatible have eliminated any chance of self-                         flower) can substantially increase pollination and promote a
+fertilization; they exclusively outbreed. Strong outbreeders                  good seed set.
+that are not dioecious have ways of discouraging (but not
+completely eliminating) self-fertilization. For example, in                   Make sure you address the need for external movement of
+corn, which is monoecious and has the male and female                         your strongly inbreeding crop. If your crop is being grown in a
+flowers situated on different parts of the plant, the male                    location with no wind and few insects (such as a greenhouse),
+flowers (the tassle) mature and release the majority of their                 you may need to use a fan or manually shake the plants. You
+pollen before the female flowers (the cobb) open. These                       may also need to encourage a diversity of insects in your
+strategies help to ensure that little self-fertilization occurs in            garden or farm so that more of them will jostle your crop’s
+corn. Other examples of strong outbreeders include beets,                     flowers.
+broccoli, and spinach.
+                                                                              Pollination needs for plants that depend to some degree on
+As stated above, strong outbreeders that are not dioecious or                 outbreeding: The more a crop relies on outbreeding for
+self-incompatible will self-fertilize. The likelihood of self-                reproduction, the more important are the following three
+fertilization increases as the opportunity to receive pollen from             elements in ensuring a good seed set: 1) a sufficiently large
+
+                                                   Organic Seed Alliance · www.seedalliance.org
+
+                                                                         6
+population of the crop flowering in unison, 2) adequate insect                therefore of the same species. The scientific name of a species
+populations visiting the crop or adequate wind/airflow, and 3)                is formed by the combination of two terms: the first term is the
+environmental conditions that allow pollen to remain viable                   plant’s genus, the second is its specific epithet. These two
+from the time it leaves an anther until it reaches a stigma (if it            names are usually Latin in origin and used together designate
+is too hot or too dry, pollen may lose viability before reaching              the species binomial name that is recognized by botanists
+a receptive stigma).                                                          worldwide.
+
+Study the specific pollination needs for your outbreeding crop                Plants that share your crop’s binomial name (both its genus
+and make sure to address all three requirements for good                      and specific epithet) are the same species as your crop. For
+pollination. Depending on your situation, you may need to                     example, cabbage, European kale, broccoli, Brussels sprouts,
+grow more plants than originally planned, encourage a                         and cauliflower are all the same species--- they share the
+diversity of pollinating insects, discontinue overhead watering               scientific name Brassica oleracea. Therefore, if you wanted to
+during flowering (insects don’t fly well when the sprinklers                  grow cabbage seed, you would need to isolate it from
+are on), use a fan to introduce wind if growing seed in an                    European kale, broccoli, Brussels sprouts, and cauliflower.
+enclosed structure, change your planting date to assure better                Domesticated carrot and wild carrot (commonly known as
+environmental conditions during flowering, and in some cases                  Queen Anne’s Lace) are both Daucus carota, hence carrot
+pollinate by hand. You may find that your climate is not                      seed crops must be isolated from Queen Anne’s Lace. The
+conducive for pollination of a certain crop. If so, you will need             binomial scientific name of most common vegetable crop
+to choose a different crop from which to save seed.                           species can be found in the Crop Specific Chart in this guide.
+
+Fertilization needs for all crops: Regardless of mating                       Look for potentially contaminating plants among these three
+system, once pollen has reached the stigma, requirements for                  groups; 1) wild plants in your area that are the same species,
+fertilization are the same for all crops: Environmental                       2) other varieties of the same species that you may be
+conditions must be right for the pollen to germinate and grow                 growing, and 3) other varieties of the same species that others
+a pollen tube, and for the sperm to remain viable as it makes                 in your area may be growing.
+its journey to the ovule. If it is too hot or too cold the pollen
+tube may stop growing and the sperm will not reach the ovule.
+For instance, a heat loving crop like tomatoes may produce                    Isolation Methods
+fewer fruit and low seed yields when it is exposed to cold
+night time temperatures during flowering. This can be because                 Isolating with time
+it was too cold for pollen tubes delivering sperm cells of the                To isolate two varieties of the same species by time, plant one
+tomato to complete their journey from stigma to ovule. In                     variety earlier than the other. The first variety must be planted
+general, the climatic needs of your crop for fertilization are                early enough that it has completed its pollination period and
+similar to the climatic needs of your crop for normal vegetable               set seed before the second variety begins to flower. Some
+production. If your climate is not conducive to the fertilization             examples of crops that can easily be isolated using timing
+of a crop, you may need to reconsider it as a seed crop.                      include corn, sunflowers, and basil, but you must be observant
+                                                                              to make sure that they are not flowering at the same time.
+Isolation, Population Size and Roguing:                                       Isolating with physical barriers
+Know how to maintain your crop!s genetics                                     You can isolate your crops using physical barriers such as
+                                                                              paper or cloth bags, cages of very fine mesh, rows of thickly
+Isolation from contaminating pollen                                           planted flowers, shrubs or trees, buildings, etc. Physical
+                                                                              barriers such as thick vegetation, hills or buildings can at least
+Isolation involves protecting your seed crop from the pollen of               partially block foreign pollen-bearing wind and insects. Bags
+plants of the same species that you did not intend it to cross                and cages can virtually eliminate any contamination from
+with. In other words, isolation keeps contamination of your                   foreign pollen, but they have two drawbacks: First, they often
+crop’s genetics to a minimum. First we will discuss how you                   require involved pollination techniques. For example, seed
+can identify the plants that will cross with your crop, then we               growers who use cages to isolate carrots must release fly
+will discuss the isolation methods you can use to protect your                larvae inside the cages to allow for pollination. Second, using
+crop from receiving pollen from those plants.                                 bags and cages makes maintaining an adequately sized
+                                                                              population more difficult, as these strategies require a larger
+Plants that can cross-pollinate with your seed crop                           per-plant investment of time and materials. For more
+To know which plants’ pollen might potentially contaminate                    information on using bags and constructing and using isolation
+your crop, you must learn the scientific name of your crop and                cages see Seed to Seed by Suzanne Ashworth.
+find out which plants share that scientific name and are
+
+
+                                                   Organic Seed Alliance · www.seedalliance.org
+
+                                                                         7
+Isolating with distance
+You can use distance to isolate your crops by planting them                  In the event of accidental crosses, you may be able to work
+sufficiently far away from sources of contaminating pollen.                  your way back to a pure variety by removing off-type plants in
+The distance required for effective isolation varies from                    following generations. The number of generations required to
+species to species. A general guideline, however, is that plants             remove an unwanted cross will depend on the degree of
+that mostly inbreed require less isolation, while plants that                crossing and whether your crop is predominantly a self-or
+mostly outbreed require more isolation. For plants that tend to              cross-pollinated species. Ultimately, isolation distances are a
+outbreed, those that are primarily insect-pollinated require less            risk management tool and only you can assess what level of
+isolation than those that are primarily wind-pollinated. Ideal               risk is acceptable for the seed you are saving.
+isolation distances are not absolute and cross-pollination can
+occur even when observing recommended isolation distances!                   Population Size
+Isolation requirements can vary with environmental conditions
+and expert recommendations for the same crop vary widely.                    Why population size matters
+                                                                             Maintaining an adequately sized population entails saving
+We have provided two sets of recommendations on isolation                    seed from enough plants to retain your variety’s genetic
+distances for most commonly grown vegetable species in the                   variability. Genetic variability refers to genetic differences
+Crop Specific Chart in this guide. Our recommendations for                   among plants in the same variety. For instance, one plant of
+home use are based on the assumption that your seed saving                   the Red Russian Kale variety may differ from another of the
+goal is to maintain a pure variety and to manage your crop                   same variety in flavor, vigor, resistance to insects and disease,
+with a fair degree of assurance that you won’t have crossing                 tolerance to drought, or other important traits. There are two
+with a nearby variety of the same species. For species that                  reasons that maintaining genetic variability is important:
+tend to outbreed, we have recommended distances for home
+use that are adequate to avoid most cross-pollination, but are               Adaptability. Genetic variability allows a variety to adapt to
+not prohibitive and allow one to scout and manage potential                  changing conditions. For example, imagine two different
+sources of contaminating pollen within the recommended                       populations of a lettuce variety, one large (100 plants), and
+radius. For species that tend to inbreed, we have recommended                one small (10 plants). Now imagine that the disease downy
+distances for home use that are adequate both to avoid most                  mildew attacks both populations. In the large population,
+cross-pollination and to help prevent accidental mixing of                   despite the disease, 5 plants survive to produce seed, and in
+seeds during harvest. Our recommendations for commercial                     the small population, no plants survive. Why? The odds are
+production are based on the assumption that commercial seed                  better that in the larger population, a few plants will happen to
+growers require a greater degree of certainty that cross-                    have a gene that gives them resistance to downy mildew. In
+pollination will not occur.                                                  our example, thanks to the nature of genetic variability, 5
+                                                                             plants in the large population have a genetic component that
+In some situations you may be able to get away with a                        confers some level of resistance to downy mildew enabling
+somewhat shorter distance than those that we recommend                       them to survive to reproduce. If downy mildew strikes again
+Shorter distances may be adequate if you have the following                  next season, plants grown from the survivors’ seed is more
+conditions; 1) prominent physical barriers between varieties                 likely to survive the outbreak. In the small population, the
+such as a forest or thick vegetation, hills, or dense set of                 odds that a few plants will have the genetic factors to survive
+buildings, or 2) the number of plants of a nearby variety of the             downy mildew are not as good; indeed, in our example, none
+same species is so small that the amount of potentially                      of the plants had adequate resistance to downy mildew, so
+contaminating pollen is minimal. However, one should only                    none survived. There was not enough genetic variability
+lessen the isolation distance after careful consideration of the             within the smaller population to have adequate resistance to
+environmental conditions. If using less distance it is best to try           contend with the disease. So, in larger populations, there is
+the new isolation scenario with a seed crop that is less                     often greater genetic variability, which increases the chance
+important, that you won’t distribute, and that you have plenty               that some plants within the population will have some
+of remnant seed to start over with if crossing occurs.                       combination of genetic factors that will enable a subset of the
+                                                                             population to contend with possible environmental challenges.
+In other cases you may need a greater distance to avoid
+contamination. You may need to expand the recommended                        Inbreeding depression. Genetic variability in any given
+isolation distance if you have any of the following conditions;              population also prevents inbreeding depression. Inbreeding
+1) an open landscape and/or high winds, 2) extremely different               depression is frequently expressed as a loss in vigor and
+types of varieties in the same species (such as zucchinis and                fertility due to the mating of individuals that are closely
+pumpkins, which are both Cucurbita pepo), 3) you are in                      related and too genetically similar. Plants suffering from
+proximity to a GMO variety of the same species, or 4) there                  inbreeding depression often germinate poorly, yield poorly,
+are extremely high levels of pollinator activity in the area.                and will succumb more quickly to various environmental
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        8
+stresses. Plants on the strong outbreeder side of the mating                Roguing: Removing off-types or underperforming plants
+spectrum are most susceptible to inbreeding depression as they
+are adapted to a constant mixing of genes through cross-                    To “rogue” is to remove inferior or atypical plants form the
+pollination. while those on the strong inbreeder side of the                population. Essentially, roguing involves walking through
+mating spectrum are the least susceptible as they have adapted              your planting and pulling out the plants that you don’t want to
+to the inbred condition through thousands of generations of                 reproduce. Roguing helps eliminate the ill effects of accidental
+self-pollination. A notable exception to this rule are the crops            crosses that may have occurred in a previous generation,
+of the Cucurbitaceae (cucumbers, gourds, melons, squashes,                  accidental mixing of home-saved seeds, or undesirable genetic
+and watermelons); as these crops are largely outbreeders, but               varients. If you do not rogue, your variety will deteriorate over
+are not as severly affected by inbreeding.                                  time; increasingly exhibiting undesirable traits season after
+                                                                            season. Some helpful guidelines for roguing include:
+The right population size for genetic vitality
+We have provided recommendations of minimum population                      Rogue more than once. It is often best to rogue varieties at
+sizes for most common vegetable crops in the Crop Specific                  more than one point in the season. For example, with a
+Chart in the appendix of this guide. Using the population sizes             population of lettuce, at the beginning of the season, you may
+we recommend helps to ensure good maintenance of the                        remove the plants that are the slowest to germinate or lack
+genetic base of your crop. Some of our population                           vigor. Later on in the season, you may remove (and eat) plants
+recommendations, however, may seem prohibitively large.                     that have off-type foliage. Still later, you may remove plants
+Keep in mind, then, that the right population size for your                 that appear to be the most affected by disease.
+system depends on the level of importance you place on being
+able to maintain genetic variability. It also depends on space              Rogue before flowering. Roguing of outbreeders should be
+restrictions in your garden or farm. If you cannot grow as                  done before flowering if possible. This way, both the rogue
+many plants as we recommend, try growing as many plants as                  plants’ pollen and seed is eliminated from the next generation.
+possible in the space you have available and see what happens.
+Stay vigilant for signs of inbreeding depression such as                    Consider variable conditions. Consider variable growing
+reduced reproductive capacity (lowered seed yield or fewer                  conditions in the field. Plants that are in a poorer part of your
+flowers), reduced vigor and general health of the crop. If you              field may perform poorly in comparison to their neighbors
+notice signs of inbreeding depression, you can try introducing              growing under better conditions, not necessarily due to
+seed of the same variety from an outside source to reinvigorate             inferior genetics but because they have had proportionately
+your variety.                                                               less sun, water, soil nutrients, etc. Conversely, plants that are
+                                                                            in the best part of your field, or that are on the edge of an
+The right number of seeds to plant                                          otherwise uniform field, may perform better not due to their
+Please note that the recommendations in our Crop Specific                   superior genetics, but because they have had the advantage of
+Chart are for the final number of plants from which you                     more sun, space, soil nutrients, etc.
+should harvest seed, not the initial number that you plant in
+the spring. The decision of how many plants to start with in                Maintain population size. When considering how many plants
+spring is a judgment call that you will make based on these                 to rogue, be careful to not select “too narrowly,” thereby
+two factors:                                                                maintaining healthy genetic variability in your variety. Do not
+                                                                            remove so many plants that you no longer have an adequate
+Environmental conditions. You may lose plants due to bad                    number of plants from which to harvest seed. It is important to
+weather, pests, poor winter storage conditions (for biennials),             remember that under most circumstances no single plant is
+accidents, elimination of off-types, etc. You should always                 ideal for each and every important characteristic of the variety
+allow for some attrition over the course of the season.                     you are maintaining. All non-hybrid, open-pollinated varieties
+                                                                            have inherent variation. In fact, the ideotype (idealized
+Condition of the variety. Some plant varieties produce a crop               appearance of a crop variety) is really just an average or
+in which almost all of the plants perform as desired. This                  approximation of what the variety looks like and most
+variety can be considered to be in good condition. Other                    individuals in any population of a variety will not fit the
+varieties produce a crop in which some plants perform as                    perfect ideotype.
+desired, but many others perform poorly. This variety can be
+considered to be in poor condition. To properly maintain your               Soil and Cultivation:
+crop’s varietal integrity, you should not save seed from poorly
+                                                                            Know the In-Field Needs of Your Crop
+performing plants. Therefore, if your variety is in poor
+                                                                            The needs of your seed crop as it grows in the field are very
+condition, you will need to begin with more plants than you
+                                                                            similar to its needs as a vegetable crop. We will focus mainly
+would if your variety was in good condition.
+                                                                            on the in-field needs of seed crops as they differ from those of
+
+
+                                                 Organic Seed Alliance · www.seedalliance.org
+
+                                                                       9
+vegetable crops. The basic in-field elements to consider in                   Managing Disease
+regards to seed production include: soil preparation, spacing,
+staking and trellising, managing disease, and managing weeds.                 Disease impacts seed crops by:
+                                                                                  • Reducing seed yields.
+Soil Preparation                                                                  • Reducing seed viability.
+                                                                                  • Transferring disease to the next generation of plants.
+Seed crops, like most vegetable crops, benefit from fertile,                           In cases where the crop is infected with a seed-borne
+nutritionally balanced soil with good drainage, high organic                           disease (a disease that can live for extended periods
+matter, and a friable (crumbly) texture. Since seed crops are                          of time on the seed itself), the plants grown from that
+often in the ground longer than vegetable crops, make sure                             seed will also be infected.
+that you provide your plants with a slow release source of
+fertility that can nourish them through their entire life cycle.              The strategies you can use to protect seed crops from disease
+Also be sure to provide an adequate source of phosphorous, as                 are generally the same as those that you would use for crops
+it crucial for good flowering and seed set.                                   being grown as vegetables. There are, however, a few
+                                                                              additional considerations for managing disease in seed crops:
+Striking the right balance in nitrogen availability is also very
+important for seed crops. Too little nitrogen will result in                  a. In most cases your plants will be in the ground longer than
+stunted plants and lower seed yields. Too much nitrogen can                   they would be if they were being grown as vegetable crops.
+be deleterious as it; 1) encourages plants to produce vegetative              This means you’ll need to protect them from disease longer.
+growth rather than flowers and seeds, 2) can make plants more
+susceptible to lodging (falling over), and 3) can make plants                 b. You may need to stake or trellis crops that become dense
+more susceptible to attack by insect and disease pests. All of                and crowded and/or top heavy (and likely to fall over) to
+these factors may result in lower seed yields. In general, if you             reduce disease risk.
+provide the same amount of nitrogen (or slightly less) that is
+commonly recommended for your crop as a vegetable, you                        c. For plants that we normally don’t see the flowers/fruit/seed
+will probably strike the right balance between too much and                   of, you may confront a new set of flower/fruit/seed specific
+too little nitrogen.                                                          disease pathogens that you have not previously encountered.
+
+Spacing                                                                       d. Once your seed is harvested and cleaned, if you suspect
+                                                                              your seed crop may have been infected with a seed-borne
+In general, plants that have fruits or seed that we eat (such as              disease you may have a few options for control, two of which
+tomatoes, beans, melons, sunflowers, etc) don’t need any more                 we will describe here:
+space than you would normally provide for them as a
+vegetable crop. Plants that we normally never see the fruit of                First, you may be able to simply wait the disease out by
+(such as broccoli, spinach, carrots, and beets) often greatly                 storing the seed for an extended period of time; some diseases
+surpass their size as a vegetable crop as they reach full                     will die in storage before the seed loses viability. An example
+maturity, commonly reaching 3 feet in diameter. These crops                   is bacterial soft rot (Erwinia carotovora) on carrot seeds,
+will require extra space. You will need to experiment to                      which dies after two years of seed storage. Unfortunately, very
+determine the right spacing for your seed crops. One popular                  little research has been done to investigate this method of
+spacing strategy is to space your crops closely together                      disease management for seed borne diseases of vegetables.
+initially and gradually thin (harvest and eat) them as the plants
+increase in size leaving a final population adequately spaced                  Second, you can treat the diseased seed with hot water. The
+for seed production.                                                          purpose of hot water treatment is to submerse seed in water
+                                                                              that is hot enough to kill the pathogen without seriously
+Staking and Trellising                                                        damaging the seed. When properly done, hot water treatments
+                                                                              are effective, but they can be risky. Too high of a temperature
+If your crop is going to get a lot bigger than it normally gets as            or too long of a treatment time can kill the seed or reduce its
+a vegetable crop, it may need staking or trellising to help                   viability.
+increase airflow and to keep it from falling over. Staking
+plants helps prevent disease, aids in the drying of the mature                Step-by-step instructions for conducting your own hot water
+seed crop, and can make it easier to get into the field for late              treatments can be found in a publication from Ohio State
+season weed management if needed. In particular, species in                   University entitled: Hot water and chlorine treatment of
+the Brassicaceae (cabbage family), Apiaceae (carrot family),                  vegetable seed crops for eradication of bacterial pathogens
+Chenopodiaceae (beet family), and Alliaceae (onion family)                    (accessed at: http://ohioline.osu.edu/hyg-fact/3000/3085.html
+benefit from staking.                                                         on 2/1/10). See the Resources section for a reference to this
+
+                                                   Organic Seed Alliance · www.seedalliance.org
+
+                                                                         10
+publication online. To follow the Ohio State methods, the                  in pods or husks that are usually dried in place on the plant.
+basic materials you’ll need are a hot water bath, a woven cloth            Numerous vegetable plant families have dry-seeded fruits, a
+bag, a laboratory thermometer (candy thermometers work),                   few of which are: the Poaceae (includes corn, rice, wheat),
+and a screen for drying seed. You can purchase hot water                   Fabaceae (includes beans, peas, lentils), and Brassicaceae
+baths online, but they can be expensive. As a substitute for a             (includes cabbage, mustard, kale). Certain peppers can be
+hot water bath, we have had success using a turkey roaster                 treated as dry or wet seeded crops, as they can be either
+with a temperature control, but consider the use of a                      processed when they are fleshy, or after they have dried.
+thermometer to monitor the temperature. Others have simply
+used a pot of water on a stove, but beware that it can be                  Dry seeded crops and wet seeded crops require very different
+difficult to maintain a consistent a temperature using this                methods to get from harvest ready plant to storage ready seed.
+method and seed should not be allowed to touch the bottom of               We will discuss the basics of harvesting and processing of dry
+the pan, which is in contact with the burner and therefore a               and wet seeded crops in turn. You can find crop specific
+much higher temperature.                                                   harvesting information in Crop Specific Seed Saving Tips.
+
+See the Organic Seed Resource Guide, published online at                   Dry Seeded Crops: Harvesting and Processing
+eXtension.org for more information on disease management in
+organic seed production.                                                   Depending on your scale and personal interests getting from
+                                                                           “harvest ready” in a dry seeded crop to “storage ready” seed
+Managing Weeds                                                             can be as simple as going out to the garden every day,
+                                                                           cracking open a few pods as they dry, stripping out the seeds
+Weeds impact seed crops by:                                                into a small container, and then bringing them back in the
+   • Reducing seed yields.                                                 house to finish drying. It can also be a much more intensive
+   • Reducing seed viability.                                              process involving harvesting, drying, threshing, and repeated
+   • Increasing disease risk.                                              cycles of winnowing, screening, and further drying when you
+   • Contaminating harvested crop seeds with weed seed.                    are growing a larger seed plot. In either case, you will need to
+   • The strategies you can use to manage weeds in seed                    know when your seed crop is ready for harvest.
+       crops from are generally the same as those that you
+       would use for crops being grown as vegetables. There                When to harvest
+       are, however, a few additional considerations for                   In deciding when to harvest your dry seeded crop, you will
+       managing weeds in seed crops.                                       need to ask yourself the following questions:
+
+Additional considerations for managing weeds:                              Do I have mature seed?
+    • Some seed crops will be in the ground much longer                    The elements that typically indicate dry seeded crop maturity:
+        than they would if they were being grown as a                          • Color of seed and/or seed pod. Depending on the
+        vegetable. This means that there is more time for                          crop, the color that indicates maturity may be beige,
+        multiple generations of weed seeds to germinate, and                       yellow, brown, black, or some shade in between.
+        there is more time for weeds to mature and set seed.                   • Dryness of seed and/or seed pod. Adequate dryness
+    • Some seed crops remain for long periods of time at a                         of some seeds, such as spinach or onion seed, is
+        height at which they can't be easily mechanically                          determined by cutting the seed open and seeing if the
+        cultivated.                                                                inside is starchy instead of milky. Adequate dryness
+    • If weed seed is in your harvested seed lot, you will                         of a seed pod is often determined by testing to see if
+        need to remove it during processing.                                       one will easily shatter when rolled between one’s
+    • See the Organic Seed Resource Guide, published                               fingers. If they become too dry, some seed pods will
+        online at eXtension.org for more information on                            break open or shatter and release their seeds.
+        weed management in organic seed production.                            • Ease of detachment of seed and/or seed pod from
+                                                                                   stalk. Adequate ease of detachment of seed in some
+Harvesting and Processing:                                                         crops, such as cilantro, beet, or Swiss chard is
+Know about wet seeded and dry seeded crop                                          determined by seeing whether the seed will come off
+methods of harvesting and processing                                               the stalk easily when rubbed vigorously.
+
+A wet seeded crop has seeds that are embedded in the damp                  How much of my seed is mature?
+flesh of fruits. There are only two vegetable plant families               The seeds in a planting do not mature all at once, and for
+                                                                           many dry seeded crops, the span between the first ripe seed
+with wet-seeded fruits: the Solanaceae (includes tomatoes,
+                                                                           and the last ripe seed can be as long as 4-8 weeks. If you have
+peppers, eggplants), and the Cucurbitaceae (includes melons,
+                                                                           time, you will get the most high quality seed by doing multiple
+squashes, cucumbers). A dry seeded crop has seeds enclosed
+
+                                                Organic Seed Alliance · www.seedalliance.org
+
+                                                                      11
+harvests; collecting the early maturing seed when it is ripe,               sufficiently dry and mature. The crops usually need additional
+and coming back as many times as is practical to harvest later              curing time before they are ready for processing. The seed
+maturing seed. Alternately you may be able to position a drop               must be dry and hard enough to withstand processing, and the
+cloth in a manner that catches falling seed. Reemay or                      plant material it’s attached to must be brittle enough to easily
+geotextile fabric, discussed below under harvesting, make                   shatter and break away from the seed. This time also gives
+good drop cloths for catching seed.                                         seed that is still immature at harvest additional time to ripen.
+
+If your situation does not allow for multiple seed harvests, you            Be sure to allow for enough air flow as the crop cures.
+will need to strike a balance between waiting for later                     Depending on your scale and type of crop, this may entail
+maturing seed to ripen and harvesting earlier maturing seed                 such things as placing your seed pods in a shallow container
+before too much of it has either fallen off the plant or become             and stirring them daily, hanging plants or seed heads upside
+too brittle to harvest or process. A general guideline is to                down from the ceiling, or making sure the piles of plants in the
+harvest when 60-80% of your seeds are ripe.                                 field are no more than a foot or two deep and turning the piles
+                                                                            regularly to expose interior plants to the air. For medium to
+How will rain and animals affect my ripening seed crop?                     larger scale harvests plants are commonly laid in rows in the
+Adverse weather or animals interested in mature seed as food                field (referred to as windrows) for drying. Plants in widrows
+can force you to harvest your seed crop at a time other than                can be laid on tarps, reemay, or geotextile fabric to catch
+peak maturity. Rains (or overhead watering) can damage seed                 dropping seed. Facing the heads of your plants toward the
+quality once the seed begins to dry, so you may need to                     center and roots toward the edge of the fabric is best. This
+harvest before a rain, even if you were hoping to let your seed             allows for catching the seed while keeping roots off the drop
+ripen longer. Alternatively, you may need to wait to harvest                cloth to avoid contaminating your seed with soil. Geotextile
+your crop until it has thoroughly dried after a rain, at which              fabric, commonly used in landscaping as a weed barrier, is an
+point it may be somewhat over-ripe. Organic Seed Alliance                   ideal material because it allows water to pass through and
+has a useful publication on this topic title: Weather Related               wicks moisture away from the plant material. Reemay also
+Risk Reduction Guidelines for Dry-seeded Specialty Crops. It                allows water to pass, but can easily tear. Tarps are sturdy, but
+is available on the Organic Seed Alliance website at:                       moisture may pool, even from morning dew, on a tarp.
+http://www.seedalliance.org/uploads/pdf/weatherrelatedriskgu                Geotextile fabric can also be placed over a windrow to shed
+idelines.pdf. Also, as your seed matures, birds, squirrels, and             light rains if precipitation is expected. Plants in a windrow
+other animals may begin to use your crop as a food source.                  should be turned frequently to ensure even drying throughout
+When hungry animals are after your seed, you may need to                    the pile. Refer to the three elements that indicate dry seeded
+harvest it early and dry it in a protected place.                           crop maturity to help you gauge when your seed is sufficiently
+                                                                            dry for processing.
+How to harvest
+To harvest is to sever the seed’s connection to the ground.                 How to process seed
+Harvest methods vary according to scale of harvest and type                 When your crop is dry enough, you can separate the seed from
+of crop, but some popular methods are listed below:                         the non-seed material that it’s mixed with. This non-seed
+                                                                            material may include leaves, stems, and pods from the seed
+Smaller scale harvests:                                                     crop, called chaff, as well as dirt, stones, and weed seeds. The
+    • Strip seeds off into a bucket.                                        first step in this process is to thresh the crop. Next, depending
+    • Clip individual pods into a bucket.                                   on how important it is that there is no non-seed material mixed
+    • Clip seed heads into a bucket.                                        with the seed, the crop is usually cleaned through cycles of
+    • Cut or uproot whole plants and place in buckets.                      winnowing and screening. Often, between threshing and
+Medium scale harvests:                                                      cleaning, or between cycles of winnowing and screening, the
+    • Cut or uproot whole plants and make long rows on                      seed is given time to dry further.
+         dirt in aisle.
+    • Cut or uproot whole plants and make long rows on                      Threshing
+         tarps in aisle.                                                    To thresh is to loosen or release the seeds from the rest of the
+Large scale harvest:                                                        plant material that is attached to the seed. This step facilitates
+    • Use of a scythe or mechanical cutting bar to swath                    the subsequent separation of the seed from non-seed material
+         the crop into windrows.                                            in seed cleaning. There are many different threshing
+                                                                            techniques, and the technique that is best for you will depend
+How to prepare your crop for processing:                                    on your crop and the scale of your seed saving endeavor.
+Due to threatening weather, hungry animals, and concerns                    Some popular methods of threshing include:
+about loss of seed through shattering of mature seed pods, dry-
+seeded crops are usually harvested before all their seed is
+
+                                                 Organic Seed Alliance · www.seedalliance.org
+
+                                                                       12
+Rubbing by hand: Rub seed pods between your gloved hands                     Winnowing
+    to break them open or rub the seed and chaff over a rough                To winnow is to use an air current to separate seed from non-
+    surface.                                                                 seed material based on weight. In winnowing, seed and non-
+Stomping or "dancing" on top of the seed and chaff: Lay the                  seed materials are dropped before a wind source (either natural
+    seed and chaff on a tarp or in a large bucket. Wiggle your               wind or a fan). The heavier materials fall closer to the wind
+    feet from side to side on top of the seeds, allowing the                 source while lighter materials are carried further from the
+    ball of your foot to swivel from left to right, as if you                wind source.
+    were squishing a bug. This works best wearing smooth
+    soled boots so the seed does not stick to the tread on your              One typical winnowing setup includes two plastic bins
+    sole or fall into your shoe at your ankle. To protect your               arranged in front of a box fan. The fan and bins are on a tarp
+    seed from damage, make sure to always have several                       to catch any stray seed. When the seed and non-seed materials
+    inches of seeds and chaff between your foot and the                      are poured in front of the fan, the heaviest seed will land in the
+    bottom of the bucket or the ground while crushing.                       first bin and lighter seed will land in the second bin. Much
+Driving a vehicle over the seed and chaff: Lay the seed and                  (but not all) of the non-seed material will be lighter than the
+    what it’s attached to on a tarp. Place another tarp on top               lightest seed, and will land somewhere past the second bin. It
+    of the seed, and secure it in place. Now drive back and                  takes practice to determine the correct fan speed, the distance
+    forth and side to side on the tarp. This should only be                  the bins should be from the fan, and the speed with which to
+    done with hard seed that doesn’t crack or break easily.                  pour the seed in front of the fan. See photo below:
+Using a variety of machines: Larger-scale seed growers often
+    use commercial threshing machines (belt threshers or
+    combines), or mulching equipment that is specially
+    adapted to serve as a threshing machine.
+
+Most of the threshing methods listed above subject the seed to
+a significant amount of pressure, and each crop varies in
+sensitivity to pressure. Some delicate seed crops, such as
+broccoli, peas and cilantro, will be damaged if stomped on or
+driven over. Others, such as beets, radish, and spinach, can
+easily withstand such pressure. In addition, while seed needs
+to be sufficiently dry before threshing, seed that is too dry is
+more subject to crack under pressure. To be safe, try any
+threshing method on a small lot of seed before attempting it on
+your entire seed lot. Sometimes you can reduce the chances of
+damaging seed by threshing it on a softer surface or for a
+shorter amount of time. While threshing, check seeds often to
+see if they have received sufficient pressure to break free from
+the material they were attached to or if they are cracking from
+too much pressure.
+
+Depending on the relative quantity and type of material that
+the seed is mixed with, some garden-scale seed growers may
+find that they need go no further after they have threshed their
+crop. They may have no problems using seed that is mixed
+with chaff. In most cases, however, seed growers will want to
+separate the seed from the sticks, leaves, dirt, stones, and weed
+seeds which is important for long term storage. If so, the next
+step is cleaning.
+                                                                             Another typical winnowing setup includes standing on a tarp
+Cleaning                                                                     and pouring seed from one stainless steel bowl to another.
+Cleaning is generally accomplished using a combination of                    Light chaff will float away from the bowl receiving the seed.
+two methods: winnowing (separation based on weight) and                      Some use a wind source like a fan or a hair dryer (with no
+screening (separation based on size).                                        heat) to further encourage chaff to float away as seed falls
+                                                                             from bowl to bowl. It takes practice to determine the correct
+                                                                             amount of seed to put in the bowl and the best distance of the
+                                                                             wind source from the bowl. For winnowing large seed lots,
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        13
+farmers and seed professionals often use machines called                     "”, #” and 3/8” hardware cloth are useful for screening
+gravity tables. It is best to use a dust mask when winnowing to              medium to large seeds and for removing large pieces of chaff.
+keep chaff and dust out of your lungs.                                       1/8” hardware cloth is useful for medium seeds and some
+                                                                             smaller seeds. You may find pieces of old kitchen or
+Screening. To screen is to use metal trays or seed screens with              electronics equipment at scrap yards and thrift stores that have
+holes to separate seed from non-seed material based on size.                 perfectly sized screens for your seeds.
+One basic screening technique involves the use of two stacked
+screens. The top screen should have holes slightly larger than               For screening large seed lots, farmers and seed professionals
+the seed and the bottom screen should have holes slightly                    most commonly use machines called Clippers from Crippen
+smaller than the seed. Pour seed and chaff in a thin layer on                Manufacturing Company.
+the screen with the larger holes. Shake and/or gently rub until
+the seed and any smaller materials have passed through. All
+the material that is larger than the seed will remain on top and
+can now be discarded. Next shake and/or gently rub the                       How to dry seed using ambient conditions
+remaining seed and chaff on the screen with the smaller holes                Dry cleaned seed in thin layers (around " inch thick) on
+until all materials that are smaller than the seed have passed               plywood, window screen, sheet pans, or any hard, non-stick
+through. The majority of what remains on top of this screen                  surface. Stirring seed helps ensure even drying. Placing fans
+will be good seed.                                                           near seeds will also facilitate drying.
+
+You can buy screens specifically designed for seed cleaning or               Seeds can become damaged when the ambient temperature
+you can make them yourself. The screens specifically                         rises above 95F (35C) and dark colored seeds can become
+designed for seed cleaning are categorized (by width of holes)               overheated when exposed to direct sunlight, especially at
+in increments of 64ths of an inch. For example, a #6 screen                  temperatures at or above 80F (27C). Therefore, take care to
+has openings that are 6/64” in width. Most screens have round                dry your seed in a location that is warm, but not too warm, and
+holes, but some screens made for particular crops have holes                 dry them out of the sun if necessary.
+of different shapes. For example, there are screens with oblong
+holes that permit lettuce seed to pass through while retaining               Wet Seeded Crops: Harvesting and Processing
+larger and differently shaped materials on top. The most
+commonly available seed screens are nestable and are                         Fewer generalizations can be made about when or how to
+mounted on 12" square wooden frames. You can buy seed                        harvest and process wet seeded crops. See Crop Specific Seed
+cleaning screens through Hoffman and Seedburo (see                           Saving Tips for guidelines on eight major wet-seeded crops.
+Resources section). Seed of different varieties of the same                  There are, however, a few generalizations that can be made.
+crop and seed of the same variety grown in different years or
+locations will vary in size. Following are estimates of screen               When to harvest and when to extract seed
+sizes for common vegetable seeds of varied sizes.                            In general, let your wet seeded crop mature on the vine as long
+                                                                             as possible before harvest; the seeds will continue to increase
+Screen Sizes for various crops                                               in size and quality for days to weeks after the fruit first
+                                                                             reaches edibility. In fact, for many types of winter squash the
+Seed Size      Crops                        Range of                         seed quality and germination percentage of the seed will
+                                            Commonly used                    increase if the seed is left in the fruit for 2 to 3 months. In
+                                            Screen Sizes                     some cases with wet seeded crops you may need to harvest the
+tiny           basil, mint, amaranth,       1/20th to 4                      fruit to protect it against damage and disease, before all of its
+               many herbs                                                    seeds are fully mature and let the seed continue to ripen in
+small          Brassicas        (broccoli   5 to 7                           storage before extracting them from the fruit.
+               family), celery, chicory
+medium         beets, chard, carrot,        7 to 12                          How to process seed
+               parsnip, filet beans                                          For every wet seeded crop, there are a number of viable
+large          cucumber and squash          12 to 20 (pill shape,            options for seed extraction and processing. Most of the options
+               family, common beans         !in. long for beans)             involve one or more of the following methods: soaking,
+               and pole beans                                                fermentation, rinsing, and decanting. The right option for you
+                                                                             will depend on your scale, the equipment you have on hand,
+Due to the relative expense of commercial seed screens, you                  your time constraints, and your desired level of seed quality.
+may decide to make your own screens using materials such as                  See the appendix for crop-specific seed extraction and
+hardware cloth, window screens, and wire mesh.                               processing suggestions and experiment to see which option
+                                                                             works best for you.
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        14
+Soaking                                                                     seeds on top while allowing small pieces of pulp to fall
+Soaking can make seed cleaning easier by loosening the pulpy                through. Place seed and what the seed is attached to on the top
+residue clinging to the seed. Place seeds and pulp in a                     screen and break up the material by rubbing it and spraying it
+container full of water. Allow seeds to soak until the pulp                 with water. Once the majority of the seeds have fallen through
+seems easier to separate from the seed, no longer than 8-12                 the first screen, remove this screen and spray and rub the
+hours.                                                                      material on the bottom screen until only seed remains.
+
+Fermentation                                                                One drawback to relying solely on rinsing for cleaning your
+Fermentation also makes seed cleaning easier by loosening the               seed is that it does not remove lightweight, non-viable seed.
+pulpy residue clinging to the seed. In addition, it removes a               To do that, you will need to use a decanting process.
+germination-inhibiting gel from the seed and destroys some
+diseases. There is much disagreement among seed experts on                  Decanting
+which seeds need to be fermented and which seeds are                        The process of decanting separates pulp and lightweight, less-
+damaged by fermentation. The only two crops that virtually all              viable seed from good heavy seed. To decant:
+experts generally agree should be fermented are tomatoes and                1. Place seeds and pulp in a container that can hold at least 10
+cucumbers. Therefore, we recommend fermentation only for                    times the volume of your seeds and pulp. If necessary, break
+these crops. To ferment:                                                    up the seed/pulp mixture by crushing and stirring.
+1. Place seeds and pulp in a container. Add water to the                    2. Add water to your seeds and pulp. A good general guideline
+seed/pulp mixture only if the mash is too thick to stir.                    is to have about 1 part seeds and pulp to 4 parts water. If
+2. Place container in a warm location, ideally between 72-86F               necessary, agitate until the seed is loosened from the pulp.
+(22-30C). Depending on temperature and seed variety, the                    3. Wait a few minutes for the good, heavy seed to settle on the
+fermentation process can take anywhere from 48 to 72 hours.                 bottom. With some crops, good seed can become stuck to air
+3. Stir the fermenting mixture two or three times a day to                  bubbles and remain floating on top. In these cases, gently push
+aerate it and facilitate even fermentation. A small amount of               the seeds down with your hands.
+white mold may appear on top of the mash; it is not harmful                 4. Pour the top layer of pulp, debris, and lighter, less viable
+and can be stirred back in.                                                 seed off the top. Repeat steps 2 through 4 about 3 to 6 times
+4. Closely monitor the seed for sprouting. Although damage                  until the water is fairly clear.
+may begin earlier, sprouting is a sure sign that the seed has               5. Pour seed into a strainer or onto a screen and rinse.
+soaked too long, and that damage has occurred. Experts
+disagree on the best method to determine when fermentation is               Note: For some crops, some seed growers do a quick rinse,
+complete. Some consider the process finished when the                       then decant their seeds. In some cases, rinsing first can remove
+mixture stops bubbling. Others stop when a thick layer of                   much of the pulp before decanting, requiring fewer repetitions
+white mold completely covers the surface of the mixture. Still              of the decanting process.
+others test for doneness by regularly removing a sample of the
+fermenting seeds, rinsing them in a strainer, and feeling them.             Large scale wet seeded crop processing
+If the gel around the seeds is completely gone, they consider               Large scale growers often harvest and process wet seeded
+the process finished. People have had success using all of                  crops in one mechanical operation where fruit is picked from
+these methods. Experiment to find the method that works best                the row, conveyed to a crushing mechanism, and the pulp is
+for you.                                                                    removed from the seed by washing with water in a rotating
+5. When fermentation is complete, decant and rinse.                         drum.
+
+Rinsing                                                                     How to dry seeds at ambient conditions
+The process of rinsing separates pulp from seed. The basic                  To reduce the risk of seeds becoming diseased, dry your seeds
+elements necessary for screening are; 1) a piece of metal with              as quickly as possible. To do this, maximize airflow. Spread
+small holes in it, such as a colander, strainer, or screen, 2)              the seed out in a very thin layer (about ! inch thick) onto
+pressurized water, and 3) hands for rubbing. Rinsing setups                 screen, plywood, sheet pans, or any hard, non-stick surface.
+can vary according to your scale and how thorough of a rinse                Avoid using paper towels, newspaper, cardboard, or cloth
+is necessary. Below are two common methods:                                 because wet seeds will tend to stick to the surface, making
+                                                                            them difficult to remove. If seed is very wet, repeated stirring
+1. Place seeds and pulp in a strainer. Put the strainer under               (every fifteen minutes for the first few hours, less often
+running water. Rub and rinse until the seeds are clean.                     thereafter) of the seed will encourage quick drying and further
+2. Use two framed screens, one on top of the other. The top                 reduce any chances of sticking. Air conditioning (especially in
+screen should have holes just large enough to allow the seeds               hot, humid environments), and fans can also be useful.
+to fall through while retaining large pieces of pulp on top. The            Remember that seeds should not reach temperatures over 95F
+screen below should have holes just small enough to retain the              (35C).
+
+                                                 Organic Seed Alliance · www.seedalliance.org
+
+                                                                       15
+                                                                             The most accurate test for dryness is to determine the percent
+Seed Storage:                                                                moisture content of your seed. To determine the percent
+Know how to protect your seed harvest and                                    moisture content, record the weight of a sample of your seed.
+                                                                             Next, place this sample of seed in an oven or toaster oven and
+keep it viable                                                               dry it slowly on low heat (taking care not to burn it) until all
+                                                                             moisture is removed. Weigh the seed several times during
+To maximize the life of your seed, keep it cool and dry, and
+                                                                             drying to determine if all moisture has been removed and the
+protect it from insects and rodents. Seed needs to be kept cool
+                                                                             weight has come to equilibrium. Record the weight of your
+and dry because inside every seed is a plant embryo living on
+                                                                             completely dry seed and then use the following formula:
+the seed’s food stores, the endosperm; when the embryo uses
+up all of the food stored in the embryo, it dies and the seed
+                                                                             Seed moisture content (%) = fresh seed weight – dry seed
+will not germinate. To prolong the life of a seed you must
+                                                                             weight
+slow down the rate at which the embryo uses its food. You can
+do this by keeping the seed cool and dry. Another reason to
+                                                                             __________________________________ x 100
+keep your seed cool and dry is that cool, dry seed is less
+                                                                                                            Dry seed weight
+vulnerable to attack from bacteria, fungi, and some insects.
+                                                                             A general guideline is that small seeds are “very dry” and
+Seed can be an excellent source of nourishment for rodents
+                                                                             ready to be stored in containers that restrict moisture release at
+and many insects. Therefore, where insects and rodents are a
+                                                                             approximately 5% seed moisture. Large seeds are ready at 7%
+concern, you will need to protect your seeds by storing them
+                                                                             seed moisture.
+in thick plastic, glass, or metal. But before you can safely store
+your seed in plastic, glass, or metal, you will need to make
+                                                                             Getting your seed to “very dry”
+sure that your seed is “very dry,” which we will describe next.
+                                                                             With some exceptions for hot, dry climates, seed dried at
+                                                                             ambient conditions usually will not be “very dry.” If you
+Determining if your seed is “very dry”
+                                                                             discover that your seed dried at ambient conditions is still not
+An important principle in seed storage is that the more a
+                                                                             “very dry,” and you wish to store it in a container that restricts
+storage container or location restricts the release of moisture,
+                                                                             moisture release, there are a couple of options for further
+the drier your seeds will need to be. To be on the safe side, we
+                                                                             drying your seed:
+recommend drying seed to a level that we call “very dry”
+before storing in any container that restricts the release of
+                                                                             Using silica gel
+moisture. Seed is “very dry” when it passes one or more of the
+                                                                             Determine the weight of the seed to be dried, including the
+following three tests:
+                                                                             packet that will hold the seed in the drying container. Measure
+                                                                             out an equal weight of silica gel and place the packet of seed
+Brittleness test
+                                                                             and silica gel in an airtight container. The container size
+Test small, oblong seeds, or thin ones (such as squash) by
+                                                                             should be small in relation to the volume of seeds being dried.
+bending them. If they are “very dry,” they will snap instead of
+                                                                             Depending on the original moisture content and size of your
+just bending. With bigger seeds such as corn, beans, or peas;
+                                                                             seeds, they should remain in the drying container for 2-7 days.
+put seeds on a hard surface and hit them with a hammer. If
+                                                                             Use the tests described above to determine when the seed is
+they are “very dry,” they will shatter like glass when hit. If
+                                                                             “very dry.” Check daily for dryness, because seed left with
+seeds are inadequately dry, they will smash or mush instead of
+                                                                             silica gel too long may lose too much moisture and become
+shattering.
+                                                                             damaged or go dormant. Small seeds should not be dried
+                                                                             below 3% moisture, and large seeds should not be dried below
+Envelope test
+                                                                             5% moisture. When the seed is “very dry,” remove the packet
+Put an envelope (or some other paper item) in your lot of seed
+                                                                             of seed from the drying container and transfer it to another
+overnight. The next morning, compare the envelope left with
+                                                                             airtight container.
+the seed to an envelope that was not with the seed. Does it
+seem moister than the envelope not left with the seed? Is it
+                                                                             Using a food dehydrator
+more malleable, or is it as crisp as the other envelope? If the
+                                                                             Use a food dehydrator with temperature controls that go down
+envelope left with the seed seems dry as or drier than the
+                                                                             to 85F (29C). Set the dehydrator at 85F (29C) and check your
+envelope left at ambient conditions, then you can consider the
+                                                                             seed often to avoid over-drying. The amount of time it will
+seed to be “very dry.” This test works best where paper tends
+                                                                             take for your seed to dry will depend on your crop and your
+to stay crisp and dry at ambient conditions.
+                                                                             dehydrator, so experiment with small batches of seed before
+                                                                             drying your entire seed lot.
+Test of percent moisture
+
+
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        16
+Where to store your seeds                                                    In coolest, driest place in house - Good for short to medium
+The right storage method for you will depend on the quantity                 term storage of seeds. Not necessary to get seeds to “very
+of your seed, your intended length of storage, ambient                       dry.”
+conditions, and presence of pests. It will also depend on the
+type of seed you are storing. Some seeds like amaranth, which                To determine whether a location is cool and dry enough to
+can retain good germination and vigor after 40 years in                      store seed, you can use this general guideline: The sum of the
+storage, are famously long-lived. You have more leeway in                    storage temperature (in degrees F), plus the relative humidity
+choosing how to store long-lived seeds. Other seeds are                      (in percent) should not exceed 100. The formula looks like
+famously short lived. The three major crops with very short-                 this: Temperature F + Relative Humidity % = <100.
+lived seeds are onions, leeks, and parsnips, which may retain
+good germination and vigor for only one to two years. It is                  Refrigerator - Protects against insects and rodents.
+especially important to keep short-lived seeds very cool and                 Good for medium term storage of seeds. A refrigerator may
+dry.                                                                         not provide the ideal level of humidity, so seed should be in an
+                                                                             air tight container, and must be “very dry.” If seeds are taken
+For the bulk of major vegetable crops, if the seed is of good                from the refrigerator and transferred to room temperate,
+quality (not small or diseased), and storage conditions are                  prevent condensation on the seeds by allowing them reach
+good, you can expect that it will retain good germination and                room temperature before opening the container.
+vigor for 3-5 years. So, with the exception of the short-lived
+seeds listed above, you can plan to store most of your seeds                 Freezer - Protects against insects and rodents. Kills insects.
+for 3-5 years before you grow them out again. In many cases,                 Good for long term storage of seeds. A freezer is so cold and
+however, seed will still germinate and grow after more than 5                dry that moist, unprotected seed will be damaged. Seed should
+years in storage. In fact, it is not unheard of for high quality             be in an air-tight container and must be “very dry.” If seeds
+seed of some common vegetable crops to remain viable for                     are taken from frozen storage and transferred to room
+more than 10 years. Seed stored for this long, however, will                 temperate, prevent condensation on the seeds by allowing
+likely have a lower germination rate and lower vigor.                        them reach room temperature before opening the container.
+
+Storage containers and locations                                             What to do when your seed lot is infested with insects
+Two basic elements to consider when choosing a storage                       Insects such as mites, weevils, beetles, and moths can be
+container are the level of moisture release that it allows (and              present in your seed at harvest, and they can find your seed in
+hence whether it requires you to get your seed “very dry”),                  storage. If you have cause to believe that your seed is infested,
+and the level of protection from insects and rodents that it                 you can kill the pests by putting your seed in the freezer for a
+provides. Here is how four common seed storage containers                    few days. Your seed must be “very dry” before you put it in
+compare on these two elements:                                               the freezer, and it should be in an air-tight container. If you
+                                                                             don’t plan on leaving your seeds in the freezer after the insects
+Paper or cloth - Allows for moisture release, so seeds don’t                 are killed, remember that you will need to prevent
+have to be “very dry,” though they need to be very close to                  condensation on the seeds by allowing them reach room
+this ideal dry state. Not protective against insects and rodents.            temperature before opening the container.
+
+Plastic bags - Largely restricts moisture release, so seed                   Temperature and humidity fluctuations
+should be “very dry”. Not protective against insects and                     Temperature and humidity fluctuation are detrimental to seed
+rodents.                                                                     longevity, so to maximize the life of your seed, store it at a
+                                                                             constant temperature and humidity. If you are storing your
+Plastic tubs, bins, buckets - Somewhat restricts moisture                    seed in the refrigerator or freezer, minimize the number of
+release, so seed should be “very dry”. Somewhat protective                   times that you remove the seed from these locations.
+against insects and rodents.
+                                                                             Labeling
+Glass jars, other air-tight containers - Greatly restricts                   Make sure to label your seed. Include on your label the type of
+moisture release, so seed must be “very dry”. More protective                plant, the variety name, the name of the seed’s original source,
+against insects and rodents.                                                 and the year the seeds were last grown. You can also include
+                                                                             information gathered about the crop throughout the growing
+On display - Storing your seeds in glass jars in a place of                  season such as days to maturity (number of days from sowing
+prominence in your house allows you to fully enjoy their                     to mature seed); plant height and habit; fruit size, color, and
+beauty, but ambient conditions may not be ideal for seed                     shape; productivity; disease resistances or susceptibilities;
+longevity.                                                                   flavor; and storage qualities. To be on the safe side, many seed
+
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        17
+savers put labels both on the inside and the outside of their                  3. Place seeds to be tested somewhat equidistant from each
+storage containers.                                                            other, usually not closer than !”, on the damp paper. If seeds
+                                                                               fit easily on half of the paper, then fold the other half of the
+Saving remnant seed                                                            paper over the seeds. If the seeds take up the whole paper, put
+Make sure to hold some seed in reserve whenever you plant a                    another damp paper on top of the seeds. Roll the paper up
+variety you are maintaining. By holding a remnant seed                         somewhat tightly to keep the seeds from shifting position or
+sample then if there is a crop failure of that variety, you will               falling out.
+still have some seed in storage to try again next year.                        4. Seeds need both air and moisture to germinate. You need to
+                                                                               strike a balance between keeping moisture in and allowing the
+Germination:                                                                   seeds to breathe. There are four ways to do this; you can place
+Know your seeds germination rate.                                              the seed roll a) between two diner plates closed together, b) in
+                                                                               a plastic bag that is sealed all the way, but has some air in it, c)
+                                                                               in a plastic bag that is sealed all the way but has holes in it, d)
+If you have old seeds or are curious about the quality of seeds
+                                                                               in a plastic bag that is closed only partially.
+that you grew and saved, you can use one of the following
+                                                                               5. Using the permanent marker, write the variety name of the
+tests to determine the germination rate of your seed.
+                                                                               seed, the date you started the test, and the number of seeds
+                                                                               onto the bag (or tape the info to the plate). Also write this
+In soil germination test
+                                                                               information into your notebook.
+The best way to test the germination rate of your seed lot is to
+                                                                               6. Try to approximate the conditions that your seed prefers for
+sow a selection of seeds in a flat of soil as you would if you
+                                                                               germination. Some seeds, like spinach, celery, and peas
+were starting them in a greenhouse. The only major difference
+                                                                               geminate best at lower temperatures (60-70F/15-21C), while
+between sowing seeds for starts and sowing seeds for a
+                                                                               eggplants, melons, and peppers prefer more warmth (72-
+germination test is that you may sow seeds for a germination
+                                                                               80F/22-27C). Most vegetable seeds are indifferent to the
+test more closely together (around ! inch apart is fine). Adapt
+                                                                               amount of light they receive during germination, but some
+the directions below for germination testing done in paper
+                                                                               (such as lettuce and celery) prefer light, while others (such as
+rolls to your in-soil germination test.
+                                                                               onions and chives), prefer darkness. You can learn your crop’s
+                                                                               preferred conditions for germination from many gardening
+Paper roll test
+                                                                               books, gardening websites, or from seed catalogs.
+If you find that it is not practical to test your seeds in soil, use
+                                                                               7. After 3 days, start checking the seeds daily. The fresh air
+the paper roll test.
+                                                                               that wafts in when you check on the seeds will do them good,
+                                                                               and you can add moisture if the paper is drying out. Most
+Materials needed:
+                                                                               importantly, check the progress of your germinating seeds. If a
+1. Germination paper or paper towels. If possible we
+                                                                               seed molds or looks rotten, count it as dead and remove it. If
+recommend using germination paper because it is acid-free;
+                                                                               it looks like a seed’s first root has fully emerged, count it as
+acid in paper towels can affect germination. It is also an ideal
+                                                                               germinated and remove it. Removing dead and germinated
+texture to retain moisture without becoming soggy or
+                                                                               seeds from the paper roll keeps things from getting moldy. In
+waterlogged. Germination paper is not easy to come by in
+                                                                               your notebook, keep a running count (with dates) of the dead
+small quantities so you may want to go in on a supply with
+                                                                               and germinated seeds.
+your gardening friends. Larger quantities may be purchased
+                                                                               8. Continue to check your seeds daily until; a) all of your
+from Hoffman Manufacturing (see Resources section).
+                                                                               seeds have germinated or b) the maximum predicted
+2. Plastic bags or dinner plates
+                                                                               germination time for your crop has passed. Some seeds take
+3. Permanent marker
+                                                                               no more than 2 days to germinate, while others take as long as
+4. Notebook for recording information
+                                                                               20 days. A good general rule is to continue the test for at least
+                                                                               21 days. Then, from your running count, find the total number
+Procedure:
+                                                                               of good seeds. If all of the seeds germinated, then you have a
+1. Moisten germination paper. The paper should be wet but
+                                                                               perfect germination rate - 100%. If it was less than perfect,
+not dripping. You can use a spray bottle to moisten the paper,
+                                                                               divide the number of seeds that germinated by the number you
+or you can quickly dip the paper into a tray of clean water. If
+                                                                               started with to determine the germination rate. For example, it
+water beads up around your fingertip when you press on the
+                                                                               you started with ten seeds and only nine germinated, then 9/10
+paper, it is too wet.
+                                                                               = 0.9 or 90%.
+2. Choose a random selection of seeds from the seed lot you
+are testing. Do not select all the best (or worst) looking seeds
+or your results will be skewed. Additionally, the more seeds                   How to use the results of your germination test
+that you can spare to do the test, the more accurate your results
+will be. Ten seeds is an absolute minimum. Testing 50 – 100
+seeds will give you more dependable results.
+                                                    Organic Seed Alliance · www.seedalliance.org
+
+                                                                          18
+First, the germination rate helps you to know how much seed                 harvest or frost. Because beet seed matures sequentially the
+to sow. For example, if the germination rate is 50%, sow twice              percentage of beet seed reaching full maturity at the time of
+as much seed to get a full stand.                                           harvest will usually not exceed 75% of the total seed crop. The
+                                                                            earliest seed to set will often mature several weeks before the
+Second, the germination rate tells you about the fitness of your            bulk of the seed on any given plant has matured. This first
+seeds. In general, as the germination rate goes down, so does               seed set is usually of a high quality and has a high germination
+your seed lot’s general vigor and vitality. Low germination                 rate, but it may readily shatter as the bulk of the crop is
+rates are a warning that the energy reserves stored in your seed            maturing. The seed grower must determine when the
+are running very low, and that they may produce plants that                 maximum overall maturation has occurred, without losing a
+under perform in the field.                                                 significant amount of the earliest maturing seed. Cool, wet
+                                                                            weather can often occur during the late season, seed
+A note about dormancy                                                       maturation period for beets in the Pacific Northwest making it
+Most seeds of wild plants go through a period of dormancy,                  even more important for growers to closely monitor the seed
+which is a mechanism for delaying germination until the seed                maturity and not harvest too early or too late. Early harvest
+is dispersed and exposed to favorable growing conditions. In                may result in a percentage of seed that is not fully mature.
+general, as our food crops became domesticated, their seed                  Harvesting seed past the optimum time period may result in
+dormancy characteristics were lessened or eliminated through                reduced yield and seed quality due to seed shattering and an
+selection for early germination by farmers. Nevertheless, the               increased incidence of seed borne diseases.
+seeds of some of our common crops still exhibit some
+dormancy. For example, spinach, lettuce, and pepper seeds                   A standard method used to judge maturity of the beet seed
+may not germinate well for a few months after they are first                crop is a visual assessment of the color of the seed ball (a
+harvested.                                                                  multiple-seeded fruit resulting from the fused dry corky bracts
+                                                                            of two or more flowers that occur at the same node). Harvest
+A period of dry storage is usually all that is required before              should occur when between 60 and 80% of the seed balls on at
+dormant seeds will germinate. In some cases, such as with a                 least 90% of the plants in the field have turned a tannish-
+number of herbs, the seed coat must be scratched, notched, or               brown shade, typical of mature beet seed. Unfortunately this
+otherwise worn down before the seed can germinate.                          method may sometimes be inaccurate due to the potential
+                                                                            effects of the environment or the genetic variation of the
+In general, since dormancy is usually broken by time and seed               particular beet variety being produced. In a number of
+usually sits in storage over the winter, you may never need to              environments the beet seed balls will turn a darker shade of
+worry about the seed dormancy characteristics of your crop. If,             brown, sometimes before they reach full maturity. This often
+however, you wanted to test the germination rate of a lot of                occurs with higher than usual levels of precipitation during the
+freshly harvested seed, do not be surprised to discover that the            final weeks of seed maturation. This darkening may be due to
+seed tested doesn’t germinate in the fall. Rather than assuming             saprophytic bacterial or fungal growth on the corky bract
+that your seed is dead and needs to be discarded, let the seed              tissue of the seed balls. Depending on the pathogen it may not
+sit in storage for a few months, then try testing it again.                 be harmful to the seed, but it seriously impedes visual
+                                                                            assessment of beet seed maturity. There is also considerable
+                                                                            variation between varieties for the degree of browning of the
+Specific Crops:
+                                                                            seed that occurs during the maturation process. Some beet
+Seed Saving Tips for common vegetable crops                                 varieties may retain greener hues than others, even when fully
+                                                                            mature.
+Beets (Chenopodiaceae): Beta vulgaris
+Growing tips: Beets are a cool season crop and are best grown
+                                                                            In order to make a more accurate assessment of the maturity of
+in areas with mild temperatures (below 75-80F/23-26C)
+                                                                            the seed it is best to check the relative maturity of the
+during flowering. Beets are a biennial and require
+                                                                            endosperm of the seed. The endosperm, which grows
+vernalization to flower. The ideal size of the root for
+overwintering (in terms of cold hardiness) is 1-1.5in diameter.             concurrently with the embryo, must be fully developed to
+The flower stalk is extremely large; up to 5ft tall.                        produce viable, fully mature seed that will grow vigorously
+                                                                            and maintain a high germination percentage through its
+Harvest and processing tips: Beet seed crops from second                    expected storage life. The starchy endosperm can be
+year roots mature in approximately 140 – 160 days depending                 monitored through the maturation process by cracking open
+                                                                            any one of the several seeds that occur within each beet seed
+on variety, climate, and planting date. Beet seed formation
+                                                                            ball. The best way to determine the maturity is to squeeze a
+usually starts anywhere from six to ten weeks after flower
+                                                                            small amount of the endosperm out of the cracked seed and
+stalk initiation. As the flowering habit is indeterminate,
+                                                                            visually inspect it. If the endosperm is viscous and appears
+flowering and subsequent seed maturation will continue until
+                                                                            translucent or milky, it is not close to maturity and will require
+
+                                                 Organic Seed Alliance · www.seedalliance.org
+
+                                                                       19
+at least 3 to 4 weeks to mature. Sometime after this the                     screen or wire mesh may be used to retain seed and allow
+endosperm will start to appear grayish and waxy, what is often               smaller debris to pass through.
+called “flinty,” but it is still not close to maturity. When the
+endosperm becomes “starchy” with a true solid white color                    Carrot (Apiaceae): Daucus carota
+and has a firm texture then the seed is very close to maturity.              Growing tips: Carrots are a biennial and must acquire
+A majority of the seed, at least 70 to 75% of the seeds on any               vernalization to flower. The ideal size for overwintering (in
+given plant, must be at this advanced starchy stage before                   terms of cold hardiness) is slightly smaller than the size you
+considering harvest.                                                         would harvest for food. It should be about !-1in wide at the
+                                                                             crown (see section on biennial crops). However this size is a
+Broccoli/Cauliflower (Brassicaceae): Brassica oleracea                       little small for selection of roots for tip fill and overall shape.
+Growing tips: Broccoli is commonly grown as an annual for                    If grown for improvement then grow roots slightly larger size
+seed as it does not require vernalization, though its ancestors              to select and overwinter, but if conditions are cold and
+followed a biennial cycle. Cauliflower is a true biennial and                overwintering is risky then grow for smaller size. Carrots
+requires vernalization. Both broccoli and cauliflower benefit                benefit from staking in the field.
+from staking in the field.
+                                                                             Harvest and processing tips: Carrot seed crops usually mature
+Harvest and processing tips: Harvest and processing for                      from mid-August to mid-September in the Western Region.
+broccoli and cauliflower should follow steps outlined in the                 The king or primary umbel is the first to ripen. The seed will
+cabbage description.                                                         turn from a dark green to brown and will actually begin to
+                                                                             detach from the umbel, but because of the racemes, or little
+Cabbage (Brassicaceae): Brassica oleracea                                    hooks that cover the seed, they often latch together and remain
+Growing tips: Cabbage is a biennial and requires vernalization               on the umbel surface. Much of this seed can still be lost to
+to induce flowering. The ideal size for overwintering (in terms              shattering. The secondary and tertiary umbels that form after
+of cold hardiness) is a fully grown, but loosely formed head,                the king umbel will ripen anywhere from a few days to a few
+before the head firms up. Cabbage plants will generally                      weeks later. However, waiting until all of the late forming
+overwinter in areas that don’t drop below 20F (-7C) in the                   umbels ripen is seldom economically viable as this seed tends
+winter. In colder winter climates, cabbage plants must be dug                to be of lower quality and strong winds will begin to dislodge
+up and stored over the winter. Choose the firmest heads and                  the seed from the king umbels which is generally the best
+trim off loose leaves. Dig up the entire plant and clip the roots            seed.
+to 12 inches, leaving some lateral roots. The cabbage heads
+should be covered with damp sawdust. Heads may also be                       Poor soil fertility, uneven soil water, excessive heat at
+wrapped in damp newspaper and stored for 2-4 months at a                     flowering, inadequate pollination and Lygus bug (Lygus spp.)
+temperature of 32-40F (0-4C) and 80-90% relative humidity.                   damage can all effect the development of the embryo. Good
+                                                                             quality carrot seed is generally plump and heavy. One way to
+In the spring of the second year, after re-planting or                       check initial seed quality is to rub a small sample in the palm
+overwintering in the field, it may help to cut a shallow X on                of your hand using a fair bit of pressure on the seed. Good
+the top of the cabbage head to promote the seed stalk to                     seed will remain intact while poor seed will crush and break
+emerge. The seed stalk will grow 3-4 feet tall and produce                   apart. When about 80% of the total seed has turned brown and
+seedpods.                                                                    detached from the umbel the crop is usually swathed and left
+                                                                             to lie in the field for 2-5 days to allow the stems to dry so that
+Harvest and processing tips: In Year 2 pods will start to dry                the crop can easily be threshed. The crop is very vulnerable to
+and turn brown as they mature. If the seed pods are allowed to               shattering due to high winds and rain at this stage so timing
+dry completely in the field, you run the risk of them shattering.            and being mindful of the weather is important in timing this
+It is best to harvest the mature plants and allow them to dry                step.
+completely on tarps. Cut plants at base and windrow (onto
+tarps) for 3 - 5 days during dry weather. Dry plants need to be              Proper threshing takes an experienced operator. Because
+threshed before cleaning. Thresh plants by stripping pods and                carrot seed is light in comparison to the stems and other trash
+rubbing gently to crush pods and release seeds. Brassica seeds               created by threshing with combine, it’s difficult to get a clean
+can be crushed or damaged by too vigorous of rubbing.                        seed crop using a combine. Further seed cleaning with screens
+Threshed pods can be cleaned by winnowing and/or cleaning                    and forced air is necessary to get a clean seed crop. It’s not
+with screens. When cleaning seed with screens two screens are                uncommon for the total weight that comes out of the combine
+commonly used, a top screen to scalp off large debris and a                  to be less than 50% good, clean seed. Research and trials show
+smaller bottom screen to retain seed and allow small debris to               that early harvest of carrot seed before the seed is
+pass. A size 7 or 8 screen should allow seed to pass through                 physiologically ripe results in lower seed quality.
+and retain larger debris. A size 3 screen or a small slotted
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        20
+Harvest beyond mid-September is dangerous as it exposes the                 cucumbers on the vine for around 4-5 weeks. For harvest, the
+crop to the vagaries of wind and rain damage. If the crop is                fruits will be very large and their color will be pale yellow to
+small and cover is available, cut the crop at the proper stage              orange-brown, depending on the variety. The wall of a
+and then move it onto paper or plastic under cover until it can             harvestable fruit will give slightly under gentle thumb
+be threshed. The stems will still have a fair bit of moisture so            pressure.
+make sure to manually turn the crop to get it uniformly dry.
+Don’t pile the crop any higher than 2-3ft (61-91cm) deep and                Good options for processing:
+try to keep the pile loose and fluffy to allow air flow through                Cut open, scrape out seeds and pulp, rinse or decant
+the crop. Supplementary air from fans may be necessary to                      Cut open, scrape out seeds and pulp, soak for 8-12 hours,
+keep mold from forming on the mature seed until threshing.                         rinse or decant
+                                                                               Cut open, scrape out seeds and pulp, ferment 48-72 hours,
+Common Bean (Fabaceae): Phaseolus vulgaris                                         rinse or decant
+Growing tips: Bean seed crops may require a long season to
+mature (average 90-120 days) and must be planted early                      Eggplant (Solanaceae): Solanum melongena
+enough to mature and dry prior to frosts or rains. Dry, long                Harvest and processing tips: The seeds of eggplants are still
+growing seasons are key to minimizing disease pressure.                     very immature when the fruit is edible. Leave edible eggplant
+Temperatures above 90F (32C) or below 50F (10C) during                      on the vine for an additional 2-3 weeks. For harvest, purple
+flowering may adversely affect pod set and seed yields. Most                fruits will turn a dull brown and white eggplants will often
+bean varieties germinate best when soil temperatures are at or              turn yellow. To confirm harvest readiness, cut open one or two
+above 65F (12C), but germination may be inhibited at                        fruits and confirm that all of the seeds are dark.
+temperatures above 95F (35C). There are however, instances
+when seed growers must plant with soil temperatures below                   Good options for processing:
+optimum in order to fully mature a seed crop by the end of the                 Blend lower (seed containing part) of the fruit with water
+season. Depending on your climate beans can be day-length                          in a food processor (use a thick plastic blade, or wrap
+sensitive, which means the flowers will not open until the days                    tape around metal blades to avoid damaging seeds)
+are shorter. Always test the variety before relying on a seed                      then choose between rinsing, decanting, or rinsing
+crop.                                                                              and decanting.
+                                                                               Grate lower (seed containing part) part of the fruit, Put
+Harvest and processing tips: Each variety has its own specific                     gratings and any loose seed in a container that can
+harvest timing and while this makes overall recommendations                        hold at least twice the volume. Add water to within 2
+for gauging cutting, curing and threshing difficult, there are                     inches of the rim, and squeeze by hand until very few
+basic signs that indicate maturity. Most bean varieties will be                    seeds are left in the flesh. Then choose between
+mature for harvesting when they first turn yellow, tan or                          rinsing, decanting, or rinsing and decanting.
+mahogany. If the bean has turned too dark a brown, it is at risk
+for seed shattering during harvest. The crop should be cut                  Kale/Collards (Brassicaceae): Brassica oleracea
+when approximately 70 to 80% of the pods of the plant are the               Growing tips: For the seed crop kale is usually seeded into
+desired color and point of breaking.                                        flats from June 20 – July 15 and transplanted 3 to 4 weeks
+                                                                            from emergence. These plants are overwintered in the field.
+Corn (Poaceae): Zea mays                                                    This crop is the traditional European style kale which should
+Growing tips: Corn is highly susceptible to inbreeding                      not be confused w the ‘Red Russian’ type which is Brassica
+depression so maintaining a large enough population is                      napus, the same species as rutabaga. European kale (B.
+essential (see Crop Specific Chart). A good seed set requires               oleracea) will not cross with the ‘Red Russian’ types or
+adequate application of pollen to the silks (style and stigma).             Siberian kales, but will cross readily with broccoli, Brussels
+For this reason corn benefits from planting in a block rather               sprouts, cabbage, cauliflower, collards and kohlrabi. Kale can
+than long, narrow rows.                                                     benefit from staking in the field.
+
+Harvest and processing tips: Corn husks are harvested when                  Harvesting and processing tips: Harvest and processing for
+they have dried completely on the stalks. After the husk is dry             kale should follow steps outlined in the cabbage description.
+you can rub two husks together to free the seed kernels from
+the husk. Other machinery can be used for larger productions.               Lettuce (Asteraceae): Lactuca sativa
+Winnow out any other debris from the seeds.                                 Growing Tips: Lettuce is a long season annual crop. The seed
+                                                                            matures between 12 and 21 days after flowering. On any given
+Cucumber (Cucurbitaceae): Cucumis sativus                                   lettuce plant, the flowers do not mature all at once, instead
+Harvest and processing tips: The seeds of cucumbers are still               maturing sequentially. The expansion of the pappus from the
+very immature when the fruit is edible. Leave edible                        beak of the seed, called feathering, signals seed cluster
+
+                                                 Organic Seed Alliance · www.seedalliance.org
+
+                                                                       21
+maturation. Seed harvest may begin when 30 - 80% of seed                   Melon (Cucurbitaceae): Cucumis melo
+clusters display feathering, depending on methods and                      Harvest and processing tips: At the point of edibility, you
+conditions.                                                                have some options for harvest: a) if getting to eat perfectly
+                                                                           ripe melon is more important to you than extracting the
+Harvesting and Processing Tips: For commercial seed                        maximum number of fully mature seeds, promptly harvest the
+production lettuce seed is normally harvested all at once,                 melon, eat it, and reserve the seeds b) if the fruits are not at
+however on a small scale or with ample labor it may also be                risk of damage or disease in the field, and you want more
+harvested multiple times in the field.                                     prime melon seed, allow them to remain on the vine until they
+                                                                           have softened slightly, but extract seed before they show any
+Good options for lettuce seed harvest:                                     signs of serious decay. c) if the fruits are at risk of damage or
+   Multiple harvests. Harvesting repeatedly is typically done              disease in the field, harvest the fruits right away and store at
+       by hand. The first harvest occurs when one-third of                 65-75F (18-24C) for 7-10 days (until melons are beginning to
+       the seed heads have feathered. Each plant is shaken                 soften, but are not rotting) before extracting seed.
+       into a sack or bucket. A second harvest is repeated in
+       1 to 2 weeks, when significant new feathering is                    Good options for processing:
+       visible. Sometimes, 3rd and 4th harvests can be made,                  Cut open, scrape out seeds and pulp, rinse or decant
+       but the seed may be unacceptably poor quality.                         Cut open, scrape out seeds and pulp, soak for 8-12 hours,
+       Multiple hand harvesting can result in more seed                           rinse or decant
+       yield, and higher seed quality. However, it requires
+       more labor.                                                         Onion (Alliaceae): Allium cepa and Leek (Alliaceae): Allium
+   Single harvest - mechanical. When approximately 50% of                  ampeloprasum
+       the flowers have feathered, the crop is swathed. After              Growing Tips: Onions are a biennial crop and require
+       3 or 4 days, the seed is harvested and threshed with a              vernalization. They can benefit from staking in the field.
+       combine. Harvest should happen in the late morning,
+       so that residual morning moisture can reduce losses                 Harvesting and Processing Tips: The mature seed of onions is
+       due to shattering. The combine will either have pick-               a dull black color, hard and completely dry. A good rule of
+       up guards on the header and a reel, or a belt pick-up               thumb is when there is a patch of black seed showing at the
+       without a reel. Because lettuce seed is small and                   top of the umbel about a big around as a 50 cent piece, it’s
+       delicate, the concave needs to be opened, the air                   time to cut the crop. Several different methods are used. The
+       needs to be set low, and the cylinder should be slow.               most common method is to cut the umbel leaving about 6
+       Many growers find a 10 - 20% reduction in                           inches of the seed stalk attached and piling the material on
+       germination when lettuce is machine-harvested, both                 paper in the field. Paper is used so that condensation does not
+       because immature seed is harvested and because                      form on the ripening seed. Some people have begun to use
+       mechanical threshers can damage the seed.                           ground cloth type materials under the crop and then covering
+   Single harvest – hand. An improved single harvest                       the crop with plastic if rain threatens. Smaller sized crops can
+       method has been developed by Gathering Together                     also be moved into an unused greenhouse or other building as
+       Farm in Philomath, Oregon. In their method, the                     long as it has good airflow. Make sure the piles are no more
+       lettuce plants are pulled and windrowed with the                    than 2 feet deep and kept loose and airy to allow good air
+       plant roots intact. Most of the plant, including the                flow. The later maturing seed will use the moisture from the
+       seed head, is placed onto geotextile landscape fabric               seed stalks attached to the umbel to continue maturing.
+       to catch shattering seed. The plant roots are placed
+       off of the fabric to avoid soil contamination in the                Once all of the seed is mature threshing can begin. Check the
+       gathered seed. The plants are harvested with the roots              seed for full maturity by biting or cutting into the seed from
+       in order to continue providing energy to the maturing               the lower parts of the umbel. The seed should be completely
+       seedplants, which may continue to flower daily and                  dry. If the endosperm is not fully ripe the inside of the seed
+       mature seed for up to a week. The geotextile fabric                 will be soft or “doughy”. This soft seed is very easily damaged
+       wicks moisture away from the seed plants, but                       during the threshing process. Usually about 10-14 days in
+       “breaths” and allows incidental rain to pass through,               sunny field conditions is enough to get the seed fully mature.
+       rather than puddle as it will with a tarp. The plants
+       should be left to dry until the leaves are crisp. In the            Onion seed needs to be threshed very carefully as the seed
+       event of a forecast for prolonged precipitation, roots              coat is very thin. Aggressive threshing with a combine often
+       may be removed and plants rolled up into round                      leads to microscopic cracks in the seed coat that greatly
+       “bales” that will shed rain for a few days of bad                   diminish storability. Combines are often equipped with rubber
+       weather.                                                            beater bars to minimize the damage.
+
+
+                                                Organic Seed Alliance · www.seedalliance.org
+
+                                                                      22
+Because onion seed shatters very easily, small amounts of                    production. You may also choose the “seed-to-seed” method
+seed can be extracted by beating the umbels on the inside of a               where you plant the radish seeds and wait until seed
+plastic trash can. A great deal of seed generally shatters on the            maturation without evaluating the root qualities. Unless you
+paper or other drying surface. This seed can be carefully swept              do not have any other choice, this method is not reliable to
+up and cleaned with the rest of the seed.                                    produce viable seed except when the seed stock used was
+                                                                             proven to be genetically uniform.
+A good, quick way to check onion seed for initial quality or to
+clean small parts of dry matter is to add the seed to a bucket of            Harvest and processing tips: Radish seed crops mature in
+water. Good seed will sink. Poor seed and small plant material               approximately 150 days depending on variety, climate and
+will float and can be poured off. Wet seed should be quickly                 planting date. Radish seed is ready to harvest when about 60
+laid out in a thin layer to dry with good air circulation.                   to 70% of the seed pods turn from a green-yellow to brown
+Pepper (Solanaceae): Capsicum spp.                                           and lose their fleshy appearance, becoming papery thin and
+Harvest and processing tips: Peppers are ready for seed                      light.
+harvest when their color development is complete and
+uniform. Most pepper varieties are completely red when they                  For small plots, hand harvest entire seed stalks with pruning
+are ready for seed harvest, but others are yellow, green,                    shears or clippers. One grower utilizes a chain saw to cut large
+orange, purple, or brown. Peppers are particularly susceptible               stands in the field. Windrow and dry in field, on a tarp if
+to disease, and can be moldy in the core even when the outside               possible. If further drying is necessary, place pods on wire
+of the pepper looks healthy. To address this, monitor for decay              mesh tables to allow air circulation. Pods should be brittle
+as your peppers are reaching complete color development by                   when sufficiently dried. Dry for 10 – 14 days depending on
+cutting some open. The cores should have no mold and the                     weather conditions and relative humidity.
+seeds should be ivory, yellowish, or orangish; brown or very
+dark seeds are diseased. If the peppers you cut open are                     There are several methods for processing radish seed on a
+showing signs of decay, you may need to harvest them early                   small scale (less than 50 lbs).
+and continue their ripening in a protected location at about 65-             1.     Place pods in sturdy bag and stomp until seeds break
+75F (18-24C). For maximum seed quality, store peppers that                   loose from pods.
+have reached complete color development at about 65-75F                      2.    Place seeds on a tarp and walk on them with soft-soled
+(18-24C) for 7-10 days before extracting the seed. Cut this                  shoes.
+after-harvest ripening time short- or eliminate it completely- if            3. Hand method: break pods by hand (with gloves!) to keep
+your peppers show any sign of decay.                                         seed clean and allow for sorting as you clean.
+
+Good options for processing:                                                 Remove seed from crushed pods by hand screen, gravity table,
+   Blend fruits with water in a food processor (use a thick                  box fan, or mechanized screen cleaner. If using hand screens,
+        plastic blade, or wrap tape around metal blades to                   a 9/64 in. round hole will allow seeds to pass through and
+        avoid damaging seeds), rinse or decant.                              chaff to remain on top of the screen. A 5/64 in. hole can then
+   Remove cores from peppers, scrape seeds off of cores                      be used to remove small debris and chaff and allow the seed to
+        with a knife, rinse or decant.                                       stay on top. Winnowing with a box fan can be used to further
+   Remove cores from peppers, soak cores 8-12 hours, rub                     clean seed.
+        seeds off with gloved hand, rinse or decant.
+   Break open fruits, rinse.                                                 For processing on a large scale (50 lb or more), a small
+   For thin-fleshed peppers: dry peppers, then use dry seeded                combine can be used as a thresher by hand feeding the entire
+        processing procedures.                                               seed stalk through. Feed the thickest part of the stalk first to
+                                                                             prevent over-feeding of the thresher. Make sure the distance
+Radish (Brassicaceae): Raphanus sativus                                      between the rollers is at least 1 ! times the thickness of the
+Growing Tips: Radishes can either be an annual or a biennial                 largest seeds. The cylinder speed of the combine should be
+depending on the variety. Radishes are cool season crops that,               less than 700 rpm to avoid crushing the seed. Repeat cleaning
+in order to produce superior roots, are best grown at                        section as detailed above.
+temperatures that rarely exceed 80F (26C). During seed set
+and maturation, radish seed crops can tolerate slightly higher
+                                                                             Spinach (Chenopodiaceae): Spinacia oleracea
+temperatures. As with other root crops, radishes can only be
+                                                                             Growing tips: Spinach is a cool weather annual. It must be
+properly maintained for trueness to type when grown using the
+                                                                             planted in early spring (by late April in the Pacific Northwest)
+“root-to-seed” method, which allows for selection of the roots
+                                                                             in order to grow a large enough plant before bolting to
+before seed production begins. Radishes are first planted
+                                                                             produce a good seed set. Spinach flowering is triggered by
+closely, harvested to evaluate superior roots upon maturity and
+                                                                             increasing day length. Spinach seed requires a unique climate
+then re-planted with wider spacing to prepare for seed
+
+                                                  Organic Seed Alliance · www.seedalliance.org
+
+                                                                        23
+limited to cool, wet springs followed by cool summers
+[temperatures not exceeding 75F (24C)] and relatively dry fall                  Squash, Winter and Fall (Cucurbitaceae): Cucurbita pepo
+weather for harvesting. Especially during pollination and early                 Harvest and processing tips: At the point of edibility, you
+seed development, temperatures that exceed 75F (24C) can                        have some options for harvest; a) if the fruits are not at risk for
+dramatically lower germination rates, seed size and yield.                      disease or damage, allow the squash to remain on the vine
+                                                                                until right before the first hard frost, or b) if the fruits are at
+Harvest and processing tips: Spinach seed is ready for harvest                  risk for disease or damage, harvest the fruits right away and
+when 60 to 70% of the seed is a brownish color. However,                        store at 65-75F (18-24C) for a few weeks. In either case, note
+some varieties differ and plant diseases can allow the same                     that squash seed left in the fruit reaches its highest level of
+overall appearance. To assure maturity, the seed must be                        quality after two months in cool storage, then quality declines.
+opened and inspected for its color. If the inside of the seed                   So, once you have brought your squash in from the field, or
+transforms from translucent or milky at the beginning of                        after it has sat for a few weeks at 65-75 (18-24C), store the
+maturity to grayish or flinty in the middle to a final and mature               squash at 50-55F (10-13C) for two months and then extract
+starchy and whitish color. The plant is mature when the                         the seed. If maximum quality isn’t necessary, simply extract
+majority of the interiors of these seeds are a starchy white                    squash seeds as you eat your stored squash through the winter.
+color.
+                                                                                Good options for processing:
+To harvest spinach seed cut the plants near the base of the                        Cut open, scrape out seeds and pulp, rinse or decant
+stems to stack into windrows. This should be done preferably                       Cut open, scrape out seeds and pulp, soak for 8-12 hours,
+during a warm, dry period. The windrowed stalks will be                                rinse or decant
+ready to thresh in 4-10 days, depending on the weather.
+Rotating stalks in the windrows facilitates uniform drying of                   Tomato (Solanaceae): Solanum lycopersicum
+the seed. Once plants are dry they may be first threshed by                     Harvest and processing tips: At the point of edibility, you
+stripping stalks by hand and discarding stems. Seed clusters                    have some options for harvest; a) promptly harvest the
+and leaves must then be threshed further to break apart seed                    tomatoes, extract the seeds, and eat the flesh. Use this option if
+clusters. This second step of threshing may be done by placing                  getting to eat perfectly ripe tomatoes is more important to you
+seed clusters in Rubbermaid buckets at least 1 ft thick and                     than extracting the maximum number of fully mature seeds, or
+stomping by foot with a twisting motion. Once broken down                       b) if you want prime tomato seed, harvest the fruits when they
+the extra chaff and dust may easily be removed by winnowing                     are starting to soften, but before they show signs of decay.
+with a fan. The threshing and winnowing process may need to
+be repeated several times. Seed may also be further cleaned                     Good options for processing:
+with screens. A 9 or 10 size screen may be used to scalp off                       Squeeze/scrape out seeds, ferment.
+larger materials and a size 6 screen used to retain seed and                       Crush whole tomatoes, ferment.
+remove smaller debris.
+                                                                                Watermelon (Cucurbitaceae): Citrullus lanatus
+Squash, Summer (Cucurbitaceae): Cucurbita pepo                                  Harvest and processing tips: At the point of edibility, you
+Harvest and processing tips: The seeds of summer squash are                     have some options for harvest; a) if getting to eat perfectly
+still very immature when the fruit is edible. Leave edible                      ripe watermelon is more important to you than extracting the
+summer squash on the vine for around 6 weeks. Wait for fruits                   maximum number of fully mature seeds, promptly harvest the
+to become very large and hard (you should not be able to dent                   watermelon, eat it, and reserve the seeds, or b) if the fruits are
+the flesh with your thumbnail) and for the stem at the point of                 not at risk of damage or disease in the field, and you want
+attachment to the fruit to dry up. Once the squash reaches this                 more prime watermelon seed, allow them to remain on the
+stage, you have options for harvest; a) if the fruits are not at                vine until they have softened slightly, but extract seed before
+risk for disease or damage, allow the squash to remain on the                   they show any signs of serious decay, or c) if the fruits are at
+vine until right before the first hard frost, or b) if the fruits are           risk of damage or disease in the field, harvest the fruits right
+at risk for disease or damage, harvest the fruits right away and                away and store at 65-75F (18-24C) for 7-10 days (until they
+store at 65-75F (18-24C) for a few weeks before extracting                      begin to soften but are not rotting) before extracting seed.
+seed.
+                                                                                Good options for processing:
+Good options for processing:                                                       Eat watermelon, spit out seeds, rinse.
+   Cut open, scrape out seeds and pulp, rinse or decant                            Remove seeds and flesh from rind, rinse or decant
+   Cut open, scrape out seeds and pulp, soak for 8-12 hours,                       Remove seeds and flesh from rind, soak for 8-12 hours,
+       rinse or decant                                                                 rinse or decant
+
+
+
+                                                     Organic Seed Alliance · www.seedalliance.org
+
+                                                                           24
+Crop Specific Chart:
+Know the information to manage pollination, isolation and population sizes
+
+Common          Scientific      Pollination      Life      *Inbreeder/     Minimum    Minimum     Minimum           Comments
+ Name            Name                           Cycle      Outbreeder      isolation  isolation  Population
+                                                                           distance distance for  Size for
+                                                                           for home commercial    Genetic
+                                                                              use    production Maintenance
+Arugula       Eruca sativa        insects         A             VO           1600 ft     1 mi             80
+Basil         Ocimum              insects         A             VO           1600 ft     1 mi             80
+              basilicum
+Bean,         Phaseolus             self          A             PI            10 ft      20 ft          10 - 20
+Common        vulgaris
+
+Bean, Fava    Vicia faba        self, insects     A            BIO            800 ft     0.3 - 0.6 mi     40        Includes bell
+                                                                                                                        beans
+Bean, Lima    Phaseolus         self, insects     A             PI            40 ft      160 - 320 ft     40
+              lunatus
+
+Bean,         Phaseolus         self, insects     A            BIO            800 ft     0.3 - 0.6 mi     40
+Runner        coccineus
+Bean,         Vigna             self, insects     A            BIO            160 ft     320 - 640 ft     40         Crosses w/
+Cowpea        unguiculata                                                                                          asparagus bean
+
+Beet          Beta vulgaris        wind           B             VO           3200 ft     1 - 3 mi         80      Crosses w/ chard,
+                                                                                                                     mangels &
+                                                                                                                     sugarbeets
+Broccoli      Brassica            insects       A or B          VO           1600 ft     1 - 2 mi         80      Crosses w/ all B.
+              oleracea                                                                                             oleracea crops
+
+Brussels      Brassica            insects         B             VO           1600 ft     1 - 2 mi         80      Crosses w/ all B.
+Sprouts       oleracea                                                                                             oleracea crops
+
+Cabbage       Brassica            insects         B             VO           1600 ft     1 - 2 mi         80      Crosses w/ all B.
+              oleracea                                                                                             oleracea crops
+
+Carrot        Daucus carota       insects         B             PO           1600 ft     1 - 2 mi        200      Crosses w/ Queen
+                                                                                                                     Anne's Lace
+Cauliflower   Brassica            insects         B             VO           1600 ft     1 - 2 mi         80      Crosses w/ all B.
+              oleracea                                                                                             oleracea crops
+Celery        Apium               insects         B             VO           1600 ft     1 - 2 mi         80         Crosses w/
+              graveolens                                                                                              celeriac
+Celeriac      Apium               insects         B             VO           1600 ft     1 - 2 mi         80      Crosses w/ celery
+              graveolens
+Chard,        Beta vulgaris        wind           B             VO           1600 ft     1 - 3 mi         80      Crosses w/ beets,
+Swiss                                                                                                                 mangels &
+                                                                                                                      sugarbeets
+Chicory,      Cichorium           insects         B             VO           1600 ft     1 - 2 mi         80       Crosses w/ wild
+Witloof       intybus                                                                                             chicory, radicchio,
+                                                                                                                      and Italian
+                                                                                                                       dandelion
+Cilantro      Coriandrum          insects         A             PO           1600 ft     1 - 2 mi         80
+              sativum
+Collards      Brassica            insects         B             VO           1600 ft     1 - 2 mi         80      Crosses w/ all B.
+              oleracea                                                                                             oleracea crops
+Corn          Zea mays             wind           A             PO           1600 ft     1 - 2 mi        200
+Cucumber      Cucumis sativus     insects         A             PO           1600 ft     1 - 2 mi       10 - 20       Armenian
+                                                                                                                     cucumber is
+                                                                                                                       C. melo
+Dill          Anethum             insects         A             PO           1600 ft     1 - 2 mi         80
+              graveolens
+Eggplant      Solanum             insects         A             PO           1600 ft     1 - 2 mi         80
+              melongena
+
+
+                                                         Organic Seed Alliance · www.seedalliance.org
+
+                                                                               25
+Common        Scientific       Pollination      Life      *Inbreeder/     Minimum    Minimum     Minimum           Comments
+ Name          Name                            Cycle      Outbreeder      isolation  isolation  Population
+                                                                          distance distance for  Size for
+                                                                          for home commercial    Genetic
+                                                                             use    production Maintenance
+Endive      Cichorium              self          B             VI            10 ft      20 ft          10 - 20
+            endivia
+Escarole    Cichorium              self          B             VI            10 ft      20 ft          10 - 20
+            endivia
+Kale,       Brassica             insects         B             VO           1600 ft     1 - 2 mi         80       Crosses w/all B.
+European    oleracea                                                                                              oleracea crops
+
+Kale,       Brassica napus       insects         B             VO           1600 ft     1 - 2 mi         80         Crosses w/
+Siberian                                                                                                           rutabaga and
+                                                                                                                       canola
+Leek        Allium               insects         B             PO           1600 ft     1 - 2 mi         80
+            ampeloprasum
+Lettuce     Lactuca sativa         self          A             VI            10 ft      20 ft          10 - 20    Crosses w/ wild
+                                                                                                                      lettuce
+Melon       Cucumis melo         insects         A             PO           1600 ft     1 - 2 mi       10 - 20      Crosses w/
+                                                                                                                     Armenian
+                                                                                                                    cucumber
+Mustard     Brassica juncea      insects       A or B          VO           1600 ft     1 - 2 mi         80
+greens
+Okra        Abelmoschus        self, insects     A            BIO            800 ft     0.3 - 0.6 mi     40
+            esculentum
+Onion       Allium cepa          insects         B             PO           1600 ft     1 - 2 mi        200
+Parsley     Petroselinium        insects         B             PO           1600 ft     1 - 2 mi         80
+            crispum
+Parsnip     Pastinaca sativa     insects         B             PO           1600 ft     1 - 2 mi         80
+Pea         Pisum sativum          self          A             VI            10 ft      20 ft          10 - 20
+Pepper, Hot Capsicum spp.      self, insects     A            BIO            800 ft     0.3 - 0.6 mi     40          Must isolate
+                                                                                                                   equally from hot
+                                                                                                                      and sweet
+                                                                                                                       peppers
+Pepper,     Capsicum           self, insects     A             PI            160 ft     320 - 640 ft   10 - 20    Must isolate from
+Sweet       annuum                                                                                                hot peppers using
+                                                                                                                      hot pepper
+                                                                                                                 isolation distances
+Pumpkin,    Cucurbita pepo       insects         A             PO           1600 ft     1 - 2 mi       10 - 20       Most Jack
+Halloween                                                                                                        O'lantern vars are
+                                                                                                                  C. pepo and will
+                                                                                                                 cross w/ C. pepo
+                                                                                                                      squash
+Pumpkin,    Cucurbita spp.       insects         A             PO           1600 ft     1 - 2 mi       10 - 20   Learn the species
+Other                                                                                                             of each variety
+Radicchio   Cichorium            insects         B             VO           1600 ft     1 - 2 mi         80       Crosses w/ wild
+            intybus                                                                                              chicory, radicchio,
+                                                                                                                     and Italian
+                                                                                                                     dandelion
+
+
+
+
+                                                        Organic Seed Alliance · www.seedalliance.org
+
+                                                                              26
+Common          Scientific      Pollination      Life     *Inbreeder/     Minimum    Minimum     Minimum           Comments
+ Name            Name                           Cycle     Outbreeder      isolation  isolation  Population
+                                                                          distance distance for  Size for
+                                                                          for home commercial    Genetic
+                                                                             use    production Maintenance
+Radish        Raphanus            insects        A             VO           1600 ft     1 - 2 mi         80      May cross w/ wild
+              sativus                                                                                                 radish
+Rutabaga      Brassica napus      insects        B             VO           1600 ft     1 - 2 mi         80         Crosses w/
+                                                                                                                 Siberian kale and
+                                                                                                                      canola
+Spinach       Spinacea             wind          A             VO           3200 ft     1 - 3 mi         80
+              oleracea
+Squash,       Cucurbita pepo      insects        A             PO           1600 ft     1 - 2 mi       10 - 20
+Summer
+Squash,       Cucurbita pepo      insects        A             PO           1600 ft     1 - 2 mi       10 - 20
+Winter
+Squash,       Cucurbita           insects        A             PO           1600 ft     1 - 2 mi       10 - 20
+Winter        maxima
+Squash,       Cucurbita           insects        A             PO           1600 ft     1 - 2 mi       10 - 20
+Winter        moschata
+Squash,       Cucurbita           insects        A             PO           1600 ft     1 - 2 mi       10 - 20     Formerly
+Winter        argyrosperma                                                                                       Cucurbita mixta
+Tomato,       Solanum               self         A             VI            10 ft      20 ft          10 - 20   If multiple tomato
+modern        lycopersicum                                                                                       types are present
+                                                                                                                  use the greatest
+                                                                                                                 isolation distance
+
+Tomato,       Solanum           self, insects    A             PI            40 ft      160 - 320 ft   10 - 20   If multiple tomato
+Potato Leaf   lycopersicum                                                                                       types are present
+or Heirloom                                                                                                       use the greatest
+                                                                                                                 isolation distance
+
+Tomato,       Solanum           self, insects    A            BIO            160 ft     320 - 640 ft     40      If multiple tomato
+Currant       pimpinelifolium                                                                                    types are present
+                                                                                                                  use the greatest
+                                                                                                                 isolation distance
+
+Turnip        Brassica rapa       insects        B             VO           1600 ft     1 - 2 mi         80      Crosses w/ many
+                                                                                                                   Asian greens
+Watermelon Citrullus lanatus      insects        A             PO           1600 ft     1 - 2 mi       10 - 20
+
+
+
+* very inbreeding (VI), primarily inbreeding (PI), very outbreeding (VO)
+both inbreeding and outbreeding (BIO), primarily outbreeding (PO)
+
+
+
+
+                                                        Organic Seed Alliance · www.seedalliance.org
+
+                                                                              27
+Resources:
+
+Books
+Basic Seed Saving. McDorman, Bill. 1994. International Seed Saving Institute.
+
+The Biology of Seeds: Recent Research Advances. G. Nicola, K.J. Bradford, D. Come, M. Curie, and H. Protchard. 2003. CABI
+Publishers, Cambridge, MA.
+
+Breed Your Own Vegetable Varieties: The Gardener’s and Farmer’s Guide to Plant Breeding and Seed Saving. Deppe, Carol. 2000.
+Chelsea Green Publishing, Vermont.
+
+Collecting, processing and germinating seeds of wildland plants. 1986. J.A. Young and C.G. Young. Timber Press. Portland, Oregon.
+
+Flower Seeds: Biology and Technology. M.B. McDonald and F.Y. Kwon. 2004. CABI Publishers, Cambridge, MA.
+
+From Seed to Bloom. Powell, Eileen.1995. Storey Books.
+
+Garden Seed Inventory: An Inventory of Seed Catalogs Listing All Non-Hybrid Vegetable Seeds Available in the United States and
+Canada. Whealy, Kent. 2000. Seed Saver Publications.
+
+Heirloom Vegetable Gardening: A Master Gardener’s Guide to Planting, Seed Saving and Cultural History. Weaver, William Woys.
+1999. Henry Holt and Co. Inc.
+
+Hybrid Seed Production in Vegetables: Rationale and Methods in Selected Crops. A.S. Basra. 2000. Food Products Press, New York,
+NY.
+
+Principles of Seed Science and Technology. L.V. Copeland. 1976. Burgess Publishing Company, Minneapolis, MN.
+
+Seeds: Ecology, Biogeography and Evolation of Dormancy and Germination. Baskin, Carol C and Jerry M. Baskin. 1998. Academic
+Press.
+
+Saving Seeds: The Gardener’s Guide to Growing and Storing Vegetable and Flower Seeds. Roger, Marc. 1990. Storey Books,
+Vermont.
+
+Seed Production Principles and Practices. M.B. McDonald and L.O. Copeland. 1997. Chapman and Hall, New York, NY.
+
+Seeds Handbook: Biology, Production, Processing, and Storage. B.B. Desai, P.M. Kotecha, and D.K. Salunkhe. 1997. Marcel Dekker,
+Incorporated, New York, NY.
+
+Seed Sowing and Saving: Step-By-Step Techniques for Collecting and Growing More Than 100 Vegetables, Flowers and Herbs.
+Turner, Carole B. 1998. Storey Books, Vermont.
+
+Seed to Seed. S. Ashworth. 1991. Seed Savers Publications, Decorah, IA.
+
+Vegetable and Flower Seed Production. L.R. Hawthorn and L.H. Pollard. 1954. Blackiston Co., New York, NY. Out of print.
+
+Vegetable Seed Production. R.A.T. George. 1999. CABI Publishing, New York, NY.
+
+Web
+
+ATTRA
+Seed Production and Variety Development for Organic Systems, 2005. K.L. Adam.                  ATTRA. http://attra.ncat.org/attra-
+pub/PDF/seed_variety.pdf
+
+                                               Organic Seed Alliance · www.seedalliance.org
+
+                                                                     28
+Ohio State University, Guidelines for Hot Water Treatment
+Miller, S. A. and Lewis Ivey, M. L. Hot water and chlorine treatment of vegetable seed for eradication of bacterial pathogens. Sourced
+at: http://ohioline.osu.edu/hyg-fact/3000/3085.html (accessed February, 1, 2010).
+
+Organic Seed Alliance
+OSA has free downloads of crop specific seed production manuals, other seed related publications, organic seed advocacy information
+and news. www.seedalliance.org
+
+Organic Seed Resource Guide
+eXtension.org http://www.extension.org/article/18340
+
+Saving Our Seed
+SOS offers several publications on seed saving available for download online.
+http://www.savingourseed.org/pages/ResourceGuide.html
+
+WSU
+Plans to make a homemade thresher from a chipper mulcher.
+http://sustainableseedsystems.wsu.edu/nicheMarket/smallScaleThreshing.html
+
+Sources for Seed Cleaning Equipment
+
+Welborn Devices, Laurel, MS
+Bean and Pea thresher
+http://www.rotofingers.com/id19.htm
+
+Hoffman Manufacturing, Albany, Oregon
+Seed Cleaning Screens, equipment, and lab growth and germination equipment
+http://www.hoffmanmfg.com/
+
+Oliver Manufacturing, Rocky Ford, Colorado
+Gravity Tables
+http://www.olivermfgco.com/
+
+Seed Saving Organizations
+
+Seed Savers Exchange
+3076 North Winn Road
+Decorah, IA 52101
+Phone 563.382.5990 fax 563.382.5872
+www.seedsavers.org
+
+Saving Our Seed Project
+286 Dixie Hollow
+Louisa, VA 23093
+Ph. 540.894.8865 Fax 540.894.8060
+www.savingourseed.org
+
+Seed Savers Network
+PO Box 975
+Byron Bay, NSW 2481
+Australia
+
+                                                Organic Seed Alliance · www.seedalliance.org
+
+                                                                      29
+Ph. +61 02 6685 6624 Fax +61 02 6685 7560
+www.seedsavers.net
+info@seedsavers.net
+
+
+The Flower and Herb Exchange
+3076 North Winn Road
+Decorah, IA 52101
+www.seedsavers.org
+
+Native Seeds/SEARCH
+526 N.4th Ave.
+Tucson, AZ 85705
+www.nativeseeds.org
+
+Seeds of Diversity Canada
+PO Box 36
+Station Q, Toronto, ON M4T2L7
+Phone 905.623.0353
+mail@seeds.ca
+www.seeds.ca
+
+Authors
+
+Micaela Colley, Organic Seed Alliance
+Dr. John Navazio, Organic Seed Alliance
+Lisa DiPietro, Organic Seed Alliance
+Photos courtesy of Micaela Colley (OSA)
+Completed 2010
+___________________________________________________________________________________________________
+
+Educational Materials
+
+This publication is protected under Creative Commons licenses: Attribution, Non-Commercial & Share Alike.
+
+We believe in protecting intellectual property (IP) in a manner which promotes creativity and innovation in the interest of the public good. We encourage you to learn
+more about the Creative Commons, the Open Source movement, and other alternative IP models.
+
+Regarding this material, Organic Seed Alliance is the original author and license holder. You are free to copy, distribute, display, and perform the work, and to make
+derivative works under the following conditions:
+
+             Attribution. You must give the original author credit
+
+
+
+             Noncommercial. You may not use this work for commercial purposes.
+
+
+
+             Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under a license identical to this one.
+
+
+
+                o     For any reuse or distribution, you must make clear to others the license terms of this work.
+                o     Any of these conditions can be waived if you get permission from the copyright holder.
+
+Your fair use and other rights are in no way affected by the above.
+
+
+
+                                                             Organic Seed Alliance · www.seedalliance.org
+
+                                                                                     30
+

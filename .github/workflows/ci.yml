@@ -1,0 +1,34 @@
+name: ANSI core
+
+on:
+  push:
+    paths:
+      - 'Fallout-Assistant/**'
+      - '.github/workflows/ci.yml'
+  pull_request:
+    paths:
+      - 'Fallout-Assistant/**'
+      - '.github/workflows/ci.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  build-test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dependencies
+        run: sudo apt-get update && sudo apt-get install -y cmake ninja-build libgdal-dev libsqlite3-dev
+      - name: Configure
+        run: cmake -S Fallout-Assistant -B Fallout-Assistant/build/ci -G Ninja -DWAYKEEPER_ENABLE_OLLAMA=OFF
+      - name: Build
+        run: cmake --build Fallout-Assistant/build/ci --parallel 2
+      - name: Test
+        run: ctest --test-dir Fallout-Assistant/build/ci --output-on-failure
+      - name: Shell syntax
+        run: |
+          bash -n Fallout-Assistant/platform/scripts/*.sh
+          bash -n Fallout-Assistant/platform/scripts/internal/*.sh
+          bash -n Fallout-Assistant/platform/install-image.sh
+

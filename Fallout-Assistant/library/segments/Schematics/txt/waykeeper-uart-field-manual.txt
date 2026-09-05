@@ -1,0 +1,221 @@
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 1 OF 9
+================================================================================
+MISSION
+  UART Scout provides one deliberately configured path to equipment the operator
+  owns or is explicitly authorized to service. It is not a network scanner.
+
++---------------------------- GOLDEN RULES --------------------------------+
+| [1] Identify the exact WayKeeper board revision and target equipment.       |
+| [2] Verify signal standard, voltage, pinout, isolation, and power direction. |
+| [3] Connect with all equipment unpowered.                                   |
+| [4] Begin observe-only: PORTS -> CONFIGURE -> AUTHORIZE -> PROBE/LISTEN.     |
+| [5] Unlock TX only for one planned command; lock it again immediately.       |
++----------------------------------------------------------------------------+
+
+NEVER CONNECT
+  * TTL UART to RS-232, RS-485, CAN, USB D+/D-, USB-C CC, or Ethernet pins.
+  * Unknown voltage directly to Orange Pi GPIO.
+  * Adapter 5V/VBUS to a target power rail unless the controlled design says so.
+  * Two independently powered grounds without checking isolation and ground risk.
+
+PREFERRED FIELD PATH
+  WayKeeper USB port -> voltage-correct isolated USB-UART adapter -> target UART
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 2 OF 9
+================================================================================
+SIGNAL PATH - VERIFY LABELS; DO NOT INFER THEM FROM CONNECTOR SHAPE
+
+  WAYKEEPER                 ISOLATED / CORRECT ADAPTER                TARGET
+  +-----------+             +--------------------------+             +--------+
+  | USB HOST  |--- USB ---->| USB-UART / RS-232 / 485 |--- RX  <----| TX     |
+  |           |             | AS TARGET REQUIRES       |--- TX  ---->| RX     |
+  +-----------+             |                          |--- REF -----| GND*   |
+                            +--------------------------+             +--------+
+  * Share reference/ground only when required and electrically appropriate.
+    Isolation is preferred where equipment power systems differ.
+
+TTL UART IS USUALLY 3.3 V ON ORANGE PI-CLASS GPIO, BUT "USUALLY" IS NOT PROOF.
+Consult the exact board manual and target service manual before attaching pins.
+
+WIRING ORDER
+  1. Shut down and disconnect external/battery power as the design permits.
+  2. Meter for unexpected voltage; confirm connector orientation and pin 1.
+  3. Set adapter voltage/standard. Cross target TX to adapter RX and vice versa.
+  4. Leave VBUS/5V disconnected unless the final controlled schematic requires it.
+  5. Inspect, restrain, then power the target. Power WayKeeper last when practical.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 3 OF 9
+================================================================================
+UI WORKFLOW
+
+  1. Open SCOUT / UART from the ANSI shell (the FIELD I/O workspace).
+  2. Select one transport and one adapter profile.
+  3. Enter only the known target path or endpoint and its known line settings.
+  4. Record that the equipment is owned or authorized for service.
+  5. Run a read-only probe, listen, or short baud observation.
+  6. Review captured text. Do not assume readable text means the protocol is safe.
+  7. If a write is necessary, enable TX, send one exact payload, then disable TX.
+
+CLI QUICK PATH
+  offgrid-assistant scout ports
+  offgrid-assistant scout protocols
+  offgrid-assistant scout configure serial /dev/cu.usbserial-0001 115200 raw \
+    "device service manual"
+  offgrid-assistant scout authorize
+  offgrid-assistant scout status
+  offgrid-assistant scout probe
+  offgrid-assistant scout listen 2500
+
+AUTHORIZATION RECORDING DOES NOT ENABLE TRANSMIT.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 4 OF 9
+================================================================================
+COMMAND REFERENCE
+
+  COMMAND                              MODE          PURPOSE
+  -----------------------------------  ------------  ---------------------------
+  scout help                           LOCAL         Command help
+  scout ports                          READ-ONLY     Enumerate local serial ports
+  scout protocols                      LOCAL         List transport/adapters
+  scout configure ...                  LOCAL         Save one explicit target
+  scout status                         LOCAL         Show profile and TX lock
+  scout probe                          READ-ONLY     Bounded target observation
+  scout listen 2500                    READ-ONLY     Listen for 2500 milliseconds
+  scout baud-scan 300                  READ-ONLY     Short observations by baud
+  scout manual                         LOCAL         Print operating guidance
+  scout authorize                      LOCAL         Record owner/authorization
+  scout tx on                          STATE CHANGE  Unlock transmit deliberately
+  scout send 'status'                  TRANSMIT      Send exact operator payload
+  scout tx off                         STATE CHANGE  Relock transmit
+
+SAFE TRANSMIT SEQUENCE
+  scout status -> scout authorize -> scout tx on -> scout send '...' -> scout tx off
+
+If the response is unexpected, stop transmitting. Save evidence and consult the
+target service manual instead of experimenting with undocumented commands.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 5 OF 9
+================================================================================
+TRANSPORTS AND ADAPTER PROFILES
+
+  TRANSPORT           TYPICAL TARGET                 FIELD NOTE
+  ------------------  -----------------------------  ----------------------------
+  Serial / USB-UART   TTL console through adapter    Voltage and pinout controlled
+  TCP / Ethernet      Known service endpoint         No discovery or broad scan
+  Telnet              Known legacy console           Treat credentials as private
+  RFC2217             Remote serial server           Verify owner and route
+  Virtual COM         OS-provided serial endpoint    Check platform backend
+
+  ADAPTER             EXPECTED FRAMING / ROLE
+  ------------------  -----------------------------------------------------------
+  raw                 Uninterpreted console bytes
+  modem               AT-command equipment
+  sensor              WayKeeper OGP1 sensor frames
+  ATA / SIP / VoIP    Authorized service interface only
+  Ghostline TCP       Optional observe-only capture relay
+  Flipper Zero        USB-UART bridge, USB CLI, or custom OGP1 sensor role
+
+PLATFORM NOTE
+  POSIX serial operation is supported on Linux and macOS. Windows can hold
+  profiles and use TCP paths, but native COM read/write awaits the intended
+  libserialport backend. Do not mistake a listed COM port for a tested link.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 6 OF 9
+================================================================================
+OGP1 SENSOR FRAME
+
+  OGP1|source|metric|value|unit|unix_ms|quality
+
+  EXAMPLE
+  OGP1|wk-sensor-1|temperature|18.4|C|1788019200000|good
+
+  VALIDATE LOCALLY
+  offgrid-assistant parse 'OGP1|wk-sensor-1|temperature|18.4|C|1788019200000|good'
+
+FRAME PRACTICE
+  * Treat source and quality as claims from the sender, not authentication.
+  * Reject malformed, unbounded, or unexpected input.
+  * Record units; never infer C versus F, volts versus millivolts, or raw counts.
+  * Keep timestamps with the capture and note whether system time was trusted.
+
+GHOSTLINE OBSERVE-ONLY RELAY
+  The optional local relay uses loopback 127.0.0.1:17777 and bounded GLCAP1/PCAP
+  capture. It remains out of process and observe-only. Use it only with the
+  Ghostline adapter and a recorded authorization; it does not waive target rules.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 7 OF 9
+================================================================================
+TROUBLESHOOTING
+
+  SYMPTOM              CHECK IN THIS ORDER
+  -------------------  ---------------------------------------------------------
+  No port              Cable data capability; adapter power; OS device path;
+                       permissions/group; reconnect once; inspect kernel log
+  No characters        Target powered; target TX -> adapter RX; shared reference;
+                       correct signal standard; correct connector/pinout
+  Garbage text         Baud; data bits/parity/stop bits; voltage; inversion;
+                       protocol may be binary rather than text
+  One-way only         Crossed TX/RX; TX lock; flow control; target console policy
+  Resets on connect    VBUS/back-powering; ground fault; wrong voltage; short;
+                       disconnect immediately and inspect unpowered
+  Link drops           Loose cable; EMI; power sag; thermal issue; USB autosuspend
+  TCP fails            Exact endpoint; route; service running; explicit authority
+
+DO NOT SOLVE GARBAGE OUTPUT BY RANDOMLY TRANSMITTING.
+Use `scout baud-scan 300` for bounded read-only observations. Some boot consoles
+emit only during startup; arrange a safe capture before cycling target power.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 8 OF 9
+================================================================================
+FLIPPER ZERO ROLES
+
+  ROLE                 CONNECTION                    NOTE
+  -------------------  ----------------------------  ----------------------------
+  USB-UART bridge      Flipper UART -> target        Verify target voltage/pinout
+  USB CLI              WayKeeper USB -> Flipper      Typical CLI speed is 230400
+  Custom sensor/RPC    App emits OGP1                Validate frames before use
+
+Flipper GPIO is not a universal level converter. Use the correct external
+interface for RS-232, RS-485, CAN, industrial voltage, or isolated systems.
+
+FIELD CLOSEOUT
+  [ ] Run `scout tx off`.
+  [ ] Stop capture and save only the evidence needed for the repair record.
+  [ ] Shut down or isolate equipment before removing loose UART leads.
+  [ ] Remove target lead first, then adapter, then WayKeeper USB.
+  [ ] Cap connectors and record target, adapter, line settings, time, and result.
+  [ ] Protect captures containing credentials, identifiers, coordinates, or PII.
+
+PROFILE LOCATION
+  state/io-scout.ini, or the equivalent path beneath OFFGRID_STATE_DIR.
+
+
+WAYKEEPER (TM) UART SCOUT FIELD MANUAL                                    CARD 9 OF 9
+================================================================================
+PRE-CONNECTION GO / NO-GO CARD
+
+  GO ONLY WHEN EVERY BOX IS TRUE
+  [ ] I own this equipment or have explicit authorization to service it.
+  [ ] Exact board/target manuals identify the connector and pins.
+  [ ] Signal standard and idle voltage match the chosen adapter.
+  [ ] The adapter is voltage-correct; isolation is used where appropriate.
+  [ ] VBUS/5V direction is understood and unwanted power pins are disconnected.
+  [ ] Equipment is unpowered while leads are attached and restrained.
+  [ ] I know the expected baud/framing or will begin with read-only observation.
+  [ ] I have a written reason and exact payload before enabling TX.
+
+  NO-GO / STOP NOW
+  [ ] Swollen, hot, wet, leaking, smoking, arcing, or chemically damaged hardware
+  [ ] Unknown connector, unknown voltage, unknown ground relationship
+  [ ] Target resets, heats, smells, or draws abnormal current after connection
+  [ ] Any request to bypass authorization, safety interlock, BMS, or access control
+
+DOCUMENT CONTROL
+  `docs/UART-SCOUT.md` and the exact shipped hardware service notes take priority.

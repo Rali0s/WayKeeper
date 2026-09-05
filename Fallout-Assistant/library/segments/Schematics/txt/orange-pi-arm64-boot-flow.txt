@@ -1,0 +1,43 @@
+ORANGE PI ZERO 2 / WAYKEEPER ARM64 BOOT FLOW
+=============================================
+
+  +-----------------------+
+  | MICROSD IMAGE         |
+  | PARTITION TABLE       |
+  +-----------+-----------+
+              |
+              v
+  +-----------------------+
+  | SPL + U-BOOT          |
+  | BOARD INITIALIZATION  |
+  +-----------+-----------+
+              |
+              v
+  +-----------------------+       +-----------------------+
+  | ARM TRUSTED FIRMWARE  |------>| H616 DEVICE TREE     |
+  +-----------+-----------+       | + BOARD FIRMWARE      |
+              |                   +-----------+-----------+
+              +-------------------------------+
+                              |
+                              v
+                  +-----------------------+
+                  | LINUX KERNEL          |
+                  | + INITRAMFS           |
+                  +-----------+-----------+
+                              |
+                              v
+                  +-----------------------+
+                  | DEBIAN ROOT FILESYSTEM|
+                  +-----------+-----------+
+                              |
+                +-------------+-------------+
+                |                           |
+                v                           v
+       +------------------+        +------------------+
+       | NETWORKMANAGER + |        | WAYKEEPER SHELL  |
+       | BLUEZ SERVICES   |        | OR KIOSK SERVICE |
+       +------------------+        +------------------+
+
+The Armbian board build supplies the board-specific bootloader, device tree,
+kernel, modules, and firmware. QEMU validates the generic ARM64 userspace path,
+not the physical H616 boot chain.

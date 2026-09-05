@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#173d35"/></pattern><marker id="m" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#f5b942"/></marker><style>.o{fill:none;stroke:#62e68a;stroke-width:2.5}.a{fill:none;stroke:#f5b942;stroke-width:2.5}.r{fill:none;stroke:#ff665e;stroke-width:2.5}.t{fill:#e7f7ec;font:18px monospace}.s{fill:#9fc8b0;font:14px monospace}.h{fill:#f5b942;font:bold 28px monospace}.c{fill:none;stroke:#f5b942;stroke-width:2.5;marker-end:url(#m)}</style></defs>
+  <rect width="1200" height="800" fill="#071814"/><rect width="1200" height="800" fill="url(#g)"/>
+  <text x="45" y="52" class="h">WAYKEEPER // BATTERY THERMAL CONTROL BLUEPRINT</text>
+  <text x="45" y="78" class="s">-5 TO 25 F AMBIENT // WARM BEFORE CHARGE // REJECT DIRECT-SUN HEAT</text>
+  <rect x="70" y="130" width="570" height="355" rx="28" class="a"/>
+  <text x="95" y="160" class="t">REFLECTIVE DOUBLE-WALL SUN SHELL</text>
+  <rect x="105" y="185" width="500" height="265" rx="22" class="o"/>
+  <text x="125" y="215" class="s">8-12 MM CLOSED-CELL INSULATION + RADIANT BARRIER</text>
+  <rect x="145" y="245" width="420" height="145" rx="18" class="a"/>
+  <rect x="170" y="270" width="370" height="65" rx="12" class="o"/>
+  <text x="255" y="310" class="t">128 Wh LiFePO4 CELLS</text>
+  <rect x="170" y="350" width="370" height="20" class="r"/><text x="215" y="415" class="s">20-30 W DISTRIBUTED HEATER / EQUALIZATION PLATE</text>
+  <circle cx="180" cy="287" r="9" fill="#f5b942"/><circle cx="530" cy="287" r="9" fill="#f5b942"/>
+  <text x="160" y="240" class="s">T1</text><text x="520" y="240" class="s">T2</text>
+  <text x="70" y="520" class="h">FAIL-SAFE LAYERS</text>
+  <text x="70" y="555" class="t">1  SUPERVISOR CHARGE CONTACTOR</text><text x="70" y="588" class="t">2  CERTIFIED PACK BMS</text><text x="70" y="621" class="t">3  HARDWARE THERMOSTAT</text><text x="70" y="654" class="t">4  ONE-SHOT HEATER THERMAL FUSE</text>
+  <text x="710" y="130" class="h">ENERGY / CHARGE FLOW</text>
+  <rect x="720" y="165" width="390" height="60" rx="10" class="a"/><text x="790" y="202" class="t">SOLAR / DC INPUT ARRIVES</text>
+  <path d="M915 225V255" class="c"/><rect x="720" y="255" width="390" height="60" rx="10" class="o"/><text x="790" y="292" class="t">READ T1 + T2 + BAY + SKIN</text>
+  <path d="M915 315V345" class="c"/><rect x="720" y="345" width="390" height="60" rx="10" class="r"/><text x="785" y="382" class="t">COLDEST CELL BELOW 5 C?</text>
+  <path d="M915 405V435" class="c"/><rect x="720" y="435" width="390" height="60" rx="10" class="a"/><text x="770" y="472" class="t">POWER HEATER / CHARGE BLOCKED</text>
+  <path d="M915 495V525" class="c"/><rect x="720" y="525" width="390" height="60" rx="10" class="o"/><text x="745" y="562" class="t">BOTH CELLS ABOVE 5 C FOR 5 MIN</text>
+  <path d="M915 585V615" class="c"/><rect x="720" y="615" width="390" height="60" rx="10" class="o"/><text x="785" y="652" class="t">ENABLE MPPT CHARGING</text>
+  <text x="710" y="715" class="s">35 C DERATE // 40 C CHARGE STOP</text>
+  <text x="710" y="742" class="s">45 C CONTROLLED SHUTDOWN</text>
+  <text x="70" y="725" class="s">NO PERMANENT THERMAL BRIDGE TO JETSON // SHADE BATTERY BAY</text>
+</svg>
